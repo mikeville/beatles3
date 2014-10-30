@@ -1,0 +1,3518 @@
+{"beatlesData":[
+{"albumKey": "pleasePleaseMe", "albumTitle": "Please Please Me",
+  "releaseDate": {
+    "year": 1963,
+    "month": 3,
+    "day": 22
+  },
+  "tracks": [
+    {"trackIndex": 0,
+    "order": 1,
+    "trackTitle": "I Saw Her Standing There",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":2.612,"segType":"silence"},
+      {"start":2.612,"end":8.424,"segType":"intro"},
+      {"start":8.424,"end":20.410,"segType":"versea"},
+      {"start":20.410,"end":32.392,"segType":"verseb_MD_or_chorus"},
+      {"start":32.392,"end":44.246,"segType":"versea"},
+      {"start":44.246,"end":56.111,"segType":"verseb_MD_or_chorus"},
+      {"start":56.111,"end":71.192,"segType":"bridge"},
+      {"start":71.192,"end":83.209,"segType":"versea"},
+      {"start":83.209,"end":95.053,"segType":"verseb_MD_or_chorus"},
+      {"start":95.053,"end":119.037,"segType":"verseguitar"},
+      {"start":119.037,"end":134.037,"segType":"bridge"},
+      {"start":134.037,"end":146.042,"segType":"versea"},
+      {"start":146.042,"end":172.062,"segType":"verseb_MD_or_chorus"},
+      {"start":172.062,"end":175.800,"segType":"silence"}],
+    "notes": [
+      "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52.",
+      "Every section of the song starts off rhythmically with a pickup before the downbeat. This starts as early as the introductory bass note that falls between the word 'four' and the first measure. It all goes to enhance a general feeling of urgency already projected by other aspects of the music."
+    ],
+    "chords": 
+      [{"start":0.000000,"end":2.612267,"chord":"N"},
+{"start":2.612267,"end":11.459070,"chord":"E"},
+{"start":11.459070,"end":12.921927,"chord":"A"},
+{"start":12.921927,"end":17.443474,"chord":"E"},
+{"start":17.443474,"end":20.410362,"chord":"B"},
+{"start":20.410362,"end":21.908049,"chord":"E"},
+{"start":21.908049,"end":23.370907,"chord":"E:7/3"},
+{"start":23.370907,"end":24.856984,"chord":"A"},
+{"start":24.856984,"end":26.343061,"chord":"A:min/b3"},
+{"start":26.343061,"end":27.840748,"chord":"E"},
+{"start":27.840748,"end":29.350045,"chord":"B"},
+{"start":29.350045,"end":35.305963,"chord":"E"},
+{"start":35.305963,"end":36.803650,"chord":"A"},
+{"start":36.803650,"end":41.263102,"chord":"E"},
+{"start":41.263102,"end":44.245646,"chord":"B"},
+{"start":44.245646,"end":45.720113,"chord":"E"},
+{"start":45.720113,"end":47.206190,"chord":"E:7/3"},
+{"start":47.206190,"end":48.692267,"chord":"A"},
+{"start":48.692267,"end":50.155124,"chord":"A:min/b3"},
+{"start":50.155124,"end":51.652811,"chord":"E"},
+{"start":51.652811,"end":53.138888,"chord":"B"},
+{"start":53.138888,"end":56.111043,"chord":"E"},
+{"start":56.111043,"end":65.131995,"chord":"A"},
+{"start":65.131995,"end":68.150589,"chord":"B"},
+{"start":68.150589,"end":71.192403,"chord":"A"},
+{"start":71.192403,"end":74.199387,"chord":"E"},
+{"start":74.199387,"end":75.697074,"chord":"A"},
+{"start":75.697074,"end":80.236575,"chord":"E"},
+{"start":80.236575,"end":83.208730,"chord":"B"},
+{"start":83.208730,"end":86.221693,"chord":"E"},
+{"start":86.221693,"end":87.736621,"chord":"A"},
+{"start":87.736621,"end":89.257528,"chord":"A:min/b3"},
+{"start":89.257528,"end":90.720385,"chord":"E"},
+{"start":90.720385,"end":92.157453,"chord":"B"},
+{"start":92.157453,"end":104.106689,"chord":"E"},
+{"start":104.106689,"end":107.125283,"chord":"B"},
+{"start":107.125283,"end":110.178707,"chord":"E"},
+{"start":110.178707,"end":113.124087,"chord":"A"},
+{"start":113.124087,"end":114.613718,"chord":"E"},
+{"start":114.613718,"end":116.099795,"chord":"B"},
+{"start":116.099795,"end":118.944961,"chord":"E"},
+{"start":118.944961,"end":128.046462,"chord":"A"},
+{"start":128.046462,"end":131.053446,"chord":"B"},
+{"start":131.053446,"end":134.037210,"chord":"A"},
+{"start":134.037210,"end":137.044195,"chord":"E"},
+{"start":137.044195,"end":138.475524,"chord":"A"},
+{"start":138.475524,"end":143.058163,"chord":"E"},
+{"start":143.058163,"end":146.041927,"chord":"B"},
+{"start":146.041927,"end":147.551224,"chord":"E"},
+{"start":147.551224,"end":149.060521,"chord":"E:7/3"},
+{"start":149.060521,"end":150.511768,"chord":"A"},
+{"start":150.511768,"end":152.021065,"chord":"A:min/b3"},
+{"start":152.021065,"end":153.530362,"chord":"E"},
+{"start":153.530362,"end":155.062879,"chord":"B"},
+{"start":155.062879,"end":159.532721,"chord":"E"},
+{"start":159.532721,"end":161.065238,"chord":"B"},
+{"start":161.065238,"end":165.581519,"chord":"E"},
+{"start":165.581519,"end":167.114036,"chord":"B"},
+{"start":167.114036,"end":168.646553,"chord":"A"},
+{"start":168.646553,"end":169.737409,"chord":"E"},
+{"start":169.737409,"end":171.687173,"chord":"E:9"},
+{"start":171.687173,"end":175.804082,"chord":"N"}]
+    },
+    {"trackIndex": 1, "order": 2, "trackTitle": "Misery",
+    "authorship":[
+      {"McCartney": 0.4},
+      {"Lennon": 0.6},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.414,"segType":"silence"},
+      {"start":0.414,"end":10.635,"segType":"intro"},
+      {"start":10.635,"end":24.938,"segType":"verse"},
+      {"start":24.938,"end":39.251,"segType":"verse"},
+      {"start":39.251,"end":53.685,"segType":"bridge"},
+      {"start":53.685,"end":68.027,"segType":"verse"},
+      {"start":68.027,"end":82.535,"segType":"bridge"},
+      {"start":82.535,"end":95.155,"segType":"verse"},
+      {"start":95.155,"end":106.547,"segType":"outro"},
+      {"start":106.547,"end":110.160,"segType":"silence"}],
+    "notes": [
+      "The form is the standard two-bridge model with one verse intervening. The relatively short duration of the finished song could have easily accommodated an additional instrumental-solo verse before the second bridge, but my theory is that the closed shape of those verse sections, especially built as they are from such a limited set of chords, would have been a claustrophobic mistake that they wisely avoided.",
+      "The lyrics of the four verses form a familiar pattern of ABCC.",
+      "Three of the four verses and the refrains all begin rhythmically on the downbeat. The lone exception is the second verse ('I've lost her now'), which begins with a pickup."
+    ]
+    },
+    {"trackIndex": 2, "order": 3, "trackTitle": "Anna (Go to Him)", "yearMark": 1966,
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.708,"segType":"silence"},
+      {"start":0.708,"end":9.670,"segType":"intro"},
+      {"start":9.670,"end":29.411,"segType":"verse"},
+      {"start":29.411,"end":36.037,"segType":"chorus"},
+      {"start":36.037,"end":57.711,"segType":"verse"},
+      {"start":57.711,"end":91.966,"segType":"bridge"},
+      {"start":91.966,"end":109.563,"segType":"verse"},
+      {"start":109.563,"end":144.201,"segType":"bridge"},
+      {"start":144.201,"end":159.510,"segType":"verse"},
+      {"start":159.510,"end":173.560,"segType":"chorus"},
+      {"start":173.560,"end":177.573,"segType":"silence"}]
+    },
+    {"trackIndex": 3, "order": 4, "trackTitle": "Chains",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.433,"segType":"silence"},
+      {"start":0.433,"end":7.675,"segType":"intro"},
+      {"start":7.675,"end":29.722,"segType":"verse"},
+      {"start":29.722,"end":51.837,"segType":"verse"},
+      {"start":51.837,"end":66.752,"segType":"bridge"},
+      {"start":66.752,"end":88.980,"segType":"verse"},
+      {"start":88.980,"end":103.799,"segType":"bridge"},
+      {"start":103.799,"end":126.008,"segType":"verse"},
+      {"start":126.008,"end":141.647,"segType":"outro"},
+      {"start":141.647,"end":146.493,"segType":"silence"}]
+    },
+    {"trackIndex": 4, "order": 5, "trackTitle": "Boys",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.383,"segType":"silence"},
+      {"start":0.383,"end":7.332,"segType":"intro"},
+      {"start":7.332,"end":27.109,"segType":"verse"},
+      {"start":27.109,"end":47.015,"segType":"verse"},
+      {"start":47.015,"end":67.123,"segType":"bridge"},
+      {"start":67.123,"end":87.103,"segType":"verse_--guitar_solo--"},
+      {"start":87.103,"end":107.649,"segType":"verse"},
+      {"start":107.649,"end":128.114,"segType":"bridge"},
+      {"start":128.114,"end":142.763,"segType":"outro_--fade-out--"},
+      {"start":142.763,"end":147.507,"segType":"silence"}]
+    },
+    {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why",
+    "authorship":[
+      {"McCartney": 0.3},
+      {"Lennon": 0.7},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.459,"segType":"silence"},
+      {"start":0.459,"end":3.878,"segType":"intro"},
+      {"start":3.878,"end":26.895,"segType":"verse_--initial--"},
+      {"start":26.895,"end":49.993,"segType":"verse_--variant_1--"},
+      {"start":49.993,"end":64.171,"segType":"bridge"},
+      {"start":64.171,"end":74.890,"segType":"verse_--variant_2--"},
+      {"start":74.890,"end":98.348,"segType":"verse_--initial--"},
+      {"start":98.348,"end":109.111,"segType":"verse_--variant_2--"},
+      {"start":109.111,"end":123.234,"segType":"bridge"},
+      {"start":123.234,"end":143.117,"segType":"verse_--variant_2_with_ending--"},
+      {"start":143.117,"end":147.760,"segType":"silence"}]
+    },
+    {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.429,"segType":"silence"},
+      {"start":0.429,"end":7.709,"segType":"intro"},
+      {"start":7.709,"end":35.120,"segType":"verse"},
+      {"start":35.120,"end":62.671,"segType":"verse"},
+      {"start":62.671,"end":80.151,"segType":"bridge"},
+      {"start":80.151,"end":108.016,"segType":"verse"},
+      {"start":108.016,"end":118.939,"segType":"outro"},
+      {"start":118.939,"end":123.373,"segType":"silence"}]
+    },
+    {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.412,"segType":"silence"},
+      {"start":0.412,"end":13.424,"segType":"intro"},
+      {"start":13.424,"end":34.694,"segType":"verse"},
+      {"start":34.694,"end":56.004,"segType":"verse"},
+      {"start":56.004,"end":69.120,"segType":"bridge"},
+      {"start":69.120,"end":90.331,"segType":"verse"},
+      {"start":90.331,"end":109.708,"segType":"bridge_--solo--"},
+      {"start":109.708,"end":137.945,"segType":"verse_with_ending"},
+      {"start":137.945,"end":142.760,"segType":"silence"}]
+    },
+    {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.459,"segType":"silence"},
+      {"start":0.459,"end":14.663,"segType":"intro"},
+      {"start":14.663,"end":32.531,"segType":"verse"},
+      {"start":32.531,"end":50.427,"segType":"verse"},
+      {"start":50.427,"end":64.686,"segType":"bridge"},
+      {"start":64.686,"end":82.636,"segType":"verse"},
+      {"start":82.636,"end":96.873,"segType":"bridge"},
+      {"start":96.873,"end":114.823,"segType":"verse"},
+      {"start":114.823,"end":122.070,"segType":"outro"},
+      {"start":122.070,"end":125.733,"segType":"silence"}]
+    },
+    {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.414,"segType":"silence"},
+      {"start":0.414,"end":49.429,"segType":"verse"},
+      {"start":49.429,"end":94.389,"segType":"verse"},
+      {"start":94.389,"end":139.238,"segType":"verse_--half_solo--"},
+      {"start":139.238,"end":151.907,"segType":"outro_--fade-out--"},
+      {"start":151.907,"end":158.067,"segType":"silence"}]
+    },
+    {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.465,"segType":"silence"},
+{"start":0.465,"end":14.931,"segType":"intro"},
+{"start":14.931,"end":41.958,"segType":"verse"},
+{"start":41.958,"end":68.992,"segType":"verse"},
+{"start":68.992,"end":80.441,"segType":"bridge"},
+{"start":80.441,"end":103.607,"segType":"verse"},
+{"start":103.607,"end":114.808,"segType":"outro"},
+{"start":114.808,"end":119.333,"segType":"silence"}]
+    },
+    {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.412,"segType":"silence"},
+{"start":0.412,"end":8.127,"segType":"intro"},
+{"start":8.127,"end":43.804,"segType":"verse"},
+{"start":43.804,"end":56.898,"segType":"bridge"},
+{"start":56.898,"end":92.522,"segType":"verse"},
+{"start":92.522,"end":120.505,"segType":"bridge_with_ending"},
+{"start":120.505,"end":125.133,"segType":"silence"}]
+    },
+    {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.435,"segType":"silence"},
+      {"start":0.435,"end":9.131,"segType":"intro"},
+      {"start":9.131,"end":34.331,"segType":"verse"},
+      {"start":34.331,"end":54.631,"segType":"verse_--variant--"},
+      {"start":54.631,"end":71.912,"segType":"bridge"},
+      {"start":71.912,"end":95.997,"segType":"verse"},
+      {"start":95.997,"end":107.648,"segType":"outro"},
+      {"start":107.648,"end":112.867,"segType":"silence"}]
+    },
+    {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.416,"segType":"silence"},
+{"start":0.416,"end":8.576,"segType":"intro"},
+{"start":8.576,"end":38.499,"segType":"verse"},
+{"start":38.499,"end":69.033,"segType":"verse"},
+{"start":69.033,"end":96.571,"segType":"bridge"},
+{"start":96.571,"end":127.233,"segType":"verse"},
+{"start":127.233,"end":152.147,"segType":"bridge_with_ending"},
+{"start":152.147,"end":153.267,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "withTheBeatles", "albumTitle": "With The Beatles",
+  "releaseDate": {
+    "year": 1963,
+    "month": 11,
+    "day": 22
+  },
+  "tracks": [
+    {"trackIndex": 14, "order": 1, "trackTitle": "It Won't Be Long",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.072,"segType":"silence"},
+      {"start":1.072,"end":15.720,"segType":"chorus"},
+      {"start":15.720,"end":28.108,"segType":"verse"},
+      {"start":28.108,"end":42.365,"segType":"chorus"},
+      {"start":42.365,"end":56.634,"segType":"bridge"},
+      {"start":56.634,"end":69.254,"segType":"verse"},
+      {"start":69.254,"end":83.685,"segType":"chorus"},
+      {"start":83.685,"end":98.081,"segType":"bridge"},
+      {"start":98.081,"end":110.748,"segType":"verse"},
+      {"start":110.748,"end":119.850,"segType":"chorus"},
+      {"start":119.850,"end":130.012,"segType":"outro"},
+      {"start":130.012,"end":133.733,"segType":"silence"}]
+    },
+    {"trackIndex": 15, "order": 2, "trackTitle": "All I've Got to Do",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.498,"segType":"silence"},
+      {"start":0.498,"end":25.972,"segType":"verse"},
+      {"start":25.972,"end":48.089,"segType":"verse"},
+      {"start":48.089,"end":65.887,"segType":"bridge"},
+      {"start":65.887,"end":88.155,"segType":"verse"},
+      {"start":88.155,"end":109.877,"segType":"bridge"},
+      {"start":109.877,"end":120.304,"segType":"verse_outro"},
+      {"start":120.304,"end":124.533,"segType":"silence"}]
+    },
+    {"trackIndex": 16, "order": 3, "trackTitle": "All My Loving",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.479,"segType":"silence"},
+      {"start":0.479,"end":25.776,"segType":"verse"},
+      {"start":25.776,"end":50.482,"segType":"verse"},
+      {"start":50.482,"end":62.788,"segType":"refrain"},
+      {"start":62.788,"end":75.107,"segType":"bridge"},
+      {"start":75.107,"end":99.813,"segType":"verse"},
+      {"start":99.813,"end":112.247,"segType":"refrain"},
+      {"start":112.247,"end":125.838,"segType":"outro"},
+      {"start":125.838,"end":129.560,"segType":"silence"}]
+    },
+    {"trackIndex": 17, "order": 4, "trackTitle": "Don't Bother Me",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.536,"segType":"silence"},
+      {"start":0.536,"end":6.194,"segType":"intro"},
+      {"start":6.194,"end":23.202,"segType":"verse"},
+      {"start":23.202,"end":40.083,"segType":"verse"},
+      {"start":40.083,"end":62.444,"segType":"bridge"},
+      {"start":62.444,"end":79.279,"segType":"verse"},
+      {"start":79.279,"end":96.067,"segType":"verse_half_solo"},
+      {"start":96.067,"end":118.416,"segType":"bridge"},
+      {"start":118.416,"end":135.366,"segType":"verse"},
+      {"start":135.366,"end":144.182,"segType":"outro"},
+      {"start":144.182,"end":149.373,"segType":"silence"}]
+    },
+    {"trackIndex": 18, "order": 5, "trackTitle": "Little Child",
+    "authorship":[
+      {"McCartney": 0.5},
+      {"Lennon": 0.5},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.498,"segType":"silence"},
+      {"start":0.498,"end":6.607,"segType":"intro"},
+      {"start":6.607,"end":19.413,"segType":"verse"},
+      {"start":19.413,"end":32.114,"segType":"verse"},
+      {"start":32.114,"end":41.611,"segType":"bridge"},
+      {"start":41.611,"end":54.196,"segType":"verse"},
+      {"start":54.196,"end":73.142,"segType":"break"},
+      {"start":73.142,"end":82.559,"segType":"bridge"},
+      {"start":82.559,"end":95.191,"segType":"verse"},
+      {"start":95.191,"end":104.297,"segType":"outro"},
+      {"start":104.297,"end":108.000,"segType":"silence"}]
+    },
+    {"trackIndex": 19, "order": 6, "trackTitle": "Till There Was You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.478,"segType":"silence"},
+      {"start":0.478,"end":8.368,"segType":"intro"},
+      {"start":8.368,"end":23.995,"segType":"verse"},
+      {"start":23.995,"end":39.610,"segType":"verse"},
+      {"start":39.610,"end":55.156,"segType":"bridge"},
+      {"start":55.156,"end":70.864,"segType":"verse"},
+      {"start":70.864,"end":86.608,"segType":"verse_guitar_solo"},
+      {"start":86.608,"end":102.235,"segType":"bridge"},
+      {"start":102.235,"end":117.943,"segType":"verse"},
+      {"start":117.943,"end":131.973,"segType":"outro"},
+      {"start":131.973,"end":136.733,"segType":"silence"}]
+    },
+    {"trackIndex": 20, "order": 7, "trackTitle": "Please Mister Postman",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.412,"segType":"silence"},
+      {"start":0.412,"end":8.368,"segType":"intro"},
+      {"start":8.368,"end":23.855,"segType":"refrain_a"},
+      {"start":23.855,"end":39.389,"segType":"verse"},
+      {"start":39.389,"end":55.074,"segType":"verse"},
+      {"start":55.074,"end":70.643,"segType":"refrain_a"},
+      {"start":70.643,"end":86.317,"segType":"verse"},
+      {"start":86.317,"end":102.083,"segType":"refrain_a"},
+      {"start":102.083,"end":117.815,"segType":"refrain_b"},
+      {"start":117.815,"end":133.511,"segType":"refrain_b"},
+      {"start":133.511,"end":149.231,"segType":"refrain_b_fade"},
+      {"start":149.231,"end":151.592,"segType":"refrain_b_fade"},
+      {"start":151.592,"end":156.733,"segType":"silence"}]
+    },
+    {"trackIndex": 21, "order": 8, "trackTitle": "Roll Over Beethoven",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.440,"segType":"silence"},
+      {"start":0.440,"end":17.965,"segType":"intro"},
+      {"start":17.965,"end":35.624,"segType":"verse_refrain"},
+      {"start":35.624,"end":53.654,"segType":"verse_refrain"},
+      {"start":53.654,"end":71.708,"segType":"verse_refrain"},
+      {"start":71.708,"end":89.192,"segType":"bridge"},
+      {"start":89.192,"end":106.793,"segType":"guitar_solo"},
+      {"start":106.793,"end":124.800,"segType":"verse_refrain"},
+      {"start":124.800,"end":142.889,"segType":"verse_refrain"},
+      {"start":142.889,"end":163.425,"segType":"refrain"},
+      {"start":163.425,"end":167.627,"segType":"silence"}]
+    },
+    {"trackIndex": 22, "order": 9, "trackTitle": "Hold Me Tight",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.440,"segType":"silence"},
+      {"start":0.440,"end":3.810,"segType":"intro"},
+      {"start":3.810,"end":31.767,"segType":"verse"},
+      {"start":31.767,"end":59.991,"segType":"verse"},
+      {"start":59.991,"end":72.251,"segType":"bridge"},
+      {"start":72.251,"end":100.649,"segType":"verse"},
+      {"start":100.649,"end":112.909,"segType":"bridge"},
+      {"start":112.909,"end":141.493,"segType":"verse"},
+      {"start":141.493,"end":149.007,"segType":"outro"},
+      {"start":149.007,"end":152.573,"segType":"silence"}]
+    },
+    {"trackIndex": 23, "order": 10, "trackTitle": "You Really Got A Hold On Me",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.440,"segType":"silence"},
+      {"start":0.440,"end":13.978,"segType":"intro"},
+      {"start":13.978,"end":35.421,"segType":"verse"},
+      {"start":35.421,"end":47.867,"segType":"refrain"},
+      {"start":47.867,"end":69.787,"segType":"verse"},
+      {"start":69.787,"end":82.291,"segType":"refrain"},
+      {"start":82.291,"end":97.395,"segType":"closing"},
+      {"start":97.395,"end":109.748,"segType":"bridge_re_intro"},
+      {"start":109.748,"end":131.831,"segType":"verse"},
+      {"start":131.831,"end":144.613,"segType":"refrain"},
+      {"start":144.613,"end":159.718,"segType":"closing"},
+      {"start":159.718,"end":172.524,"segType":"refrain"},
+      {"start":172.524,"end":178.781,"segType":"outro"},
+      {"start":178.781,"end":182.893,"segType":"silence"}]
+    },
+    {"trackIndex": 24, "order": 11, "trackTitle": "I Wanna Be Your Man",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.421,"segType":"silence"},
+      {"start":0.421,"end":20.622,"segType":"verse"},
+      {"start":20.622,"end":31.547,"segType":"refrain"},
+      {"start":31.547,"end":51.075,"segType":"verse"},
+      {"start":51.075,"end":62.023,"segType":"refrain"},
+      {"start":62.023,"end":76.233,"segType":"break"},
+      {"start":76.233,"end":95.506,"segType":"verse"},
+      {"start":95.506,"end":106.454,"segType":"refrain"},
+      {"start":106.454,"end":115.013,"segType":"outro"},
+      {"start":115.013,"end":118.973,"segType":"silence"}]
+    },
+    {"trackIndex": 25, "order": 12, "trackTitle": "Devil In Her Heart",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.460,"segType":"silence"},
+      {"start":0.460,"end":9.133,"segType":"intro"},
+      {"start":9.133,"end":24.911,"segType":"refrain"},
+      {"start":24.911,"end":42.744,"segType":"verse"},
+      {"start":42.744,"end":58.557,"segType":"refrain"},
+      {"start":58.557,"end":76.541,"segType":"verse"},
+      {"start":76.541,"end":92.400,"segType":"refrain"},
+      {"start":92.400,"end":110.372,"segType":"verse"},
+      {"start":110.372,"end":126.197,"segType":"refrain"},
+      {"start":126.197,"end":143.933,"segType":"outro"},
+      {"start":143.933,"end":147.667,"segType":"silence"}]
+    },
+    {"trackIndex": 26, "order": 13, "trackTitle": "Not A Second Time",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.460,"segType":"silence"},
+      {"start":0.460,"end":13.535,"segType":"verse_a"},
+      {"start":13.535,"end":26.759,"segType":"verse_b"},
+      {"start":26.759,"end":45.741,"segType":"refrain"},
+      {"start":45.741,"end":64.828,"segType":"refrain_solo"},
+      {"start":64.828,"end":78.353,"segType":"verse_a"},
+      {"start":78.353,"end":91.960,"segType":"verse_b"},
+      {"start":91.960,"end":111.302,"segType":"refrain"},
+      {"start":111.302,"end":124.840,"segType":"outro"},
+      {"start":124.840,"end":128.333,"segType":"silence"}]
+    },
+    {"trackIndex": 27, "order": 14, "trackTitle": "Money",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.460,"segType":"silence"},
+      {"start":0.460,"end":15.027,"segType":"intro"},
+      {"start":15.027,"end":37.132,"segType":"verse_refrain"},
+      {"start":37.132,"end":59.424,"segType":"verse_refrain"},
+      {"start":59.424,"end":81.866,"segType":"verse_refrain"},
+      {"start":81.866,"end":96.750,"segType":"break"},
+      {"start":96.750,"end":119.203,"segType":"verse_refrain"},
+      {"start":119.203,"end":141.599,"segType":"refrain"},
+      {"start":141.599,"end":166.054,"segType":"refrain"},
+      {"start":166.054,"end":167.560,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "aHardDaysNight", "albumTitle": "A Hard Day's Night",
+  "releaseDate": {
+    "year": 1964,
+    "month": 7,
+    "day": 10
+  },
+  "tracks": [
+    {"trackIndex": 28, "order": 1, "trackTitle": "A Hard Day's Night",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.003,"segType":"silence"},
+      {"start":1.003,"end":4.151,"segType":"intro"},
+      {"start":4.151,"end":24.646,"segType":"verse"},
+      {"start":24.646,"end":45.392,"segType":"verse"},
+      {"start":45.392,"end":59.199,"segType":"bridge"},
+      {"start":59.199,"end":80.000,"segType":"verse_"},
+      {"start":80.000,"end":100.984,"segType":"verse_--solo--"},
+      {"start":100.984,"end":114.799,"segType":"bridge"},
+      {"start":114.799,"end":135.695,"segType":"verse"},
+      {"start":135.695,"end":147.450,"segType":"outro"},
+      {"start":147.450,"end":152.520,"segType":"silence"}]
+    },
+    {"trackIndex": 29, "order": 2, "trackTitle": "I Should Have Known Better",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.397,"segType":"silence"},
+      {"start":0.397,"end":7.700,"segType":"intro"},
+      {"start":7.700,"end":26.000,"segType":"verse"},
+      {"start":26.000,"end":40.671,"segType":"verse'"},
+      {"start":40.671,"end":70.046,"segType":"bridge"},
+      {"start":70.046,"end":88.397,"segType":"verse"},
+      {"start":88.397,"end":106.710,"segType":"verse_--solo--"},
+      {"start":106.710,"end":121.391,"segType":"verse'"},
+      {"start":121.391,"end":150.938,"segType":"bridge"},
+      {"start":150.938,"end":159.400,"segType":"outro"},
+      {"start":159.400,"end":164.080,"segType":"silence"}]
+    },
+    {"trackIndex": 30, "order": 3, "trackTitle": "If I Fell",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.389,"segType":"silence"},
+      {"start":0.389,"end":18.992,"segType":"intro"},
+      {"start":18.992,"end":40.914,"segType":"verse_--original--"},
+      {"start":40.914,"end":73.869,"segType":"verse_+_extention"},
+      {"start":73.869,"end":106.997,"segType":"verse_+_extention"},
+      {"start":106.997,"end":129.289,"segType":"verse_--original--"},
+      {"start":129.289,"end":137.150,"segType":"outro"},
+      {"start":137.150,"end":142.027,"segType":"silence"}]
+    },
+    {"trackIndex": 31, "order": 4, "trackTitle": "I'm Happy Just To Dance With You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.354,"segType":"silence"},
+      {"start":0.354,"end":14.582,"segType":"intro_+_refrain_--second_half--"},
+      {"start":14.582,"end":29.025,"segType":"verse"},
+      {"start":29.025,"end":43.595,"segType":"verse"},
+      {"start":43.595,"end":58.051,"segType":"refrain"},
+      {"start":58.051,"end":72.562,"segType":"verse"},
+      {"start":72.562,"end":87.144,"segType":"refrain"},
+      {"start":87.144,"end":101.750,"segType":"verse"},
+      {"start":101.750,"end":114.399,"segType":"outro"},
+      {"start":114.399,"end":118.680,"segType":"silence"}]
+    },
+    {"trackIndex": 32, "order": 5, "trackTitle": "And I Love Her",
+    "authorship":[
+      {"McCartney": 0.65},
+      {"Lennon": 0.35},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.384,"segType":"silence"},
+      {"start":0.384,"end":9.244,"segType":"intro"},
+      {"start":9.244,"end":29.896,"segType":"verse"},
+      {"start":29.896,"end":50.849,"segType":"verse"},
+      {"start":50.849,"end":67.690,"segType":"bridge"},
+      {"start":67.690,"end":88.800,"segType":"verse"},
+      {"start":88.800,"end":110.065,"segType":"verse_--instrumental--"},
+      {"start":110.065,"end":131.306,"segType":"verse"},
+      {"start":131.306,"end":147.168,"segType":"outro"},
+      {"start":147.168,"end":151.053,"segType":"silence"}]
+    },
+    {"trackIndex": 33, "order": 6, "trackTitle": "Tell Me Why",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.420,"segType":"silence"},
+      {"start":0.420,"end":6.939,"segType":"intro"},
+      {"start":6.939,"end":25.321,"segType":"refrain"},
+      {"start":25.321,"end":37.631,"segType":"verse"},
+      {"start":37.631,"end":56.202,"segType":"refrain"},
+      {"start":56.202,"end":68.665,"segType":"verse"},
+      {"start":68.665,"end":87.385,"segType":"refrain"},
+      {"start":87.385,"end":102.946,"segType":"bridge"},
+      {"start":102.946,"end":125.718,"segType":"refrain_with_ending"},
+      {"start":125.718,"end":130.053,"segType":"silence"}]
+    },
+    {"trackIndex": 34, "order": 7, "trackTitle": "Can't Buy Me Love",
+    "authorship":[
+      {"McCartney": 0.9},
+      {"Lennon": 0.1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.427,"segType":"silence"},
+      {"start":0.427,"end":9.491,"segType":"intro"},
+      {"start":9.491,"end":26.004,"segType":"verse"},
+      {"start":26.004,"end":42.696,"segType":"verse"},
+      {"start":42.696,"end":53.880,"segType":"refrain"},
+      {"start":53.880,"end":72.162,"segType":"verse"},
+      {"start":72.162,"end":89.020,"segType":"verse_--guitar_solo--"},
+      {"start":89.020,"end":100.281,"segType":"refrain"},
+      {"start":100.281,"end":117.220,"segType":"verse"},
+      {"start":117.220,"end":130.322,"segType":"outro"},
+      {"start":130.322,"end":134.920,"segType":"silence"}]
+    },
+    {"trackIndex": 35, "order": 8, "trackTitle": "Any Time At All",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.415,"segType":"silence"},
+      {"start":0.415,"end":15.070,"segType":"refrain"},
+      {"start":15.070,"end":38.531,"segType":"verse"},
+      {"start":38.531,"end":52.147,"segType":"refrain"},
+      {"start":52.147,"end":75.966,"segType":"verse"},
+      {"start":75.966,"end":89.551,"segType":"refrain"},
+      {"start":89.551,"end":106.665,"segType":"bridge"},
+      {"start":106.665,"end":120.415,"segType":"refrain"},
+      {"start":120.415,"end":129.193,"segType":"outro"},
+      {"start":129.193,"end":133.387,"segType":"silence"}]
+    },
+    {"trackIndex": 36, "order": 9, "trackTitle": "I'll Cry Instead",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.445,"segType":"silence"},
+      {"start":0.445,"end":3.039,"segType":"intro"},
+      {"start":3.039,"end":22.808,"segType":"verse"},
+      {"start":22.808,"end":42.669,"segType":"verse"},
+      {"start":42.669,"end":52.751,"segType":"bridge"},
+      {"start":52.751,"end":72.610,"segType":"verse"},
+      {"start":72.610,"end":82.576,"segType":"bridge"},
+      {"start":82.576,"end":103.468,"segType":"verse_--with_ending--"},
+      {"start":103.468,"end":107.720,"segType":"silence"}]
+    },
+    {"trackIndex": 37, "order": 10, "trackTitle": "Things We Said Today",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.406,"segType":"silence"},
+      {"start":0.406,"end":4.023,"segType":"intro"},
+      {"start":4.023,"end":33.414,"segType":"verse"},
+      {"start":33.414,"end":61.234,"segType":"verse"},
+      {"start":61.234,"end":75.137,"segType":"bridge"},
+      {"start":75.137,"end":103.073,"segType":"verse"},
+      {"start":103.073,"end":116.996,"segType":"bridge"},
+      {"start":116.996,"end":145.078,"segType":"verse"},
+      {"start":145.078,"end":153.483,"segType":"outro"},
+      {"start":153.483,"end":158.827,"segType":"silence"}]
+    },
+    {"trackIndex": 38, "order": 11, "trackTitle": "When I Get Home",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.418,"segType":"silence"},
+      {"start":0.418,"end":16.149,"segType":"refrain"},
+      {"start":16.149,"end":31.129,"segType":"verse"},
+      {"start":31.129,"end":46.196,"segType":"refrain"},
+      {"start":46.196,"end":61.216,"segType":"verse"},
+      {"start":61.216,"end":76.620,"segType":"refrain"},
+      {"start":76.620,"end":95.780,"segType":"bridge"},
+      {"start":95.780,"end":111.026,"segType":"verse"},
+      {"start":111.026,"end":126.630,"segType":"refrain"},
+      {"start":126.630,"end":134.142,"segType":"outro"},
+      {"start":134.142,"end":138.347,"segType":"silence"}]
+    },
+    {"trackIndex": 39, "order": 12, "trackTitle": "You Can't Do That",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.406,"segType":"silence"},
+      {"start":0.406,"end":7.765,"segType":"intro"},
+      {"start":7.765,"end":29.927,"segType":"verse"},
+      {"start":29.927,"end":52.203,"segType":"verse"},
+      {"start":52.203,"end":67.184,"segType":"bridge"},
+      {"start":67.184,"end":89.420,"segType":"verse"},
+      {"start":89.420,"end":111.804,"segType":"verse_--guitar_solo--"},
+      {"start":111.804,"end":126.950,"segType":"bridge"},
+      {"start":126.950,"end":147.703,"segType":"verse"},
+      {"start":147.703,"end":152.671,"segType":"outro"},
+      {"start":152.671,"end":157.627,"segType":"silence"}]
+    },
+    {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.429,"segType":"bridge"},
+      {"start":0.429,"end":5.178,"segType":"intro"},
+      {"start":5.178,"end":27.957,"segType":"verse"},
+      {"start":27.957,"end":40.391,"segType":"bridge-1"},
+      {"start":40.391,"end":63.497,"segType":"verse"},
+      {"start":63.497,"end":81.829,"segType":"bridge-2"},
+      {"start":81.829,"end":105.163,"segType":"verse"},
+      {"start":105.163,"end":117.859,"segType":"bridge-1"},
+      {"start":117.859,"end":131.527,"segType":"verse"},
+      {"start":131.527,"end":138.743,"segType":"outro"},
+      {"start":138.743,"end":140.547,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "beatlesForSale", "albumTitle": "Beatles For Sale",
+  "releaseDate": {
+    "year": 1964,
+    "month": 12,
+    "day": 4
+  },
+  "tracks": [
+    {"trackIndex": 41, "order": 1, "trackTitle": "No Reply",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.033,"segType":"silence"},
+      {"start":1.033,"end":32.949,"segType":"verse"},
+      {"start":32.949,"end":63.641,"segType":"verse"},
+      {"start":63.641,"end":94.250,"segType":"bridge"},
+      {"start":94.250,"end":124.784,"segType":"verse"},
+      {"start":124.784,"end":133.621,"segType":"outro"},
+      {"start":133.621,"end":137.827,"segType":"silence"}]
+    },
+    {"trackIndex": 42, "order": 2, "trackTitle": "I'm a Loser",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.377,"segType":"silence"},
+      {"start":0.377,"end":11.453,"segType":"intro"},
+      {"start":11.453,"end":32.662,"segType":"verse"},
+      {"start":32.662,"end":43.375,"segType":"refrain"},
+      {"start":43.375,"end":64.547,"segType":"verse"},
+      {"start":64.547,"end":75.305,"segType":"refrain"},
+      {"start":75.305,"end":96.897,"segType":"solo_break_--half-verse_+_refrain--"},
+      {"start":96.897,"end":118.375,"segType":"verse"},
+      {"start":118.375,"end":128.964,"segType":"refrain"},
+      {"start":128.964,"end":148.098,"segType":"outro_--fade-out--"},
+      {"start":148.098,"end":153.507,"segType":"silence"}]
+    },
+    {"trackIndex": 43, "order": 3, "trackTitle": "Baby's in Black",
+    "authorship":[
+      {"McCartney": 0.5},
+      {"Lennon": 0.5},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.383,"segType":"silence"},
+      {"start":0.383,"end":3.914,"segType":"intro"},
+      {"start":3.914,"end":14.547,"segType":"refrain"},
+      {"start":14.547,"end":26.947,"segType":"verse"},
+      {"start":26.947,"end":37.558,"segType":"refrain"},
+      {"start":37.558,"end":49.981,"segType":"verse"},
+      {"start":49.981,"end":57.144,"segType":"bridge"},
+      {"start":57.144,"end":67.869,"segType":"refrain"},
+      {"start":67.869,"end":78.503,"segType":"refrain_--guitar_solo--"},
+      {"start":78.503,"end":85.739,"segType":"bridge"},
+      {"start":85.739,"end":96.530,"segType":"refrain"},
+      {"start":96.530,"end":109.230,"segType":"verse"},
+      {"start":109.230,"end":123.069,"segType":"refrain"},
+      {"start":123.069,"end":127.560,"segType":"silence"}]
+    },
+    {"trackIndex": 44, "order": 4, "trackTitle": "Rock and Roll Music",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.401,"segType":"silence"},
+      {"start":0.401,"end":2.363,"segType":"intro"},
+      {"start":2.363,"end":22.547,"segType":"refrain"},
+      {"start":22.547,"end":34.086,"segType":"verse"},
+      {"start":34.086,"end":54.343,"segType":"refrain"},
+      {"start":54.343,"end":65.722,"segType":"verse"},
+      {"start":65.722,"end":85.731,"segType":"refrain"},
+      {"start":85.731,"end":97.012,"segType":"verse"},
+      {"start":97.012,"end":117.142,"segType":"refrain"},
+      {"start":117.142,"end":128.429,"segType":"verse"},
+      {"start":128.429,"end":149.125,"segType":"outro"},
+      {"start":149.125,"end":153.733,"segType":"silence"}]
+    },
+    {"trackIndex": 45, "order": 5, "trackTitle": "I'll Follow the Sun",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.408,"segType":"silence"},
+      {"start":0.408,"end":3.984,"segType":"intro"},
+      {"start":3.984,"end":18.181,"segType":"verse"},
+      {"start":18.181,"end":32.531,"segType":"verse"},
+      {"start":32.531,"end":46.940,"segType":"bridge"},
+      {"start":46.940,"end":61.367,"segType":"verse"},
+      {"start":61.367,"end":75.700,"segType":"verse_--half_guitar_solo--"},
+      {"start":75.700,"end":90.188,"segType":"bridge"},
+      {"start":90.188,"end":106.403,"segType":"verse"},
+      {"start":106.403,"end":111.040,"segType":"silence"}]
+    },
+    {"trackIndex": 46, "order": 6, "trackTitle": "Mr. Moonlight",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.395,"segType":"silence"},
+      {"start":0.395,"end":5.549,"segType":"intro"},
+      {"start":5.549,"end":39.351,"segType":"verse_--initial--"},
+      {"start":39.351,"end":69.885,"segType":"verse_--variant--"},
+      {"start":69.885,"end":100.490,"segType":"verse_--half_vocal_half_solo--"},
+      {"start":100.490,"end":131.037,"segType":"verse_--variant--"},
+      {"start":131.037,"end":151.984,"segType":"outro_verse_--fade-out--"},
+      {"start":151.984,"end":157.200,"segType":"silence"}]
+    },
+    {"trackIndex": 47, "order": 7, "trackTitle": "Kansas City- Hey, Hey, Hey",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.389,"segType":"silence"},
+      {"start":0.389,"end":8.072,"segType":"intro"},
+      {"start":8.072,"end":29.786,"segType":"verse"},
+      {"start":29.786,"end":51.545,"segType":"verse"},
+      {"start":51.545,"end":73.445,"segType":"verse_--solo--"},
+      {"start":73.445,"end":95.367,"segType":"verse"},
+      {"start":95.367,"end":117.413,"segType":"verse"},
+      {"start":117.413,"end":139.347,"segType":"verse"},
+      {"start":139.347,"end":146.147,"segType":"verse_--fade_out--"},
+      {"start":146.147,"end":153.467,"segType":"silence"}]
+    },
+    {"trackIndex": 48, "order": 8, "trackTitle": "Eight Days a Week",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.394,"segType":"silence"},
+      {"start":0.394,"end":7.392,"segType":"intro"},
+      {"start":7.392,"end":35.051,"segType":"verse"},
+      {"start":35.051,"end":62.571,"segType":"verse"},
+      {"start":62.571,"end":76.539,"segType":"bridge"},
+      {"start":76.539,"end":104.115,"segType":"verse"},
+      {"start":104.115,"end":117.988,"segType":"bridge"},
+      {"start":117.988,"end":145.731,"segType":"verse"},
+      {"start":145.731,"end":160.987,"segType":"outro"},
+      {"start":160.987,"end":165.427,"segType":"silence"}]
+    },
+    {"trackIndex": 49, "order": 9, "trackTitle": "Words of Love",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":15.927,"segType":"silence"},
+      {"start":15.927,"end":31.469,"segType":"verse"},
+      {"start":31.469,"end":47.160,"segType":"verse"},
+      {"start":47.160,"end":62.955,"segType":"verse_--solo--"},
+      {"start":62.955,"end":78.611,"segType":"verse_--solo--"},
+      {"start":78.611,"end":94.424,"segType":"verse"},
+      {"start":94.424,"end":110.306,"segType":"verse"},
+      {"start":110.306,"end":128.514,"segType":"outro_--fade_out--"},
+      {"start":128.514,"end":134.733,"segType":"silence"}]
+    },
+    {"trackIndex": 50, "order": 10, "trackTitle": "Honey Don't",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.395,"segType":"silence"},
+      {"start":0.395,"end":7.580,"segType":"intro"},
+      {"start":7.580,"end":22.059,"segType":"verse"},
+      {"start":22.059,"end":42.347,"segType":"refrain"},
+      {"start":42.347,"end":56.982,"segType":"verse"},
+      {"start":56.982,"end":77.473,"segType":"refrain"},
+      {"start":77.473,"end":89.222,"segType":"verse_--solo"},
+      {"start":89.222,"end":106.905,"segType":"refrain"},
+      {"start":106.905,"end":121.673,"segType":"verse"},
+      {"start":121.673,"end":142.431,"segType":"refrain"},
+      {"start":142.431,"end":154.192,"segType":"verse_--solo--"},
+      {"start":154.192,"end":171.984,"segType":"refrain"},
+      {"start":171.984,"end":174.851,"segType":"outro"},
+      {"start":174.851,"end":179.600,"segType":"silence"}]
+    },
+    {"trackIndex": 51, "order": 11, "trackTitle": "Every Little Thing",
+    "authorship":[
+      {"McCartney": 0.9},
+      {"Lennon": 0.1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.384,"segType":"silence"},
+      {"start":0.384,"end":3.686,"segType":"intro"},
+      {"start":3.686,"end":15.372,"segType":"verse"},
+      {"start":15.372,"end":27.121,"segType":"verse"},
+      {"start":27.121,"end":42.510,"segType":"refrain"},
+      {"start":42.510,"end":54.285,"segType":"verse"},
+      {"start":54.285,"end":66.194,"segType":"verse"},
+      {"start":66.194,"end":81.670,"segType":"refrain"},
+      {"start":81.670,"end":93.143,"segType":"verse_--guitar_solo--"},
+      {"start":93.143,"end":108.536,"segType":"refrain"},
+      {"start":108.536,"end":119.267,"segType":"outro_--fade_out--"},
+      {"start":119.267,"end":124.533,"segType":"silence"}]
+    },
+    {"trackIndex": 52, "order": 12, "trackTitle": "I Don't Want to Spoil the Party",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.398,"segType":"silence"},
+      {"start":0.398,"end":10.416,"segType":"intro"},
+      {"start":10.416,"end":30.198,"segType":"verse"},
+      {"start":30.198,"end":50.057,"segType":"verse"},
+      {"start":50.057,"end":65.086,"segType":"bridge"},
+      {"start":65.086,"end":85.184,"segType":"verse"},
+      {"start":85.184,"end":105.465,"segType":"verse_--guitar_solo--"},
+      {"start":105.465,"end":120.604,"segType":"verse"},
+      {"start":120.604,"end":140.807,"segType":"bridge"},
+      {"start":140.807,"end":151.500,"segType":"outro"},
+      {"start":151.500,"end":156.173,"segType":"silence"}]
+    },
+    {"trackIndex": 521, "order": 13, "trackTitle": "What You're Doing",
+    "authorship":[
+      {"McCartney": 0.9},
+      {"Lennon": 0.1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.376,"segType":"silence"},
+      {"start":0.376,"end":14.669,"segType":"intro"},
+      {"start":14.669,"end":31.408,"segType":"verse"},
+      {"start":31.408,"end":48.163,"segType":"verse"},
+      {"start":48.163,"end":61.071,"segType":"bridge"},
+      {"start":61.071,"end":77.821,"segType":"verse"},
+      {"start":77.821,"end":92.654,"segType":"verse_--guitar_solo--"},
+      {"start":92.654,"end":107.518,"segType":"bridge"},
+      {"start":107.518,"end":124.331,"segType":"verse"},
+      {"start":124.331,"end":148.707,"segType":"outro"},
+      {"start":148.707,"end":154.693,"segType":"silence"}]
+    },
+    {"trackIndex": 522, "order": 14, "trackTitle": "Every body's Trying to Be My Baby",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.850,"segType":"silence"},
+      {"start":0.850,"end":18.935,"segType":"verse"},
+      {"start":18.935,"end":35.885,"segType":"verse"},
+      {"start":35.885,"end":52.727,"segType":"verse_--solo--"},
+      {"start":52.727,"end":69.573,"segType":"verse"},
+      {"start":69.573,"end":86.400,"segType":"verse_--solo--"},
+      {"start":86.400,"end":103.363,"segType":"verse_--solo--"},
+      {"start":103.363,"end":120.278,"segType":"verse"},
+      {"start":120.278,"end":142.465,"segType":"verse"},
+      {"start":142.465,"end":143.867,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "help", "albumTitle": "Help!",
+  "releaseDate": {
+    "year": 1965,
+    "month": 8,
+    "day": 6
+  },
+  "tracks": [
+    {"trackIndex": 53, "order": 1, "trackTitle": "Help!",
+    "authorship":[
+      {"McCartney": 0.1},
+      {"Lennon": 0.9},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.050,"segType":"silence"},
+      {"start":1.050,"end":11.137,"segType":"intro"},
+      {"start":11.137,"end":31.199,"segType":"verse"},
+      {"start":31.199,"end":51.400,"segType":"refrain"},
+      {"start":51.400,"end":71.593,"segType":"verse"},
+      {"start":71.593,"end":91.864,"segType":"refrain"},
+      {"start":91.864,"end":112.196,"segType":"verse"},
+      {"start":112.196,"end":129.916,"segType":"refrain"},
+      {"start":129.916,"end":136.840,"segType":"outro"},
+      {"start":136.840,"end":141.067,"segType":"silence"}]
+    },
+    {"trackIndex": 54, "order": 2, "trackTitle": "The Night Before",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.425,"segType":"silence"},
+{"start":0.425,"end":11.884,"segType":"intro"},
+{"start":11.884,"end":34.551,"segType":"verse"},
+{"start":34.551,"end":57.191,"segType":"verse"},
+{"start":57.191,"end":68.335,"segType":"bridge"},
+{"start":68.335,"end":91.004,"segType":"verse"},
+{"start":91.004,"end":113.665,"segType":"verse_--half_solo--"},
+{"start":113.665,"end":124.784,"segType":"bridge"},
+{"start":124.784,"end":146.094,"segType":"verse"},
+{"start":146.094,"end":152.932,"segType":"outro"},
+{"start":152.932,"end":156.693,"segType":"silence"}]
+    },
+    {"trackIndex": 55, "order": 3, "trackTitle": "You've Got to Hide Your Love Away",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.490,"segType":"silence"},
+{"start":0.490,"end":2.473,"segType":"intro"},
+{"start":2.473,"end":19.955,"segType":"verse"},
+{"start":19.955,"end":39.457,"segType":"verse'"},
+{"start":39.457,"end":55.004,"segType":"refrain"},
+{"start":55.004,"end":72.612,"segType":"verse"},
+{"start":72.612,"end":92.204,"segType":"verse'"},
+{"start":92.204,"end":107.698,"segType":"refrain"},
+{"start":107.698,"end":127.036,"segType":"verse_--solo--_with_ending"},
+{"start":127.036,"end":131.440,"segType":"silence"}]
+    },
+    {"trackIndex": 56, "order": 4, "trackTitle": "I Need You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.486,"segType":"silence"},
+      {"start":0.486,"end":3.984,"segType":"intro"},
+      {"start":3.984,"end":28.367,"segType":"verse"},
+      {"start":28.367,"end":52.802,"segType":"verse"},
+      {"start":52.802,"end":68.669,"segType":"bridge"},
+      {"start":68.669,"end":93.363,"segType":"verse"},
+      {"start":93.363,"end":109.388,"segType":"bridge"},
+      {"start":109.388,"end":134.371,"segType":"verse"},
+      {"start":134.371,"end":147.307,"segType":"outro"},
+      {"start":147.307,"end":151.493,"segType":"silence"}]
+    },
+    {"trackIndex": 57, "order": 5, "trackTitle": "Another Girl",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.412,"segType":"silence"},
+{"start":0.412,"end":6.784,"segType":"intro"},
+{"start":6.784,"end":28.167,"segType":"verse"},
+{"start":28.167,"end":49.678,"segType":"verse"},
+{"start":49.678,"end":60.522,"segType":"bridge"},
+{"start":60.522,"end":82.306,"segType":"verse"},
+{"start":82.306,"end":93.286,"segType":"bridge"},
+{"start":93.286,"end":118.039,"segType":"verse"},
+{"start":118.039,"end":123.214,"segType":"outro"},
+{"start":123.214,"end":128.000,"segType":"silence"}]
+    },
+    {"trackIndex": 58, "order": 6, "trackTitle": "You're Going to Lose That Girl",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.493,"segType":"silence"},
+{"start":0.493,"end":8.835,"segType":"intro"},
+{"start":8.835,"end":30.604,"segType":"verse"},
+{"start":30.604,"end":56.033,"segType":"verse'"},
+{"start":56.033,"end":68.708,"segType":"bridge"},
+{"start":68.708,"end":94.261,"segType":"solo/verse'"},
+{"start":94.261,"end":106.906,"segType":"bridge"},
+{"start":106.906,"end":128.859,"segType":"verse'"},
+{"start":128.859,"end":136.359,"segType":"outro"},
+{"start":136.359,"end":140.440,"segType":"silence"}]
+    },
+    {"trackIndex": 59, "order": 7, "trackTitle": "Ticket to Ride",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.410,"segType":"silence"},
+{"start":0.410,"end":7.964,"segType":"intro"},
+{"start":7.964,"end":38.700,"segType":"verse"},
+{"start":38.700,"end":69.660,"segType":"verse"},
+{"start":69.660,"end":87.118,"segType":"bridge"},
+{"start":87.118,"end":118.747,"segType":"verse"},
+{"start":118.747,"end":136.081,"segType":"bridge"},
+{"start":136.081,"end":167.620,"segType":"verse"},
+{"start":167.620,"end":186.514,"segType":"outro"},
+{"start":186.514,"end":192.493,"segType":"silence"}]
+    },
+    {"trackIndex": 60, "order": 8, "trackTitle": "Act Naturally",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.445,"segType":"silence"},
+{"start":0.445,"end":6.415,"segType":"intro"},
+{"start":6.415,"end":27.004,"segType":"verse"},
+{"start":27.004,"end":47.543,"segType":"bridge"},
+{"start":47.543,"end":68.309,"segType":"verse"},
+{"start":68.309,"end":78.563,"segType":"break"},
+{"start":78.563,"end":99.323,"segType":"verse"},
+{"start":99.323,"end":120.105,"segType":"bridge"},
+{"start":120.105,"end":140.889,"segType":"verse"},
+{"start":140.889,"end":147.934,"segType":"outro"},
+{"start":147.934,"end":153.173,"segType":"silence"}]
+    },
+    {"trackIndex": 61, "order": 9, "trackTitle": "It's Only Love",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.441,"segType":"silence"},
+{"start":0.441,"end":8.770,"segType":"intro"},
+{"start":8.770,"end":34.220,"segType":"verse"},
+{"start":34.220,"end":51.229,"segType":"refrain"},
+{"start":51.229,"end":76.705,"segType":"verse"},
+{"start":76.705,"end":97.919,"segType":"refrain"},
+{"start":97.919,"end":114.233,"segType":"outro"},
+{"start":114.233,"end":118.800,"segType":"silence"}]
+    },
+    {"trackIndex": 62, "order": 10, "trackTitle": "You Like Me Too Much",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.464,"segType":"silence"},
+{"start":0.464,"end":9.288,"segType":"intro"},
+{"start":9.288,"end":31.804,"segType":"verse"},
+{"start":31.804,"end":53.568,"segType":"verse"},
+{"start":53.568,"end":64.435,"segType":"bridge"},
+{"start":64.435,"end":86.100,"segType":"verse"},
+{"start":86.100,"end":102.423,"segType":"break"},
+{"start":102.423,"end":118.596,"segType":"bridge"},
+{"start":118.596,"end":145.821,"segType":"verse"},
+{"start":145.821,"end":154.826,"segType":"outro"},
+{"start":154.826,"end":158.800,"segType":"silence"}]
+    },
+    {"trackIndex": 63, "order": 11, "trackTitle": "Tell Me What You See",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.478,"segType":"silence"},
+{"start":0.478,"end":4.174,"segType":"intro"},
+{"start":4.174,"end":32.125,"segType":"verse"},
+{"start":32.125,"end":60.073,"segType":"verse"},
+{"start":60.073,"end":74.131,"segType":"bridge"},
+{"start":74.131,"end":102.465,"segType":"verse"},
+{"start":102.465,"end":116.669,"segType":"bridge"},
+{"start":116.669,"end":144.898,"segType":"verse"},
+{"start":144.898,"end":155.016,"segType":"outro"},
+{"start":155.016,"end":159.693,"segType":"silence"}]
+    },
+    {"trackIndex": 64, "order": 12, "trackTitle": "I've Just Seen A Face",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.445,"segType":"silence"},
+{"start":0.445,"end":11.668,"segType":"intro"},
+{"start":11.668,"end":23.771,"segType":"verse"},
+{"start":23.771,"end":35.771,"segType":"verse"},
+{"start":35.771,"end":43.771,"segType":"refrain"},
+{"start":43.771,"end":55.739,"segType":"verse"},
+{"start":55.739,"end":63.657,"segType":"refrain"},
+{"start":63.657,"end":75.559,"segType":"verse_--solo--"},
+{"start":75.559,"end":83.527,"segType":"refrain"},
+{"start":83.527,"end":95.497,"segType":"verse"},
+{"start":95.497,"end":103.433,"segType":"refrain"},
+{"start":103.433,"end":111.316,"segType":"refrain"},
+{"start":111.316,"end":117.261,"segType":"refrain"},
+{"start":117.261,"end":122.687,"segType":"outro"},
+{"start":122.687,"end":127.173,"segType":"silence"}]
+    },
+    {"trackIndex": 641, "order": 13, "trackTitle": "Yesterday",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.461,"segType":"silence"},
+{"start":0.461,"end":5.433,"segType":"intro"},
+{"start":5.433,"end":22.669,"segType":"verse"},
+{"start":22.669,"end":39.893,"segType":"verse"},
+{"start":39.893,"end":59.703,"segType":"bridge"},
+{"start":59.703,"end":77.371,"segType":"verse"},
+{"start":77.371,"end":97.318,"segType":"bridge"},
+{"start":97.318,"end":114.914,"segType":"verse"},
+{"start":114.914,"end":122.853,"segType":"outro"},
+{"start":122.853,"end":127.427,"segType":"silence"}]
+    },
+    {"trackIndex": 642, "order": 14, "trackTitle": "Dizzy Miss Lizzy",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.415,"segType":"silence"},
+{"start":0.415,"end":22.384,"segType":"intro"},
+{"start":22.384,"end":43.314,"segType":"verse"},
+{"start":43.314,"end":64.328,"segType":"verse_repeat"},
+{"start":64.328,"end":85.479,"segType":"verse_--solo--"},
+{"start":85.479,"end":106.646,"segType":"verse"},
+{"start":106.646,"end":127.894,"segType":"verse_--solo--_repeat"},
+{"start":127.894,"end":149.046,"segType":"verse_repeat"},
+{"start":149.046,"end":172.609,"segType":"verse"},
+{"start":172.609,"end":174.267,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "rubberSoul", "albumTitle": "Rubber Soul",
+  "releaseDate": {
+    "year": 1965,
+    "month": 12,
+    "day": 3
+  },
+  "tracks": [
+    {"trackIndex": 65, "order": 1, "trackTitle": "Drive My Car",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.120,"segType":"silence"},
+{"start":1.120,"end":5.227,"segType":"intro"},
+{"start":5.227,"end":20.792,"segType":"verse"},
+{"start":20.792,"end":36.382,"segType":"refrain"},
+{"start":36.382,"end":52.061,"segType":"verse"},
+{"start":52.061,"end":67.779,"segType":"refrain"},
+{"start":67.779,"end":83.441,"segType":"verse_--solo--"},
+{"start":83.441,"end":99.155,"segType":"refrain"},
+{"start":99.155,"end":114.776,"segType":"verse"},
+{"start":114.776,"end":130.506,"segType":"refrain"},
+{"start":130.506,"end":145.649,"segType":"outro_--fade-out--"},
+{"start":145.649,"end":150.267,"segType":"silence"}]
+    },
+    {"trackIndex": 66, "order": 2, "trackTitle": "Norwegian Wood (This Bird Has Flown)",
+    "authorship":[
+      {"McCartney": 0.2},
+      {"Lennon": 0.8},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.441,"segType":"silence"},
+{"start":0.441,"end":16.196,"segType":"verse_--instrumental_intro--"},
+{"start":16.196,"end":31.971,"segType":"verse"},
+{"start":31.971,"end":47.943,"segType":"bridge"},
+{"start":47.943,"end":64.122,"segType":"verse"},
+{"start":64.122,"end":80.263,"segType":"verse_--instrumental_solo--"},
+{"start":80.263,"end":96.620,"segType":"bridge"},
+{"start":96.620,"end":112.971,"segType":"verse"},
+{"start":112.971,"end":122.694,"segType":"outro"},
+{"start":122.694,"end":125.427,"segType":"silence"}]
+    },
+    {"trackIndex": 67, "order": 3, "trackTitle": "You Won't See Me",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.473,"segType":"silence"},
+{"start":0.473,"end":4.482,"segType":"intro"},
+{"start":4.482,"end":40.951,"segType":"verse"},
+{"start":40.951,"end":77.912,"segType":"verse"},
+{"start":77.912,"end":94.531,"segType":"bridge"},
+{"start":94.531,"end":132.165,"segType":"verse"},
+{"start":132.165,"end":148.930,"segType":"bridge"},
+{"start":148.930,"end":186.853,"segType":"verse"},
+{"start":186.853,"end":196.020,"segType":"outro_--fade-out--"},
+{"start":196.020,"end":202.600,"segType":"silence"}]
+    },
+    {"trackIndex": 68, "order": 4, "trackTitle": "Nowhere Man",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.441,"segType":"silence"},
+{"start":0.441,"end":16.701,"segType":"verse"},
+{"start":16.701,"end":32.444,"segType":"verse"},
+{"start":32.444,"end":48.233,"segType":"bridge"},
+{"start":48.233,"end":64.041,"segType":"verse_--guitar_solo--"},
+{"start":64.041,"end":79.829,"segType":"verse"},
+{"start":79.829,"end":95.722,"segType":"bridge"},
+{"start":95.722,"end":111.514,"segType":"verse"},
+{"start":111.514,"end":127.373,"segType":"bridge"},
+{"start":127.373,"end":143.122,"segType":"verse"},
+{"start":143.122,"end":161.037,"segType":"11.3"},
+{"start":161.037,"end":164.307,"segType":"11.4"}]
+    },
+    {"trackIndex": 69, "order": 5, "trackTitle": "Think for Yourself",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.435,"segType":"silence"},
+{"start":0.435,"end":4.116,"segType":"intro"},
+{"start":4.116,"end":26.279,"segType":"verse"},
+{"start":26.279,"end":40.879,"segType":"refrain"},
+{"start":40.879,"end":63.240,"segType":"verse"},
+{"start":63.240,"end":77.927,"segType":"refrain"},
+{"start":77.927,"end":100.327,"segType":"verse"},
+{"start":100.327,"end":114.981,"segType":"refrain"},
+{"start":114.981,"end":129.600,"segType":"refrain"},
+{"start":129.600,"end":136.539,"segType":"outro"},
+{"start":136.539,"end":139.333,"segType":"silence"}]
+    },
+    {"trackIndex": 70, "order": 6, "trackTitle": "The Word",
+    "authorship":[
+      {"McCartney": 0.4},
+      {"Lennon": 0.6},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.424,"segType":"silence"},
+{"start":0.424,"end":5.355,"segType":"intro"},
+{"start":5.355,"end":28.784,"segType":"verse"},
+{"start":28.784,"end":36.649,"segType":"bridge"},
+{"start":36.649,"end":60.102,"segType":"verse"},
+{"start":60.102,"end":67.943,"segType":"bridge"},
+{"start":67.943,"end":91.382,"segType":"verse"},
+{"start":91.382,"end":99.257,"segType":"bridge"},
+{"start":99.257,"end":122.896,"segType":"verse"},
+{"start":122.896,"end":130.759,"segType":"bridge_--instrumental--"},
+{"start":130.759,"end":154.291,"segType":"verse_--partly_instrumental--"},
+{"start":154.291,"end":160.719,"segType":"bridge_outro_--fade-out--"},
+{"start":160.719,"end":163.693,"segType":"silence"}]
+    },
+    {"trackIndex": 71, "order": 7, "trackTitle": "Michelle",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.421,"segType":"silence"},
+{"start":0.421,"end":8.510,"segType":"intro"},
+{"start":8.510,"end":20.886,"segType":"verse"},
+{"start":20.886,"end":33.216,"segType":"verse"},
+{"start":33.216,"end":53.545,"segType":"bridge"},
+{"start":53.545,"end":65.726,"segType":"verse"},
+{"start":65.726,"end":85.931,"segType":"bridge"},
+{"start":85.931,"end":98.058,"segType":"verse_--instrumental--"},
+{"start":98.058,"end":118.335,"segType":"bridge"},
+{"start":118.335,"end":131.265,"segType":"verse"},
+{"start":131.265,"end":139.918,"segType":"outro_bridge"},
+{"start":139.918,"end":160.869,"segType":"outro_verse_--instrumental--"},
+{"start":160.869,"end":162.373,"segType":"silence"}]
+    },
+    {"trackIndex": 72, "order": 8, "trackTitle": "What Goes On",
+    "authorship":[
+      {"McCartney": 0.2},
+      {"Lennon": 0.6},
+      {"Harrison": 0},
+      {"Starr": 0.2},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.464,"segType":"silence"},
+{"start":0.464,"end":6.356,"segType":"intro"},
+{"start":6.356,"end":31.065,"segType":"refrain"},
+{"start":31.065,"end":48.515,"segType":"verse"},
+{"start":48.515,"end":73.300,"segType":"refrain"},
+{"start":73.300,"end":90.581,"segType":"verse"},
+{"start":90.581,"end":115.217,"segType":"refrain_--solo--"},
+{"start":115.217,"end":132.537,"segType":"verse"},
+{"start":132.537,"end":157.234,"segType":"refrain"},
+{"start":157.234,"end":165.938,"segType":"outro"},
+{"start":165.938,"end":170.800,"segType":"silence"}]
+    },
+    {"trackIndex": 73, "order": 9, "trackTitle": "Girl",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.053,"segType":"silence"},
+{"start":1.053,"end":21.107,"segType":"verse"},
+{"start":21.107,"end":30.994,"segType":"refrain"},
+{"start":30.994,"end":50.968,"segType":"verse"},
+{"start":50.968,"end":60.987,"segType":"refrain"},
+{"start":60.987,"end":80.686,"segType":"bridge"},
+{"start":80.686,"end":90.558,"segType":"refrain"},
+{"start":90.558,"end":110.497,"segType":"verse"},
+{"start":110.497,"end":120.392,"segType":"refrain"},
+{"start":120.392,"end":140.351,"segType":"verse_--instrumental--"},
+{"start":140.351,"end":148.200,"segType":"refrain_--fade-out--"},
+{"start":148.200,"end":153.867,"segType":"silence"}]
+    },
+    {"trackIndex": 74, "order": 10, "trackTitle": "I'm Looking Through You",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.401,"segType":"silence"},
+{"start":0.401,"end":8.612,"segType":"intro"},
+{"start":8.612,"end":33.714,"segType":"verse"},
+{"start":33.714,"end":58.770,"segType":"verse"},
+{"start":58.770,"end":69.959,"segType":"bridge"},
+{"start":69.959,"end":96.702,"segType":"verse"},
+{"start":96.702,"end":107.868,"segType":"bridge"},
+{"start":107.868,"end":142.498,"segType":"verse_with_outro_--fade-out--"},
+{"start":142.498,"end":147.827,"segType":"silence"}]
+    },
+    {"trackIndex": 75, "order": 11, "trackTitle": "In My Life",
+    "authorship":[
+      {"McCartney": 0.35},
+      {"Lennon": 0.65},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.416,"segType":"silence"},
+{"start":0.416,"end":9.616,"segType":"intro"},
+{"start":9.616,"end":28.302,"segType":"verse"},
+{"start":28.302,"end":46.719,"segType":"bridge"},
+{"start":46.719,"end":51.438,"segType":"half-intro"},
+{"start":51.438,"end":70.206,"segType":"verse"},
+{"start":70.206,"end":88.700,"segType":"bridge"},
+{"start":88.700,"end":107.253,"segType":"verse_--instrumental--"},
+{"start":107.253,"end":125.659,"segType":"bridge"},
+{"start":125.659,"end":143.715,"segType":"outro"},
+{"start":143.715,"end":147.973,"segType":"silence"}]
+    },
+    {"trackIndex": 77, "order": 12, "trackTitle": "Wait",
+    "authorship":[
+      {"McCartney": 0.5},
+      {"Lennon": 0.5},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.094,"segType":"silence"},
+{"start":1.094,"end":12.486,"segType":"verse"},
+{"start":12.486,"end":21.764,"segType":"refrain"},
+{"start":21.764,"end":33.070,"segType":"verse"},
+{"start":33.070,"end":42.253,"segType":"refrain"},
+{"start":42.253,"end":57.121,"segType":"bridge"},
+{"start":57.121,"end":68.487,"segType":"verse"},
+{"start":68.487,"end":77.785,"segType":"refrain"},
+{"start":77.785,"end":92.971,"segType":"bridge"},
+{"start":92.971,"end":104.359,"segType":"verse"},
+{"start":104.359,"end":113.649,"segType":"refrain"},
+{"start":113.649,"end":132.629,"segType":"verse_with_outro"},
+{"start":132.629,"end":136.960,"segType":"silence"}]
+    },
+    {"trackIndex": 771, "order": 13, "trackTitle": "If I Needed Someone",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.429,"segType":"silence"},
+{"start":0.429,"end":7.789,"segType":"intro"},
+{"start":7.789,"end":22.672,"segType":"verse"},
+{"start":22.672,"end":37.465,"segType":"verse"},
+{"start":37.465,"end":52.376,"segType":"bridge"},
+{"start":52.376,"end":67.473,"segType":"verse"},
+{"start":67.473,"end":82.542,"segType":"verse_--instrumental--"},
+{"start":82.542,"end":97.628,"segType":"verse"},
+{"start":97.628,"end":112.913,"segType":"bridge"},
+{"start":112.913,"end":128.261,"segType":"verse"},
+{"start":128.261,"end":139.977,"segType":"outro"},
+{"start":139.977,"end":143.840,"segType":"silence"}]
+    },
+    {"trackIndex": 772, "order": 14, "trackTitle": "Run for Your Life",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.412,"segType":"silence"},
+{"start":0.412,"end":8.613,"segType":"intro"},
+{"start":8.613,"end":30.269,"segType":"verse"},
+{"start":30.269,"end":35.677,"segType":"refrain"},
+{"start":35.677,"end":57.371,"segType":"verse"},
+{"start":57.371,"end":73.689,"segType":"break_--instrumental--"},
+{"start":73.689,"end":95.469,"segType":"verse"},
+{"start":95.469,"end":100.844,"segType":"refrain"},
+{"start":100.844,"end":122.661,"segType":"verse"},
+{"start":122.661,"end":136.795,"segType":"refrain_outro_--fade-out--"},
+{"start":136.795,"end":138.800,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "revolver", "albumTitle": "Revolver",
+  "releaseDate": {
+    "year": 1966,
+    "month": 8,
+    "day": 5
+  },
+  "tracks": [
+    {"trackIndex": 78, "order": 1, "trackTitle": "Taxman",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0.1},
+      {"Harrison": 0.9},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":1.069,"segType":"silence"},
+      {"start":1.069,"end":9.131,"segType":"intro"},
+      {"start":9.131,"end":23.011,"segType":"verse"},
+      {"start":23.011,"end":32.014,"segType":"refrain"},
+      {"start":32.014,"end":46.126,"segType":"verse"},
+      {"start":46.126,"end":55.130,"segType":"refrain"},
+      {"start":55.130,"end":71.078,"segType":"bridge"},
+      {"start":71.078,"end":85.327,"segType":"verse_guitar_solo"},
+      {"start":85.327,"end":94.506,"segType":"refrain"},
+      {"start":94.506,"end":108.914,"segType":"verse"},
+      {"start":108.914,"end":118.163,"segType":"refrain"},
+      {"start":118.163,"end":132.534,"segType":"verse"},
+      {"start":132.534,"end":139.958,"segType":"refrain"},
+      {"start":139.958,"end":155.233,"segType":"outro"},
+      {"start":155.233,"end":159.000,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 79, "order": 2, "trackTitle": "Eleanor Rigby",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.404,"segType":"silence"},
+      {"start":0.404,"end":14.269,"segType":"intro"},
+      {"start":14.269,"end":31.790,"segType":"verse"},
+      {"start":31.790,"end":45.771,"segType":"refrain"},
+      {"start":45.771,"end":63.193,"segType":"verse"},
+      {"start":63.193,"end":77.102,"segType":"refrain"},
+      {"start":77.102,"end":90.836,"segType":"bridge"},
+      {"start":90.836,"end":108.196,"segType":"verse"},
+      {"start":108.196,"end":123.866,"segType":"refrain_with_ending"},
+      {"start":123.866,"end":127.667,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 80, "order": 3, "trackTitle": "I'm Only Sleeping",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.423,"segType":"silence"},
+      {"start":0.423,"end":21.409,"segType":"verse"},
+      {"start":21.409,"end":35.184,"segType":"refrain"},
+      {"start":35.184,"end":56.146,"segType":"verse"},
+      {"start":56.146,"end":69.959,"segType":"refrain"},
+      {"start":69.959,"end":93.290,"segType":"bridge"},
+      {"start":93.290,"end":104.873,"segType":"verse_guitar_solo"},
+      {"start":104.873,"end":118.767,"segType":"refrain"},
+      {"start":118.767,"end":142.245,"segType":"bridge"},
+      {"start":142.245,"end":153.915,"segType":"verse"},
+      {"start":153.915,"end":175.705,"segType":"refrain_with_ending"},
+      {"start":175.705,"end":181.667,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 81, "order": 4, "trackTitle": "Love You To",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.445,"segType":"silence"},
+      {"start":0.445,"end":39.673,"segType":"intro"},
+      {"start":39.673,"end":56.297,"segType":"verse"},
+      {"start":56.297,"end":69.416,"segType":"refrain"},
+      {"start":69.416,"end":86.378,"segType":"verse"},
+      {"start":86.378,"end":95.898,"segType":"refrain"},
+      {"start":95.898,"end":126.038,"segType":"sitar_solo"},
+      {"start":126.038,"end":142.940,"segType":"verse"},
+      {"start":142.940,"end":155.837,"segType":"refrain"},
+      {"start":155.837,"end":176.416,"segType":"outro"},
+      {"start":176.416,"end":181.200,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 82, "order": 5, "trackTitle": "Here, There and Everywhere",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.416,"segType":"silence"},
+      {"start":0.416,"end":10.054,"segType":"intro"},
+      {"start":10.054,"end":33.335,"segType":"verse"},
+      {"start":33.335,"end":56.498,"segType":"verse"},
+      {"start":56.498,"end":67.970,"segType":"bridge"},
+      {"start":67.970,"end":91.138,"segType":"verse"},
+      {"start":91.138,"end":102.644,"segType":"bridge"},
+      {"start":102.644,"end":125.968,"segType":"verse"},
+      {"start":125.968,"end":141.322,"segType":"outro"},
+      {"start":141.322,"end":145.867,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 83, "order": 6, "trackTitle": "Yellow Submarine",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.980,"segType":"silence"},
+      {"start":0.980,"end":18.709,"segType":"verse"},
+      {"start":18.709,"end":35.988,"segType":"verse"},
+      {"start":35.988,"end":53.174,"segType":"refrain"},
+      {"start":53.174,"end":70.518,"segType":"verse"},
+      {"start":70.518,"end":87.667,"segType":"refrain"},
+      {"start":87.667,"end":105.349,"segType":"verse_instrumental"},
+      {"start":105.349,"end":122.596,"segType":"verse"},
+      {"start":122.596,"end":155.139,"segType":"refrain_with_ending"},
+      {"start":155.139,"end":160.400,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 84, "order": 7, "trackTitle": "She Said She Said",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.433,"segType":"silence"},
+      {"start":0.433,"end":6.976,"segType":"intro"},
+      {"start":6.976,"end":29.004,"segType":"verse"},
+      {"start":29.004,"end":51.118,"segType":"verse"},
+      {"start":51.118,"end":71.100,"segType":"bridge"},
+      {"start":71.100,"end":93.665,"segType":"verse"},
+      {"start":93.665,"end":113.680,"segType":"bridge"},
+      {"start":113.680,"end":136.424,"segType":"verse"},
+      {"start":136.424,"end":152.592,"segType":"outro"},
+      {"start":152.592,"end":157.133,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 85, "order": 8, "trackTitle": "Good Day Sunshine",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.424,"segType":"silence"},
+      {"start":0.424,"end":8.492,"segType":"intro"},
+      {"start":8.492,"end":20.596,"segType":"refrain"},
+      {"start":20.596,"end":36.908,"segType":"verse"},
+      {"start":36.908,"end":49.232,"segType":"refrain"},
+      {"start":49.232,"end":65.695,"segType":"verse_-_break"},
+      {"start":65.695,"end":78.089,"segType":"refrain"},
+      {"start":78.089,"end":94.459,"segType":"verse"},
+      {"start":94.459,"end":106.229,"segType":"refrain"},
+      {"start":106.229,"end":117.785,"segType":"refrain"},
+      {"start":117.785,"end":125.940,"segType":"outro"},
+      {"start":125.940,"end":129.760,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 86, "order": 9, "trackTitle": "And Your Bird Can Sing",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.453,"segType":"silence"},
+      {"start":0.453,"end":7.709,"segType":"intro"},
+      {"start":7.709,"end":22.245,"segType":"verse"},
+      {"start":22.245,"end":36.641,"segType":"verse"},
+      {"start":36.641,"end":51.154,"segType":"bridge"},
+      {"start":51.154,"end":65.567,"segType":"verse_guitar_solo"},
+      {"start":65.567,"end":80.098,"segType":"bridge"},
+      {"start":80.098,"end":94.498,"segType":"verse"},
+      {"start":94.498,"end":108.914,"segType":"verse_guitar_solo"},
+      {"start":108.914,"end":117.965,"segType":"outro"},
+      {"start":117.965,"end":121.733,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 87, "order": 10, "trackTitle": "For No One",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.418,"segType":"silence"},
+      {"start":0.418,"end":12.527,"segType":"verse"},
+      {"start":12.527,"end":24.300,"segType":"verse"},
+      {"start":24.300,"end":38.777,"segType":"bridge"},
+      {"start":38.777,"end":50.770,"segType":"verse"},
+      {"start":50.770,"end":62.578,"segType":"verse_instrumental_solo"},
+      {"start":62.578,"end":76.890,"segType":"bridge"},
+      {"start":76.890,"end":88.787,"segType":"verse"},
+      {"start":88.787,"end":100.502,"segType":"verse"},
+      {"start":100.502,"end":117.098,"segType":"bridge_with_ending"},
+      {"start":117.098,"end":121.707,"segType":"silence"}
+    ]
+    },
+    {"trackIndex": 88, "order": 11, "trackTitle": "Doctor Robert",
+    "authorship":[
+      {"McCartney": 0.25},
+      {"Lennon": 0.75},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.377,"segType":"silence"},
+      {"start":0.377,"end":6.176,"segType":"intro"},
+      {"start":6.176,"end":32.369,"segType":"verse"},
+      {"start":32.369,"end":58.661,"segType":"verse"},
+      {"start":58.661,"end":73.469,"segType":"refrain"},
+      {"start":73.469,"end":99.776,"segType":"verse"},
+      {"start":99.776,"end":114.759,"segType":"refrain"},
+      {"start":114.759,"end":131.832,"segType":"outro_verse"},
+      {"start":131.832,"end":135.200,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 89, "order": 12, "trackTitle": "I Want to Tell You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.450,"segType":"silence"},
+      {"start":0.450,"end":7.505,"segType":"intro"},
+      {"start":7.505,"end":35.585,"segType":"verse"},
+      {"start":35.585,"end":63.657,"segType":"verse"},
+      {"start":63.657,"end":74.118,"segType":"refrain"},
+      {"start":74.118,"end":102.237,"segType":"verse"},
+      {"start":102.237,"end":116.473,"segType":"refrain"},
+      {"start":116.473,"end":130.286,"segType":"refrain"},
+      {"start":130.286,"end":144.808,"segType":"outro"},
+      {"start":144.808,"end":150.627,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 90, "order": 13, "trackTitle": "Got to Get You into My Life",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":0.450,"segType":"silence"},
+      {"start":0.450,"end":7.505,"segType":"intro"},
+      {"start":7.505,"end":35.585,"segType":"verse"},
+      {"start":35.585,"end":63.657,"segType":"verse"},
+      {"start":63.657,"end":74.118,"segType":"refrain"},
+      {"start":74.118,"end":102.237,"segType":"verse"},
+      {"start":102.237,"end":116.473,"segType":"refrain"},
+      {"start":116.473,"end":130.286,"segType":"refrain"},
+      {"start":130.286,"end":144.808,"segType":"outro"},
+      {"start":144.808,"end":150.627,"segType":"silence"}
+      ]
+    },
+    {"trackIndex": 91, "order": 14, "trackTitle": "Tomorrow Never Knows",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
+      {"start":0.000,"end":1.013,"segType":"silence"},
+      {"start":1.013,"end":11.731,"segType":"intro"},
+      {"start":11.731,"end":26.610,"segType":"verse"},
+      {"start":26.610,"end":41.749,"segType":"verse"},
+      {"start":41.749,"end":56.823,"segType":"verse"},
+      {"start":56.823,"end":87.146,"segType":"instrumental"},
+      {"start":87.146,"end":102.416,"segType":"verse"},
+      {"start":102.416,"end":117.671,"segType":"verse"},
+      {"start":117.671,"end":133.004,"segType":"verse"},
+      {"start":133.004,"end":148.441,"segType":"verse"},
+      {"start":148.441,"end":175.604,"segType":"outro"},
+      {"start":175.604,"end":177.400,"segType":"silence"}
+      ]
+    }
+  ]},
+  {"albumKey": "sgtPeppersLonelyHeartsClubBand", "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+  "releaseDate": {
+    "year": 1967,
+    "month": 6,
+    "day": 1
+  },
+  "tracks": [
+    {"trackIndex": 92, "order": 1, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":22.599,"segType":"intro"},
+{"start":22.599,"end":42.952,"segType":"verse"},
+{"start":42.952,"end":55.665,"segType":"bridge_instr"},
+{"start":55.665,"end":85.746,"segType":"refrain"},
+{"start":85.746,"end":97.937,"segType":"bridge"},
+{"start":97.937,"end":117.650,"segType":"verse"},
+{"start":117.650,"end":122.427,"segType":"outro"}]
+    },
+    {"trackIndex": 93, "order": 2, "trackTitle": "With a Little Help from My Friends",
+    "authorship":[
+      {"McCartney": 0.75},
+      {"Lennon": 0.25},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":8.818,"segType":"intro"},
+{"start":8.818,"end":26.431,"segType":"verse"},
+{"start":26.431,"end":43.579,"segType":"refrain"},
+{"start":43.579,"end":60.738,"segType":"verse"},
+{"start":60.738,"end":73.567,"segType":"refrain"},
+{"start":73.567,"end":90.645,"segType":"bridge"},
+{"start":90.645,"end":107.735,"segType":"verse"},
+{"start":107.735,"end":120.599,"segType":"refrain"},
+{"start":120.599,"end":137.654,"segType":"bridge"},
+{"start":137.654,"end":150.448,"segType":"refrain"},
+{"start":150.448,"end":164.008,"segType":"outro"},
+{"start":164.008,"end":164.009,"segType":"silence"}]
+    },
+    {"trackIndex": 94, "order": 3, "trackTitle": "Lucy in the Sky with Diamonds",
+    "authorship":[
+      {"McCartney": 0.2},
+      {"Lennon": 0.8},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.212,"segType":"silence"},
+{"start":0.212,"end":6.145,"segType":"intro"},
+{"start":6.145,"end":32.453,"segType":"verse"},
+{"start":32.453,"end":50.507,"segType":"bridge"},
+{"start":50.507,"end":68.467,"segType":"refrain"},
+{"start":68.467,"end":93.638,"segType":"verse"},
+{"start":93.638,"end":111.064,"segType":"bridge"},
+{"start":111.064,"end":128.932,"segType":"refrain"},
+{"start":128.932,"end":153.951,"segType":"verse"},
+{"start":153.951,"end":173.712,"segType":"refrain"},
+{"start":173.712,"end":193.356,"segType":"refrain"},
+{"start":193.356,"end":205.727,"segType":"refrain"},
+{"start":205.727,"end":208.440,"segType":"silence"}]
+    },
+    {"trackIndex": 95, "order": 4, "trackTitle": "Getting Better",
+    "authorship":[
+      {"McCartney": 0.65},
+      {"Lennon": 0.35},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.391,"segType":"silence"},
+{"start":0.391,"end":8.772,"segType":"intro"},
+{"start":8.772,"end":24.840,"segType":"verse"},
+{"start":24.840,"end":40.792,"segType":"refrain"},
+{"start":40.792,"end":60.425,"segType":"verse"},
+{"start":60.425,"end":76.133,"segType":"refrain"},
+{"start":76.133,"end":95.742,"segType":"bridge"},
+{"start":95.742,"end":117.314,"segType":"verse"},
+{"start":117.314,"end":132.941,"segType":"refrain"},
+{"start":132.941,"end":156.439,"segType":"bridge"},
+{"start":156.439,"end":167.511,"segType":"outro"},
+{"start":167.511,"end":167.867,"segType":"silence"}]
+    },
+    {"trackIndex": 96, "order": 5, "trackTitle": "Fixing a Hole",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.353,"segType":"silence"},
+{"start":0.353,"end":6.705,"segType":"intro"},
+{"start":6.705,"end":24.840,"segType":"verse"},
+{"start":24.840,"end":42.325,"segType":"verse"},
+{"start":42.325,"end":59.496,"segType":"bridge"},
+{"start":59.496,"end":76.609,"segType":"verse"},
+{"start":76.609,"end":93.258,"segType":"verse_guitar"},
+{"start":93.258,"end":109.802,"segType":"bridge"},
+{"start":109.802,"end":126.578,"segType":"verse"},
+{"start":126.578,"end":154.077,"segType":"outro"},
+{"start":154.077,"end":156.627,"segType":"silence"}]
+    },
+    {"trackIndex": 97, "order": 6, "trackTitle": "She's Leaving Home",
+    "authorship":[
+      {"McCartney": 0.65},
+      {"Lennon": 0.35},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.569,"segType":"silence"},
+{"start":0.569,"end":5.916,"segType":"intro"},
+{"start":5.916,"end":28.195,"segType":"verse"},
+{"start":28.195,"end":50.754,"segType":"verse"},
+{"start":50.754,"end":77.642,"segType":"refrain"},
+{"start":77.642,"end":100.932,"segType":"verse"},
+{"start":100.932,"end":124.175,"segType":"verse"},
+{"start":124.175,"end":150.983,"segType":"refrain"},
+{"start":150.983,"end":174.017,"segType":"verse"},
+{"start":174.017,"end":201.962,"segType":"refrain"},
+{"start":201.962,"end":213.916,"segType":"outro"},
+{"start":213.916,"end":215.040,"segType":"silence"}]
+    },
+    {"trackIndex": 98, "order": 7, "trackTitle": "Being for the Benefit of Mr. Kite!",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.547,"segType":"silence"},
+{"start":0.547,"end":6.938,"segType":"intro"},
+{"start":6.938,"end":37.135,"segType":"verse"},
+{"start":37.135,"end":60.576,"segType":"verse"},
+{"start":60.576,"end":89.136,"segType":"bridge"},
+{"start":89.136,"end":112.844,"segType":"verse"},
+{"start":112.844,"end":154.776,"segType":"bridge"},
+{"start":154.776,"end":157.093,"segType":"silence"}]
+    },
+    {"trackIndex": 99, "order": 8, "trackTitle": "Within You Without You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.824,"segType":"silence"},
+{"start":1.824,"end":23.328,"segType":"intro"},
+{"start":23.328,"end":76.134,"segType":"verse"},
+{"start":76.134,"end":118.926,"segType":"verse"},
+{"start":118.926,"end":143.555,"segType":"refrain"},
+{"start":143.555,"end":211.448,"segType":"verse_instr"},
+{"start":211.448,"end":221.282,"segType":"intro"},
+{"start":221.282,"end":273.463,"segType":"verse"},
+{"start":273.463,"end":304.001,"segType":"refrain"},
+{"start":304.001,"end":305.067,"segType":"silence"}]
+    },
+    {"trackIndex": 100, "order": 9, "trackTitle": "When I'm Sixty-Four",
+    "authorship":[
+      {"McCartney": 0.85},
+      {"Lennon": 0.15},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.343,"segType":"silence"},
+      {"start":0.343,"end":10.734,"segType":"intro"},
+      {"start":10.734,"end":38.401,"segType":"verse"},
+      {"start":38.401,"end":67.298,"segType":"bridge"},
+      {"start":67.298,"end":94.488,"segType":"verse"},
+      {"start":94.488,"end":123.211,"segType":"bridge"},
+      {"start":123.211,"end":150.344,"segType":"verse"},
+      {"start":150.344,"end":157.073,"segType":"outro"},
+      {"start":157.073,"end":157.707,"segType":"silence"}]
+    },
+    {"trackIndex": 101, "order": 10, "trackTitle": "Lovely Rita",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.320,"segType":"silence"},
+{"start":0.320,"end":22.170,"segType":"intro"},
+{"start":22.170,"end":33.199,"segType":"verse"},
+{"start":33.199,"end":52.460,"segType":"bridge"},
+{"start":52.460,"end":71.756,"segType":"verse"},
+{"start":71.756,"end":82.739,"segType":"verse_piano"},
+{"start":82.739,"end":101.826,"segType":"bridge"},
+{"start":101.826,"end":110.069,"segType":"verse"},
+{"start":110.069,"end":131.745,"segType":"outro_a"},
+{"start":131.745,"end":161.359,"segType":"outro_b"},
+{"start":161.359,"end":162.093,"segType":"silence"}]
+    },
+    {"trackIndex": 102, "order": 11, "trackTitle": "Good Morning Good Morning",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":11.732,"segType":"intro"},
+{"start":11.732,"end":33.873,"segType":"verse_a"},
+{"start":33.873,"end":42.766,"segType":"verse_b"},
+{"start":42.766,"end":54.666,"segType":"bridge"},
+{"start":54.666,"end":76.876,"segType":"verse_a"},
+{"start":76.876,"end":85.734,"segType":"verse_b_guitar"},
+{"start":85.734,"end":97.519,"segType":"bridge"},
+{"start":97.519,"end":119.624,"segType":"verse"},
+{"start":119.624,"end":161.307,"segType":"outro"}]
+    },
+    {"trackIndex": 103, "order": 12, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":20.533,"segType":"intro"},
+{"start":20.533,"end":44.821,"segType":"refrain"},
+{"start":44.821,"end":78.893,"segType":"refrain_trans"}]
+    },
+    {"trackIndex": 1031, "order": 13, "trackTitle": "A Day in the Life",
+    "authorship":[
+      {"McCartney": 0.4},
+      {"Lennon": 0.6},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":12.848,"segType":"intro"},
+{"start":12.848,"end":43.950,"segType":"verse"},
+{"start":43.950,"end":71.698,"segType":"verse"},
+{"start":71.698,"end":100.897,"segType":"verse"},
+{"start":100.897,"end":135.680,"segType":"bridge"},
+{"start":135.680,"end":169.152,"segType":"vocal"},
+{"start":169.152,"end":198.340,"segType":"instrumental"},
+{"start":198.340,"end":226.354,"segType":"verse"},
+{"start":226.354,"end":261.154,"segType":"bridge"},
+{"start":261.154,"end":303.624,"segType":"outro"},
+{"start":303.624,"end":306.860,"segType":"silence"},
+{"start":306.860,"end":333.876,"segType":"postscript"},
+{"start":333.876,"end":333.907,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "magicalMysteryTour", "albumTitle": "Magical Mystery Tour",
+  "releaseDate": {
+    "year": 1967,
+    "month": 11,
+    "day": 27
+  },
+  "tracks": [
+    {"trackIndex": 104, "order": 1, "trackTitle": "Magical Mystery Tour",
+    "authorship":[
+      {"McCartney": 0.9},
+      {"Lennon": 0.1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.029,"segType":"silence"},
+      {"start":1.029,"end":9.739,"segType":"intro"},
+      {"start":9.739,"end":32.776,"segType":"verse"},
+      {"start":32.776,"end":41.584,"segType":"refrain"},
+      {"start":41.584,"end":64.261,"segType":"verse"},
+      {"start":64.261,"end":73.012,"segType":"refrain"},
+      {"start":73.012,"end":87.216,"segType":"bridge_--instrumental--"},
+      {"start":87.216,"end":116.686,"segType":"verse_--slow--"},
+      {"start":116.686,"end":128.620,"segType":"refrain"},
+      {"start":128.620,"end":140.245,"segType":"refrain"},
+      {"start":140.245,"end":166.204,"segType":"outro"},
+      {"start":166.204,"end":171.827,"segType":"silence"}]
+    },
+    {"trackIndex": 105, "order": 2, "trackTitle": "The Fool on the Hill",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.420,"segType":"silence"},
+      {"start":0.420,"end":4.008,"segType":"intro"},
+      {"start":4.008,"end":27.698,"segType":"verse"},
+      {"start":27.698,"end":44.376,"segType":"refrain"},
+      {"start":44.376,"end":67.543,"segType":"verse"},
+      {"start":67.543,"end":83.940,"segType":"refrain"},
+      {"start":83.940,"end":107.216,"segType":"verse_--instrumental--"},
+      {"start":107.216,"end":123.751,"segType":"refrain"},
+      {"start":123.751,"end":146.890,"segType":"verse_--instrumental--"},
+      {"start":146.890,"end":159.918,"segType":"refrain"},
+      {"start":159.918,"end":176.109,"segType":"outro"},
+      {"start":176.109,"end":180.173,"segType":"silence"}]
+    },
+    {"trackIndex": 106, "order": 3, "trackTitle": "Flying",
+    "authorship":[
+      {"McCartney": 0.25},
+      {"Lennon": 0.25},
+      {"Harrison": 0.25},
+      {"Starr": 0.25},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.383,"segType":"silence"},
+      {"start":0.383,"end":31.533,"segType":"intro"},
+      {"start":31.533,"end":62.392,"segType":"verse"},
+      {"start":62.392,"end":93.337,"segType":"verse"},
+      {"start":93.337,"end":131.749,"segType":"outro"},
+      {"start":131.749,"end":136.960,"segType":"silence"}]
+    },
+    {"trackIndex": 107, "order": 4, "trackTitle": "Blue Jay Way",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.743,"segType":"silence"},
+      {"start":0.743,"end":24.181,"segType":"intro"},
+      {"start":24.181,"end":48.927,"segType":"verse"},
+      {"start":48.927,"end":70.519,"segType":"refrain"},
+      {"start":70.519,"end":92.163,"segType":"verse"},
+      {"start":92.163,"end":112.718,"segType":"refrain"},
+      {"start":112.718,"end":133.747,"segType":"verse"},
+      {"start":133.747,"end":151.324,"segType":"refrain"},
+      {"start":151.324,"end":168.882,"segType":"refrain"},
+      {"start":168.882,"end":186.580,"segType":"refrain"},
+      {"start":186.580,"end":233.327,"segType":"outro_refrain"},
+      {"start":233.327,"end":236.707,"segType":"silence"}]
+    },
+    {"trackIndex": 108, "order": 5, "trackTitle": "Your Mother Should Know",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.416,"segType":"silence"},
+      {"start":0.416,"end":4.748,"segType":"intro"},
+      {"start":4.748,"end":24.816,"segType":"verse"},
+      {"start":24.816,"end":47.445,"segType":"verse"},
+      {"start":47.445,"end":62.868,"segType":"bridge"},
+      {"start":62.868,"end":91.396,"segType":"verse"},
+      {"start":91.396,"end":104.588,"segType":"bridge"},
+      {"start":104.588,"end":127.025,"segType":"verse"},
+      {"start":127.025,"end":145.575,"segType":"outro"},
+      {"start":145.575,"end":149.600,"segType":"silence"}]
+    },
+    {"trackIndex": 109, "order": 6, "trackTitle": "I Am the Walrus",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.394,"segType":"silence"},
+      {"start":0.394,"end":21.780,"segType":"intro"},
+      {"start":21.780,"end":38.917,"segType":"first_verse"},
+      {"start":38.917,"end":55.910,"segType":"second_verse"},
+      {"start":55.910,"end":64.418,"segType":"refrain"},
+      {"start":64.418,"end":95.543,"segType":"first_verse_variant"},
+      {"start":95.543,"end":112.300,"segType":"second_verse"},
+      {"start":112.300,"end":120.645,"segType":"refrain"},
+      {"start":120.645,"end":145.616,"segType":"intro_redux"},
+      {"start":145.616,"end":156.502,"segType":"refrain"},
+      {"start":156.502,"end":173.267,"segType":"first_verse"},
+      {"start":173.267,"end":189.616,"segType":"second_verse"},
+      {"start":189.616,"end":197.625,"segType":"refrain"},
+      {"start":197.625,"end":273.283,"segType":"outro"},
+      {"start":273.283,"end":277.067,"segType":"silence"}]
+    },
+    {"trackIndex": 110, "order": 7, "trackTitle": "Hello Goodbye",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.502,"segType":"silence"},
+      {"start":0.502,"end":17.796,"segType":"verse"},
+      {"start":17.796,"end":38.791,"segType":"refrain"},
+      {"start":38.791,"end":55.856,"segType":"verse"},
+      {"start":55.856,"end":76.672,"segType":"refrain"},
+      {"start":76.672,"end":93.437,"segType":"verse_--instrumental--"},
+      {"start":93.437,"end":113.992,"segType":"refrain"},
+      {"start":113.992,"end":130.728,"segType":"verse"},
+      {"start":130.728,"end":141.518,"segType":"refrain"},
+      {"start":141.518,"end":165.642,"segType":"first_outro"},
+      {"start":165.642,"end":206.381,"segType":"second_outro"},
+      {"start":206.381,"end":211.467,"segType":"silence"}]
+    },
+    {"trackIndex": 111, "order": 8, "trackTitle": "Strawberry Fields Forever",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.358,"segType":"silence"},
+      {"start":0.358,"end":15.070,"segType":"intro"},
+      {"start":15.070,"end":34.412,"segType":"refrain"},
+      {"start":34.412,"end":60.627,"segType":"verse"},
+      {"start":60.627,"end":80.805,"segType":"refrain"},
+      {"start":80.805,"end":106.171,"segType":"verse"},
+      {"start":106.171,"end":126.471,"segType":"refrain"},
+      {"start":126.471,"end":151.876,"segType":"verse"},
+      {"start":151.876,"end":172.278,"segType":"refrain"},
+      {"start":172.278,"end":249.540,"segType":"outro_--double_fade-out--"},
+      {"start":249.540,"end":250.493,"segType":"silence"}]
+    },
+    {"trackIndex": 112, "order": 9, "trackTitle": "Penny Lane",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.978,"segType":"silence"},
+      {"start":0.978,"end":18.239,"segType":"verse"},
+      {"start":18.239,"end":35.337,"segType":"verse"},
+      {"start":35.337,"end":52.056,"segType":"refrain"},
+      {"start":52.056,"end":68.980,"segType":"verse"},
+      {"start":68.980,"end":85.910,"segType":"verse_--solo--"},
+      {"start":85.910,"end":102.833,"segType":"refrain"},
+      {"start":102.833,"end":119.706,"segType":"verse"},
+      {"start":119.706,"end":136.549,"segType":"verse"},
+      {"start":136.549,"end":153.579,"segType":"refrain"},
+      {"start":153.579,"end":180.009,"segType":"outro_refrain"},
+      {"start":180.009,"end":183.373,"segType":"silence"}]
+    },
+    {"trackIndex": 113, "order": 10, "trackTitle": "Baby You're a Rich Man",
+    "authorship":[
+      {"McCartney": 0.5},
+      {"Lennon": 0.5},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.370,"segType":"silence"},
+      {"start":0.370,"end":20.695,"segType":"intro"},
+      {"start":20.695,"end":48.090,"segType":"verse"},
+      {"start":48.090,"end":75.236,"segType":"verse"},
+      {"start":75.236,"end":104.962,"segType":"refrain"},
+      {"start":104.962,"end":132.070,"segType":"verse"},
+      {"start":132.070,"end":161.634,"segType":"refrain"},
+      {"start":161.634,"end":177.998,"segType":"outro_--fade-out--"},
+      {"start":177.998,"end":183.760,"segType":"silence"}]
+    },
+    {"trackIndex": 114, "order": 11, "trackTitle": "All You Need Is Love",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.400,"segType":"silence"},
+      {"start":0.400,"end":26.773,"segType":"intro"},
+      {"start":26.773,"end":44.262,"segType":"verse"},
+      {"start":44.262,"end":61.581,"segType":"verse"},
+      {"start":61.581,"end":79.219,"segType":"refrain"},
+      {"start":79.219,"end":96.068,"segType":"verse_--guitar_solo--"},
+      {"start":96.068,"end":113.459,"segType":"refrain"},
+      {"start":113.459,"end":130.091,"segType":"verse"},
+      {"start":130.091,"end":147.170,"segType":"refrain"},
+      {"start":147.170,"end":164.257,"segType":"refrain"},
+      {"start":164.257,"end":224.000,"segType":"outro_--fade-out--"},
+      {"start":224.000,"end":228.440,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "theBeatlesWhiteAlbum", "albumTitle": "The Beatles --White Album--",
+  "releaseDate": {
+    "year": 1968,
+    "month": 11,
+    "day": 22
+  },
+  "tracks": [
+    {"trackIndex": 115, "order": 1, "trackTitle": "Back in the USSR",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":3.044,"segType":"silence"},
+      {"start":3.044,"end":16.708,"segType":"intro"},
+      {"start":16.708,"end":30.081,"segType":"verse"},
+      {"start":30.081,"end":40.159,"segType":"refrain"},
+      {"start":40.159,"end":53.711,"segType":"verse"},
+      {"start":53.711,"end":66.183,"segType":"refrain"},
+      {"start":66.183,"end":83.061,"segType":"bridge"},
+      {"start":83.061,"end":96.490,"segType":"verse_--guitar_solo--"},
+      {"start":96.490,"end":106.580,"segType":"refrain"},
+      {"start":106.580,"end":123.588,"segType":"bridge"},
+      {"start":123.588,"end":137.183,"segType":"verse"},
+      {"start":137.183,"end":147.331,"segType":"refrain"},
+      {"start":147.331,"end":163.321,"segType":"outro"},
+      {"start":163.321,"end":163.322,"segType":"silence"}]
+    },
+    {"trackIndex": 116, "order": 2, "trackTitle": "Dear Prudence",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":18.155,"segType":"intro"},
+      {"start":18.155,"end":63.576,"segType":"verse"},
+      {"start":63.576,"end":108.131,"segType":"verse"},
+      {"start":108.131,"end":131.982,"segType":"bridge"},
+      {"start":131.982,"end":175.914,"segType":"verse"},
+      {"start":175.914,"end":219.498,"segType":"verse'"},
+      {"start":219.498,"end":232.904,"segType":"outro"},
+      {"start":232.904,"end":236.360,"segType":"silence"}]
+    },
+    {"trackIndex": 117, "order": 3, "trackTitle": "Glass Onion",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.404,"segType":"silence"},
+    {"start":1.404,"end":13.462,"segType":"verse"},
+    {"start":13.462,"end":31.306,"segType":"refrain"},
+    {"start":31.306,"end":43.307,"segType":"verse"},
+    {"start":43.307,"end":61.176,"segType":"refrain"},
+    {"start":61.176,"end":80.808,"segType":"bridge"},
+    {"start":80.808,"end":92.784,"segType":"verse"},
+    {"start":92.784,"end":109.064,"segType":"refrain"},
+    {"start":109.064,"end":137.976,"segType":"outro"},
+    {"start":137.976,"end":137.977,"segType":"silence"}]
+    },
+    {"trackIndex": 118, "order": 4, "trackTitle": "Ob-La-Di, Ob-La-Da",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.098,"segType":"silence"},
+      {"start":0.098,"end":10.707,"segType":"intro"},
+      {"start":10.707,"end":27.755,"segType":"verse"},
+      {"start":27.755,"end":44.653,"segType":"refrain"},
+      {"start":44.653,"end":61.453,"segType":"verse"},
+      {"start":61.453,"end":78.367,"segType":"refrain"},
+      {"start":78.367,"end":95.233,"segType":"bridge"},
+      {"start":95.233,"end":112.196,"segType":"verse"},
+      {"start":112.196,"end":129.110,"segType":"refrain"},
+      {"start":129.110,"end":146.088,"segType":"bridge"},
+      {"start":146.088,"end":163.102,"segType":"verse"},
+      {"start":163.102,"end":180.203,"segType":"refrain"},
+      {"start":180.203,"end":188.854,"segType":"outro"},
+      {"start":188.854,"end":188.855,"segType":"silence"}]
+    },
+    {"trackIndex": 119, "order": 5, "trackTitle": "Wild Honey Pie",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.098,"segType":"silence"},
+      {"start":0.098,"end":9.445,"segType":"break"},
+      {"start":9.445,"end":14.883,"segType":"refrain"},
+      {"start":14.883,"end":24.184,"segType":"break"},
+      {"start":24.184,"end":29.551,"segType":"refrain"},
+      {"start":29.551,"end":38.890,"segType":"break"},
+      {"start":38.890,"end":44.290,"segType":"refrain"},
+      {"start":44.290,"end":52.932,"segType":"outro"},
+      {"start":52.932,"end":52.933,"segType":"silence"}]
+    },
+    {"trackIndex": 120, "order": 6, "trackTitle": "The Continuing Story of Bungalow Bill",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":8.507,"segType":"intro"},
+      {"start":8.507,"end":24.252,"segType":"refrain"},
+      {"start":24.252,"end":46.010,"segType":"verse"},
+      {"start":46.010,"end":61.719,"segType":"refrain"},
+      {"start":61.719,"end":83.951,"segType":"verse"},
+      {"start":83.951,"end":99.660,"segType":"refrain"},
+      {"start":99.660,"end":121.614,"segType":"verse"},
+      {"start":121.614,"end":136.196,"segType":"refrain"},
+      {"start":136.196,"end":150.837,"segType":"refrain"},
+      {"start":150.837,"end":194.067,"segType":"outro"},
+      {"start":194.067,"end":194.067,"segType":"silence"}]
+    },
+    {"trackIndex": 121, "order": 7, "trackTitle": "While My Guitar Gently Weeps",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":17.012,"segType":"intro"},
+      {"start":17.012,"end":50.776,"segType":"verse"},
+      {"start":50.776,"end":84.506,"segType":"bridge"},
+      {"start":84.506,"end":117.830,"segType":"verse"},
+      {"start":117.830,"end":150.698,"segType":"verse_--solo--"},
+      {"start":150.698,"end":184.049,"segType":"bridge"},
+      {"start":184.049,"end":217.275,"segType":"verse"},
+      {"start":217.275,"end":280.626,"segType":"outro"},
+      {"start":280.626,"end":285.293,"segType":"silence"}]
+    },
+    {"trackIndex": 122, "order": 8, "trackTitle": "Happiness Is a Warm Gun",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":44.620,"segType":"part_1"},
+      {"start":44.620,"end":73.143,"segType":"part_2"},
+      {"start":73.143,"end":94.498,"segType":"part_3"},
+      {"start":94.498,"end":161.633,"segType":"part_4"},
+      {"start":161.633,"end":163.467,"segType":"silence"}]
+    },
+    {"trackIndex": 123, "order": 9, "trackTitle": "Marthy My Dear",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":19.412,"segType":"intro"},
+      {"start":19.412,"end":38.441,"segType":"verse"},
+      {"start":38.441,"end":60.114,"segType":"bridge"},
+      {"start":60.114,"end":80.327,"segType":"bridge_extension"},
+      {"start":80.327,"end":99.886,"segType":"verse_--instrumental--"},
+      {"start":99.886,"end":123.256,"segType":"bridge"},
+      {"start":123.256,"end":142.524,"segType":"verse"},
+      {"start":142.524,"end":147.508,"segType":"outro"},
+      {"start":147.508,"end":148.733,"segType":"silence"}]
+    },
+    {"trackIndex": 124, "order": 10, "trackTitle": "I'm So Tired",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.474,"segType":"silence"},
+      {"start":1.474,"end":24.603,"segType":"verse"},
+      {"start":24.603,"end":47.071,"segType":"verse"},
+      {"start":47.071,"end":67.117,"segType":"refrain"},
+      {"start":67.117,"end":89.107,"segType":"verse"},
+      {"start":89.107,"end":108.611,"segType":"refrain"},
+      {"start":108.611,"end":123.307,"segType":"outro"},
+      {"start":123.307,"end":123.307,"segType":"silence"}]
+    },
+    {"trackIndex": 125, "order": 11, "trackTitle": "Black Bird",
+    "authorship":[
+      {"McCartney": 0.95},
+      {"Lennon": 0.05},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":4.573,"segType":"intro"},
+      {"start":4.573,"end":22.107,"segType":"verse"},
+      {"start":22.107,"end":28.457,"segType":"interlude"},
+      {"start":28.457,"end":46.974,"segType":"verse"},
+      {"start":46.974,"end":60.294,"segType":"refrain"},
+      {"start":60.294,"end":76.931,"segType":"verse_--instrumental--"},
+      {"start":76.931,"end":90.188,"segType":"refrain"},
+      {"start":90.188,"end":106.947,"segType":"interlude"},
+      {"start":106.947,"end":125.371,"segType":"verse"},
+      {"start":125.371,"end":138.267,"segType":"outro"},
+      {"start":138.267,"end":138.267,"segType":"silence"}]
+    },
+    {"trackIndex": 126, "order": 12, "trackTitle": "Piggies",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0.1},
+      {"Harrison": 0.85},
+      {"Starr": 0},
+      {"Other": 0.05}
+    ],
+    "segments":
+      [{"start":0.000,"end":5.502,"segType":"intro"},
+      {"start":5.502,"end":21.633,"segType":"verse"},
+      {"start":21.633,"end":26.918,"segType":"intro"},
+      {"start":26.918,"end":42.828,"segType":"verse"},
+      {"start":42.828,"end":47.996,"segType":"intro'"},
+      {"start":47.996,"end":65.980,"segType":"bridge"},
+      {"start":65.980,"end":81.398,"segType":"verse_--instrumental--"},
+      {"start":81.398,"end":86.506,"segType":"intro"},
+      {"start":86.506,"end":101.964,"segType":"verse"},
+      {"start":101.964,"end":124.333,"segType":"outro"},
+      {"start":124.333,"end":124.333,"segType":"silence"}]
+    },
+    {"trackIndex": 1261, "order": 13, "trackTitle": "Rocky Raccoon",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":6.455,"segType":"c"},
+      {"start":6.455,"end":30.514,"segType":"intro"},
+      {"start":30.514,"end":54.895,"segType":"refrain_a"},
+      {"start":54.895,"end":79.238,"segType":"verse"},
+      {"start":79.238,"end":103.681,"segType":"verse"},
+      {"start":103.681,"end":115.673,"segType":"half_verse_--climax--"},
+      {"start":115.673,"end":138.699,"segType":"refrain_b"},
+      {"start":138.699,"end":162.415,"segType":"verse"},
+      {"start":162.415,"end":186.125,"segType":"refrain_a"},
+      {"start":186.125,"end":205.959,"segType":"refrain_b"},
+      {"start":205.959,"end":212.893,"segType":"outro"},
+      {"start":212.893,"end":212.893,"segType":"silence"}]
+    },
+    {"trackIndex": 1262, "order": 14, "trackTitle": "Don't Pass Me By",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 1},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":17.006,"segType":"intro"},
+      {"start":17.006,"end":43.584,"segType":"verse"},
+      {"start":43.584,"end":70.275,"segType":"verse"},
+      {"start":70.275,"end":104.339,"segType":"refrain"},
+      {"start":104.339,"end":131.045,"segType":"verse"},
+      {"start":131.045,"end":159.184,"segType":"refrain"},
+      {"start":159.184,"end":175.959,"segType":"interlude"},
+      {"start":175.959,"end":206.016,"segType":"refrain"},
+      {"start":206.016,"end":230.400,"segType":"outro"},
+      {"start":230.400,"end":230.400,"segType":"silence"}]
+    },
+    {"trackIndex": 1263, "order": 15, "trackTitle": "Why Don't We Do It in the Road",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":10.414,"segType":"intro"},
+      {"start":10.414,"end":41.037,"segType":"refrain"},
+      {"start":41.037,"end":71.673,"segType":"refrain"},
+      {"start":71.673,"end":99.389,"segType":"refrain_--with_ending--"},
+      {"start":99.389,"end":101.440,"segType":"silence"}]
+    },
+    {"trackIndex": 1264, "order": 16, "trackTitle": "I Will",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.091,"segType":"silence"},
+      {"start":1.091,"end":22.139,"segType":"verse"},
+      {"start":22.139,"end":40.728,"segType":"verse"},
+      {"start":40.728,"end":59.339,"segType":"bridge"},
+      {"start":59.339,"end":84.931,"segType":"verse"},
+      {"start":84.931,"end":106.027,"segType":"outro"},
+      {"start":106.027,"end":106.027,"segType":"silence"}]
+    },
+    {"trackIndex": 1265, "order": 17, "trackTitle": "Julia",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0.75},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0.25}
+    ],
+    "segments":
+      [{"start":0.000,"end":14.694,"segType":"verse"},
+      {"start":14.694,"end":36.033,"segType":"refrain"},
+      {"start":36.033,"end":61.061,"segType":"refrain"},
+      {"start":61.061,"end":78.716,"segType":"bridge"},
+      {"start":78.716,"end":103.816,"segType":"refrain"},
+      {"start":103.816,"end":118.073,"segType":"verse"},
+      {"start":118.073,"end":139.592,"segType":"refrain"},
+      {"start":139.592,"end":160.914,"segType":"refrain"},
+      {"start":160.914,"end":174.200,"segType":"outro"},
+      {"start":174.200,"end":174.200,"segType":"silence"}]
+    },
+    {"trackIndex": 126501, "order": 1, "trackTitle": "Birthday",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.980,"segType":"silence"},
+      {"start":0.980,"end":22.291,"segType":"intro"},
+      {"start":22.291,"end":42.898,"segType":"verse"},
+      {"start":42.898,"end":70.496,"segType":"long_connector"},
+      {"start":70.496,"end":87.918,"segType":"bridge"},
+      {"start":87.918,"end":108.693,"segType":"verse_--instrumental--"},
+      {"start":108.693,"end":115.612,"segType":"short_connector"},
+      {"start":115.612,"end":132.833,"segType":"bridge"},
+      {"start":132.833,"end":153.437,"segType":"verse"},
+      {"start":153.437,"end":162.922,"segType":"outro"},
+      {"start":162.922,"end":162.923,"segType":"silence"}]
+    },
+    {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":3.376,"segType":"silence"},
+      {"start":3.376,"end":32.305,"segType":"verse_a"},
+      {"start":32.305,"end":61.633,"segType":"verse_a"},
+      {"start":61.633,"end":90.874,"segType":"verse_b"},
+      {"start":90.874,"end":120.094,"segType":"verse_b_"},
+      {"start":120.094,"end":147.953,"segType":"verse_b"},
+      {"start":147.953,"end":174.416,"segType":"verse_c_--guitar_solo--"},
+      {"start":174.416,"end":198.078,"segType":"verse_c_--guitar_solo--"},
+      {"start":198.078,"end":237.593,"segType":"outro_verse_a"},
+      {"start":237.593,"end":241.093,"segType":"silence"}]
+    },
+    {"trackIndex": 126503, "order": 3, "trackTitle": "Mother Nature's Son",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":19.690,"segType":"intro"},
+      {"start":19.690,"end":42.516,"segType":"verse"},
+      {"start":42.516,"end":48.089,"segType":"spacer"},
+      {"start":48.089,"end":70.815,"segType":"verse"},
+      {"start":70.815,"end":91.951,"segType":"bridge"},
+      {"start":91.951,"end":114.637,"segType":"verse"},
+      {"start":114.637,"end":135.767,"segType":"bridge"},
+      {"start":135.767,"end":157.040,"segType":"verse"},
+      {"start":157.040,"end":165.706,"segType":"outro"},
+      {"start":165.706,"end":168.040,"segType":"silence"}]
+    },
+    {"trackIndex": 126504, "order": 4, "trackTitle": "Everybody's Got Something to Hide Except Me and My Monkey",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":8.359,"segType":"intro"},
+      {"start":8.359,"end":20.395,"segType":"verse"},
+      {"start":20.395,"end":40.101,"segType":"refrain"},
+      {"start":40.101,"end":60.180,"segType":"verse"},
+      {"start":60.180,"end":79.923,"segType":"refrain"},
+      {"start":79.923,"end":100.078,"segType":"verse"},
+      {"start":100.078,"end":119.739,"segType":"refrain"},
+      {"start":119.739,"end":144.800,"segType":"outro"},
+      {"start":144.800,"end":144.800,"segType":"silence"}]
+    },
+    {"trackIndex": 126505, "order": 5, "trackTitle": "Sexie Sadie",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":9.984,"segType":"intro"},
+      {"start":9.984,"end":32.000,"segType":"verse"},
+      {"start":32.000,"end":54.250,"segType":"verse"},
+      {"start":54.250,"end":69.910,"segType":"bridge"},
+      {"start":69.910,"end":92.148,"segType":"verse"},
+      {"start":92.148,"end":114.556,"segType":"verse"},
+      {"start":114.556,"end":133.608,"segType":"bridge"},
+      {"start":133.608,"end":195.333,"segType":"outro"},
+      {"start":195.333,"end":195.333,"segType":"silence"}]
+    },
+    {"trackIndex": 126506, "order": 6, "trackTitle": "Helter Skelter",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":17.992,"segType":"intro"},
+      {"start":17.992,"end":40.890,"segType":"verse"},
+      {"start":40.890,"end":57.927,"segType":"refrain"},
+      {"start":57.927,"end":78.054,"segType":"verse"},
+      {"start":78.054,"end":95.118,"segType":"refrain"},
+      {"start":95.118,"end":106.696,"segType":"refrain_--instrumental--"},
+      {"start":106.696,"end":121.094,"segType":"intro"},
+      {"start":121.094,"end":141.337,"segType":"verse"},
+      {"start":141.337,"end":152.907,"segType":"refrain"},
+      {"start":152.907,"end":269.231,"segType":"outro"},
+      {"start":269.231,"end":269.667,"segType":"silence"}]
+    },
+    {"trackIndex": 126507, "order": 7, "trackTitle": "Long Long Long",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.360,"segType":"silence"},
+      {"start":0.360,"end":10.090,"segType":"intro"},
+      {"start":10.090,"end":20.131,"segType":"refrain"},
+      {"start":20.131,"end":41.976,"segType":"verse"},
+      {"start":41.976,"end":52.392,"segType":"refrain"},
+      {"start":52.392,"end":74.699,"segType":"verse"},
+      {"start":74.699,"end":100.241,"segType":"bridge"},
+      {"start":100.241,"end":121.371,"segType":"refrain"},
+      {"start":121.371,"end":151.374,"segType":"verse'"},
+      {"start":151.374,"end":183.050,"segType":"outro"},
+      {"start":183.050,"end":184.333,"segType":"silence"}]
+    },
+    {"trackIndex": 126508, "order": 8, "trackTitle": "Revolution 1",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":16.161,"segType":"intro"},
+      {"start":16.161,"end":62.498,"segType":"verse"},
+      {"start":62.498,"end":82.122,"segType":"refrain"},
+      {"start":82.122,"end":126.988,"segType":"verse"},
+      {"start":126.988,"end":141.187,"segType":"refrain"},
+      {"start":141.187,"end":145.981,"segType":"break_--instrumental--"},
+      {"start":145.981,"end":190.171,"segType":"verse"},
+      {"start":190.171,"end":209.698,"segType":"refrain"},
+      {"start":209.698,"end":255.733,"segType":"outro"},
+      {"start":255.733,"end":255.733,"segType":"silence"}]
+    },
+    {"trackIndex": 126509, "order": 9, "trackTitle": "Honey Pie",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.348,"segType":"silence"},
+      {"start":0.348,"end":39.151,"segType":"intro"},
+      {"start":39.151,"end":52.751,"segType":"verse"},
+      {"start":52.751,"end":66.218,"segType":"verse"},
+      {"start":66.218,"end":79.679,"segType":"bridge"},
+      {"start":79.679,"end":92.996,"segType":"verse"},
+      {"start":92.996,"end":106.231,"segType":"verse_--instrumental--"},
+      {"start":106.231,"end":119.396,"segType":"verse_--instrumental--"},
+      {"start":119.396,"end":132.673,"segType":"bridge"},
+      {"start":132.673,"end":145.961,"segType":"verse"},
+      {"start":145.961,"end":161.333,"segType":"end_verse_--instrumental"},
+      {"start":161.333,"end":161.333,"segType":"silence"}]
+    },
+    {"trackIndex": 126510, "order": 10, "trackTitle": "Savoy Truffle",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0.9},
+      {"Starr": 0},
+      {"Other": 0.1}
+    ],
+    "segments":
+      [{"start":0.000,"end":6.678,"segType":"intro"},
+      {"start":6.678,"end":28.630,"segType":"verse"},
+      {"start":28.630,"end":36.560,"segType":"refrain"},
+      {"start":36.560,"end":42.005,"segType":"intro'"},
+      {"start":42.005,"end":63.935,"segType":"verse"},
+      {"start":63.935,"end":71.889,"segType":"refrain"},
+      {"start":71.889,"end":87.288,"segType":"bridge"},
+      {"start":87.288,"end":111.143,"segType":"verse_--instrumental--"},
+      {"start":111.143,"end":118.979,"segType":"refrain"},
+      {"start":118.979,"end":134.531,"segType":"bridge"},
+      {"start":134.531,"end":158.535,"segType":"verse"},
+      {"start":158.535,"end":166.401,"segType":"refrain"},
+      {"start":166.401,"end":173.500,"segType":"outro"},
+      {"start":173.500,"end":174.893,"segType":"silence"}]
+    },
+    {"trackIndex": 126511, "order": 11, "trackTitle": "Cry Baby Cry",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.345,"segType":"silence"},
+      {"start":0.345,"end":11.194,"segType":"refrain"},
+      {"start":11.194,"end":28.340,"segType":"verse"},
+      {"start":28.340,"end":40.726,"segType":"refrain"},
+      {"start":40.726,"end":57.800,"segType":"verse"},
+      {"start":57.800,"end":70.264,"segType":"refrain"},
+      {"start":70.264,"end":87.859,"segType":"verse"},
+      {"start":87.859,"end":100.284,"segType":"refrain"},
+      {"start":100.284,"end":117.996,"segType":"verse"},
+      {"start":117.996,"end":130.620,"segType":"refrain"},
+      {"start":130.620,"end":141.638,"segType":"refrain"},
+      {"start":141.638,"end":182.491,"segType":"outro"},
+      {"start":182.491,"end":182.492,"segType":"silence"}]
+    },
+    {"trackIndex": 126512, "order": 12, "trackTitle": "Revolution 9",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0.75},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0.25}
+    ],
+    "segments":
+      [{"start":0.000,"end":89.702,"segType":"beginning"},
+      {"start":89.702,"end":415.797,"segType":"middle"},
+      {"start":415.797,"end":502.200,"segType":"end"},
+      {"start":502.200,"end":502.200,"segType":"silence"}]
+    },
+    {"trackIndex": 126513, "order": 13, "trackTitle": "Good Night",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.249,"segType":"silence"},
+      {"start":0.249,"end":22.299,"segType":"intro"},
+      {"start":22.299,"end":52.192,"segType":"verse"},
+      {"start":52.192,"end":66.315,"segType":"bridge"},
+      {"start":66.315,"end":95.352,"segType":"verse"},
+      {"start":95.352,"end":109.912,"segType":"bridge"},
+      {"start":109.912,"end":124.019,"segType":"special_bridge_--instrumental--"},
+      {"start":124.019,"end":152.847,"segType":"verse"},
+      {"start":152.847,"end":167.519,"segType":"bridge"},
+      {"start":167.519,"end":190.250,"segType":"outro"},
+      {"start":190.250,"end":191.800,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "letItBe", "albumTitle": "Let It Be",
+  "releaseDate": {
+    "year": 1970,
+    "month": 5,
+    "day": 8
+  },
+  "tracks": [
+    {"trackIndex": 127, "order": 1, "trackTitle": "Two of Us",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.995,"segType":"silence"},
+{"start":0.995,"end":18.856,"segType":"intro"},
+{"start":18.856,"end":49.673,"segType":"verse"},
+{"start":49.673,"end":58.396,"segType":"--intro--"},
+{"start":58.396,"end":89.373,"segType":"verse"},
+{"start":89.373,"end":104.623,"segType":"bridge"},
+{"start":104.623,"end":136.011,"segType":"verse"},
+{"start":136.011,"end":151.499,"segType":"bridge"},
+{"start":151.499,"end":183.271,"segType":"verse"},
+{"start":183.271,"end":213.499,"segType":"outro"},
+{"start":213.499,"end":216.667,"segType":"silence"}]
+    },
+    {"trackIndex": 128, "order": 2, "trackTitle": "Dig a Pony",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.749,"segType":"silence"},
+{"start":0.749,"end":20.480,"segType":"intro"},
+{"start":20.480,"end":40.472,"segType":"verse"},
+{"start":40.472,"end":60.682,"segType":"verse"},
+{"start":60.682,"end":76.225,"segType":"refrain"},
+{"start":76.225,"end":96.485,"segType":"verse"},
+{"start":96.485,"end":116.728,"segType":"verse"},
+{"start":116.728,"end":132.142,"segType":"refrain"},
+{"start":132.142,"end":151.982,"segType":"verse_--instrumental--"},
+{"start":151.982,"end":172.038,"segType":"verse"},
+{"start":172.038,"end":192.607,"segType":"verse"},
+{"start":192.607,"end":208.217,"segType":"refrain"},
+{"start":208.217,"end":231.245,"segType":"outro"},
+{"start":231.245,"end":234.800,"segType":"silence"}]
+    },
+    {"trackIndex": 129, "order": 3, "trackTitle": "Across the Universe",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.350,"segType":"silence"},
+{"start":0.350,"end":10.078,"segType":"intro"},
+{"start":10.078,"end":23.555,"segType":"verse"},
+{"start":23.555,"end":34.608,"segType":"verse'"},
+{"start":34.608,"end":44.341,"segType":"mantra"},
+{"start":44.341,"end":69.517,"segType":"refrain"},
+{"start":69.517,"end":82.060,"segType":"verse"},
+{"start":82.060,"end":95.394,"segType":"verse"},
+{"start":95.394,"end":105.041,"segType":"mantra"},
+{"start":105.041,"end":130.000,"segType":"refrain"},
+{"start":130.000,"end":140.839,"segType":"verse'"},
+{"start":140.839,"end":153.235,"segType":"verse"},
+{"start":153.235,"end":162.843,"segType":"mantra"},
+{"start":162.843,"end":187.510,"segType":"refrain"},
+{"start":187.510,"end":222.748,"segType":"outro"},
+{"start":222.748,"end":228.560,"segType":"silence"}]
+    },
+    {"trackIndex": 130, "order": 4, "trackTitle": "I Me Mine",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.375,"segType":"silence"},
+{"start":0.375,"end":6.743,"segType":"intro"},
+{"start":6.743,"end":39.048,"segType":"verse"},
+{"start":39.048,"end":57.570,"segType":"refrain"},
+{"start":57.570,"end":89.020,"segType":"verse"},
+{"start":89.020,"end":107.511,"segType":"refrain"},
+{"start":107.511,"end":144.349,"segType":"verse_--with_complete_ending--"},
+{"start":144.349,"end":145.733,"segType":"silence"}]
+    },
+    {"trackIndex": 131, "order": 5, "trackTitle": "Dig It",
+    "authorship":[
+      {"McCartney": 0.25},
+      {"Lennon": 0.25},
+      {"Harrison": 0.25},
+      {"Starr": 0.25},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":1.480,"segType":"silence"},
+{"start":1.480,"end":15.381,"segType":"refrain_--fade-in--"},
+{"start":15.381,"end":29.261,"segType":"refrain'"},
+{"start":29.261,"end":50.000,"segType":"refrain''_--fade-out--"},
+{"start":50.000,"end":50.000,"segType":"silence"}]
+    },
+    {"trackIndex": 132, "order": 6, "trackTitle": "Let It Be",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":13.392,"segType":"intro"},
+{"start":13.392,"end":38.821,"segType":"verse"},
+{"start":38.821,"end":52.048,"segType":"refrain"},
+{"start":52.048,"end":78.485,"segType":"verse"},
+{"start":78.485,"end":91.942,"segType":"refrain"},
+{"start":91.942,"end":105.217,"segType":"refrain"},
+{"start":105.217,"end":119.192,"segType":"coda"},
+{"start":119.192,"end":146.724,"segType":"verse_--instrumental--"},
+{"start":146.724,"end":160.902,"segType":"refrain"},
+{"start":160.902,"end":188.725,"segType":"verse"},
+{"start":188.725,"end":202.598,"segType":"refrain"},
+{"start":202.598,"end":216.549,"segType":"refrain"},
+{"start":216.549,"end":241.500,"segType":"coda/outro"},
+{"start":241.500,"end":243.307,"segType":"silence"}]
+    },
+    {"trackIndex": 133, "order": 7, "trackTitle": "Maggie Mae",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.345,"segType":"silence"},
+{"start":0.345,"end":3.020,"segType":"intro"},
+{"start":3.020,"end":14.233,"segType":"verse"},
+{"start":14.233,"end":25.692,"segType":"verse"},
+{"start":25.692,"end":38.050,"segType":"outro"},
+{"start":38.050,"end":40.600,"segType":"silence"}]
+    },
+    {"trackIndex": 134, "order": 8, "trackTitle": "I've Got A Feeling",
+    "authorship":[
+      {"McCartney": 0.5},
+      {"Lennon": 0.5},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.395,"segType":"silence"},
+{"start":0.395,"end":6.317,"segType":"intro"},
+{"start":6.317,"end":41.411,"segType":"verse"},
+{"start":41.411,"end":75.933,"segType":"verse"},
+{"start":75.933,"end":90.512,"segType":"bridge"},
+{"start":90.512,"end":119.456,"segType":"verse"},
+{"start":119.456,"end":154.059,"segType":"verse'"},
+{"start":154.059,"end":165.494,"segType":"outro"},
+{"start":165.494,"end":188.640,"segType":"verse/verse'_--superimposed--"},
+{"start":188.640,"end":214.150,"segType":"outro"},
+{"start":214.150,"end":217.960,"segType":"silence"}]
+    },
+    {"trackIndex": 135, "order": 9, "trackTitle": "One After 909",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.350,"segType":"silence"},
+{"start":0.350,"end":9.169,"segType":"intro"},
+{"start":9.169,"end":30.066,"segType":"verse"},
+{"start":30.066,"end":51.165,"segType":"verse"},
+{"start":51.165,"end":72.289,"segType":"bridge"},
+{"start":72.289,"end":93.172,"segType":"verse_"},
+{"start":93.172,"end":114.139,"segType":"verse_--guitar_solo--"},
+{"start":114.139,"end":135.359,"segType":"bridge"},
+{"start":135.359,"end":153.897,"segType":"verse"},
+{"start":153.897,"end":170.535,"segType":"outro"},
+{"start":170.535,"end":175.507,"segType":"silence"}]
+    },
+    {"trackIndex": 136, "order": 10, "trackTitle": "The Long and Winding Road",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.345,"segType":"silence"},
+{"start":0.345,"end":43.331,"segType":"verse"},
+{"start":43.331,"end":86.926,"segType":"verse"},
+{"start":86.926,"end":101.414,"segType":"bridge"},
+{"start":101.414,"end":145.019,"segType":"verse"},
+{"start":145.019,"end":159.415,"segType":"bridge_--instrumental--"},
+{"start":159.415,"end":203.301,"segType":"verse"},
+{"start":203.301,"end":215.900,"segType":"outro"},
+{"start":215.900,"end":217.867,"segType":"silence"}]
+    },
+    {"trackIndex": 137, "order": 11, "trackTitle": "For You Blue",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 1},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.450,"segType":"silence"},
+{"start":0.450,"end":13.507,"segType":"intro"},
+{"start":13.507,"end":35.843,"segType":"verse"},
+{"start":35.843,"end":58.272,"segType":"verse"},
+{"start":58.272,"end":80.617,"segType":"break_--instrumental--"},
+{"start":80.617,"end":103.034,"segType":"break_--instrumental--"},
+{"start":103.034,"end":125.342,"segType":"verse"},
+{"start":125.342,"end":149.200,"segType":"verse/outro"},
+{"start":149.200,"end":152.733,"segType":"silence"}]
+    },
+    {"trackIndex": 138, "order": 12, "trackTitle": "Get Back",
+    "authorship":[
+      {"McCartney": 1},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+      [{"start":0.000,"end":0.365,"segType":"silence"},
+{"start":0.365,"end":28.528,"segType":"intro"},
+{"start":28.528,"end":43.985,"segType":"verse"},
+{"start":43.985,"end":59.444,"segType":"refrain"},
+{"start":59.444,"end":75.018,"segType":"break_--guitar_solo--"},
+{"start":75.018,"end":92.603,"segType":"refrain'"},
+{"start":92.603,"end":108.338,"segType":"break_--piano_solo--"},
+{"start":108.338,"end":124.027,"segType":"verse"},
+{"start":124.027,"end":139.537,"segType":"refrain"},
+{"start":139.537,"end":155.054,"segType":"break_--guitar_solo--"},
+{"start":155.054,"end":170.473,"segType":"refrain'"},
+{"start":170.473,"end":185.355,"segType":"outro"},
+{"start":185.355,"end":187.093,"segType":"silence"}]
+    }
+  ]},
+  {"albumKey": "abbeyRoad", "albumTitle": "Abbey Road",
+  "releaseDate": {
+    "year": 1969,
+    "month": 11,
+    "day": 26
+  },
+  "tracks": [
+
+  ]}
+
+]}
