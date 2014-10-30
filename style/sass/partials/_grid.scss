@@ -53,5 +53,8 @@ html, body {
 
 div {
   @include border;
-  padding-top: 1rem;
+}
+
+svg {
+  @include border(green);
 }

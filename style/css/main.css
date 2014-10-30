@@ -133,7 +133,11 @@ html, body {
 /* line 54, ../sass/partials/_grid.scss */
 div {
   border: 2px solid red;
-  padding-top: 1rem;
+}
+
+/* line 58, ../sass/partials/_grid.scss */
+svg {
+  border: 2px solid green;
 }
 
 /*------------------------------------*\
