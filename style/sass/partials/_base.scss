@@ -1,0 +1,44 @@
+/*------------------------------------*\
+    #THIRD-PARTY-IMPORTS
+\*------------------------------------*/
+@import 'compass';
+@import 'compass/reset';
+@import 'breakpoint';
+@import 'susy';
+
+/*------------------------------------*\
+    #MY-MODULES
+\*------------------------------------*/
+@import "modules/all";
+
+
+
+// To work on mobile
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+
+
+// #DEBUGGING
+@mixin border($color: red){
+  border: 1px solid $color;
+}
+
+
+
+
+/*------------------------------------*\
+    #CONFIGURE-COMPASS-VERTICAL-RHYTHM
+\*------------------------------------*/
+
+@include establish-baseline(16px);
+$base-font-size: 16px;
+$base-line-height: 0.5rem;
+$rhythm-unit: "rem";
+$round-to-nearest-half-line: true;
+
+html {
+  font-size: $base-font-size;
+  @include adjust-leading-to(3);
+}

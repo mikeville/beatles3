@@ -1,0 +1,51 @@
+/*------------------------------------*\
+    #CONFIG-SUSY
+\*------------------------------------*/
+
+@include border-box-sizing;
+
+/* #SUSY-GRID-VARIABLES------------ */
+$med: 40rem;
+$max-width: 64rem;
+
+$column-width: 4rem;
+$gutter-width: 1rem;
+
+$container-margin: 2rem;
+$bleed-margin: 0 4rem;
+
+
+/* #CONFIG-GRID-MAIN------------ */
+$susy: (
+  columns: 12,
+  container: auto,
+  container-position: center,
+  global-box-sizing: border-box,
+  gutter-position: after,
+  use-custom: (
+    rem: true
+  )
+);
+
+
+.grid--main {
+    @include container(6 ($column-width $gutter-width) );
+    // @include container(6 ($column-width $gutter-width) show );
+
+    padding-left: $container-margin;
+    padding-right: $container-margin;
+    max-width: $max-width;
+}
+
+
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/

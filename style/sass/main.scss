@@ -1,0 +1,574 @@
+// Modules and Variables
+@import "partials/base";
+
+// Partials
+@import "partials/grid";
+@import "partials/typography";
+@import "partials/skin";
+
+
+
+// @import "partials/buttons";
+// @import "partials/figures";
+// @import "partials/grids";
+
+
+// Third-party
+// (none for now) 
+
+
+
+// // Requirements
+// // ====================================
+
+// @import "susyone";
+// @import "compass";
+// @import "compass/reset";
+
+// @include border-box-sizing;
+
+
+
+
+// // Configuring Susy defaults
+// // ====================================
+
+// $total-columns: 6;
+// $column-width: 4rem;
+// $gutter-width: 1rem;
+// $grid-padding: 0;
+
+// $med: 9;
+// $large: 12;
+
+// $container-style: magic;
+
+// .container {
+//     @include container($total-columns, $med, $large);
+//     @include pad(0.25,0.25, 6);
+
+//     @include at-breakpoint($med) {
+//         @include pad(0.25,0.25, 9);
+//     }
+
+//     @include at-breakpoint($large) {
+//         @include pad(0.5,0.5, 12);
+//     }
+// }
+
+
+
+// // Color Variables
+// // ====================================
+
+
+// $text: #fff8cd;
+// $text-secondary: #555244;
+
+// $background: #1e1e1a;
+
+// $pink: #ee9e9c;
+// $gold: #fae7b3;
+// $orange: #f09671;
+// $green: #709984;
+// $cyan: #71dad2;
+
+
+
+// // Debugging
+// // ====================================
+
+// @mixin border($color: red){
+//     border: 2px solid $color;
+// }
+
+
+
+// // .container {
+// //     @include susy-grid-background;
+// //     background-color: $green;
+
+// //     @include at-breakpoint($med) {
+// //         background-color: $pink;
+// //         @include susy-grid-background;
+// //     }
+
+// //     @include at-breakpoint($large) {
+// //         background-color: $gold;
+// //         @include susy-grid-background;
+// //     }
+// // }
+
+
+// // #timeline-container {
+// //   @include border;
+// // }
+
+// // #context-wrapper {
+// //   @include border($green);
+// // }
+
+
+
+
+
+// // Grid
+// // ====================================
+
+
+// // Header
+// // --------------------
+
+// header {
+//   @include span-columns(6, 6);
+//   margin-top: 0.75rem;
+//   margin-bottom: 1rem;
+// }
+
+// #site-title-container {
+//   @include span-columns(6, 6);
+
+//   @include at-breakpoint($med) {
+//       @include span-columns(3, 9);
+//   }
+// }
+
+// #timeline-nav {
+//   @include span-columns(6, 6);
+
+//   @include at-breakpoint($med) {
+//       @include span-columns(6 omega, 9);
+//   }
+
+// }
+
+// #timeline-header-container {
+//   @include span-columns(6, 6);
+//   margin-bottom: 1.5rem;
+// }
+
+
+// // Timeline Structure
+// // --------------------
+
+// #main-content-wrapper {
+//   @include span-columns(6, 6);
+
+//   // @include at-breakpoint($med) {
+//   //     @include span-columns(6, 9);
+//   // }
+// }
+
+// #timeline-container {
+//   @include span-columns(6, 6);
+
+//   @include at-breakpoint($med) {
+//       @include span-columns(6, 9);
+//   }
+// }
+
+// #context-wrapper {
+//   @include span-columns(6, 6);
+
+//   @include at-breakpoint($med) {
+//       @include span-columns(3 omega, 9);
+//   }
+// }
+
+// #legend-list {
+//   @include at-breakpoint($med) {
+//     // overflow: hidden;
+//       width: 200px;
+//   }
+// }
+
+
+
+
+
+
+// // Mini Timelines
+// // --------------------
+
+// #mini-timeline-container {
+//   @include span-columns(6, 6);
+//   margin-bottom: 3rem;
+// }
+
+// .mini-album-container {
+//     @include span-columns(3, 6);
+//     padding-bottom: 1.5rem;
+// }
+
+// .mini-album-container.secondColumn {
+//     @include span-columns(3 omega, 6);
+// }
+
+
+// .mini-album-label-container {
+//   margin-bottom: -0.5rem;
+
+//   @include span-columns(3, 3);
+// }
+
+
+
+// .mini-track-container {
+//   @include span-columns(3, 3);
+// }
+
+// .mini-track-svg-wrapper {
+//   @include span-columns(3, 3);
+// }
+
+
+// // Big Timeline Axis
+// // --------------------
+
+// #big-timeline-axis-container {
+//   @include span-columns(6, 6);
+//   margin-bottom: -2rem;
+
+//   #big-timeline-axis {
+//     height: 2rem;
+//     @include span-columns(4 omega, 6);
+
+//     .axis {
+//     }
+// fexpande
+//     .axis path, .axis line{
+//       fill: none;
+//       stroke: $text;
+//       shape-rendering: crispEdges;
+//     }
+
+//     .axis text {
+//       fill: $text;
+//       font-size: 10px;
+//       padding-right: -3rem;
+//     }
+//   }
+// }
+
+// #big-timeline-axis-container-sticky-wrapper {
+//   float: left;
+//   background-color: green;
+//   @include span-columns(6,6);
+// }
+
+// // Big Timeline
+// // --------------------
+
+// .album-container {
+//   @include span-columns(6, 6);
+// }
+
+// .track-container {
+//   @include span-columns(6, 6);
+//   padding: 0px;
+// }
+
+// // .track-container-group {
+// //   @include span-columns(6, 6);
+// //   // @include border(blue);
+// //   margin-bottom: 4rem;
+// // }
+
+// .track-label-container {
+//   @include span-columns(2, 6);
+// }
+
+// .track-svg-wrapper {
+//   @include span-columns(4 omega, 6);
+
+//   div {
+//     float: left;
+//   }
+// }
+
+// .track-svg {
+//   width: 100%;
+// }
+
+
+
+
+// // Track Drawers
+// // --------------------
+
+
+// .track-notes-container {
+//   @include span-columns(2, 2);
+//   margin-top: 1rem;
+//   font-size: 0.8rem;
+//   font-weight: 100;
+//   line-height: 1rem;
+// }
+
+// .expanded-note {
+//     border-top: 1px solid $text;
+//     // border-right: 1px solid $text;
+//     border-bottom: 1px solid $text;
+// }
+
+// .track-drawer {
+//   @include span-columns(6, 6);
+// }
+
+// .track-info-container {
+//   @include span-columns(2, 6);
+// }
+
+// .track-chords-container {
+//   @include span-columns(4 omega, 6);
+// }
+
+
+
+// // Typography
+// // ====================================
+
+// html {
+//   font-family: 'Roboto';
+//   color: $text;
+//   background-color: $background;
+// }
+
+// a {
+//   color: $text;
+// }
+
+// // Header
+// // --------------------
+
+// #site-title {
+//   text-decoration: none;
+//   :hover{
+//   }
+//   h1{
+//     font-weight: 500;
+//   }
+// }
+
+// #timeline-nav {
+//   a {
+//     padding-right: 0.5rem;
+//   }
+//   font-weight: 100;
+//   // font-size: 0.75rem;
+//   // text-align: right;
+// }
+
+
+// #timeline-title {
+//   font-size: 3rem;
+//   font-weight: 100;
+//   margin-bottom: 0.5rem;
+// }
+
+// #timeline-intro{
+//   font-size: 1.5rem;
+//   font-weight: 100;
+//   line-height: 1.75rem;
+// }
+
+
+// // Within Context Container
+// // --------------------
+
+// #context-wrapper {
+//   text-align: center;
+
+//   #key-icon {
+//     width: 30px;
+//     height: 2rem;
+//     margin-left: 85px;
+//     margin-right: 85px;
+//     margin-bottom: 0.5rem;
+//     fill: $text;
+//   }
+
+//   li {
+//     color: $background;
+//     height: 2rem;
+//     padding-top: 0.5rem;
+//     margin-bottom: 0.25rem;
+//     // width: 40px;
+//   }
+
+//   button {
+//     color: black;
+//     text-transform: uppercase;
+//     font-size: 0.5rem;
+
+//     // display: inline;
+//     // background-color: $statlas_red;
+//     // border: 1px solid $statlas_red_dark;
+
+//     background-color: #eaeaea;
+//     border: 1px solid #e6e7e8;
+//     @include border-radius(0.2rem, 0.2rem);
+
+//     margin-top:0.5rem;
+//     padding-top: 0.33rem;
+//     padding-bottom: 0.33rem;
+//     padding-left: 0.5rem;
+//     padding-right: 0.5rem;
+//   }
+// }
+
+
+// // Minis
+// // --------------------
+
+// .mini-album-label {
+//   font-size: 0.75rem;
+//   text-transform: uppercase;
+//   font-family: 'Roboto Condensed', sans-serif;
+//   font-weight: 300;
+
+// }
+
+
+// // Timeline
+// // --------------------
+
+// .album-label {
+//   margin-top: 3rem;
+//   margin-bottom: 1rem;
+
+//   font-size: 3rem;
+//   text-transform: uppercase;
+//   font-family: 'Roboto Condensed', sans-serif;
+//   font-weight: 500;
+// }
+
+// .track-label {
+//   font-size: 1rem;
+//   @include ellipsis;
+//   text-transform: uppercase;
+//   font-family: 'Roboto Condensed', sans-serif;
+//   font-weight: 100;
+//   padding-top: 0.5rem;
+// }
+
+
+
+
+
+
+// // Segment Colors
+// // ====================================
+// $blue: #57caef;
+// $yellow: #ffce06;
+// $green: #74c044;
+// $pink: #ee3766;
+// $text-secondary: #555244;
+
+
+// $intro-outro: $text-secondary;
+// $verse: $blue;
+// $chorus: $yellow;
+// $bridge: $pink;
+
+// $instrumental: $green;
+
+
+// .segment {
+//     fill: $instrumental;
+//     background-color: $instrumental;
+// }
+
+
+// #legend-segment-chorus { background-color: $chorus; }
+// #legend-segment-verse { background-color: $verse; }
+// #legend-segment-bridge { background-color: $bridge; }
+// #legend-segment-unique { background-color: $instrumental; }
+// #legend-segment-variation { background-color: $instrumental; }
+// #legend-segment-solo { background-color: $instrumental; }
+// #legend-segment-intro { background-color: $intro-outro; }
+
+
+// .segment_intro,
+// .segment_outro,
+// .segment_outro_a,
+// .segment_outro_b, //TODO: VARIATION
+// .segment_outro_--fade-out--,
+// .segment_silence,
+// .segment_postscript, // TODO: VARIATION (on day in teh life....needs more variation pattern)
+// .segment_closing //TODO: ??? WHAT TO DO WITH THIS
+//  {
+//   fill: $intro-outro;
+//   background-color: $intro-outro;
+// }
+
+// .segment_verse,
+// .segment_versea,
+// .segment_verseb, //TODO: VARIATION1
+// .segment_verse_b_guitar, //TODO: VARIATION1 and INSTRUMENTAL
+// .segment_verse_a, 
+// .segment_verse_b, //TODO: VARIATION1
+// .segment_verse_--initial--,
+// .segment_verse_--variant--, //TODO: VARIATION1
+// .segment_verse_--variant_1--, //TODO: VARIATION1
+// .segment_verse_--variant_2--, //TODO: VARIATION2
+// .segment_verse_--variant_2_with_ending--, //TODO: VARIATION2
+// .segment_verse_refrain, //TODO: ???
+// .segment_verseguitar, //TODO: INSTRUMENTATION1??
+// .segment_verse_guitar, //TODO: INSTRUMENTATION1??
+// .segment_verse_instr, //TODO: INSTRUMENTATION1??
+// .segment_verse_piano, //TODO: INSTRUMENTATION1??
+// .segment_verse_--guitar_solo--, //TODO: INSTRUMENTATION1??
+// .segment_verse_--half_solo--, //TODO: INSTRUMENTATION1??
+// .segment_verse_half_solo, //TODO: INSTRUMENTATION1??
+// .segment_verse_-_break,
+// .segment_verse_with_ending,
+// .segment_verse_outro,
+// .segment_outro_verse
+//  {
+//   fill: $verse;
+//   background-color: $verse;
+//   // @include pattern-dots4(5);
+// }
+
+// .segment_chorus,
+// .segment_refrain,
+// .segment_refrain_trans, //TODO: variation?
+// .segment_refrain_solo, //TODO: instrumentation
+// .segment_refrain_a,
+// .segment_refrain_b, //TODO: variation
+// .segment_refrain_b_fade, //TODO: variation
+// .segment_verseb_MD_or_chorus //TODO: from saw her standing there
+// {
+//   fill: $chorus;
+//   background-color: $chorus;
+// }
+
+// .segment_instrumental,
+// .segment_verse_guitar_solo,
+// .segment_sitar_solo,
+// .segment_guitar_solo,
+// .segment_verse_instrumental,
+// .segment_vocal, //todo: variation? instrumentation? day in the life
+// .segment_verse_instrumental_solo {
+//   fill: $bridge; //TODO: ALL OF THESE ARE INSTRUMENTAL
+//   background-color: $bridge; //TODO: ALL OF THESE ARE INSTRUMENTAL
+// }
+
+// .segment_refrain_with_ending {
+//   fill: $blue;
+//   background-color: $blue;
+// }
+
+// .segment_bridge,
+// .segment_bridge_--solo--, //TODO - instrumentation
+// .segment_bridge_instru, //TODO - instrumentation
+// .segment_bridge_instr, //TODO - instrumentation
+// .segment_bridge_with_ending,
+// .segment_break, //TODO- VARIATION?
+// .segment_bridge_re_intro //TODO- VARIATION?
+// {
+//   fill: $bridge;
+//   background-color: $bridge;
+// }
+

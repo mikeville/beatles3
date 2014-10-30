@@ -1,0 +1,148 @@
+/*------------------------------------*\
+    #THIRD-PARTY-IMPORTS
+\*------------------------------------*/
+/* line 5, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/*------------------------------------*\
+    #MY-MODULES
+\*------------------------------------*/
+@-ms-viewport {
+  width: extend-to-zoom;
+  zoom: 1.0;
+}
+/*------------------------------------*\
+    #CONFIGURE-COMPASS-VERTICAL-RHYTHM
+\*------------------------------------*/
+/* line 106, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/typography/_vertical_rhythm.scss */
+html {
+  font-size: 100%;
+  line-height: 1.5em;
+}
+
+/* line 41, ../sass/partials/_base.scss */
+html {
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5rem;
+}
+
+/*------------------------------------*\
+    #CONFIG-SUSY
+\*------------------------------------*/
+/* line 14, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/susy-2.1.3/sass/susy/language/susy/_box-sizing.scss */
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* #SUSY-GRID-VARIABLES------------ */
+/* #CONFIG-GRID-MAIN------------ */
+/* line 31, ../sass/partials/_grid.scss */
+.grid--main {
+  max-width: 464px;
+  max-width: 29rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 64rem;
+}
+/* line 12, ../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/susy-2.1.3/sass/susy/output/support/_clearfix.scss */
+.grid--main:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 43, ../sass/partials/_grid.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+/*------------------------------------*\
+    #TYPE-VARIABLES
+\*------------------------------------*/
+/*------------------------------------*\
+    #GLOBAL
+\*------------------------------------*/
+/* line 16, ../sass/partials/_typography.scss */
+html {
+  font-family: 'Roboto', 'sans-serif';
+  font-weight: 300;
+  color: #58595b;
+}
+
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
