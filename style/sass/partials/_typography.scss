@@ -15,7 +15,11 @@
 
 html {
   @include type-main;
-  color: $grey-darker;
+  color: $text;
+}
+
+a {
+  color: $text;
 }
 
 

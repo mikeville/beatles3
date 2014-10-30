@@ -29,7 +29,7 @@ $susy: (
 
 
 .grid--main {
-    @include container(6 ($column-width $gutter-width) );
+    @include container(12 ($column-width $gutter-width) );
     // @include container(6 ($column-width $gutter-width) show );
 
     padding-left: $container-margin;
@@ -49,3 +49,9 @@ html, body {
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
+
+
+div {
+  @include border;
+  padding-top: 1rem;
+}

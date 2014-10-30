@@ -42,3 +42,16 @@ html {
   font-size: $base-font-size;
   @include adjust-leading-to(3);
 }
+
+
+
+
+
+/*------------------------------------*\
+    #DEBUGGING
+\*------------------------------------*/
+
+@mixin border($color: red){
+    border: 2px solid $color;
+}
+
