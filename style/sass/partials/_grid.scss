@@ -70,7 +70,12 @@ svg {
     #CONTEXT-CONTAINER
 \*------------------------------------*/
 
-.context-container {
+#context-container-wrapper {
+  @include span(12 of 12);
+  @include rhythm(0,0,0,6);
+}
+
+#context-container {
   @include span(12 of 12);
   background-color: $background;
 }

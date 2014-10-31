@@ -296,7 +296,23 @@ svg {
     #CONTEXT-CONTAINER
 \*------------------------------------*/
 /* line 73, ../sass/partials/_grid.scss */
-.context-container {
+#context-container-wrapper {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 48px;
+  margin-bottom: 3rem;
+}
+
+/* line 78, ../sass/partials/_grid.scss */
+#context-container {
   width: 100%;
   float: left;
   margin-left: 0;
