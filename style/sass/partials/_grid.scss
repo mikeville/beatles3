@@ -46,15 +46,36 @@ html, body {
 }
 
 
+svg {
+  @include border(green);
+}
+
+
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
 
 
-div {
-  // @include border;
+.site-header {
+  @include span(12 of 12);
+  @include rhythm(1,0,0,3);
 }
 
-svg {
-  @include border(green);
+.page-header {
+  @include span(12 of 12);
+  @include rhythm(0,0,0,3);
 }
+
+/*------------------------------------*\
+    #CONTEXT-CONTAINER
+\*------------------------------------*/
+
+.context-container {
+  @include span(12 of 12);
+  background-color: $background;
+}
+
+
+/*------------------------------------*\
+    #TIMELINE
+\*------------------------------------*/

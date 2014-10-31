@@ -252,14 +252,61 @@ html, body {
   margin: 0;
 }
 
-/*------------------------------------*\
-    #HEADER
-\*------------------------------------*/
-/* line 58, ../sass/partials/_grid.scss */
+/* line 49, ../sass/partials/_grid.scss */
 svg {
   border: 2px solid green;
 }
 
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+/* line 59, ../sass/partials/_grid.scss */
+.site-header {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 8px;
+  margin-top: 0.5rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+}
+
+/* line 64, ../sass/partials/_grid.scss */
+.page-header {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+}
+
+/*------------------------------------*\
+    #CONTEXT-CONTAINER
+\*------------------------------------*/
+/* line 73, ../sass/partials/_grid.scss */
+.context-container {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #1e1e1a;
+}
+
+/*------------------------------------*\
+    #TIMELINE
+\*------------------------------------*/
 /*------------------------------------*\
     #TYPE-VARIABLES
 \*------------------------------------*/
