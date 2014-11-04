@@ -312,7 +312,10 @@ svg {
 }
 
 /* line 78, ../sass/partials/_grid.scss */
-#context-container {
+#context-container,
+#context-container__lgend,
+.context-container__axis-container,
+#context-container__axis-container-axis {
   width: 100%;
   float: left;
   margin-left: 0;

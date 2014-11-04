@@ -75,10 +75,14 @@ svg {
   @include rhythm(0,0,0,6);
 }
 
-#context-container {
+#context-container,
+#context-container__lgend,
+.context-container__axis-container,
+#context-container__axis-container-axis {
   @include span(12 of 12);
   background-color: $background;
 }
+
 
 
 /*------------------------------------*\

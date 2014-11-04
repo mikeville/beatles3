@@ -13,34 +13,37 @@
   <script src='js/app.js'></script>
   <script src='js/breakpoint.js'></script>
 
-  <link rel="stylesheet" type="text/css" href="style/css/main.css" />
-  <link rel="stylesheet" type="text/css" href="style/css/jquery.qtip.min.css" />
+  <link rel='stylesheet' type='text/css' href='style/css/main.css' />
+  <link rel='stylesheet' type='text/css' href='style/css/jquery.qtip.min.css' />
   <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700,700italic,500italic,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <div class="grid--main page-wrapper">
-    <header>
-      <div class="site-header__site-title-container">
-        <a class="site-header__site-title-container__site-title" href="#"><h1>Charting the Beatles</h1></a>
+  <div class='grid--main page-wrapper'>
+    <header class='site-header'>
+      <div class='site-header__site-title-container'>
+        <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
       </div>
-      <nav class="site-header__nav">
+      <nav class='site-header__nav'>
       </nav>
     </header>
-    <div class="page-header">
+    <div class='page-header'>
       <h2 class='page-header__title'>Song Structure</h2>
       <p class='page-header__description'>How did the form of Beatles songs evolve?</p>
     </div>
-    <div class="context-container">
-      <div class="context-container__legend">
-        Legend
-      </div>
-      <div class="context-container__axis">
-        Axis
+    <div id='context-container-wrapper'>
+      <div id='context-container'>
+        <div class='context-container__legend'>
+          Legend
+        </div>
+        <div class='context-container__axis-container'>
+          <div id='context-container__axis-container-axis'>
+          </div>
+        </div>
       </div>
     </div>
-    <div id="timeline-container" class="timeline-container">
-      <div id="loading-message">
+    <div id='timeline-container' class='timeline-container'>
+      <div id='loading-message'>
       </div>     
     </div>
     <footer>
