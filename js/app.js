@@ -4,6 +4,13 @@ var data = {
 
 
 // ======================================================
+// COLORS, FROM CSS ===================
+// ======================================================
+
+
+var colorText =  '#fff8cd';
+
+// ======================================================
 // DRAW GRAPHIC CONTAINERS AND LABELS ===================
 // ======================================================
 
@@ -125,55 +132,17 @@ var d3Sketch1 = function(){
   // AXIS =================================================
   // ======================================================
 
-  // formatMinutes = function(d) { 
-  //     var hours = Math.floor(d / 3600),
-  //         minutes = Math.floor((d - (hours * 3600)) / 60),
-  //         seconds = d - (minutes * 60);
-  //     var output = seconds + 's';
-  //     if (minutes) {
-  //         output = minutes + 'm ' + output;
-  //     }
-  //     if (hours) {
-  //         output = hours + 'h ' + output;
-  //     }
-  //     return output;
-  // };
-
   formatMinutes = function(d) { 
       var minutes = Math.floor((d / 60) - 1)
       var output = minutes + 1 + ':00'
       return output;
   };
 
-  // -------------------------
-
-  // formatMinutes = function(d) { 
-  //     var hours = Math.floor(d / 3600),
-  //         minutes = Math.floor((d - (hours * 3600)) / 60),
-  //         seconds = d - (minutes * 60);
-  //     var output = seconds + 's';
-  //     if (minutes) {
-  //         output = minutes + 'm ' + output;
-  //     }
-  //     if (hours) {
-  //         output = hours + 'h ' + output;
-  //     }
-  //     return output;
-  // };
-
-  // -------------------------
-
   var segmentsAxis = d3.svg.axis()
     .scale(xScale)
     .orient('top')
     .tickFormat(formatMinutes)
-    .tickValues(d3.range(0, maxTime, 60))
-    // .ticks(5);
-
-  // var segmentsAxis = d3.svg.axis()
-  //   .scale(xScale)
-  //   .orient('top')
-  //   .ticks(5);
+    .tickValues(d3.range(0, maxTime, 60));
 
   d3.select('#context-container__axis-container-axis')
     .append('svg')
@@ -181,10 +150,12 @@ var d3Sketch1 = function(){
     .append('g')
       .attr('class', 'axis')
       .attr('transform', 'translate(1, 20)')
+      .attr('stroke', colorText)
+      // .attr('fill', colorText)
       .call(segmentsAxis)
     .selectAll('text') 
-      .attr('transform', 'translate(2, 0)');
-
+      .attr('transform', 'translate(2, 0)')
+      .attr('fill', colorText)
 
   // segmentsSortDefault();
 
