@@ -67,18 +67,20 @@ var d3Sketch1 = function(){
   // Add track labels =============
   var trackTitles = trackContainers.append('div')
       .attr('class', 'track-container__label-container')
-      .attr('id', function(d) { return 'track-container__label-container--'+d['trackIndex']; })
     .append('h4')  
       .attr('class', 'track-container__label-container__label')
     .text(function(d) { return d['trackTitle']; });
 
 
   // Add SVG container =============
-  var trackSVGs = trackContainers.append('div')
-      .attr('class', 'track-container__svg-wrapper')
-      .attr('id', function(d) { return 'track-container__svg-wrapper--' + d['trackIndex'] })
+
+  var graphicContainer = trackContainers.append('div')
+      .attr('class', 'track-container__graphic-container')
+
+  var trackSVGs = graphicContainer.append('div')
+      .attr('class', 'track-container__graphic-container__svg-wrapper')
     .append('svg')
-      .attr('class', 'track-container__svg-wrapper__svg')
+      .attr('class', 'track-container__graphic-container__svg-wrapper__svg')
       .attr('height', height)
       .attr('width', width)
 
@@ -98,6 +100,8 @@ var d3Sketch1 = function(){
   //     .attr('title', function(d) { return d.segType })
 
 
+
+
   var trackSegments = trackSVGs.selectAll('rect')
       .data(function(d, i) { return d['segments'] })
     .enter().append('rect')
@@ -109,9 +113,8 @@ var d3Sketch1 = function(){
 
 
   // Add notes containers =============
-  trackContainers.append('div')
-      .attr('class', 'track-container__notes-container')
-      .attr('id', function(d) { return 'track-container__notes-container--' + d['trackIndex'] })
+  graphicContainer.append('div')
+      .attr('class', 'track-container__graphic-container__notes-container')
     .append('p')
       .text(function(d) { return d['notes']; })
 
@@ -181,11 +184,11 @@ var d3Sketch1 = function(){
 
 
 var setEventsTest = function() {
-  $('.track-container__notes-container').hide();
+  $('.track-container__graphic-container__notes-container').hide();
 
   $('.track-container').click(
     function(){
-      $(this).children('.track-container__notes-container').toggle();
+      $(this).find('.track-container__graphic-container__notes-container').toggle();
     }
   )
 }
