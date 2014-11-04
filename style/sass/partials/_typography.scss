@@ -20,15 +20,32 @@ html {
 
 a {
   color: $text;
+  text-decoration: none;
 }
 
+a:hover,
+.body-copy a:hover {
+  color: $pink;
+}
+
+.body-copy a {
+  color: $yellow;
+}
 
 
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
 
+.site-header__site-title-container__site-title {
+  @include adjust-font-size-to(2rem);
+  font-weight: 500;
+  @include rhythm(1,0,0,1);
+}
 
+.page-header__subheader {
+  font-weight: 500;
+}
 
 
 /*------------------------------------*\

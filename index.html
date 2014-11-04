@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>segments</title>
+  <title>Charting the Beatles</title>
   <script src='js/d3.js'></script>
   <script src='js/jquery.js'></script>
   <script src='js/jquery.easing.1.3.min.js'></script>
@@ -25,34 +25,54 @@
         <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
       </div>
       <nav class='site-header__nav'>
+        <ul>
+          <li class="nav__link" id="nav__link--1"><a href="#">Song Structure</a></li>
+          <li class="nav__link" id="nav__link--2"><a href="#">Authorship</a></li>
+          <li class="nav__link" id="nav__link--3"><a href="#">Self Reference</a></li>
+          <li class="nav__link" id="nav__link--4"><a href="#">Tonality</a></li>
+          <li class="nav__link" id="nav__link--5"><a href="#">Schedule</a></li>
+          <li class="nav__link" id="nav__link--6"><a href="#">Shop</a></li>
+        </ul>
       </nav>
     </header>
-    <div class='page-header'>
-      <h2 class='page-header__title'>Song Structure</h2>
-      <p class='page-header__description'>How did the form of Beatles songs evolve?</p>
-    </div>
-    <div id='context-container-wrapper'>
-      <div id='context-container'>
-        <div class='context-container__legend-container'>
-          <ul class='context-container__legend-container-legend'>
-            <li id='legend__segment-chorus' class='legend__segment'>Chorus</li>
-            <li id='legend__segment-verse' class='legend__segment'>Verse</li>
-            <li id='legend__segment-bridge' class='legend__segment'>Bridge</li>
-            <!-- <li id='legend__segment-unique'>Unique Section</li> -->
-            <li id='legend__segment-variation' class='legend__segment'>Variations</li>
-            <!-- <li id='legend__segment-solo'>Solo/Instrumental</li> -->
-            <li id='legend__segment-intro' class='legend__segment'>Intro/Outro</li>
-          </ul>
-        </div>
-        <div class='context-container__axis-container'>
-          <div id='context-container__axis-container-axis'>
+    <div class="page-body-container">
+      <div class='page-header'>
+        <p class='page-header__subheader'>
+          How did the form of Beatles songs evolve?
+        </p>
+        <p class='page-header__description body-copy'>
+          This is some copy describing what to look out for in the graphic below. The notes are selections from Alan Polack’s <a href="#">“Notes on...”</a> series. Data is adopted from <a href="#">John Smith’s MIT dissertation</a>.
+        </p>
+      </div>
+      <div id='context-container-wrapper'>
+        <div id='context-container'>
+          <div class='context-container__legend-container'>
+            <ul class='context-container__legend-container-legend'>
+              <li id='legend__segment-chorus' class='legend__segment'>Chorus</li>
+              <li id='legend__segment-verse' class='legend__segment'>Verse</li>
+              <li id='legend__segment-bridge' class='legend__segment'>Bridge</li>
+              <!-- <li id='legend__segment-unique'>Unique Section</li> -->
+              <li id='legend__segment-variation' class='legend__segment'>Variations</li>
+              <!-- <li id='legend__segment-solo'>Solo/Instrumental</li> -->
+              <li id='legend__segment-intro' class='legend__segment'>Intro/Outro</li>
+            </ul>
+          </div>
+          <div class='context-container__axis-container'>
+            <!-- *** HACKY ATTEMPT TO FIX STICKY LEGEND HICCUP *** -->
+<!--             <div class='track-container__label-container'>
+            </div>
+            <div id='context-container__axis-container__axis' class='track-container__svg-wrapper'>
+            </div> -->
+            <div id='context-container__axis-container__axis'>
+            </div>
+            <!-- ************************************************* -->
           </div>
         </div>
       </div>
-    </div>
-    <div id='timeline-container' class='timeline-container'>
-      <div id='loading-message'>
-      </div>     
+      <div id='timeline-container' class='timeline-container'>
+        <div id='loading-message'>
+        </div>     
+      </div>
     </div>
     <footer>
       Footer

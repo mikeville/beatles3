@@ -272,11 +272,18 @@ html, body {
 }
 
 /* line 64, ../sass/partials/_grid.scss */
-.page-header {
+.page-body-container {
   width: 100%;
   float: left;
   margin-left: 0;
   margin-right: 0;
+}
+
+/* line 68, ../sass/partials/_grid.scss */
+.page-header {
+  width: 66.10169%;
+  float: left;
+  margin-right: 1.69492%;
   margin-top: 0px;
   margin-top: 0rem;
   padding-top: 0px;
@@ -287,10 +294,49 @@ html, body {
   margin-bottom: 1.5rem;
 }
 
+/* line 73, ../sass/partials/_grid.scss */
+.site-header__site-title-container,
+.site-header__site-title-container__site-title {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* line 78, ../sass/partials/_grid.scss */
+.site-header__nav {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* line 82, ../sass/partials/_grid.scss */
+.nav__link {
+  width: 15.25424%;
+  float: left;
+  margin-right: 1.69492%;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+}
+
+/* line 87, ../sass/partials/_grid.scss */
+#nav__link--6 {
+  width: 15.25424%;
+  float: right;
+  margin-right: 0;
+}
+
 /*------------------------------------*\
     #CONTEXT-CONTAINER
 \*------------------------------------*/
-/* line 73, ../sass/partials/_grid.scss */
+/* line 95, ../sass/partials/_grid.scss */
 #context-container-wrapper {
   width: 100%;
   float: left;
@@ -306,11 +352,10 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 78, ../sass/partials/_grid.scss */
+/* line 100, ../sass/partials/_grid.scss */
 #context-container,
 .context-container__legend-container,
-.context-container__axis-container,
-#context-container__axis-container-axis {
+.context-container__axis-container {
   width: 100%;
   float: left;
   margin-left: 0;
@@ -318,7 +363,7 @@ html, body {
   background-color: #1e1e1a;
 }
 
-/* line 86, ../sass/partials/_grid.scss */
+/* line 112, ../sass/partials/_grid.scss */
 .context-container__legend-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -330,7 +375,7 @@ html, body {
   margin-bottom: 0.5rem;
 }
 
-/* line 90, ../sass/partials/_grid.scss */
+/* line 116, ../sass/partials/_grid.scss */
 .legend__segment {
   display: inline;
   padding-left: 0.25rem;
@@ -342,7 +387,7 @@ html, body {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 102, ../sass/partials/_grid.scss */
+/* line 128, ../sass/partials/_grid.scss */
 .album-container,
 .album-container__label-container,
 .track-container {
@@ -352,7 +397,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 109, ../sass/partials/_grid.scss */
+/* line 135, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -364,14 +409,14 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 114, ../sass/partials/_grid.scss */
+/* line 140, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 23.72881%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 118, ../sass/partials/_grid.scss */
+/* line 144, ../sass/partials/_grid.scss */
 .track-container__svg-wrapper {
   width: 74.57627%;
   float: right;
@@ -394,15 +439,49 @@ html {
 /* line 21, ../sass/partials/_typography.scss */
 a {
   color: #fff8cd;
+  text-decoration: none;
+}
+
+/* line 26, ../sass/partials/_typography.scss */
+a:hover,
+.body-copy a:hover {
+  color: #ee3766;
+}
+
+/* line 31, ../sass/partials/_typography.scss */
+.body-copy a {
+  color: #ffce06;
 }
 
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
+/* line 40, ../sass/partials/_typography.scss */
+.site-header__site-title-container__site-title {
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 32px;
+  line-height: 2.01563rem;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-top: 0.5rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+}
+
+/* line 46, ../sass/partials/_typography.scss */
+.page-header__subheader {
+  font-weight: 500;
+}
+
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 38, ../sass/partials/_typography.scss */
+/* line 55, ../sass/partials/_typography.scss */
 .album-container__label-container__label {
   font-size: 32px;
   font-size: 2rem;
@@ -419,12 +498,12 @@ a {
   margin-bottom: 1.5rem;
 }
 
-/* line 44, ../sass/partials/_typography.scss */
+/* line 61, ../sass/partials/_typography.scss */
 .track-container__label-container {
   overflow: hidden;
 }
 
-/* line 48, ../sass/partials/_typography.scss */
+/* line 65, ../sass/partials/_typography.scss */
 .track-container__label-container__label {
   font-size: 13px;
   font-size: 0.8rem;
@@ -440,48 +519,48 @@ a {
   font-weight: 300;
 }
 
-/* line 59, ../sass/partials/_typography.scss */
+/* line 76, ../sass/partials/_typography.scss */
 #timeline-containerxx {
   float: left;
 }
-/* line 63, ../sass/partials/_typography.scss */
+/* line 80, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container {
   width: 100%;
   overflow: hidden;
   margin-top: 3rem;
   margin-bottom: 1rem;
 }
-/* line 64, ../sass/partials/_typography.scss */
+/* line 81, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container .album-label {
   font-size: 1.5rem;
   font-weight: 500;
   display: inline;
 }
-/* line 69, ../sass/partials/_typography.scss */
+/* line 86, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container .album-year-label {
   font-size: 1.5rem;
   font-weight: 100;
   padding-left: .5rem;
 }
-/* line 79, ../sass/partials/_typography.scss */
+/* line 96, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container #album-label-container-pleasePleaseMe {
   margin-top: 2rem;
 }
-/* line 84, ../sass/partials/_typography.scss */
+/* line 101, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container {
   width: 100%;
   display: block;
   overflow: hidden;
 }
-/* line 88, ../sass/partials/_typography.scss */
+/* line 105, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container p.year-mark-label {
   display: none;
 }
-/* line 91, ../sass/partials/_typography.scss */
+/* line 108, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .track-title-container {
   float: left;
 }
-/* line 93, ../sass/partials/_typography.scss */
+/* line 110, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .track-title-container .track-title-label {
   white-space: nowrap;
   overflow: hidden;
@@ -492,21 +571,21 @@ a {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
 }
-/* line 100, ../sass/partials/_typography.scss */
+/* line 117, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container {
   overflow: hidden;
   padding: 0;
   margin: 0;
   margin-bottom: .15rem;
 }
-/* line 107, ../sass/partials/_typography.scss */
+/* line 124, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container .segment-label {
   font-size: .6em;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
 }
-/* line 113, ../sass/partials/_typography.scss */
+/* line 130, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container svg.track {
   display: block;
   margin-bottom: 0rem;
@@ -523,10 +602,24 @@ html {
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
+/* line 17, ../sass/partials/_skin.scss */
+.nav__link {
+  border-bottom: 1px solid #fff8cd;
+}
+
+/* line 21, ../sass/partials/_skin.scss */
+.nav__link:hover {
+  border-bottom: 1px solid #ee3766;
+}
+/* line 23, ../sass/partials/_skin.scss */
+.nav__link:hover a {
+  color: #ee3766;
+}
+
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 24, ../sass/partials/_skin.scss */
+/* line 35, ../sass/partials/_skin.scss */
 .album-container {
   border-top: 1px solid #fff8cd;
 }

@@ -152,7 +152,7 @@ var d3Sketch1 = function(){
     .tickFormat(formatMinutes)
     .tickValues(d3.range(0, maxTime, 60));
 
-  d3.select('#context-container__axis-container-axis')
+  d3.select('#context-container__axis-container__axis')
     .append('svg')
       .attr('height', 25)
       .attr('width', width)

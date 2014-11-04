@@ -61,9 +61,31 @@ svg {
   @include rhythm(1,0,0,3);
 }
 
+.page-body-container {
+  @include span(12 of 12);  
+}
+
 .page-header {
-  @include span(12 of 12);
+  @include span(8 of 12);
   @include rhythm(0,0,0,3);
+}
+
+.site-header__site-title-container,
+.site-header__site-title-container__site-title {
+  @include span(12 of 12);
+}
+
+.site-header__nav {
+  @include span(12 of 12);
+}
+
+.nav__link {
+  @include span(2 of 12);
+  @include rhythm(0,0,0,1);
+}
+
+#nav__link--6 {
+  @include span(last 2 of 12);
 }
 
 /*------------------------------------*\
@@ -77,10 +99,14 @@ svg {
 
 #context-container,
 .context-container__legend-container,
-.context-container__axis-container,
-#context-container__axis-container-axis {
+.context-container__axis-container {
   @include span(12 of 12);
   background-color: $background;
+}
+
+#context-container__axis-container__axis {
+  // @include push(3 of 12);
+  // padding-left: span(3);
 }
 
 .context-container__legend-container {
