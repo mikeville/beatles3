@@ -19,10 +19,13 @@ var colorText =  '#fff8cd';
 var d3Sketch1 = function(){
 
   // Set up D3 =============
+
+  var maxTime = 510
+
   var width = $('#timeline-container').width();
   var height = 40;
 
-  maxTime = 540
+  
 
   var chordVizHeightRange = 2000
 
@@ -75,6 +78,8 @@ var d3Sketch1 = function(){
     .append('svg')
       .attr('class', 'track-container__svg-wrapper__svg')
       .attr('height', height)
+      .attr('width', width)
+
       // for responsive svgs that scale with outer div:
       // .attr('preserveAspectRatio', 'xMidYMid')
       // .attr('viewBox', '0 0 '+width+' '+height)
@@ -148,6 +153,7 @@ var d3Sketch1 = function(){
   d3.select('#context-container__axis-container-axis')
     .append('svg')
       .attr('height', height)
+      .attr('width', width)
     .append('g')
       .attr('class', 'axis')
       .attr('transform', 'translate(1, 20)')
