@@ -152,7 +152,7 @@ var d3Sketch1 = function(){
 
   d3.select('#context-container__axis-container-axis')
     .append('svg')
-      .attr('height', height)
+      .attr('height', 25)
       .attr('width', width)
     .append('g')
       .attr('class', 'axis')

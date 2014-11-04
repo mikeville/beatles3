@@ -47,7 +47,7 @@ html, body {
 
 
 svg {
-  @include border(green);
+  // @include border(green);
 }
 
 
@@ -84,9 +84,8 @@ svg {
 }
 
 .context-container__legend-container {
-  @include rhythm(0,0,0,1);
+  @include rhythm(0,1,0,1);
 }
-
 
 .legend__segment {
   display: inline;
@@ -99,3 +98,13 @@ svg {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
+
+.album-container,
+.album-container__label-container {
+  @include span(12 of 12);
+}
+
+
+.album-container {
+  @include rhythm(0,2,0,10);
+}
