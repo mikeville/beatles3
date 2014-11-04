@@ -76,14 +76,25 @@ svg {
 }
 
 #context-container,
-#context-container__lgend,
+.context-container__legend-container,
 .context-container__axis-container,
 #context-container__axis-container-axis {
   @include span(12 of 12);
   background-color: $background;
 }
 
+.context-container__legend-container {
+  @include rhythm(0,0,0,1);
+}
 
+
+.legend__segment {
+  display: inline;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  margin-right: 0.25rem;
+  color: $background;
+}
 
 /*------------------------------------*\
     #TIMELINE

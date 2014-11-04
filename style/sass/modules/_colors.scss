@@ -34,13 +34,13 @@ $instrumental: $green;
 }
 
 
-#legend-segment-chorus { background-color: $chorus; }
-#legend-segment-verse { background-color: $verse; }
-#legend-segment-bridge { background-color: $bridge; }
-#legend-segment-unique { background-color: $instrumental; }
-#legend-segment-variation { background-color: $instrumental; }
-#legend-segment-solo { background-color: $instrumental; }
-#legend-segment-intro { background-color: $intro-outro; }
+#legend__segment-chorus { background-color: $chorus; }
+#legend__segment-verse { background-color: $verse; }
+#legend__segment-bridge { background-color: $bridge; }
+#legend__segment-unique { background-color: $instrumental; }
+#legend__segment-variation { background-color: $instrumental; }
+#legend__segment-solo { background-color: $instrumental; }
+#legend__segment-intro { background-color: $intro-outro; }
 
 
 .segment_intro,

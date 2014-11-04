@@ -136,6 +136,7 @@ var d3Sketch1 = function(){
       var minutes = Math.floor((d / 60) - 1)
       var output = minutes + 1 + ':00'
       return output;
+      // via https://stackoverflow.com/questions/24541296/d3-js-time-scale-nicely-spaced-ticks-at-minute-intervals-when-data-is-in-second/24544067#24544067?newreg=46ad3f09119d40aebcec630921f68c47
   };
 
   var segmentsAxis = d3.svg.axis()

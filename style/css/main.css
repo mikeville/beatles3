@@ -76,37 +76,37 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 37, ../sass/modules/_colors.scss */
-#legend-segment-chorus {
+#legend__segment-chorus {
   background-color: #ffce06;
 }
 
 /* line 38, ../sass/modules/_colors.scss */
-#legend-segment-verse {
+#legend__segment-verse {
   background-color: #57caef;
 }
 
 /* line 39, ../sass/modules/_colors.scss */
-#legend-segment-bridge {
+#legend__segment-bridge {
   background-color: #ee3766;
 }
 
 /* line 40, ../sass/modules/_colors.scss */
-#legend-segment-unique {
+#legend__segment-unique {
   background-color: #74c044;
 }
 
 /* line 41, ../sass/modules/_colors.scss */
-#legend-segment-variation {
+#legend__segment-variation {
   background-color: #74c044;
 }
 
 /* line 42, ../sass/modules/_colors.scss */
-#legend-segment-solo {
+#legend__segment-solo {
   background-color: #74c044;
 }
 
 /* line 43, ../sass/modules/_colors.scss */
-#legend-segment-intro {
+#legend__segment-intro {
   background-color: #555244;
 }
 
@@ -313,7 +313,7 @@ svg {
 
 /* line 78, ../sass/partials/_grid.scss */
 #context-container,
-#context-container__lgend,
+.context-container__legend-container,
 .context-container__axis-container,
 #context-container__axis-container-axis {
   width: 100%;
@@ -321,6 +321,27 @@ svg {
   margin-left: 0;
   margin-right: 0;
   background-color: #1e1e1a;
+}
+
+/* line 86, ../sass/partials/_grid.scss */
+.context-container__legend-container {
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+}
+
+/* line 91, ../sass/partials/_grid.scss */
+.legend__segment {
+  display: inline;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  margin-right: 0.25rem;
+  color: #1e1e1a;
 }
 
 /*------------------------------------*\
