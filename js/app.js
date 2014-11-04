@@ -22,8 +22,10 @@ var d3Sketch1 = function(){
 
   var maxTime = 510
 
-  var width = $('#timeline-container').width();
-  var height = 40;
+  var svgWrapperWidth = ( $('#timeline-container').width() * 0.75 );
+
+  var width = svgWrapperWidth;
+  var height = 20;
 
   
 

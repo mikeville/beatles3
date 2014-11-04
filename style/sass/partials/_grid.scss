@@ -100,11 +100,21 @@ svg {
 \*------------------------------------*/
 
 .album-container,
-.album-container__label-container {
+.album-container__label-container,
+.track-container {
   @include span(12 of 12);
 }
 
 
 .album-container {
-  @include rhythm(0,2,0,10);
+  @include rhythm(0,2,0,6);
+}
+
+
+.track-container__label-container {
+  @include span(3 of 12);  
+}
+
+.track-container__svg-wrapper {
+  @include span(last 9 of 12);  
 }
