@@ -1,7 +1,8 @@
 $text: #fff8cd;
 $text-secondary: #555244;
 
-$background: #1e1e1a;
+// $background: #1e1e1a;
+$background: black;
 $background-light: tint($background, 5);
 
 $pink: #ee9e9c;
@@ -20,6 +21,13 @@ $green: #74c044;
 $pink: #ee3766;
 $text-secondary: #555244;
 
+
+
+// NEWNEWNEW
+$purple: #A052A0;
+$grey-legend: #666666;
+$red: #ED2126;
+// NEWNEWNEW
 
 $intro-outro: $text-secondary;
 $verse: $blue;
@@ -42,6 +50,16 @@ $instrumental: $green;
 #legend__segment-variation { background-color: $instrumental; }
 #legend__segment-solo { background-color: $instrumental; }
 #legend__segment-intro { background-color: $intro-outro; }
+
+
+#legend__authorship__paul { background-color: $yellow; }
+#legend__authorship__john { background-color: $blue; }
+#legend__authorship__george { background-color: $green; }
+#legend__authorship__ringo { background-color: $purple; }
+#legend__authorship__other { background-color: $grey-legend; }
+#legend__authorship__cowritten { background-color: $red; }
+
+
 
 
 .segment_intro,

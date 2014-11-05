@@ -10,7 +10,6 @@
   <script src='js/underscore.js'></script>
   <script src='js/handlebars.js'></script>
   <script src='js/backbone.js'></script>
-  <script src='js/app.js'></script>
   <script src='js/breakpoint.js'></script>
 
   <link rel='stylesheet' type='text/css' href='style/css/main.css' />
@@ -48,30 +47,22 @@
         <div id='context-container'>
           <div class='context-container__legend-container'>
             <ul class='context-container__legend-container-legend'>
-              <li id='legend__segment-chorus' class='legend__segment'>Chorus</li>
-              <li id='legend__segment-verse' class='legend__segment'>Verse</li>
-              <li id='legend__segment-bridge' class='legend__segment'>Bridge</li>
+              <li id='legend__authorship__paul' class='legend__segment'>Paul</li>
+              <li id='legend__authorship__john' class='legend__segment'>John</li>
+              <li id='legend__authorship__george' class='legend__segment'>George</li>
               <!-- <li id='legend__segment-unique'>Unique Section</li> -->
-              <li id='legend__segment-variation' class='legend__segment'>Variations</li>
+              <li id='legend__authorship__ringo' class='legend__segment'>Ringo</li>
               <!-- <li id='legend__segment-solo'>Solo/Instrumental</li> -->
-              <li id='legend__segment-intro' class='legend__segment'>Intro/Outro</li>
+              <li id='legend__authorship__other' class='legend__segment'>Other</li>
+              <li id='legend__authorship__cowritten' class='legend__segment'>Co-written song</li>
             </ul>
-          </div>
-          <div class='context-container__axis-container'>
-            <!-- *** HACKY ATTEMPT TO FIX STICKY LEGEND HICCUP *** -->
-            <div class='track-container__label-container'>
-            </div>
-            <div id='context-container__axis-container__axis' class='track-container__svg-wrapper'>
-            </div>
-<!--             <div id='context-container__axis-container__axis'>
-            </div> -->
-            <!-- ************************************************ -->
           </div>
         </div>
       </div>
       <div id='timeline-container' class='timeline-container'>
         <div id='loading-message'>
-        </div>     
+        </div>    
+        <img class="static-graphic" src="images/Beatles_141105_CompForSiteSketch-authorship.gif"> 
       </div>
     </div>
     <footer>
