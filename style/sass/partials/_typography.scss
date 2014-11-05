@@ -58,17 +58,52 @@ a:hover,
   @include rhythm(0,0,0,3);
 }
 
-.track-container__label-container {
-  overflow: hidden;
-}
 
-.track-container__label-container__label {
-  @include adjust-font-size-to(0.8rem, 3);
-  @include ellipsis;
+.track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 300;
 }
+
+// .track-container__label-container__label {
+//   @include adjust-font-size-to(0.8rem, 3);
+//   @include ellipsis;
+//   text-transform: uppercase;
+//   font-family: 'Roboto Condensed', sans-serif;
+//   font-weight: 300;
+// }
+
+.track-container:hover {
+  cursor: pointer;
+  background-color: $background-light;
+
+  .track-container__label-container__label {
+    color: $pink;
+  }
+}
+
+.track-container--collapsed {
+  .track-container__label-container__label {
+    overflow: hidden;
+    @include adjust-font-size-to(0.8rem, 3);
+    @include ellipsis;
+    font-weight: 300;
+  }
+}
+
+.track-container--expanded {
+  border-top: 1px dotted $text;
+  border-bottom: 1px dotted $text;
+  @include rhythm(0,1,2,1);
+
+  .track-container__label-container__label {
+    @include adjust-font-size-to(4rem);
+    font-weight: 100;
+    @include rhythm(0,0,0,3);
+    color: $pink;
+  }
+}
+
+
 
 
 

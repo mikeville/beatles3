@@ -61,7 +61,7 @@ var d3Sketch1 = function(){
   var trackContainers = albumContainers.selectAll('.track-container')
       .data(function(d, i) { return d['tracks']; })
     .enter().append('div')
-      .attr('class', 'track-container')
+      .attr('class', 'track-container track-container--collapsed')
       .attr('id', function(d) { return 'track-container--'+d['trackIndex']; });
 
   // Add track labels =============
@@ -186,9 +186,15 @@ var d3Sketch1 = function(){
 var setEventsTest = function() {
   $('.track-container__graphic-container__notes-container').hide();
 
-  $('.track-container').click(
-    function(){
+  $('.track-container').click(function(){
       $(this).find('.track-container__graphic-container__notes-container').toggle();
+      if  ($(this).hasClass('track-container--collapsed')) {
+        $(this).addClass('track-container--expanded');
+        $(this).removeClass('track-container--collapsed');
+      } else {
+        $(this).addClass('track-container--collapsed');
+        $(this).removeClass('track-container--expanded');       
+      }
     }
   )
 }

@@ -69,48 +69,48 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /*------------------------------------*\
     #MY-MODULES
 \*------------------------------------*/
-/* line 31, ../sass/modules/_colors.scss */
+/* line 32, ../sass/modules/_colors.scss */
 .segment {
   fill: #74c044;
   background-color: #74c044;
 }
 
-/* line 37, ../sass/modules/_colors.scss */
+/* line 38, ../sass/modules/_colors.scss */
 #legend__segment-chorus {
   background-color: #ffce06;
 }
 
-/* line 38, ../sass/modules/_colors.scss */
+/* line 39, ../sass/modules/_colors.scss */
 #legend__segment-verse {
   background-color: #57caef;
 }
 
-/* line 39, ../sass/modules/_colors.scss */
+/* line 40, ../sass/modules/_colors.scss */
 #legend__segment-bridge {
   background-color: #ee3766;
 }
 
-/* line 40, ../sass/modules/_colors.scss */
+/* line 41, ../sass/modules/_colors.scss */
 #legend__segment-unique {
   background-color: #74c044;
 }
 
-/* line 41, ../sass/modules/_colors.scss */
+/* line 42, ../sass/modules/_colors.scss */
 #legend__segment-variation {
   background-color: #74c044;
 }
 
-/* line 42, ../sass/modules/_colors.scss */
+/* line 43, ../sass/modules/_colors.scss */
 #legend__segment-solo {
   background-color: #74c044;
 }
 
-/* line 43, ../sass/modules/_colors.scss */
+/* line 44, ../sass/modules/_colors.scss */
 #legend__segment-intro {
   background-color: #555244;
 }
 
-/* line 46, ../sass/modules/_colors.scss */
+/* line 47, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_outro_a,
@@ -123,7 +123,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 59, ../sass/modules/_colors.scss */
+/* line 60, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_versea,
 .segment_verseb,
@@ -151,7 +151,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 88, ../sass/modules/_colors.scss */
+/* line 89, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_refrain,
 .segment_refrain_trans,
@@ -164,7 +164,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 101, ../sass/modules/_colors.scss */
+/* line 102, ../sass/modules/_colors.scss */
 .segment_instrumental,
 .segment_verse_guitar_solo,
 .segment_sitar_solo,
@@ -176,13 +176,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 112, ../sass/modules/_colors.scss */
+/* line 113, ../sass/modules/_colors.scss */
 .segment_refrain_with_ending {
   fill: #57caef;
   background-color: #57caef;
 }
 
-/* line 117, ../sass/modules/_colors.scss */
+/* line 118, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge_--solo--,
 .segment_bridge_instru,
@@ -498,13 +498,25 @@ a:hover,
   margin-bottom: 1.5rem;
 }
 
-/* line 61, ../sass/partials/_typography.scss */
+/* line 62, ../sass/partials/_typography.scss */
 .track-container__label-container {
-  overflow: hidden;
+  text-transform: uppercase;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 65, ../sass/partials/_typography.scss */
-.track-container__label-container__label {
+/* line 75, ../sass/partials/_typography.scss */
+.track-container:hover {
+  cursor: pointer;
+  background-color: #292925;
+}
+/* line 79, ../sass/partials/_typography.scss */
+.track-container:hover .track-container__label-container__label {
+  color: #ee3766;
+}
+
+/* line 85, ../sass/partials/_typography.scss */
+.track-container--collapsed .track-container__label-container__label {
+  overflow: hidden;
   font-size: 13px;
   font-size: 0.8rem;
   line-height: 24px;
@@ -514,53 +526,82 @@ a:hover,
   -ms-text-overflow: ellipsis;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
-  text-transform: uppercase;
-  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
 }
 
-/* line 76, ../sass/partials/_typography.scss */
+/* line 93, ../sass/partials/_typography.scss */
+.track-container--expanded {
+  border-top: 1px dotted #fff8cd;
+  border-bottom: 1px dotted #fff8cd;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 8px;
+  padding-top: 0.5rem;
+  padding-bottom: 16px;
+  padding-bottom: 1rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+}
+/* line 98, ../sass/partials/_typography.scss */
+.track-container--expanded .track-container__label-container__label {
+  font-size: 64px;
+  font-size: 4rem;
+  line-height: 64px;
+  line-height: 4.01563rem;
+  font-weight: 100;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+  color: #ee3766;
+}
+
+/* line 111, ../sass/partials/_typography.scss */
 #timeline-containerxx {
   float: left;
 }
-/* line 80, ../sass/partials/_typography.scss */
+/* line 115, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container {
   width: 100%;
   overflow: hidden;
   margin-top: 3rem;
   margin-bottom: 1rem;
 }
-/* line 81, ../sass/partials/_typography.scss */
+/* line 116, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container .album-label {
   font-size: 1.5rem;
   font-weight: 500;
   display: inline;
 }
-/* line 86, ../sass/partials/_typography.scss */
+/* line 121, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .album-label-container .album-year-label {
   font-size: 1.5rem;
   font-weight: 100;
   padding-left: .5rem;
 }
-/* line 96, ../sass/partials/_typography.scss */
+/* line 131, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container #album-label-container-pleasePleaseMe {
   margin-top: 2rem;
 }
-/* line 101, ../sass/partials/_typography.scss */
+/* line 136, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container {
   width: 100%;
   display: block;
   overflow: hidden;
 }
-/* line 105, ../sass/partials/_typography.scss */
+/* line 140, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container p.year-mark-label {
   display: none;
 }
-/* line 108, ../sass/partials/_typography.scss */
+/* line 143, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .track-title-container {
   float: left;
 }
-/* line 110, ../sass/partials/_typography.scss */
+/* line 145, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .track-title-container .track-title-label {
   white-space: nowrap;
   overflow: hidden;
@@ -571,21 +612,21 @@ a:hover,
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
 }
-/* line 117, ../sass/partials/_typography.scss */
+/* line 152, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container {
   overflow: hidden;
   padding: 0;
   margin: 0;
   margin-bottom: .15rem;
 }
-/* line 124, ../sass/partials/_typography.scss */
+/* line 159, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container .segment-label {
   font-size: .6em;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
 }
-/* line 130, ../sass/partials/_typography.scss */
+/* line 165, ../sass/partials/_typography.scss */
 #timeline-containerxx #big-timeline-container .track-container .svg-track-container svg.track {
   display: block;
   margin-bottom: 0rem;
