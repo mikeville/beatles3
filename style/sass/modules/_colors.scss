@@ -47,6 +47,15 @@
   @include pattern-dots4(4)
 }
 
+.div-test {
+  border: 1px solid white;
+  background-color: black;
+  display: inline;
+}
+
+.div-test:after {
+  content: "test";
+}
 
 $text: #fff8cd;
 $text-secondary: #555244;

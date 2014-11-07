@@ -79,84 +79,96 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-position: 0 0, 4px 4px;
 }
 
-/* line 91, ../sass/modules/_colors.scss */
+/* line 50, ../sass/modules/_colors.scss */
+.div-test {
+  border: 1px solid white;
+  background-color: black;
+  display: inline;
+}
+
+/* line 56, ../sass/modules/_colors.scss */
+.div-test:after {
+  content: "test";
+}
+
+/* line 100, ../sass/modules/_colors.scss */
 .segment {
   fill: #74c044;
   background-color: #74c044;
 }
 
-/* line 97, ../sass/modules/_colors.scss */
+/* line 106, ../sass/modules/_colors.scss */
 #legend__segment-chorus {
   background-color: #ffce06;
 }
 
-/* line 98, ../sass/modules/_colors.scss */
+/* line 107, ../sass/modules/_colors.scss */
 #legend__segment-verse {
   background-color: #57caef;
 }
 
-/* line 99, ../sass/modules/_colors.scss */
+/* line 108, ../sass/modules/_colors.scss */
 #legend__segment-bridge {
   background-color: #ee3766;
 }
 
-/* line 100, ../sass/modules/_colors.scss */
+/* line 109, ../sass/modules/_colors.scss */
 #legend__segment-unique {
   background-color: #74c044;
 }
 
-/* line 101, ../sass/modules/_colors.scss */
+/* line 110, ../sass/modules/_colors.scss */
 #legend__segment-variation {
   background-color: #74c044;
 }
 
-/* line 102, ../sass/modules/_colors.scss */
+/* line 111, ../sass/modules/_colors.scss */
 #legend__segment-solo {
   background-color: #74c044;
 }
 
-/* line 103, ../sass/modules/_colors.scss */
+/* line 112, ../sass/modules/_colors.scss */
 #legend__segment-intro {
   background-color: #555244;
 }
 
-/* line 106, ../sass/modules/_colors.scss */
+/* line 115, ../sass/modules/_colors.scss */
 #legend__authorship__paul {
   background-color: #ffce06;
 }
 
-/* line 107, ../sass/modules/_colors.scss */
+/* line 116, ../sass/modules/_colors.scss */
 #legend__authorship__john {
   background-color: #57caef;
 }
 
-/* line 108, ../sass/modules/_colors.scss */
+/* line 117, ../sass/modules/_colors.scss */
 #legend__authorship__george {
   background-color: #74c044;
 }
 
-/* line 109, ../sass/modules/_colors.scss */
+/* line 118, ../sass/modules/_colors.scss */
 #legend__authorship__ringo {
   background-color: #A052A0;
 }
 
-/* line 110, ../sass/modules/_colors.scss */
+/* line 119, ../sass/modules/_colors.scss */
 #legend__authorship__other {
   background-color: #666666;
 }
 
-/* line 111, ../sass/modules/_colors.scss */
+/* line 120, ../sass/modules/_colors.scss */
 #legend__authorship__cowritten {
   background-color: #ED2126;
 }
 
-/* line 115, ../sass/modules/_colors.scss */
+/* line 124, ../sass/modules/_colors.scss */
 .segment_silence {
   fill: #1e1e1a;
   background-color: #1e1e1a;
 }
 
-/* line 120, ../sass/modules/_colors.scss */
+/* line 129, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -165,7 +177,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 128, ../sass/modules/_colors.scss */
+/* line 137, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -173,7 +185,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 135, ../sass/modules/_colors.scss */
+/* line 144, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -181,7 +193,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 142, ../sass/modules/_colors.scss */
+/* line 151, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -189,7 +201,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 149, ../sass/modules/_colors.scss */
+/* line 158, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
