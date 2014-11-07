@@ -1,3 +1,53 @@
+@mixin pattern-dots() {
+      background:
+        -moz-radial-gradient(white 15%, transparent 16%),
+        -moz-radial-gradient(white 15%, transparent 16%),
+        white;
+    background:
+        -webkit-radial-gradient(white 15%, transparent 16%),
+        -webkit-radial-gradient(white 15%, transparent 16%),
+        white;
+    background-position: 0 0, 80px 80px;
+    
+    -webkit-background-size:160px 160px;
+    -moz-background-size:160px 160px;
+    background-size:160px 160px;
+}
+
+@mixin pattern-dots2(){
+  background-color:#001;
+  background-image: radial-gradient(white 15%, transparent 16%),
+  radial-gradient(white 15%, transparent 16%);
+  background-size:60px 60px;
+  background-position: 0 0, 30px 30px;
+}
+
+@mixin pattern-dots3($dotSize){
+  // background-color: $verse;
+  background-image: radial-gradient(white $dotSize * 1%, transparent $dotSize * 1% + 1%),
+  radial-gradient(white $dotSize * 1%, transparent $dotSize * 1% + 1%);
+  background-size:$dotSize * 4px $dotSize * 4px;
+  background-position: 0 0, $dotSize * 2px $dotSize * 2px;
+}
+
+@mixin pattern-dots4($dotSize){
+  // background-color: $verse;
+  background-image:
+  radial-gradient(white $dotSize * 4%, transparent $dotSize * 4% + 2%),
+  radial-gradient(white $dotSize * 4%, transparent $dotSize * 4% + 2%);
+  background-size:$dotSize * 2px $dotSize * 2px;
+  background-position: 0 0, $dotSize * 1px $dotSize * 1px;
+}
+
+
+.dot-test {
+  width: 60rem;
+  height: 10rem;
+  border: 1px solid white;
+  @include pattern-dots4(4)
+}
+
+
 $text: #fff8cd;
 $text-secondary: #555244;
 

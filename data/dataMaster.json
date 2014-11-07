@@ -2189,7 +2189,7 @@
       {"start":68.679,"end":101.521,"segType":"bridge"},
       {"start":101.521,"end":134.821,"segType":"verse"},
       {"start":134.821,"end":168.038,"segType":"bridge"},
-      {"start":168.038,"end":204.499,"segType":"verse/outro"},
+      {"start":168.038,"end":204.499,"segType":"verse"},
       {"start":204.499,"end":206.707,"segType":"silence"}]
     },
     {"trackIndex": 143, "order": 5, "trackTitle": "Octopus's Garden", "segments":
