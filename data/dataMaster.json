@@ -515,8 +515,7 @@
       {"start":152.671,"end":157.627,"segType":"silence"}]
     },
     {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back", "segments":
-      [{"start":0.000,"end":0.429,"segType":"bridge"},
-      {"start":0.429,"end":5.178,"segType":"intro"},
+      [{"start":0.429,"end":5.178,"segType":"intro"},
       {"start":5.178,"end":27.957,"segType":"verse"},
       {"start":27.957,"end":40.391,"segType":"bridge"},
       {"start":40.391,"end":63.497,"segType":"verse"},
@@ -1829,7 +1828,7 @@
       {"start":162.922,"end":162.923,"segType":"silence"}]
     },
     {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues", "segments":
-      [{"start":0.000,"end":3.376,"segType":"silence"},
+      [{"start":0.000,"end":3.376,"segType":"intro"},
       {"start":3.376,"end":32.305,"segType":"verse"},
       {"start":32.305,"end":61.633,"segType":"verse"},
       {"start":61.633,"end":90.874,"segType":"verse--variant"},
@@ -2227,7 +2226,7 @@
 {"start":131.658,"end":146.602,"segType":"verse"},
 {"start":146.602,"end":159.683,"segType":"chorus"},
 {"start":159.683,"end":183.998,"segType":"outro"},
-{"start":183.998,"end":185.560,"segType":"new_point"}]
+{"start":183.998,"end":185.560,"segType":"silence"}]
     },
     {"trackIndex": 146, "order": 8, "trackTitle": "Because", "segments":
 [{"start":0.000,"end":0.394,"segType":"silence"},
