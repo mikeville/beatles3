@@ -103,71 +103,12 @@ a:hover,
   }
 }
 
+.track-container__graphic-container__notes-container__note-list {
+  @include rhythm(2,0,0,0);
+  list-style-type: disc;
+  padding-left: 1.1rem;
+}
 
-
-
-
-
-#timeline-containerxx{
-  float: left;
-
-  #big-timeline-container{
-    .album-label-container{
-      .album-label {
-        font-size: 1.5rem;
-        font-weight: 500;
-        display:inline;
-      }
-      .album-year-label{
-        font-size: 1.5rem;
-        font-weight: 100;
-        padding-left: .5rem;
-      }
-      width: 100%;
-      overflow: hidden;
-      margin-top: 3rem;
-      margin-bottom: 1rem;
-    }
-      #album-label-container-pleasePleaseMe{
-        margin-top: 2rem;
-      }
-
-
-    .track-container{
-      width: 100%;
-      display: block;
-      overflow: hidden;
-      p.year-mark-label{
-        display: none;
-      }
-      .track-title-container{
-        float: left;
-        .track-title-label {
-          @include ellipsis;
-          text-transform: uppercase;
-          font-family: 'Roboto Condensed', sans-serif;
-          font-weight: 300;
-        } 
-      }
-      .svg-track-container{
-        // width: 75%;
-        // float: left;
-        overflow: hidden;
-        padding: 0;
-        margin: 0;
-        margin-bottom: .15rem;
-        .segment-label {
-          font-size: .6em;
-          text-transform: uppercase;
-          font-family: 'Roboto Condensed', sans-serif;
-          font-weight: 300;
-        }
-        svg.track{
-          display: block;
-          margin-bottom: 0rem;
-        }
-      }
-
-    }
-  }
+.note-list__note {
+  @include rhythm(0,0,0,1);
 }

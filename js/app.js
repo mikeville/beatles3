@@ -237,8 +237,6 @@ var d3Sketch2_divs = function(){
 
   var trackGraphics = graphicContainer.append('div')
       .attr('class', 'track-container__graphic-container__graphic-wrapper')
-    .append('div')
-      .attr('class', 'track-container__graphic-container__graphic-wrapper__graphic')
       .style('height', height)
       .style('width', width)
 
@@ -283,10 +281,21 @@ var d3Sketch2_divs = function(){
     .attr('class', 'div-test2')
 
   // Add notes containers =============
+  // graphicContainer.append('div')
+  //     .attr('class', 'track-container__graphic-container__notes-container')
+  //   .append('p')
+  //     .text(function(d) { return d['notes']; })
+
   graphicContainer.append('div')
       .attr('class', 'track-container__graphic-container__notes-container')
-    .append('p')
-      .text(function(d) { return d['notes']; })
+    .append('ul')
+      .attr('class', 'track-container__graphic-container__notes-container__note-list')
+    .selectAll('li')
+      .data(function(d, i) { return d['notes'] })
+    .enter().append('li')
+      .attr('class', 'note-list__note')
+      .text(function(d) { return d; })
+
 
   // ======================================================
   // DRAW MAIN GRAPHICS + TRANSITIONS =====================

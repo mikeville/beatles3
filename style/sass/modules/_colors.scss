@@ -49,6 +49,21 @@ $instrumental: $green;
 }
 
 
+@mixin pattern-zigzags() {
+
+  background: 
+  linear-gradient(135deg, $background 25%, transparent 25%) -2px 0,
+  linear-gradient(225deg, $background 25%, transparent 25%) -2px 0,
+  linear-gradient(315deg, $background 25%, transparent 25%),
+  linear-gradient(45deg, $background 25%, transparent 25%); 
+  background-size: 4px 4px;
+  background-color: transparent;
+
+}
+
+
+
+
 
 
 
@@ -78,12 +93,29 @@ $instrumental: $green;
 #legend__authorship__cowritten { background-color: $red; }
 
 
+.segment_intro--variant,
+.segment_outro--variant,
+.segment_verse--variant,
+.segment_chorus--variant,
+.segment_bridge--variant,
+.segment_break--variant {
+  // @include pattern-zigzags(); 
+}
+
+.segment_verse--instrumental,
+.segment_chorus--instrumental,
+.segment_bridge--instrumental,
+.segment_break--instrumental {
+  @include pattern-dots4(3);
+}
+
 
 .segment_silence {
   // fill: $background;
   // background-color: $background;
   fill: $intro-outro;
   background-color: $intro-outro;
+  border-right: none;
 }
 
 .segment_intro,
@@ -122,10 +154,5 @@ $instrumental: $green;
   background-color: $break;
 }
 
-.segment_verse--instrumental,
-.segment_chorus--instrumental,
-.segment_bridge--instrumental,
-.segment_break--instrumental {
-  @include pattern-dots4(3);
-}
+
 

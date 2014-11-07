@@ -69,7 +69,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /*------------------------------------*\
     #MY-MODULES
 \*------------------------------------*/
-/* line 56, ../sass/modules/_colors.scss */
+/* line 71, ../sass/modules/_colors.scss */
 .segment {
   float: left;
   fill: #74c044;
@@ -77,78 +77,89 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-right: 1px solid #1e1e1a;
 }
 
-/* line 64, ../sass/modules/_colors.scss */
+/* line 79, ../sass/modules/_colors.scss */
 #legend__segment-chorus {
   background-color: #ffce06;
 }
 
-/* line 65, ../sass/modules/_colors.scss */
+/* line 80, ../sass/modules/_colors.scss */
 #legend__segment-verse {
   background-color: #57caef;
 }
 
-/* line 66, ../sass/modules/_colors.scss */
+/* line 81, ../sass/modules/_colors.scss */
 #legend__segment-bridge {
   background-color: #ee3766;
 }
 
-/* line 67, ../sass/modules/_colors.scss */
+/* line 82, ../sass/modules/_colors.scss */
 #legend__segment-unique {
   background-color: #74c044;
 }
 
-/* line 68, ../sass/modules/_colors.scss */
+/* line 83, ../sass/modules/_colors.scss */
 #legend__segment-variation {
   background-color: #74c044;
 }
 
-/* line 69, ../sass/modules/_colors.scss */
+/* line 84, ../sass/modules/_colors.scss */
 #legend__segment-solo {
   background-color: #74c044;
 }
 
-/* line 70, ../sass/modules/_colors.scss */
+/* line 85, ../sass/modules/_colors.scss */
 #legend__segment-intro {
   background-color: #555244;
 }
 
-/* line 73, ../sass/modules/_colors.scss */
+/* line 88, ../sass/modules/_colors.scss */
 #legend__authorship__paul {
   background-color: #ffce06;
 }
 
-/* line 74, ../sass/modules/_colors.scss */
+/* line 89, ../sass/modules/_colors.scss */
 #legend__authorship__john {
   background-color: #57caef;
 }
 
-/* line 75, ../sass/modules/_colors.scss */
+/* line 90, ../sass/modules/_colors.scss */
 #legend__authorship__george {
   background-color: #74c044;
 }
 
-/* line 76, ../sass/modules/_colors.scss */
+/* line 91, ../sass/modules/_colors.scss */
 #legend__authorship__ringo {
   background-color: #A052A0;
 }
 
-/* line 77, ../sass/modules/_colors.scss */
+/* line 92, ../sass/modules/_colors.scss */
 #legend__authorship__other {
   background-color: #666666;
 }
 
-/* line 78, ../sass/modules/_colors.scss */
+/* line 93, ../sass/modules/_colors.scss */
 #legend__authorship__cowritten {
   background-color: #ED2126;
 }
 
-/* line 82, ../sass/modules/_colors.scss */
+/* line 105, ../sass/modules/_colors.scss */
+.segment_verse--instrumental,
+.segment_chorus--instrumental,
+.segment_bridge--instrumental,
+.segment_break--instrumental {
+  background-image: radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%), radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%);
+  background-size: 6px 6px;
+  background-position: 0 0, 3px 3px;
+}
+
+/* line 113, ../sass/modules/_colors.scss */
 .segment_silence {
   fill: #555244;
   background-color: #555244;
+  border-right: none;
 }
 
-/* line 89, ../sass/modules/_colors.scss */
+/* line 121, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -157,7 +168,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 97, ../sass/modules/_colors.scss */
+/* line 129, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -165,7 +176,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 104, ../sass/modules/_colors.scss */
+/* line 136, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -173,7 +184,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 111, ../sass/modules/_colors.scss */
+/* line 143, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -181,22 +192,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 118, ../sass/modules/_colors.scss */
+/* line 150, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
   fill: #74c044;
   background-color: #74c044;
-}
-
-/* line 125, ../sass/modules/_colors.scss */
-.segment_verse--instrumental,
-.segment_chorus--instrumental,
-.segment_bridge--instrumental,
-.segment_break--instrumental {
-  background-image: radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%), radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%);
-  background-size: 6px 6px;
-  background-position: 0 0, 3px 3px;
 }
 
 @-ms-viewport {
@@ -439,6 +440,15 @@ html, body {
   margin-right: 0;
 }
 
+/* line 158, ../sass/partials/_grid.scss */
+.track-container__graphic-container__graphic-wrapper,
+.track-container__graphic-container__notes-container {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /*------------------------------------*\
     #TYPE-VARIABLES
 \*------------------------------------*/
@@ -576,76 +586,30 @@ a:hover,
   color: #ee3766;
 }
 
-/* line 111, ../sass/partials/_typography.scss */
-#timeline-containerxx {
-  float: left;
-}
-/* line 115, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .album-label-container {
-  width: 100%;
-  overflow: hidden;
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-}
-/* line 116, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .album-label-container .album-label {
-  font-size: 1.5rem;
-  font-weight: 500;
-  display: inline;
-}
-/* line 121, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .album-label-container .album-year-label {
-  font-size: 1.5rem;
-  font-weight: 100;
-  padding-left: .5rem;
-}
-/* line 131, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container #album-label-container-pleasePleaseMe {
-  margin-top: 2rem;
-}
-/* line 136, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container {
-  width: 100%;
-  display: block;
-  overflow: hidden;
-}
-/* line 140, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container p.year-mark-label {
-  display: none;
-}
-/* line 143, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container .track-title-container {
-  float: left;
-}
-/* line 145, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container .track-title-container .track-title-label {
-  white-space: nowrap;
-  overflow: hidden;
-  -ms-text-overflow: ellipsis;
-  -o-text-overflow: ellipsis;
-  text-overflow: ellipsis;
-  text-transform: uppercase;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 300;
-}
-/* line 152, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container .svg-track-container {
-  overflow: hidden;
-  padding: 0;
-  margin: 0;
-  margin-bottom: .15rem;
-}
-/* line 159, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container .svg-track-container .segment-label {
-  font-size: .6em;
-  text-transform: uppercase;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 300;
-}
-/* line 165, ../sass/partials/_typography.scss */
-#timeline-containerxx #big-timeline-container .track-container .svg-track-container svg.track {
-  display: block;
+/* line 106, ../sass/partials/_typography.scss */
+.track-container__graphic-container__notes-container__note-list {
+  margin-top: 16px;
+  margin-top: 1rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 0px;
   margin-bottom: 0rem;
+  list-style-type: disc;
+  padding-left: 1.1rem;
+}
+
+/* line 112, ../sass/partials/_typography.scss */
+.note-list__note {
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
 }
 
 /*------------------------------------*\
