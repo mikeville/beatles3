@@ -23,8 +23,7 @@
       {"start":172.062,"end":175.800,"segType":"silence"}],
     "notes": [
       "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52.",
-      "Every section of the song starts off rhythmically with a pickup before the downbeat. This starts as early as the introductory bass note that falls between the word 'four' and the first measure. It all goes to enhance a general feeling of urgency already projected by other aspects of the music."
-    ]
+      "Every section of the song starts off rhythmically with a pickup before the downbeat. This starts as early as the introductory bass note that falls between the word 'four' and the first measure. It all goes to enhance a general feeling of urgency already projected by other aspects of the music."    ]
     },
     {"trackIndex": 1, "order": 2, "trackTitle": "Misery", "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
@@ -54,7 +53,10 @@
       {"start":109.563,"end":144.201,"segType":"bridge"},
       {"start":144.201,"end":159.510,"segType":"verse"},
       {"start":159.510,"end":173.560,"segType":"chorus"},
-      {"start":173.560,"end":177.573,"segType":"silence"}]
+      {"start":173.560,"end":177.573,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 3, "order": 4, "trackTitle": "Chains", "segments":
       [{"start":0.000,"end":0.433,"segType":"silence"},
@@ -66,7 +68,10 @@
       {"start":88.980,"end":103.799,"segType":"bridge"},
       {"start":103.799,"end":126.008,"segType":"verse"},
       {"start":126.008,"end":141.647,"segType":"outro"},
-      {"start":141.647,"end":146.493,"segType":"silence"}]
+      {"start":141.647,"end":146.493,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 4, "order": 5, "trackTitle": "Boys", "segments":
       [{"start":0.000,"end":0.383,"segType":"silence"},
@@ -78,7 +83,10 @@
       {"start":87.103,"end":107.649,"segType":"verse"},
       {"start":107.649,"end":128.114,"segType":"bridge"},
       {"start":128.114,"end":142.763,"segType":"outro"},
-      {"start":142.763,"end":147.507,"segType":"silence"}]
+      {"start":142.763,"end":147.507,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why", "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
@@ -91,7 +99,10 @@
       {"start":98.348,"end":109.111,"segType":"verse--variant"},
       {"start":109.111,"end":123.234,"segType":"bridge"},
       {"start":123.234,"end":143.117,"segType":"verse--variant"},
-      {"start":143.117,"end":147.760,"segType":"silence"}]
+      {"start":143.117,"end":147.760,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me", "segments":
       [{"start":0.000,"end":0.429,"segType":"silence"},
@@ -101,7 +112,10 @@
       {"start":62.671,"end":80.151,"segType":"bridge"},
       {"start":80.151,"end":108.016,"segType":"verse"},
       {"start":108.016,"end":118.939,"segType":"outro"},
-      {"start":118.939,"end":123.373,"segType":"silence"}]
+      {"start":118.939,"end":123.373,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do", "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
@@ -112,7 +126,10 @@
       {"start":69.120,"end":90.331,"segType":"verse"},
       {"start":90.331,"end":109.708,"segType":"bridge--instrumental"},
       {"start":109.708,"end":137.945,"segType":"verse"},
-      {"start":137.945,"end":142.760,"segType":"silence"}]
+      {"start":137.945,"end":142.760,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You", "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
@@ -124,7 +141,10 @@
       {"start":82.636,"end":96.873,"segType":"bridge"},
       {"start":96.873,"end":114.823,"segType":"verse"},
       {"start":114.823,"end":122.070,"segType":"outro"},
-      {"start":122.070,"end":125.733,"segType":"silence"}]
+      {"start":122.070,"end":125.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You", "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
@@ -132,7 +152,10 @@
       {"start":49.429,"end":94.389,"segType":"verse"},
       {"start":94.389,"end":139.238,"segType":"verse--instrumental"},
       {"start":139.238,"end":151.907,"segType":"outro"},
-      {"start":151.907,"end":158.067,"segType":"silence"}]
+      {"start":151.907,"end":158.067,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret", "segments":
       [{"start":0.000,"end":0.465,"segType":"silence"},
@@ -142,7 +165,10 @@
 {"start":68.992,"end":80.441,"segType":"bridge"},
 {"start":80.441,"end":103.607,"segType":"verse"},
 {"start":103.607,"end":114.808,"segType":"outro"},
-{"start":114.808,"end":119.333,"segType":"silence"}]
+{"start":114.808,"end":119.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey", "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
@@ -151,7 +177,10 @@
 {"start":43.804,"end":56.898,"segType":"bridge"},
 {"start":56.898,"end":92.522,"segType":"verse"},
 {"start":92.522,"end":120.505,"segType":"bridge"},
-{"start":120.505,"end":125.133,"segType":"silence"}]
+{"start":120.505,"end":125.133,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place", "segments":
       [{"start":0.000,"end":0.435,"segType":"silencez"},
@@ -161,7 +190,10 @@
       {"start":54.631,"end":71.912,"segType":"bridge"},
       {"start":71.912,"end":95.997,"segType":"verse"},
       {"start":95.997,"end":107.648,"segType":"outro"},
-      {"start":107.648,"end":112.867,"segType":"silence"}]
+      {"start":107.648,"end":112.867,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout", "segments":
       [{"start":0.000,"end":0.416,"segType":"silence"},
@@ -171,7 +203,10 @@
 {"start":69.033,"end":96.571,"segType":"bridge"},
 {"start":96.571,"end":127.233,"segType":"verse"},
 {"start":127.233,"end":152.147,"segType":"bridge"},
-{"start":152.147,"end":153.267,"segType":"silence"}]
+{"start":152.147,"end":153.267,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "withTheBeatles", "albumTitle": "With The Beatles",
@@ -193,7 +228,10 @@
       {"start":98.081,"end":110.748,"segType":"verse"},
       {"start":110.748,"end":119.850,"segType":"chorus"},
       {"start":119.850,"end":130.012,"segType":"outro"},
-      {"start":130.012,"end":133.733,"segType":"silence"}]
+      {"start":130.012,"end":133.733,"segType":"silence"}],
+    "notes": [
+      "first note of second album"
+    ]
     },
     {"trackIndex": 15, "order": 2, "trackTitle": "All I've Got to Do", "segments":
       [{"start":0.000,"end":0.498,"segType":"silence"},
@@ -203,7 +241,10 @@
       {"start":65.887,"end":88.155,"segType":"verse"},
       {"start":88.155,"end":109.877,"segType":"bridge"},
       {"start":109.877,"end":120.304,"segType":"verse--instrumental"},
-      {"start":120.304,"end":124.533,"segType":"silence"}]
+      {"start":120.304,"end":124.533,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 16, "order": 3, "trackTitle": "All My Loving", "segments":
       [{"start":0.000,"end":0.479,"segType":"silence"},
@@ -214,7 +255,10 @@
       {"start":75.107,"end":99.813,"segType":"verse"},
       {"start":99.813,"end":112.247,"segType":"chorus"},
       {"start":112.247,"end":125.838,"segType":"outro"},
-      {"start":125.838,"end":129.560,"segType":"silence"}]
+      {"start":125.838,"end":129.560,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 17, "order": 4, "trackTitle": "Don't Bother Me", "segments":
       [{"start":0.000,"end":0.536,"segType":"silence"},
@@ -227,7 +271,10 @@
       {"start":96.067,"end":118.416,"segType":"bridge"},
       {"start":118.416,"end":135.366,"segType":"verse"},
       {"start":135.366,"end":144.182,"segType":"outro"},
-      {"start":144.182,"end":149.373,"segType":"silence"}]
+      {"start":144.182,"end":149.373,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 18, "order": 5, "trackTitle": "Little Child", "segments":
       [{"start":0.000,"end":0.498,"segType":"silence"},
@@ -240,7 +287,10 @@
       {"start":73.142,"end":82.559,"segType":"bridge"},
       {"start":82.559,"end":95.191,"segType":"verse"},
       {"start":95.191,"end":104.297,"segType":"outro"},
-      {"start":104.297,"end":108.000,"segType":"silence"}]
+      {"start":104.297,"end":108.000,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 19, "order": 6, "trackTitle": "Till There Was You", "segments":
       [{"start":0.000,"end":0.478,"segType":"silence"},
@@ -253,7 +303,10 @@
       {"start":86.608,"end":102.235,"segType":"bridge"},
       {"start":102.235,"end":117.943,"segType":"verse"},
       {"start":117.943,"end":131.973,"segType":"outro"},
-      {"start":131.973,"end":136.733,"segType":"silence"}]
+      {"start":131.973,"end":136.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 20, "order": 7, "trackTitle": "Please Mister Postman", "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
@@ -268,7 +321,10 @@
       {"start":117.815,"end":133.511,"segType":"chorus--variant"},
       {"start":133.511,"end":149.231,"segType":"chorus--variant"},
       {"start":149.231,"end":151.592,"segType":"chorus--variant"},
-      {"start":151.592,"end":156.733,"segType":"silence"}]
+      {"start":151.592,"end":156.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 21, "order": 8, "trackTitle": "Roll Over Beethoven", "segments":
       [{"start":0.000,"end":0.440,"segType":"silence"},
@@ -281,7 +337,10 @@
       {"start":106.793,"end":124.800,"segType":"verse"},
       {"start":124.800,"end":142.889,"segType":"verse"},
       {"start":142.889,"end":163.425,"segType":"chorus"},
-      {"start":163.425,"end":167.627,"segType":"silence"}]
+      {"start":163.425,"end":167.627,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 22, "order": 9, "trackTitle": "Hold Me Tight", "segments":
       [{"start":0.000,"end":0.440,"segType":"silence"},
@@ -293,7 +352,10 @@
       {"start":100.649,"end":112.909,"segType":"bridge"},
       {"start":112.909,"end":141.493,"segType":"verse"},
       {"start":141.493,"end":149.007,"segType":"outro"},
-      {"start":149.007,"end":152.573,"segType":"silence"}]
+      {"start":149.007,"end":152.573,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 23, "order": 10, "trackTitle": "You Really Got A Hold On Me", "segments":
       [{"start":0.000,"end":0.440,"segType":"silence"},
@@ -309,7 +371,10 @@
       {"start":144.613,"end":159.718,"segType":"outro"},
       {"start":159.718,"end":172.524,"segType":"chorus"},
       {"start":172.524,"end":178.781,"segType":"outro"},
-      {"start":178.781,"end":182.893,"segType":"silence"}]
+      {"start":178.781,"end":182.893,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 24, "order": 11, "trackTitle": "I Wanna Be Your Man", "segments":
       [{"start":0.000,"end":0.421,"segType":"silence"},
@@ -321,7 +386,10 @@
       {"start":76.233,"end":95.506,"segType":"verse"},
       {"start":95.506,"end":106.454,"segType":"chorus"},
       {"start":106.454,"end":115.013,"segType":"outro"},
-      {"start":115.013,"end":118.973,"segType":"silence"}]
+      {"start":115.013,"end":118.973,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 25, "order": 12, "trackTitle": "Devil In Her Heart", "segments":
       [{"start":0.000,"end":0.460,"segType":"silence"},
@@ -334,7 +402,10 @@
       {"start":92.400,"end":110.372,"segType":"verse"},
       {"start":110.372,"end":126.197,"segType":"chorus"},
       {"start":126.197,"end":143.933,"segType":"outro"},
-      {"start":143.933,"end":147.667,"segType":"silence"}]
+      {"start":143.933,"end":147.667,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 26, "order": 13, "trackTitle": "Not A Second Time", "segments":
       [{"start":0.000,"end":0.460,"segType":"silence"},
@@ -346,7 +417,10 @@
       {"start":78.353,"end":91.960,"segType":"verse--variant"},
       {"start":91.960,"end":111.302,"segType":"chorus"},
       {"start":111.302,"end":124.840,"segType":"outro"},
-      {"start":124.840,"end":128.333,"segType":"silence"}]
+      {"start":124.840,"end":128.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 27, "order": 14, "trackTitle": "Money", "segments":
       [{"start":0.000,"end":0.460,"segType":"silence"},
@@ -358,7 +432,10 @@
       {"start":96.750,"end":119.203,"segType":"verse"},
       {"start":119.203,"end":141.599,"segType":"chorus"},
       {"start":141.599,"end":166.054,"segType":"chorus"},
-      {"start":166.054,"end":167.560,"segType":"silence"}]
+      {"start":166.054,"end":167.560,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "aHardDaysNight", "albumTitle": "A Hard Day's Night",
@@ -379,7 +456,10 @@
       {"start":100.984,"end":114.799,"segType":"bridge"},
       {"start":114.799,"end":135.695,"segType":"verse"},
       {"start":135.695,"end":147.450,"segType":"outro"},
-      {"start":147.450,"end":152.520,"segType":"silence"}]
+      {"start":147.450,"end":152.520,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 29, "order": 2, "trackTitle": "I Should Have Known Better", "segments":
       [{"start":0.000,"end":0.397,"segType":"silence"},
@@ -392,7 +472,10 @@
       {"start":106.710,"end":121.391,"segType":"verse"},
       {"start":121.391,"end":150.938,"segType":"bridge"},
       {"start":150.938,"end":159.400,"segType":"outro"},
-      {"start":159.400,"end":164.080,"segType":"silence"}]
+      {"start":159.400,"end":164.080,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 30, "order": 3, "trackTitle": "If I Fell", "segments":
       [{"start":0.000,"end":0.389,"segType":"silence"},
@@ -402,7 +485,10 @@
       {"start":73.869,"end":106.997,"segType":"verse--variant"},
       {"start":106.997,"end":129.289,"segType":"verse"},
       {"start":129.289,"end":137.150,"segType":"outro"},
-      {"start":137.150,"end":142.027,"segType":"silence"}]
+      {"start":137.150,"end":142.027,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 31, "order": 4, "trackTitle": "I'm Happy Just To Dance With You", "segments":
       [{"start":0.000,"end":0.354,"segType":"silence"},
@@ -414,7 +500,10 @@
       {"start":72.562,"end":87.144,"segType":"chorus"},
       {"start":87.144,"end":101.750,"segType":"verse"},
       {"start":101.750,"end":114.399,"segType":"outro"},
-      {"start":114.399,"end":118.680,"segType":"silence"}]
+      {"start":114.399,"end":118.680,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 32, "order": 5, "trackTitle": "And I Love Her", "segments":
       [{"start":0.000,"end":0.384,"segType":"silence"},
@@ -426,7 +515,10 @@
       {"start":88.800,"end":110.065,"segType":"verse--instrumental"},
       {"start":110.065,"end":131.306,"segType":"verse"},
       {"start":131.306,"end":147.168,"segType":"outro"},
-      {"start":147.168,"end":151.053,"segType":"silence"}]
+      {"start":147.168,"end":151.053,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 33, "order": 6, "trackTitle": "Tell Me Why", "segments":
       [{"start":0.000,"end":0.420,"segType":"silence"},
@@ -438,7 +530,10 @@
       {"start":68.665,"end":87.385,"segType":"chorus"},
       {"start":87.385,"end":102.946,"segType":"bridge"},
       {"start":102.946,"end":125.718,"segType":"chorus"},
-      {"start":125.718,"end":130.053,"segType":"silence"}]
+      {"start":125.718,"end":130.053,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 34, "order": 7, "trackTitle": "Can't Buy Me Love", "segments":
       [{"start":0.000,"end":0.427,"segType":"silence"},
@@ -451,7 +546,10 @@
       {"start":89.020,"end":100.281,"segType":"chorus"},
       {"start":100.281,"end":117.220,"segType":"verse"},
       {"start":117.220,"end":130.322,"segType":"outro"},
-      {"start":130.322,"end":134.920,"segType":"silence"}]
+      {"start":130.322,"end":134.920,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 35, "order": 8, "trackTitle": "Any Time At All", "segments":
       [{"start":0.000,"end":0.415,"segType":"silence"},
@@ -463,7 +561,10 @@
       {"start":89.551,"end":106.665,"segType":"bridge"},
       {"start":106.665,"end":120.415,"segType":"chorus"},
       {"start":120.415,"end":129.193,"segType":"outro"},
-      {"start":129.193,"end":133.387,"segType":"silence"}]
+      {"start":129.193,"end":133.387,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 36, "order": 9, "trackTitle": "I'll Cry Instead", "segments":
       [{"start":0.000,"end":0.445,"segType":"silence"},
@@ -474,7 +575,10 @@
       {"start":52.751,"end":72.610,"segType":"verse"},
       {"start":72.610,"end":82.576,"segType":"bridge"},
       {"start":82.576,"end":103.468,"segType":"verse"},
-      {"start":103.468,"end":107.720,"segType":"silence"}]
+      {"start":103.468,"end":107.720,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 37, "order": 10, "trackTitle": "Things We Said Today", "segments":
       [{"start":0.000,"end":0.406,"segType":"silence"},
@@ -486,7 +590,10 @@
       {"start":103.073,"end":116.996,"segType":"bridge"},
       {"start":116.996,"end":145.078,"segType":"verse"},
       {"start":145.078,"end":153.483,"segType":"outro"},
-      {"start":153.483,"end":158.827,"segType":"silence"}]
+      {"start":153.483,"end":158.827,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 38, "order": 11, "trackTitle": "When I Get Home", "segments":
       [{"start":0.000,"end":0.418,"segType":"silence"},
@@ -499,7 +606,10 @@
       {"start":95.780,"end":111.026,"segType":"verse"},
       {"start":111.026,"end":126.630,"segType":"chorus"},
       {"start":126.630,"end":134.142,"segType":"outro"},
-      {"start":134.142,"end":138.347,"segType":"silence"}]
+      {"start":134.142,"end":138.347,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 39, "order": 12, "trackTitle": "You Can't Do That", "segments":
       [{"start":0.000,"end":0.406,"segType":"silence"},
@@ -512,7 +622,10 @@
       {"start":111.804,"end":126.950,"segType":"bridge"},
       {"start":126.950,"end":147.703,"segType":"verse"},
       {"start":147.703,"end":152.671,"segType":"outro"},
-      {"start":152.671,"end":157.627,"segType":"silence"}]
+      {"start":152.671,"end":157.627,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back", "segments":
       [{"start":0.429,"end":5.178,"segType":"intro"},
@@ -524,7 +637,10 @@
       {"start":105.163,"end":117.859,"segType":"bridge"},
       {"start":117.859,"end":131.527,"segType":"verse"},
       {"start":131.527,"end":138.743,"segType":"outro"},
-      {"start":138.743,"end":140.547,"segType":"silence"}]
+      {"start":138.743,"end":140.547,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "beatlesForSale", "albumTitle": "Beatles For Sale",
@@ -541,7 +657,10 @@
       {"start":63.641,"end":94.250,"segType":"bridge"},
       {"start":94.250,"end":124.784,"segType":"verse"},
       {"start":124.784,"end":133.621,"segType":"outro"},
-      {"start":133.621,"end":137.827,"segType":"silence"}]
+      {"start":133.621,"end":137.827,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 42, "order": 2, "trackTitle": "I'm a Loser", "segments":
       [{"start":0.000,"end":0.377,"segType":"silence"},
@@ -554,7 +673,10 @@
       {"start":96.897,"end":118.375,"segType":"verse"},
       {"start":118.375,"end":128.964,"segType":"chorus"},
       {"start":128.964,"end":148.098,"segType":"outro"},
-      {"start":148.098,"end":153.507,"segType":"silence"}]
+      {"start":148.098,"end":153.507,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 43, "order": 3, "trackTitle": "Baby's in Black", "segments":
       [{"start":0.000,"end":0.383,"segType":"silence"},
@@ -570,7 +692,10 @@
       {"start":85.739,"end":96.530,"segType":"chorus"},
       {"start":96.530,"end":109.230,"segType":"verse"},
       {"start":109.230,"end":123.069,"segType":"chorus"},
-      {"start":123.069,"end":127.560,"segType":"silence"}]
+      {"start":123.069,"end":127.560,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 44, "order": 4, "trackTitle": "Rock and Roll Music", "segments":
       [{"start":0.000,"end":0.401,"segType":"silence"},
@@ -584,7 +709,10 @@
       {"start":97.012,"end":117.142,"segType":"chorus"},
       {"start":117.142,"end":128.429,"segType":"verse"},
       {"start":128.429,"end":149.125,"segType":"outro"},
-      {"start":149.125,"end":153.733,"segType":"silence"}]
+      {"start":149.125,"end":153.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 45, "order": 5, "trackTitle": "I'll Follow the Sun", "segments":
       [{"start":0.000,"end":0.408,"segType":"silence"},
@@ -596,7 +724,10 @@
       {"start":61.367,"end":75.700,"segType":"verse--instrumental"},
       {"start":75.700,"end":90.188,"segType":"bridge"},
       {"start":90.188,"end":106.403,"segType":"verse"},
-      {"start":106.403,"end":111.040,"segType":"silence"}]
+      {"start":106.403,"end":111.040,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 46, "order": 6, "trackTitle": "Mr. Moonlight", "segments":
       [{"start":0.000,"end":0.395,"segType":"silence"},
@@ -606,7 +737,10 @@
       {"start":69.885,"end":100.490,"segType":"verse--instrumental"},
       {"start":100.490,"end":131.037,"segType":"verse--variant"},
       {"start":131.037,"end":151.984,"segType":"verse"},
-      {"start":151.984,"end":157.200,"segType":"silence"}]
+      {"start":151.984,"end":157.200,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 47, "order": 7, "trackTitle": "Kansas City- Hey, Hey, Hey", "segments":
       [{"start":0.000,"end":0.389,"segType":"silence"},
@@ -618,7 +752,10 @@
       {"start":95.367,"end":117.413,"segType":"verse"},
       {"start":117.413,"end":139.347,"segType":"verse"},
       {"start":139.347,"end":146.147,"segType":"verse_(fade_out)"},
-      {"start":146.147,"end":153.467,"segType":"silence"}]
+      {"start":146.147,"end":153.467,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 48, "order": 8, "trackTitle": "Eight Days a Week", "segments":
       [{"start":0.000,"end":0.394,"segType":"silence"},
@@ -630,7 +767,10 @@
       {"start":104.115,"end":117.988,"segType":"bridge"},
       {"start":117.988,"end":145.731,"segType":"verse"},
       {"start":145.731,"end":160.987,"segType":"outro"},
-      {"start":160.987,"end":165.427,"segType":"silence"}]
+      {"start":160.987,"end":165.427,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 49, "order": 9, "trackTitle": "Words of Love", "segments":
       [{"start":0.000,"end":15.927,"segType":"silence"},
@@ -641,7 +781,10 @@
       {"start":78.611,"end":94.424,"segType":"verse"},
       {"start":94.424,"end":110.306,"segType":"verse"},
       {"start":110.306,"end":128.514,"segType":"outro"},
-      {"start":128.514,"end":134.733,"segType":"silence"}]
+      {"start":128.514,"end":134.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 50, "order": 10, "trackTitle": "Honey Don't", "segments":
       [{"start":0.000,"end":0.395,"segType":"silence"},
@@ -657,7 +800,10 @@
       {"start":142.431,"end":154.192,"segType":"verse--instrumental"},
       {"start":154.192,"end":171.984,"segType":"chorus"},
       {"start":171.984,"end":174.851,"segType":"outro"},
-      {"start":174.851,"end":179.600,"segType":"silence"}]
+      {"start":174.851,"end":179.600,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 51, "order": 11, "trackTitle": "Every Little Thing", "segments":
       [{"start":0.000,"end":0.384,"segType":"silence"},
@@ -671,7 +817,10 @@
       {"start":81.670,"end":93.143,"segType":"verse--instrumental"},
       {"start":93.143,"end":108.536,"segType":"chorus"},
       {"start":108.536,"end":119.267,"segType":"outro"},
-      {"start":119.267,"end":124.533,"segType":"silence"}]
+      {"start":119.267,"end":124.533,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 52, "order": 12, "trackTitle": "I Don't Want to Spoil the Party", "segments":
       [{"start":0.000,"end":0.398,"segType":"silence"},
@@ -684,7 +833,10 @@
       {"start":105.465,"end":120.604,"segType":"verse"},
       {"start":120.604,"end":140.807,"segType":"bridge"},
       {"start":140.807,"end":151.500,"segType":"outro"},
-      {"start":151.500,"end":156.173,"segType":"silence"}]
+      {"start":151.500,"end":156.173,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 521, "order": 13, "trackTitle": "What You're Doing", "segments":
       [{"start":0.000,"end":0.376,"segType":"silence"},
@@ -697,7 +849,10 @@
       {"start":92.654,"end":107.518,"segType":"bridge"},
       {"start":107.518,"end":124.331,"segType":"verse"},
       {"start":124.331,"end":148.707,"segType":"outro"},
-      {"start":148.707,"end":154.693,"segType":"silence"}]
+      {"start":148.707,"end":154.693,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 522, "order": 14, "trackTitle": "Every body's Trying to Be My Baby", "segments":
       [{"start":0.000,"end":0.850,"segType":"silence"},
@@ -709,7 +864,10 @@
       {"start":86.400,"end":103.363,"segType":"verse--instrumental"},
       {"start":103.363,"end":120.278,"segType":"verse"},
       {"start":120.278,"end":142.465,"segType":"verse"},
-      {"start":142.465,"end":143.867,"segType":"silence"}]
+      {"start":142.465,"end":143.867,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "help", "albumTitle": "Help!",
@@ -729,7 +887,10 @@
       {"start":91.864,"end":112.196,"segType":"verse"},
       {"start":112.196,"end":129.916,"segType":"chorus"},
       {"start":129.916,"end":136.840,"segType":"outro"},
-      {"start":136.840,"end":141.067,"segType":"silence"}]
+      {"start":136.840,"end":141.067,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 54, "order": 2, "trackTitle": "The Night Before", "segments":
       [{"start":0.000,"end":0.425,"segType":"silence"},
@@ -742,7 +903,10 @@
 {"start":113.665,"end":124.784,"segType":"bridge"},
 {"start":124.784,"end":146.094,"segType":"verse"},
 {"start":146.094,"end":152.932,"segType":"outro"},
-{"start":152.932,"end":156.693,"segType":"silence"}]
+{"start":152.932,"end":156.693,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 55, "order": 3, "trackTitle": "You've Got to Hide Your Love Away", "segments":
       [{"start":0.000,"end":0.490,"segType":"silence"},
@@ -754,7 +918,10 @@
 {"start":72.612,"end":92.204,"segType":"verse"},
 {"start":92.204,"end":107.698,"segType":"chorus"},
 {"start":107.698,"end":127.036,"segType":"verse--instrumental"},
-{"start":127.036,"end":131.440,"segType":"silence"}]
+{"start":127.036,"end":131.440,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 56, "order": 4, "trackTitle": "I Need You", "segments":
       [{"start":0.000,"end":0.486,"segType":"silence"},
@@ -766,7 +933,10 @@
       {"start":93.363,"end":109.388,"segType":"bridge"},
       {"start":109.388,"end":134.371,"segType":"verse"},
       {"start":134.371,"end":147.307,"segType":"outro"},
-      {"start":147.307,"end":151.493,"segType":"silence"}]
+      {"start":147.307,"end":151.493,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 57, "order": 5, "trackTitle": "Another Girl", "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
@@ -778,7 +948,10 @@
 {"start":82.306,"end":93.286,"segType":"bridge"},
 {"start":93.286,"end":118.039,"segType":"verse"},
 {"start":118.039,"end":123.214,"segType":"outro"},
-{"start":123.214,"end":128.000,"segType":"silence"}]
+{"start":123.214,"end":128.000,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 58, "order": 6, "trackTitle": "You're Going to Lose That Girl", "segments":
       [{"start":0.000,"end":0.493,"segType":"silence"},
@@ -790,7 +963,10 @@
 {"start":94.261,"end":106.906,"segType":"bridge"},
 {"start":106.906,"end":128.859,"segType":"verse"},
 {"start":128.859,"end":136.359,"segType":"outro"},
-{"start":136.359,"end":140.440,"segType":"silence"}]
+{"start":136.359,"end":140.440,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 59, "order": 7, "trackTitle": "Ticket to Ride", "segments":
       [{"start":0.000,"end":0.410,"segType":"silence"},
@@ -802,7 +978,10 @@
 {"start":118.747,"end":136.081,"segType":"bridge"},
 {"start":136.081,"end":167.620,"segType":"verse"},
 {"start":167.620,"end":186.514,"segType":"outro"},
-{"start":186.514,"end":192.493,"segType":"silence"}]
+{"start":186.514,"end":192.493,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 60, "order": 8, "trackTitle": "Act Naturally", "segments":
       [{"start":0.000,"end":0.445,"segType":"silence"},
@@ -815,7 +994,10 @@
 {"start":99.323,"end":120.105,"segType":"bridge"},
 {"start":120.105,"end":140.889,"segType":"verse"},
 {"start":140.889,"end":147.934,"segType":"outro"},
-{"start":147.934,"end":153.173,"segType":"silence"}]
+{"start":147.934,"end":153.173,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 61, "order": 9, "trackTitle": "It's Only Love", "segments":
       [{"start":0.000,"end":0.441,"segType":"silence"},
@@ -825,7 +1007,10 @@
 {"start":51.229,"end":76.705,"segType":"verse"},
 {"start":76.705,"end":97.919,"segType":"chorus"},
 {"start":97.919,"end":114.233,"segType":"outro"},
-{"start":114.233,"end":118.800,"segType":"silence"}]
+{"start":114.233,"end":118.800,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 62, "order": 10, "trackTitle": "You Like Me Too Much", "segments":
       [{"start":0.000,"end":0.464,"segType":"silence"},
@@ -838,7 +1023,10 @@
 {"start":102.423,"end":118.596,"segType":"bridge"},
 {"start":118.596,"end":145.821,"segType":"verse"},
 {"start":145.821,"end":154.826,"segType":"outro"},
-{"start":154.826,"end":158.800,"segType":"silence"}]
+{"start":154.826,"end":158.800,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 63, "order": 11, "trackTitle": "Tell Me What You See", "segments":
       [{"start":0.000,"end":0.478,"segType":"silence"},
@@ -850,7 +1038,10 @@
 {"start":102.465,"end":116.669,"segType":"bridge"},
 {"start":116.669,"end":144.898,"segType":"verse"},
 {"start":144.898,"end":155.016,"segType":"outro"},
-{"start":155.016,"end":159.693,"segType":"silence"}]
+{"start":155.016,"end":159.693,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 64, "order": 12, "trackTitle": "I've Just Seen A Face", "segments":
       [{"start":0.000,"end":0.445,"segType":"silence"},
@@ -867,7 +1058,10 @@
 {"start":103.433,"end":111.316,"segType":"chorus"},
 {"start":111.316,"end":117.261,"segType":"chorus"},
 {"start":117.261,"end":122.687,"segType":"outro"},
-{"start":122.687,"end":127.173,"segType":"silence"}]
+{"start":122.687,"end":127.173,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 641, "order": 13, "trackTitle": "Yesterday", "segments":
       [{"start":0.000,"end":0.461,"segType":"silence"},
@@ -879,7 +1073,10 @@
 {"start":77.371,"end":97.318,"segType":"bridge"},
 {"start":97.318,"end":114.914,"segType":"verse"},
 {"start":114.914,"end":122.853,"segType":"outro"},
-{"start":122.853,"end":127.427,"segType":"silence"}]
+{"start":122.853,"end":127.427,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 642, "order": 14, "trackTitle": "Dizzy Miss Lizzy", "segments":
       [{"start":0.000,"end":0.415,"segType":"silence"},
@@ -891,7 +1088,10 @@
 {"start":106.646,"end":127.894,"segType":"verse--instrumental"},
 {"start":127.894,"end":149.046,"segType":"verse"},
 {"start":149.046,"end":172.609,"segType":"verse"},
-{"start":172.609,"end":174.267,"segType":"silence"}]
+{"start":172.609,"end":174.267,"segType":"silence"}],
+    "notes": [
+      "note for dizz miss lizzy"
+    ]
     }
   ]},
   {"albumKey": "rubberSoul", "albumTitle": "Rubber Soul",
@@ -913,7 +1113,10 @@
 {"start":99.155,"end":114.776,"segType":"verse"},
 {"start":114.776,"end":130.506,"segType":"chorus"},
 {"start":130.506,"end":145.649,"segType":"outro"},
-{"start":145.649,"end":150.267,"segType":"silence"}]
+{"start":145.649,"end":150.267,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 66, "order": 2, "trackTitle": "Norwegian Wood (This Bird Has Flown)", "segments":
       [{"start":0.000,"end":0.441,"segType":"silence"},
@@ -925,7 +1128,10 @@
 {"start":80.263,"end":96.620,"segType":"bridge"},
 {"start":96.620,"end":112.971,"segType":"verse"},
 {"start":112.971,"end":122.694,"segType":"outro"},
-{"start":122.694,"end":125.427,"segType":"silence"}]
+{"start":122.694,"end":125.427,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 67, "order": 3, "trackTitle": "You Won't See Me", "segments":
       [{"start":0.000,"end":0.473,"segType":"silence"},
@@ -937,7 +1143,10 @@
 {"start":132.165,"end":148.930,"segType":"bridge"},
 {"start":148.930,"end":186.853,"segType":"verse"},
 {"start":186.853,"end":196.020,"segType":"outro"},
-{"start":196.020,"end":202.600,"segType":"silence"}]
+{"start":196.020,"end":202.600,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 68, "order": 4, "trackTitle": "Nowhere Man", "segments":
       [{"start":0.000,"end":0.441,"segType":"silence"},
@@ -951,7 +1160,10 @@
 {"start":111.514,"end":127.373,"segType":"bridge"},
 {"start":127.373,"end":143.122,"segType":"verse"},
 {"start":143.122,"end":161.037,"segType":"outro"},
-{"start":161.037,"end":164.307,"segType":"outro"}]
+{"start":161.037,"end":164.307,"segType":"outro"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 69, "order": 5, "trackTitle": "Think for Yourself", "segments":
       [{"start":0.000,"end":0.435,"segType":"silence"},
@@ -964,7 +1176,10 @@
 {"start":100.327,"end":114.981,"segType":"chorus"},
 {"start":114.981,"end":129.600,"segType":"chorus"},
 {"start":129.600,"end":136.539,"segType":"outro"},
-{"start":136.539,"end":139.333,"segType":"silence"}]
+{"start":136.539,"end":139.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 70, "order": 6, "trackTitle": "The Word", "segments":
       [{"start":0.000,"end":0.424,"segType":"silence"},
@@ -979,7 +1194,10 @@
 {"start":122.896,"end":130.759,"segType":"bridge--instrumental"},
 {"start":130.759,"end":154.291,"segType":"verse--instrumental"},
 {"start":154.291,"end":160.719,"segType":"bridge"},
-{"start":160.719,"end":163.693,"segType":"silence"}]
+{"start":160.719,"end":163.693,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 71, "order": 7, "trackTitle": "Michelle", "segments":
       [{"start":0.000,"end":0.421,"segType":"silence"},
@@ -994,7 +1212,10 @@
 {"start":118.335,"end":131.265,"segType":"verse"},
 {"start":131.265,"end":139.918,"segType":"bridge"},
 {"start":139.918,"end":160.869,"segType":"verse--instrumental"},
-{"start":160.869,"end":162.373,"segType":"silence"}]
+{"start":160.869,"end":162.373,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 72, "order": 8, "trackTitle": "What Goes On", "segments":
       [{"start":0.000,"end":0.464,"segType":"silence"},
@@ -1007,7 +1228,10 @@
 {"start":115.217,"end":132.537,"segType":"verse"},
 {"start":132.537,"end":157.234,"segType":"chorus"},
 {"start":157.234,"end":165.938,"segType":"outro"},
-{"start":165.938,"end":170.800,"segType":"silence"}]
+{"start":165.938,"end":170.800,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 73, "order": 9, "trackTitle": "Girl", "segments":
       [{"start":0.000,"end":1.053,"segType":"silence"},
@@ -1021,7 +1245,10 @@
 {"start":110.497,"end":120.392,"segType":"chorus"},
 {"start":120.392,"end":140.351,"segType":"verse--instrumental"},
 {"start":140.351,"end":148.200,"segType":"chorus"},
-{"start":148.200,"end":153.867,"segType":"silence"}]
+{"start":148.200,"end":153.867,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 74, "order": 10, "trackTitle": "I'm Looking Through You", "segments":
       [{"start":0.000,"end":0.401,"segType":"silence"},
@@ -1032,7 +1259,10 @@
 {"start":69.959,"end":96.702,"segType":"verse"},
 {"start":96.702,"end":107.868,"segType":"bridge"},
 {"start":107.868,"end":142.498,"segType":"verse"},
-{"start":142.498,"end":147.827,"segType":"silence"}]
+{"start":142.498,"end":147.827,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 75, "order": 11, "trackTitle": "In My Life", "segments":
       [{"start":0.000,"end":0.416,"segType":"silence"},
@@ -1045,7 +1275,10 @@
 {"start":88.700,"end":107.253,"segType":"verse--instrumental"},
 {"start":107.253,"end":125.659,"segType":"bridge"},
 {"start":125.659,"end":143.715,"segType":"outro"},
-{"start":143.715,"end":147.973,"segType":"silence"}]
+{"start":143.715,"end":147.973,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 77, "order": 12, "trackTitle": "Wait", "segments":
       [{"start":0.000,"end":1.094,"segType":"silence"},
@@ -1060,7 +1293,10 @@
 {"start":92.971,"end":104.359,"segType":"verse"},
 {"start":104.359,"end":113.649,"segType":"chorus"},
 {"start":113.649,"end":132.629,"segType":"verse"},
-{"start":132.629,"end":136.960,"segType":"silence"}]
+{"start":132.629,"end":136.960,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 771, "order": 13, "trackTitle": "If I Needed Someone", "segments":
       [{"start":0.000,"end":0.429,"segType":"silence"},
@@ -1074,7 +1310,10 @@
 {"start":97.628,"end":112.913,"segType":"bridge"},
 {"start":112.913,"end":128.261,"segType":"verse"},
 {"start":128.261,"end":139.977,"segType":"outro"},
-{"start":139.977,"end":143.840,"segType":"silence"}]
+{"start":139.977,"end":143.840,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 772, "order": 14, "trackTitle": "Run for Your Life", "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
@@ -1087,7 +1326,10 @@
 {"start":95.469,"end":100.844,"segType":"chorus"},
 {"start":100.844,"end":122.661,"segType":"verse"},
 {"start":122.661,"end":136.795,"segType":"chorus"},
-{"start":136.795,"end":138.800,"segType":"silence"}]
+{"start":136.795,"end":138.800,"segType":"silence"}],
+    "notes": [
+      "note for run for your life"
+    ]
     }
   ]},
   {"albumKey": "revolver", "albumTitle": "Revolver",
@@ -1113,7 +1355,10 @@
       {"start":132.534,"end":139.958,"segType":"chorus"},
       {"start":139.958,"end":155.233,"segType":"outro"},
       {"start":155.233,"end":159.000,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note for taxman"
+    ]
     },
     {"trackIndex": 79, "order": 2, "trackTitle": "Eleanor Rigby", "segments":[
       {"start":0.000,"end":0.404,"segType":"silence"},
@@ -1126,7 +1371,10 @@
       {"start":90.836,"end":108.196,"segType":"verse"},
       {"start":108.196,"end":123.866,"segType":"chorus"},
       {"start":123.866,"end":127.667,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 80, "order": 3, "trackTitle": "I'm Only Sleeping", "segments":[
       {"start":0.000,"end":0.423,"segType":"silence"},
@@ -1141,7 +1389,10 @@
       {"start":142.245,"end":153.915,"segType":"verse"},
       {"start":153.915,"end":175.705,"segType":"$$$refrain_with_ending"},
       {"start":175.705,"end":181.667,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 81, "order": 4, "trackTitle": "Love You To", "segments":[
       {"start":0.000,"end":0.445,"segType":"silence"},
@@ -1155,7 +1406,10 @@
       {"start":142.940,"end":155.837,"segType":"chorus"},
       {"start":155.837,"end":176.416,"segType":"outro"},
       {"start":176.416,"end":181.200,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 82, "order": 5, "trackTitle": "Here, There and Everywhere", "segments":[
       {"start":0.000,"end":0.416,"segType":"silence"},
@@ -1168,7 +1422,10 @@
       {"start":102.644,"end":125.968,"segType":"verse"},
       {"start":125.968,"end":141.322,"segType":"outro"},
       {"start":141.322,"end":145.867,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 83, "order": 6, "trackTitle": "Yellow Submarine", "segments":[
       {"start":0.000,"end":0.980,"segType":"silence"},
@@ -1181,7 +1438,10 @@
       {"start":105.349,"end":122.596,"segType":"verse"},
       {"start":122.596,"end":155.139,"segType":"chorus"},
       {"start":155.139,"end":160.400,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 84, "order": 7, "trackTitle": "She Said She Said", "segments":[
       {"start":0.000,"end":0.433,"segType":"silence"},
@@ -1194,7 +1454,10 @@
       {"start":113.680,"end":136.424,"segType":"verse"},
       {"start":136.424,"end":152.592,"segType":"outro"},
       {"start":152.592,"end":157.133,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 85, "order": 8, "trackTitle": "Good Day Sunshine", "segments":[
       {"start":0.000,"end":0.424,"segType":"silence"},
@@ -1209,7 +1472,10 @@
       {"start":106.229,"end":117.785,"segType":"chorus"},
       {"start":117.785,"end":125.940,"segType":"outro"},
       {"start":125.940,"end":129.760,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 86, "order": 9, "trackTitle": "And Your Bird Can Sing", "segments":[
       {"start":0.000,"end":0.453,"segType":"silence"},
@@ -1223,7 +1489,10 @@
       {"start":94.498,"end":108.914,"segType":"verse--instrumental"},
       {"start":108.914,"end":117.965,"segType":"outro"},
       {"start":117.965,"end":121.733,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 87, "order": 10, "trackTitle": "For No One", "segments":[
       {"start":0.000,"end":0.418,"segType":"silence"},
@@ -1237,6 +1506,9 @@
       {"start":88.787,"end":100.502,"segType":"verse"},
       {"start":100.502,"end":117.098,"segType":"bridge"},
       {"start":117.098,"end":121.707,"segType":"silence"}
+    ],
+    "notes": [
+      "note"
     ]
     },
     {"trackIndex": 88, "order": 11, "trackTitle": "Doctor Robert", "segments":[
@@ -1249,7 +1521,10 @@
       {"start":99.776,"end":114.759,"segType":"chorus"},
       {"start":114.759,"end":131.832,"segType":"verse"},
       {"start":131.832,"end":135.200,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 89, "order": 12, "trackTitle": "I Want to Tell You", "segments":[
       {"start":0.000,"end":0.450,"segType":"silence"},
@@ -1262,7 +1537,10 @@
       {"start":116.473,"end":130.286,"segType":"chorus"},
       {"start":130.286,"end":144.808,"segType":"outro"},
       {"start":144.808,"end":150.627,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 90, "order": 13, "trackTitle": "Got to Get You into My Life", "segments":[
       {"start":0.000,"end":0.450,"segType":"silence"},
@@ -1275,7 +1553,10 @@
       {"start":116.473,"end":130.286,"segType":"chorus"},
       {"start":130.286,"end":144.808,"segType":"outro"},
       {"start":144.808,"end":150.627,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 91, "order": 14, "trackTitle": "Tomorrow Never Knows", "segments":[
       {"start":0.000,"end":1.013,"segType":"silence"},
@@ -1290,7 +1571,10 @@
       {"start":133.004,"end":148.441,"segType":"verse"},
       {"start":148.441,"end":175.604,"segType":"outro"},
       {"start":175.604,"end":177.400,"segType":"silence"}
-      ]
+      ],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "sgtPeppersLonelyHeartsClubBand", "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1307,7 +1591,10 @@
 {"start":55.665,"end":85.746,"segType":"chorus"},
 {"start":85.746,"end":97.937,"segType":"bridge"},
 {"start":97.937,"end":117.650,"segType":"verse"},
-{"start":117.650,"end":122.427,"segType":"outro"}]
+{"start":117.650,"end":122.427,"segType":"outro"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 93, "order": 2, "trackTitle": "With a Little Help from My Friends", "segments":
       [{"start":0.000,"end":8.818,"segType":"intro"},
@@ -1321,7 +1608,10 @@
 {"start":120.599,"end":137.654,"segType":"bridge"},
 {"start":137.654,"end":150.448,"segType":"chorus"},
 {"start":150.448,"end":164.008,"segType":"outro"},
-{"start":164.008,"end":164.009,"segType":"silence"}]
+{"start":164.008,"end":164.009,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 94, "order": 3, "trackTitle": "Lucy in the Sky with Diamonds", "segments":
       [{"start":0.000,"end":0.212,"segType":"silence"},
@@ -1336,7 +1626,10 @@
 {"start":153.951,"end":173.712,"segType":"chorus"},
 {"start":173.712,"end":193.356,"segType":"chorus"},
 {"start":193.356,"end":205.727,"segType":"chorus"},
-{"start":205.727,"end":208.440,"segType":"silence"}]
+{"start":205.727,"end":208.440,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 95, "order": 4, "trackTitle": "Getting Better", "segments":
       [{"start":0.000,"end":0.391,"segType":"silence"},
@@ -1350,7 +1643,10 @@
 {"start":117.314,"end":132.941,"segType":"chorus"},
 {"start":132.941,"end":156.439,"segType":"bridge"},
 {"start":156.439,"end":167.511,"segType":"outro"},
-{"start":167.511,"end":167.867,"segType":"silence"}]
+{"start":167.511,"end":167.867,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 96, "order": 5, "trackTitle": "Fixing a Hole", "segments":
       [{"start":0.000,"end":0.353,"segType":"silence"},
@@ -1363,7 +1659,10 @@
 {"start":93.258,"end":109.802,"segType":"bridge"},
 {"start":109.802,"end":126.578,"segType":"verse"},
 {"start":126.578,"end":154.077,"segType":"outro"},
-{"start":154.077,"end":156.627,"segType":"silence"}]
+{"start":154.077,"end":156.627,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 97, "order": 6, "trackTitle": "She's Leaving Home", "segments":
       [{"start":0.000,"end":0.569,"segType":"silence"},
@@ -1377,7 +1676,10 @@
 {"start":150.983,"end":174.017,"segType":"verse"},
 {"start":174.017,"end":201.962,"segType":"chorus"},
 {"start":201.962,"end":213.916,"segType":"outro"},
-{"start":213.916,"end":215.040,"segType":"silence"}]
+{"start":213.916,"end":215.040,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 98, "order": 7, "trackTitle": "Being for the Benefit of Mr. Kite!", "segments":
       [{"start":0.000,"end":0.547,"segType":"silence"},
@@ -1387,7 +1689,10 @@
 {"start":60.576,"end":89.136,"segType":"bridge"},
 {"start":89.136,"end":112.844,"segType":"verse"},
 {"start":112.844,"end":154.776,"segType":"bridge"},
-{"start":154.776,"end":157.093,"segType":"silence"}]
+{"start":154.776,"end":157.093,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 99, "order": 8, "trackTitle": "Within You Without You", "segments":
       [{"start":0.000,"end":1.824,"segType":"silence"},
@@ -1399,7 +1704,10 @@
 {"start":211.448,"end":221.282,"segType":"intro"},
 {"start":221.282,"end":273.463,"segType":"verse"},
 {"start":273.463,"end":304.001,"segType":"chorus"},
-{"start":304.001,"end":305.067,"segType":"silence"}]
+{"start":304.001,"end":305.067,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 100, "order": 9, "trackTitle": "When I'm Sixty-Four", "segments":
       [{"start":0.000,"end":0.343,"segType":"silence"},
@@ -1410,7 +1718,10 @@
       {"start":94.488,"end":123.211,"segType":"bridge"},
       {"start":123.211,"end":150.344,"segType":"verse"},
       {"start":150.344,"end":157.073,"segType":"outro"},
-      {"start":157.073,"end":157.707,"segType":"silence"}]
+      {"start":157.073,"end":157.707,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 101, "order": 10, "trackTitle": "Lovely Rita", "segments":
       [{"start":0.000,"end":0.320,"segType":"silence"},
@@ -1423,7 +1734,10 @@
 {"start":101.826,"end":110.069,"segType":"verse"},
 {"start":110.069,"end":131.745,"segType":"outro"},
 {"start":131.745,"end":161.359,"segType":"outro--variant"},
-{"start":161.359,"end":162.093,"segType":"silence"}]
+{"start":161.359,"end":162.093,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 102, "order": 11, "trackTitle": "Good Morning Good Morning", "segments":
       [{"start":0.000,"end":11.732,"segType":"intro"},
@@ -1434,12 +1748,18 @@
 {"start":76.876,"end":85.734,"segType":"verse--instrumental"},
 {"start":85.734,"end":97.519,"segType":"bridge"},
 {"start":97.519,"end":119.624,"segType":"verse"},
-{"start":119.624,"end":161.307,"segType":"outro"}]
+{"start":119.624,"end":161.307,"segType":"outro"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 103, "order": 12, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)", "segments":
       [{"start":0.000,"end":20.533,"segType":"intro"},
 {"start":20.533,"end":44.821,"segType":"chorus"},
-{"start":44.821,"end":78.893,"segType":"chorus"}]
+{"start":44.821,"end":78.893,"segType":"chorus"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1031, "order": 13, "trackTitle": "A Day in the Life", "segments":
       [{"start":0.000,"end":12.848,"segType":"intro"},
@@ -1454,7 +1774,10 @@
 {"start":261.154,"end":303.624,"segType":"outro"},
 {"start":303.624,"end":306.860,"segType":"silence"},
 {"start":306.860,"end":333.876,"segType":"break"},
-{"start":333.876,"end":333.907,"segType":"silence"}]
+{"start":333.876,"end":333.907,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "magicalMysteryTour", "albumTitle": "Magical Mystery Tour",
@@ -1476,7 +1799,10 @@
       {"start":116.686,"end":128.620,"segType":"chorus"},
       {"start":128.620,"end":140.245,"segType":"chorus"},
       {"start":140.245,"end":166.204,"segType":"outro"},
-      {"start":166.204,"end":171.827,"segType":"silence"}]
+      {"start":166.204,"end":171.827,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 105, "order": 2, "trackTitle": "The Fool on the Hill", "segments":
       [{"start":0.000,"end":0.420,"segType":"silence"},
@@ -1490,7 +1816,10 @@
       {"start":123.751,"end":146.890,"segType":"verse--instrumental"},
       {"start":146.890,"end":159.918,"segType":"chorus"},
       {"start":159.918,"end":176.109,"segType":"outro"},
-      {"start":176.109,"end":180.173,"segType":"silence"}]
+      {"start":176.109,"end":180.173,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 106, "order": 3, "trackTitle": "Flying", "segments":
       [{"start":0.000,"end":0.383,"segType":"silence"},
@@ -1498,7 +1827,10 @@
       {"start":31.533,"end":62.392,"segType":"verse"},
       {"start":62.392,"end":93.337,"segType":"verse"},
       {"start":93.337,"end":131.749,"segType":"outro"},
-      {"start":131.749,"end":136.960,"segType":"silence"}]
+      {"start":131.749,"end":136.960,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 107, "order": 4, "trackTitle": "Blue Jay Way", "segments":
       [{"start":0.000,"end":0.743,"segType":"silence"},
@@ -1512,7 +1844,10 @@
       {"start":151.324,"end":168.882,"segType":"chorus"},
       {"start":168.882,"end":186.580,"segType":"chorus"},
       {"start":186.580,"end":233.327,"segType":"chorus"},
-      {"start":233.327,"end":236.707,"segType":"silence"}]
+      {"start":233.327,"end":236.707,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 108, "order": 5, "trackTitle": "Your Mother Should Know", "segments":
       [{"start":0.000,"end":0.416,"segType":"silence"},
@@ -1524,7 +1859,10 @@
       {"start":91.396,"end":104.588,"segType":"bridge"},
       {"start":104.588,"end":127.025,"segType":"verse"},
       {"start":127.025,"end":145.575,"segType":"outro"},
-      {"start":145.575,"end":149.600,"segType":"silence"}]
+      {"start":145.575,"end":149.600,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 109, "order": 6, "trackTitle": "I Am the Walrus", "segments":
       [{"start":0.000,"end":0.394,"segType":"silence"},
@@ -1541,7 +1879,10 @@
       {"start":173.267,"end":189.616,"segType":"verse"},
       {"start":189.616,"end":197.625,"segType":"chorus"},
       {"start":197.625,"end":273.283,"segType":"outro"},
-      {"start":273.283,"end":277.067,"segType":"silence"}]
+      {"start":273.283,"end":277.067,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 110, "order": 7, "trackTitle": "Hello Goodbye", "segments":
       [{"start":0.000,"end":0.502,"segType":"silence"},
@@ -1555,7 +1896,10 @@
       {"start":130.728,"end":141.518,"segType":"chorus"},
       {"start":141.518,"end":165.642,"segType":"outro"},
       {"start":165.642,"end":206.381,"segType":"outro--variant"},
-      {"start":206.381,"end":211.467,"segType":"silence"}]
+      {"start":206.381,"end":211.467,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 111, "order": 8, "trackTitle": "Strawberry Fields Forever", "segments":
       [{"start":0.000,"end":0.358,"segType":"silence"},
@@ -1568,7 +1912,10 @@
       {"start":126.471,"end":151.876,"segType":"verse"},
       {"start":151.876,"end":172.278,"segType":"chorus"},
       {"start":172.278,"end":249.540,"segType":"outro"},
-      {"start":249.540,"end":250.493,"segType":"silence"}]
+      {"start":249.540,"end":250.493,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 112, "order": 9, "trackTitle": "Penny Lane", "segments":
       [{"start":0.000,"end":0.978,"segType":"silence"},
@@ -1582,7 +1929,10 @@
       {"start":119.706,"end":136.549,"segType":"verse"},
       {"start":136.549,"end":153.579,"segType":"chorus"},
       {"start":153.579,"end":180.009,"segType":"refrain"},
-      {"start":180.009,"end":183.373,"segType":"silence"}]
+      {"start":180.009,"end":183.373,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 113, "order": 10, "trackTitle": "Baby You're a Rich Man", "segments":
       [{"start":0.000,"end":0.370,"segType":"silence"},
@@ -1593,7 +1943,10 @@
       {"start":104.962,"end":132.070,"segType":"verse"},
       {"start":132.070,"end":161.634,"segType":"chorus"},
       {"start":161.634,"end":177.998,"segType":"outro"},
-      {"start":177.998,"end":183.760,"segType":"silence"}]
+      {"start":177.998,"end":183.760,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 114, "order": 11, "trackTitle": "All You Need Is Love", "segments":
       [{"start":0.000,"end":0.400,"segType":"silence"},
@@ -1607,7 +1960,10 @@
       {"start":130.091,"end":147.170,"segType":"chorus"},
       {"start":147.170,"end":164.257,"segType":"chorus"},
       {"start":164.257,"end":224.000,"segType":"outro"},
-      {"start":224.000,"end":228.440,"segType":"silence"}]
+      {"start":224.000,"end":228.440,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     }
   ]},
   {"albumKey": "theBeatlesWhiteAlbum", "albumTitle": "The Beatles (White Album)",
@@ -1631,7 +1987,10 @@
       {"start":123.588,"end":137.183,"segType":"verse"},
       {"start":137.183,"end":147.331,"segType":"chorus"},
       {"start":147.331,"end":163.321,"segType":"outro"},
-      {"start":163.321,"end":163.322,"segType":"silence"}]
+      {"start":163.321,"end":163.322,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 116, "order": 2, "trackTitle": "Dear Prudence", "segments":
       [{"start":0.000,"end":18.155,"segType":"intro"},
@@ -1641,7 +2000,10 @@
       {"start":131.982,"end":175.914,"segType":"verse"},
       {"start":175.914,"end":219.498,"segType":"verse"},
       {"start":219.498,"end":232.904,"segType":"outro"},
-      {"start":232.904,"end":236.360,"segType":"silence"}]
+      {"start":232.904,"end":236.360,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 117, "order": 3, "trackTitle": "Glass Onion", "segments":
       [{"start":0.000,"end":1.404,"segType":"silence"},
@@ -1653,7 +2015,10 @@
     {"start":80.808,"end":92.784,"segType":"verse"},
     {"start":92.784,"end":109.064,"segType":"chorus"},
     {"start":109.064,"end":137.976,"segType":"outro"},
-    {"start":137.976,"end":137.977,"segType":"silence"}]
+    {"start":137.976,"end":137.977,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 118, "order": 4, "trackTitle": "Ob-La-Di, Ob-La-Da", "segments":
       [{"start":0.000,"end":0.098,"segType":"silence"},
@@ -1669,7 +2034,10 @@
       {"start":146.088,"end":163.102,"segType":"verse"},
       {"start":163.102,"end":180.203,"segType":"chorus"},
       {"start":180.203,"end":188.854,"segType":"outro"},
-      {"start":188.854,"end":188.855,"segType":"silence"}]
+      {"start":188.854,"end":188.855,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 119, "order": 5, "trackTitle": "Wild Honey Pie", "segments":
       [{"start":0.000,"end":0.098,"segType":"silence"},
@@ -1680,7 +2048,10 @@
       {"start":29.551,"end":38.890,"segType":"break--instrumental"},
       {"start":38.890,"end":44.290,"segType":"chorus"},
       {"start":44.290,"end":52.932,"segType":"outro"},
-      {"start":52.932,"end":52.933,"segType":"silence"}]
+      {"start":52.932,"end":52.933,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 120, "order": 6, "trackTitle": "The Continuing Story of Bungalow Bill", "segments":
       [{"start":0.000,"end":8.507,"segType":"intro"},
@@ -1693,7 +2064,10 @@
       {"start":121.614,"end":136.196,"segType":"chorus"},
       {"start":136.196,"end":150.837,"segType":"chorus"},
       {"start":150.837,"end":194.067,"segType":"outro"},
-      {"start":194.067,"end":194.067,"segType":"silence"}]
+      {"start":194.067,"end":194.067,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 121, "order": 7, "trackTitle": "While My Guitar Gently Weeps", "segments":
       [{"start":0.000,"end":17.012,"segType":"intro"},
@@ -1704,14 +2078,20 @@
       {"start":150.698,"end":184.049,"segType":"bridge"},
       {"start":184.049,"end":217.275,"segType":"verse"},
       {"start":217.275,"end":280.626,"segType":"outro"},
-      {"start":280.626,"end":285.293,"segType":"silence"}]
+      {"start":280.626,"end":285.293,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 122, "order": 8, "trackTitle": "Happiness Is a Warm Gun", "segments":
       [{"start":0.000,"end":44.620,"segType":"verse--variant"},
       {"start":44.620,"end":73.143,"segType":"chorus--variant"},
       {"start":73.143,"end":94.498,"segType":"chorus--variant"},
       {"start":94.498,"end":161.633,"segType":"chorus--variant"},
-      {"start":161.633,"end":163.467,"segType":"silence"}]
+      {"start":161.633,"end":163.467,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 123, "order": 9, "trackTitle": "Marthy My Dear", "segments":
       [{"start":0.000,"end":19.412,"segType":"intro"},
@@ -1722,7 +2102,10 @@
       {"start":99.886,"end":123.256,"segType":"bridge"},
       {"start":123.256,"end":142.524,"segType":"verse"},
       {"start":142.524,"end":147.508,"segType":"outro"},
-      {"start":147.508,"end":148.733,"segType":"silence"}]
+      {"start":147.508,"end":148.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 124, "order": 10, "trackTitle": "I'm So Tired", "segments":
       [{"start":0.000,"end":1.474,"segType":"silence"},
@@ -1732,7 +2115,10 @@
       {"start":67.117,"end":89.107,"segType":"verse"},
       {"start":89.107,"end":108.611,"segType":"chorus"},
       {"start":108.611,"end":123.307,"segType":"outro"},
-      {"start":123.307,"end":123.307,"segType":"silence"}]
+      {"start":123.307,"end":123.307,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 125, "order": 11, "trackTitle": "Black Bird", "segments":
       [{"start":0.000,"end":4.573,"segType":"intro"},
@@ -1745,7 +2131,10 @@
       {"start":90.188,"end":106.947,"segType":"break--instrumental"},
       {"start":106.947,"end":125.371,"segType":"verse"},
       {"start":125.371,"end":138.267,"segType":"outro"},
-      {"start":138.267,"end":138.267,"segType":"silence"}]
+      {"start":138.267,"end":138.267,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126, "order": 12, "trackTitle": "Piggies", "segments":
       [{"start":0.000,"end":5.502,"segType":"intro"},
@@ -1758,7 +2147,10 @@
       {"start":81.398,"end":86.506,"segType":"intro"},
       {"start":86.506,"end":101.964,"segType":"verse"},
       {"start":101.964,"end":124.333,"segType":"outro"},
-      {"start":124.333,"end":124.333,"segType":"silence"}]
+      {"start":124.333,"end":124.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1261, "order": 13, "trackTitle": "Rocky Raccoon", "segments":
       [{"start":0.000,"end":6.455,"segType":"c"},
@@ -1772,7 +2164,10 @@
       {"start":162.415,"end":186.125,"segType":"chorus"},
       {"start":186.125,"end":205.959,"segType":"chorus--variant"},
       {"start":205.959,"end":212.893,"segType":"outro"},
-      {"start":212.893,"end":212.893,"segType":"silence"}]
+      {"start":212.893,"end":212.893,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1262, "order": 14, "trackTitle": "Don't Pass Me By", "segments":
       [{"start":0.000,"end":17.006,"segType":"intro"},
@@ -1784,14 +2179,20 @@
       {"start":159.184,"end":175.959,"segType":"break--instrumental"},
       {"start":175.959,"end":206.016,"segType":"chorus"},
       {"start":206.016,"end":230.400,"segType":"outro"},
-      {"start":230.400,"end":230.400,"segType":"silence"}]
+      {"start":230.400,"end":230.400,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1263, "order": 15, "trackTitle": "Why Don't We Do It in the Road", "segments":
       [{"start":0.000,"end":10.414,"segType":"intro"},
       {"start":10.414,"end":41.037,"segType":"chorus"},
       {"start":41.037,"end":71.673,"segType":"chorus"},
       {"start":71.673,"end":99.389,"segType":"chorus"},
-      {"start":99.389,"end":101.440,"segType":"silence"}]
+      {"start":99.389,"end":101.440,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1264, "order": 16, "trackTitle": "I Will", "segments":
       [{"start":0.000,"end":1.091,"segType":"silence"},
@@ -1800,7 +2201,10 @@
       {"start":40.728,"end":59.339,"segType":"bridge"},
       {"start":59.339,"end":84.931,"segType":"verse"},
       {"start":84.931,"end":106.027,"segType":"outro"},
-      {"start":106.027,"end":106.027,"segType":"silence"}]
+      {"start":106.027,"end":106.027,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 1265, "order": 17, "trackTitle": "Julia", "segments":
       [{"start":0.000,"end":14.694,"segType":"verse"},
@@ -1812,7 +2216,10 @@
       {"start":118.073,"end":139.592,"segType":"chorus"},
       {"start":139.592,"end":160.914,"segType":"chorus"},
       {"start":160.914,"end":174.200,"segType":"outro"},
-      {"start":174.200,"end":174.200,"segType":"silence"}]
+      {"start":174.200,"end":174.200,"segType":"silence"}],
+    "notes": [
+      "note for julia"
+    ]
     },
     {"trackIndex": 126501, "order": 1, "trackTitle": "Birthday", "segments":
       [{"start":0.000,"end":0.980,"segType":"silence"},
@@ -1825,7 +2232,10 @@
       {"start":115.612,"end":132.833,"segType":"bridge"},
       {"start":132.833,"end":153.437,"segType":"verse"},
       {"start":153.437,"end":162.922,"segType":"outro"},
-      {"start":162.922,"end":162.923,"segType":"silence"}]
+      {"start":162.922,"end":162.923,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues", "segments":
       [{"start":0.000,"end":3.376,"segType":"intro"},
@@ -1837,7 +2247,10 @@
       {"start":147.953,"end":174.416,"segType":"verse--instrumental"},
       {"start":174.416,"end":198.078,"segType":"verse--instrumental"},
       {"start":198.078,"end":237.593,"segType":"verse"},
-      {"start":237.593,"end":241.093,"segType":"silence"}]
+      {"start":237.593,"end":241.093,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126503, "order": 3, "trackTitle": "Mother Nature's Son", "segments":
       [{"start":0.000,"end":19.690,"segType":"intro"},
@@ -1849,7 +2262,10 @@
       {"start":114.637,"end":135.767,"segType":"bridge"},
       {"start":135.767,"end":157.040,"segType":"verse"},
       {"start":157.040,"end":165.706,"segType":"outro"},
-      {"start":165.706,"end":168.040,"segType":"silence"}]
+      {"start":165.706,"end":168.040,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126504, "order": 4, "trackTitle": "Everybody's Got Something to Hide Except Me and My Monkey", "segments":
       [{"start":0.000,"end":8.359,"segType":"intro"},
@@ -1860,7 +2276,10 @@
       {"start":79.923,"end":100.078,"segType":"verse"},
       {"start":100.078,"end":119.739,"segType":"chorus"},
       {"start":119.739,"end":144.800,"segType":"outro"},
-      {"start":144.800,"end":144.800,"segType":"silence"}]
+      {"start":144.800,"end":144.800,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126505, "order": 5, "trackTitle": "Sexie Sadie", "segments":
       [{"start":0.000,"end":9.984,"segType":"intro"},
@@ -1871,7 +2290,10 @@
       {"start":92.148,"end":114.556,"segType":"verse"},
       {"start":114.556,"end":133.608,"segType":"bridge"},
       {"start":133.608,"end":195.333,"segType":"outro"},
-      {"start":195.333,"end":195.333,"segType":"silence"}]
+      {"start":195.333,"end":195.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126506, "order": 6, "trackTitle": "Helter Skelter", "segments":
       [{"start":0.000,"end":17.992,"segType":"intro"},
@@ -1884,7 +2306,10 @@
       {"start":121.094,"end":141.337,"segType":"verse"},
       {"start":141.337,"end":152.907,"segType":"chorus"},
       {"start":152.907,"end":269.231,"segType":"outro"},
-      {"start":269.231,"end":269.667,"segType":"silence"}]
+      {"start":269.231,"end":269.667,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126507, "order": 7, "trackTitle": "Long Long Long", "segments":
       [{"start":0.000,"end":0.360,"segType":"silence"},
@@ -1897,7 +2322,10 @@
       {"start":100.241,"end":121.371,"segType":"chorus"},
       {"start":121.371,"end":151.374,"segType":"verse"},
       {"start":151.374,"end":183.050,"segType":"outro"},
-      {"start":183.050,"end":184.333,"segType":"silence"}]
+      {"start":183.050,"end":184.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126508, "order": 8, "trackTitle": "Revolution 1", "segments":
       [{"start":0.000,"end":16.161,"segType":"intro"},
@@ -1909,7 +2337,10 @@
       {"start":145.981,"end":190.171,"segType":"verse"},
       {"start":190.171,"end":209.698,"segType":"chorus"},
       {"start":209.698,"end":255.733,"segType":"outro"},
-      {"start":255.733,"end":255.733,"segType":"silence"}]
+      {"start":255.733,"end":255.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126509, "order": 9, "trackTitle": "Honey Pie", "segments":
       [{"start":0.000,"end":0.348,"segType":"silence"},
@@ -1923,7 +2354,10 @@
       {"start":119.396,"end":132.673,"segType":"bridge"},
       {"start":132.673,"end":145.961,"segType":"verse"},
       {"start":145.961,"end":161.333,"segType":"verse--instrumental"},
-      {"start":161.333,"end":161.333,"segType":"silence"}]
+      {"start":161.333,"end":161.333,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126510, "order": 10, "trackTitle": "Savoy Truffle", "segments":
       [{"start":0.000,"end":6.678,"segType":"intro"},
@@ -1939,7 +2373,10 @@
       {"start":134.531,"end":158.535,"segType":"verse"},
       {"start":158.535,"end":166.401,"segType":"chorus"},
       {"start":166.401,"end":173.500,"segType":"outro"},
-      {"start":173.500,"end":174.893,"segType":"silence"}]
+      {"start":173.500,"end":174.893,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126511, "order": 11, "trackTitle": "Cry Baby Cry", "segments":
       [{"start":0.000,"end":0.345,"segType":"silence"},
@@ -1954,13 +2391,19 @@
       {"start":117.996,"end":130.620,"segType":"chorus"},
       {"start":130.620,"end":141.638,"segType":"chorus"},
       {"start":141.638,"end":182.491,"segType":"outro"},
-      {"start":182.491,"end":182.492,"segType":"silence"}]
+      {"start":182.491,"end":182.492,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126512, "order": 12, "trackTitle": "Revolution 9", "segments":
       [{"start":0.000,"end":89.702,"segType":"break"},
       {"start":89.702,"end":415.797,"segType":"break"},
       {"start":415.797,"end":502.200,"segType":"break"},
-      {"start":502.200,"end":502.200,"segType":"silence"}]
+      {"start":502.200,"end":502.200,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 126513, "order": 13, "trackTitle": "Good Night", "segments":
       [{"start":0.000,"end":0.249,"segType":"silence"},
@@ -1973,7 +2416,10 @@
       {"start":124.019,"end":152.847,"segType":"verse"},
       {"start":152.847,"end":167.519,"segType":"bridge"},
       {"start":167.519,"end":190.250,"segType":"outro"},
-      {"start":190.250,"end":191.800,"segType":"silence"}]
+      {"start":190.250,"end":191.800,"segType":"silence"}],
+    "notes": [
+      "note for good night"
+    ]
     }
   ]},
   {"albumKey": "letItBe", "albumTitle": "Let It Be",
@@ -1994,7 +2440,10 @@
 {"start":136.011,"end":151.499,"segType":"bridge"},
 {"start":151.499,"end":183.271,"segType":"verse"},
 {"start":183.271,"end":213.499,"segType":"outro"},
-{"start":213.499,"end":216.667,"segType":"silence"}]
+{"start":213.499,"end":216.667,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 128, "order": 2, "trackTitle": "Dig a Pony", "segments":
       [{"start":0.000,"end":0.749,"segType":"silence"},
@@ -2010,7 +2459,10 @@
 {"start":172.038,"end":192.607,"segType":"verse"},
 {"start":192.607,"end":208.217,"segType":"chorus"},
 {"start":208.217,"end":231.245,"segType":"outro"},
-{"start":231.245,"end":234.800,"segType":"silence"}]
+{"start":231.245,"end":234.800,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 129, "order": 3, "trackTitle": "Across the Universe", "segments":
       [{"start":0.000,"end":0.350,"segType":"silence"},
@@ -2028,7 +2480,10 @@
 {"start":153.235,"end":162.843,"segType":"chorus"},
 {"start":162.843,"end":187.510,"segType":"chorus"},
 {"start":187.510,"end":222.748,"segType":"outro"},
-{"start":222.748,"end":228.560,"segType":"silence"}]
+{"start":222.748,"end":228.560,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 130, "order": 4, "trackTitle": "I Me Mine", "segments":
       [{"start":0.000,"end":0.375,"segType":"silence"},
@@ -2038,14 +2493,20 @@
 {"start":57.570,"end":89.020,"segType":"verse"},
 {"start":89.020,"end":107.511,"segType":"chorus"},
 {"start":107.511,"end":144.349,"segType":"verse"},
-{"start":144.349,"end":145.733,"segType":"silence"}]
+{"start":144.349,"end":145.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 131, "order": 5, "trackTitle": "Dig It", "segments":
       [{"start":0.000,"end":1.480,"segType":"silence"},
 {"start":1.480,"end":15.381,"segType":"chorus"},
 {"start":15.381,"end":29.261,"segType":"chorus"},
 {"start":29.261,"end":50.000,"segType":"chorus"},
-{"start":50.000,"end":50.000,"segType":"silence"}]
+{"start":50.000,"end":50.000,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 132, "order": 6, "trackTitle": "Let It Be", "segments":
       [{"start":0.000,"end":13.392,"segType":"intro"},
@@ -2061,7 +2522,10 @@
 {"start":188.725,"end":202.598,"segType":"chorus"},
 {"start":202.598,"end":216.549,"segType":"chorus"},
 {"start":216.549,"end":241.500,"segType":"outro"},
-{"start":241.500,"end":243.307,"segType":"silence"}]
+{"start":241.500,"end":243.307,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 133, "order": 7, "trackTitle": "Maggie Mae", "segments":
       [{"start":0.000,"end":0.345,"segType":"silence"},
@@ -2069,7 +2533,10 @@
 {"start":3.020,"end":14.233,"segType":"verse"},
 {"start":14.233,"end":25.692,"segType":"verse"},
 {"start":25.692,"end":38.050,"segType":"outro"},
-{"start":38.050,"end":40.600,"segType":"silence"}]
+{"start":38.050,"end":40.600,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 134, "order": 8, "trackTitle": "I've Got A Feeling", "segments":
       [{"start":0.000,"end":0.395,"segType":"silence"},
@@ -2082,7 +2549,10 @@
 {"start":154.059,"end":165.494,"segType":"outro"},
 {"start":165.494,"end":188.640,"segType":"verse/verse'_(superimposed)"},
 {"start":188.640,"end":214.150,"segType":"outro"},
-{"start":214.150,"end":217.960,"segType":"silence"}]
+{"start":214.150,"end":217.960,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 135, "order": 9, "trackTitle": "One After 909", "segments":
       [{"start":0.000,"end":0.350,"segType":"silence"},
@@ -2095,7 +2565,10 @@
 {"start":114.139,"end":135.359,"segType":"bridge"},
 {"start":135.359,"end":153.897,"segType":"verse"},
 {"start":153.897,"end":170.535,"segType":"outro"},
-{"start":170.535,"end":175.507,"segType":"silence"}]
+{"start":170.535,"end":175.507,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 136, "order": 10, "trackTitle": "The Long and Winding Road", "segments":
       [{"start":0.000,"end":0.345,"segType":"silence"},
@@ -2106,7 +2579,10 @@
 {"start":145.019,"end":159.415,"segType":"bridge--instrumental"},
 {"start":159.415,"end":203.301,"segType":"verse"},
 {"start":203.301,"end":215.900,"segType":"outro"},
-{"start":215.900,"end":217.867,"segType":"silence"}]
+{"start":215.900,"end":217.867,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 137, "order": 11, "trackTitle": "For You Blue", "segments":
       [{"start":0.000,"end":0.450,"segType":"silence"},
@@ -2117,7 +2593,10 @@
 {"start":80.617,"end":103.034,"segType":"break--instrumental"},
 {"start":103.034,"end":125.342,"segType":"verse"},
 {"start":125.342,"end":149.200,"segType":"verse/outro"},
-{"start":149.200,"end":152.733,"segType":"silence"}]
+{"start":149.200,"end":152.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 138, "order": 12, "trackTitle": "Get Back", "segments":
       [{"start":0.000,"end":0.365,"segType":"silence"},
@@ -2132,7 +2611,10 @@
 {"start":139.537,"end":155.054,"segType":"break--instrumental"},
 {"start":155.054,"end":170.473,"segType":"chorus"},
 {"start":170.473,"end":185.355,"segType":"outro"},
-{"start":185.355,"end":187.093,"segType":"silence"}]
+{"start":185.355,"end":187.093,"segType":"silence"}],
+    "notes": [
+      "note for get back"
+    ]
     }
   ]},
   {"albumKey": "abbeyRoad", "albumTitle": "Abbey Road",
@@ -2153,7 +2635,10 @@
       {"start":145.717,"end":174.955,"segType":"verse"},
       {"start":174.955,"end":180.829,"segType":"chorus"},
       {"start":180.829,"end":254.248,"segType":"outro"},
-      {"start":254.248,"end":260.627,"segType":"silence"}]
+      {"start":254.248,"end":260.627,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 140, "order": 2, "trackTitle": "Something", "segments":
       [{"start":0.000,"end":0.350,"segType":"silence"},
@@ -2164,7 +2649,10 @@
       {"start":101.789,"end":133.899,"segType":"verse--instrumental"},
       {"start":133.899,"end":166.409,"segType":"verse"},
       {"start":166.409,"end":179.000,"segType":"outro"},
-      {"start":179.000,"end":183.000,"segType":"silence"}]
+      {"start":179.000,"end":183.000,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 141, "order": 3, "trackTitle": "Maxwell's Silver Hammer", "segments":
       [{"start":0.000,"end":0.380,"segType":"silence"},
@@ -2179,7 +2667,10 @@
       {"start":168.418,"end":182.767,"segType":"chorus"},
       {"start":182.767,"end":197.017,"segType":"chorus--instrumental"},
       {"start":197.017,"end":204.998,"segType":"outro--variant"},
-      {"start":204.998,"end":207.267,"segType":"silence"}]
+      {"start":204.998,"end":207.267,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 142, "order": 4, "trackTitle": "Oh! Darling", "segments":
       [{"start":0.000,"end":0.385,"segType":"silence"},
@@ -2190,7 +2681,10 @@
       {"start":101.521,"end":134.821,"segType":"verse"},
       {"start":134.821,"end":168.038,"segType":"bridge"},
       {"start":168.038,"end":204.499,"segType":"verse"},
-      {"start":204.499,"end":206.707,"segType":"silence"}]
+      {"start":204.499,"end":206.707,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 143, "order": 5, "trackTitle": "Octopus's Garden", "segments":
 [{"start":0.000,"end":0.375,"segType":"silence"},
@@ -2200,7 +2694,10 @@
 {"start":94.228,"end":114.771,"segType":"bridge--instrumental"},
 {"start":114.771,"end":156.313,"segType":"verse"},
 {"start":156.313,"end":168.099,"segType":"outro"},
-{"start":168.099,"end":171.160,"segType":"silence"}]
+{"start":168.099,"end":171.160,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 144, "order": 6, "trackTitle": "I Want You", "segments":
 [{"start":0.000,"end":0.370,"segType":"silence"},
@@ -2212,7 +2709,10 @@
 {"start":198.217,"end":225.624,"segType":"chorus"},
 {"start":225.624,"end":277.055,"segType":"verse"},
 {"start":277.055,"end":464.110,"segType":"outro"},
-{"start":464.110,"end":467.173,"segType":"silence"}]
+{"start":464.110,"end":467.173,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 145, "order": 7, "trackTitle": "Here Comes The Sun", "segments":
 [{"start":0.000,"end":0.350,"segType":"silence"},
@@ -2226,7 +2726,10 @@
 {"start":131.658,"end":146.602,"segType":"verse"},
 {"start":146.602,"end":159.683,"segType":"chorus"},
 {"start":159.683,"end":183.998,"segType":"outro"},
-{"start":183.998,"end":185.560,"segType":"silence"}]
+{"start":183.998,"end":185.560,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 146, "order": 8, "trackTitle": "Because", "segments":
 [{"start":0.000,"end":0.394,"segType":"silence"},
@@ -2239,14 +2742,20 @@
 {"start":102.817,"end":114.634,"segType":"verse"},
 {"start":114.634,"end":126.324,"segType":"bridge"},
 {"start":126.324,"end":165.250,"segType":"outro"},
-{"start":165.250,"end":165.533,"segType":"silence"}]
+{"start":165.250,"end":165.533,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 147, "order": 9, "trackTitle": "You Never Give Me Your Money", "segments":
 [{"start":0.000,"end":0.180,"segType":"silence"},
 {"start":0.180,"end":69.848,"segType":"verse--variant"},
 {"start":69.848,"end":148.093,"segType":"verse--variant"},
 {"start":148.093,"end":242.400,"segType":"verse--variant"},
-{"start":242.400,"end":242.400,"segType":"silence"}]
+{"start":242.400,"end":242.400,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 148, "order": 10, "trackTitle": "Sun King", "segments":
 [{"start":0.000,"end":14.303,"segType":"intro"},
@@ -2255,12 +2764,18 @@
 {"start":84.330,"end":97.160,"segType":"bridge"},
 {"start":97.160,"end":109.960,"segType":"chorus"},
 {"start":109.960,"end":146.310,"segType":"verse"},
-{"start":146.310,"end":146.307,"segType":"silence"}]
+{"start":146.310,"end":146.307,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 149, "order": 11, "trackTitle": "Mean Mr. Mustard", "segments":
 [{"start":0.000,"end":1.737,"segType":"intro"},
 {"start":1.737,"end":35.576,"segType":"verse"},
-{"start":35.576,"end":66.293,"segType":"verse"}]
+{"start":35.576,"end":66.293,"segType":"verse"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 150, "order": 12, "trackTitle": "Polythene Pam", "segments":
 [{"start":0.000,"end":6.327,"segType":"intro"},
@@ -2268,7 +2783,10 @@
 {"start":20.659,"end":26.604,"segType":"intro"},
 {"start":26.604,"end":40.868,"segType":"verse"},
 {"start":40.868,"end":47.048,"segType":"intro"},
-{"start":47.048,"end":72.733,"segType":"outro"}]
+{"start":47.048,"end":72.733,"segType":"outro"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 151, "order": 13, "trackTitle": "She Came In Through The Bathroom Window", "segments":
 [{"start":0.000,"end":8.855,"segType":"intro"},
@@ -2277,32 +2795,47 @@
 {"start":51.759,"end":72.559,"segType":"verse"},
 {"start":72.559,"end":93.320,"segType":"verse"},
 {"start":93.320,"end":116.600,"segType":"bridge"},
-{"start":116.600,"end":117.733,"segType":"silence"}]
+{"start":116.600,"end":117.733,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 152, "order": 14, "trackTitle": "Golden Slumbers", "segments":
 [{"start":0.000,"end":0.378,"segType":"silence"},
 {"start":0.378,"end":3.403,"segType":"intro"},
 {"start":3.403,"end":34.560,"segType":"verse"},
 {"start":34.560,"end":62.211,"segType":"chorus"},
-{"start":62.211,"end":91.573,"segType":"verse"}]
+{"start":62.211,"end":91.573,"segType":"verse"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 153, "order": 15, "trackTitle": "Carry That Weight", "segments":
 [{"start":0.000,"end":1.554,"segType":"intro"},
 {"start":1.554,"end":24.504,"segType":"chorus"},
 {"start":24.504,"end":67.364,"segType":"bridge"},
 {"start":67.364,"end":89.874,"segType":"chorus"},
-{"start":89.874,"end":96.867,"segType":"outro"}]
+{"start":89.874,"end":96.867,"segType":"outro"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 154, "order": 16, "trackTitle": "The End", "segments":
 [{"start":0.000,"end":34.752,"segType":"break--instrumental"},
 {"start":34.752,"end":89.014,"segType":"break--instrumental"},
 {"start":89.014,"end":123.498,"segType":"break--instrumental"},
-{"start":123.498,"end":139.827,"segType":"silence"}]
+{"start":123.498,"end":139.827,"segType":"silence"}],
+    "notes": [
+      "note"
+    ]
     },
     {"trackIndex": 155, "order": 17, "trackTitle": "Her Majesty", "segments":
 [{"start":0.000,"end":0.320,"segType":"silence"},
 {"start":0.320,"end":2.071,"segType":"intro"},
-{"start":2.071,"end":23.267,"segType":"verse"}]
+{"start":2.071,"end":23.267,"segType":"verse"}],
+    "notes": [
+      "note for her majesty"
+    ]
     }
   ]}
 
