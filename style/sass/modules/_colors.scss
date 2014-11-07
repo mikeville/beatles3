@@ -40,23 +40,6 @@
 }
 
 
-.dot-test {
-  width: 60rem;
-  height: 10rem;
-  border: 1px solid white;
-  @include pattern-dots4(4)
-}
-
-.div-test {
-  border: 1px solid white;
-  background-color: black;
-  display: inline;
-}
-
-.div-test:after {
-  content: "test";
-}
-
 $text: #fff8cd;
 $text-secondary: #555244;
 
@@ -98,6 +81,7 @@ $instrumental: $green;
 
 
 .segment {
+    float: left;
     fill: $instrumental;
     background-color: $instrumental;
 }
@@ -122,8 +106,10 @@ $instrumental: $green;
 
 
 .segment_silence {
-  fill: $background;
-  background-color: $background;
+  // fill: $background;
+  // background-color: $background;
+  fill: $intro-outro;
+  background-color: $intro-outro;
 }
 
 .segment_intro,

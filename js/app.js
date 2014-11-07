@@ -239,8 +239,8 @@ var d3Sketch2_divs = function(){
       .attr('class', 'track-container__graphic-container__graphic-wrapper')
     .append('div')
       .attr('class', 'track-container__graphic-container__graphic-wrapper__graphic')
-      .attr('height', height)
-      .attr('width', width)
+      .style('height', height)
+      .style('width', width)
 
       // for responsive svgs that scale with outer div:
       // .attr('preserveAspectRatio', 'xMidYMid')
@@ -263,12 +263,24 @@ var d3Sketch2_divs = function(){
   var trackSegments = trackGraphics.selectAll('div')
       .data(function(d, i) { return d['segments'] })
     .enter().append('div')
-        // .attr('x', function(d, i) { return xScale(d.start) })
-        // .attr('y', 0)
-        .attr('width', function(d) { return xScale(d.end-d.start) })
-        .attr('height', height)
-        .attr('class', function(d) { return 'div-test segment_'+d.segType })
+        .style('width', function(d) { 
+          var widthy = xScale(d.end-d.start);
+          widthy = widthy.toString() + 'px';
+          return widthy;
+        })
+        .style('height', height + 'px')
+        // .style('width', function(d) { return xScale(d.end-d.start) })
+        // .style('height', height)
+        .attr('class', function(d) { return 'segment segment_'+d.segType })
 
+//test
+  d3.selectAll('#context-container-wrapper').append('div')
+    // .style('width', '70px')
+    .style('width', function(d) { 
+      return '20px'
+    })
+    .style('height', '20px')
+    .attr('class', 'div-test2')
 
   // Add notes containers =============
   graphicContainer.append('div')

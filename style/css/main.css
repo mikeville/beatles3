@@ -69,106 +69,85 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /*------------------------------------*\
     #MY-MODULES
 \*------------------------------------*/
-/* line 43, ../sass/modules/_colors.scss */
-.dot-test {
-  width: 60rem;
-  height: 10rem;
-  border: 1px solid white;
-  background-image: radial-gradient(#ffffff 16%, rgba(0, 0, 0, 0) 18%), radial-gradient(#ffffff 16%, rgba(0, 0, 0, 0) 18%);
-  background-size: 8px 8px;
-  background-position: 0 0, 4px 4px;
-}
-
-/* line 50, ../sass/modules/_colors.scss */
-.div-test {
-  border: 1px solid white;
-  background-color: black;
-  display: inline;
-}
-
-/* line 56, ../sass/modules/_colors.scss */
-.div-test:after {
-  content: "test";
-}
-
-/* line 100, ../sass/modules/_colors.scss */
+/* line 83, ../sass/modules/_colors.scss */
 .segment {
+  float: left;
   fill: #74c044;
   background-color: #74c044;
 }
 
-/* line 106, ../sass/modules/_colors.scss */
+/* line 90, ../sass/modules/_colors.scss */
 #legend__segment-chorus {
   background-color: #ffce06;
 }
 
-/* line 107, ../sass/modules/_colors.scss */
+/* line 91, ../sass/modules/_colors.scss */
 #legend__segment-verse {
   background-color: #57caef;
 }
 
-/* line 108, ../sass/modules/_colors.scss */
+/* line 92, ../sass/modules/_colors.scss */
 #legend__segment-bridge {
   background-color: #ee3766;
 }
 
-/* line 109, ../sass/modules/_colors.scss */
+/* line 93, ../sass/modules/_colors.scss */
 #legend__segment-unique {
   background-color: #74c044;
 }
 
-/* line 110, ../sass/modules/_colors.scss */
+/* line 94, ../sass/modules/_colors.scss */
 #legend__segment-variation {
   background-color: #74c044;
 }
 
-/* line 111, ../sass/modules/_colors.scss */
+/* line 95, ../sass/modules/_colors.scss */
 #legend__segment-solo {
   background-color: #74c044;
 }
 
-/* line 112, ../sass/modules/_colors.scss */
+/* line 96, ../sass/modules/_colors.scss */
 #legend__segment-intro {
   background-color: #555244;
 }
 
-/* line 115, ../sass/modules/_colors.scss */
+/* line 99, ../sass/modules/_colors.scss */
 #legend__authorship__paul {
   background-color: #ffce06;
 }
 
-/* line 116, ../sass/modules/_colors.scss */
+/* line 100, ../sass/modules/_colors.scss */
 #legend__authorship__john {
   background-color: #57caef;
 }
 
-/* line 117, ../sass/modules/_colors.scss */
+/* line 101, ../sass/modules/_colors.scss */
 #legend__authorship__george {
   background-color: #74c044;
 }
 
-/* line 118, ../sass/modules/_colors.scss */
+/* line 102, ../sass/modules/_colors.scss */
 #legend__authorship__ringo {
   background-color: #A052A0;
 }
 
-/* line 119, ../sass/modules/_colors.scss */
+/* line 103, ../sass/modules/_colors.scss */
 #legend__authorship__other {
   background-color: #666666;
 }
 
-/* line 120, ../sass/modules/_colors.scss */
+/* line 104, ../sass/modules/_colors.scss */
 #legend__authorship__cowritten {
   background-color: #ED2126;
 }
 
-/* line 124, ../sass/modules/_colors.scss */
+/* line 108, ../sass/modules/_colors.scss */
 .segment_silence {
-  fill: #1e1e1a;
-  background-color: #1e1e1a;
+  fill: #555244;
+  background-color: #555244;
 }
 
-/* line 129, ../sass/modules/_colors.scss */
+/* line 115, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -177,7 +156,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 137, ../sass/modules/_colors.scss */
+/* line 123, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -185,7 +164,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 144, ../sass/modules/_colors.scss */
+/* line 130, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -193,7 +172,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 151, ../sass/modules/_colors.scss */
+/* line 137, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -201,7 +180,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 158, ../sass/modules/_colors.scss */
+/* line 144, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
