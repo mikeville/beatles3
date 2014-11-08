@@ -44,7 +44,8 @@ a:hover,
 }
 
 .page-header__subheader {
-  font-weight: 500;
+  @include adjust-font-size-to(1.5rem, 4);
+  font-weight: 200;
 }
 
 .context-container__axis-container,

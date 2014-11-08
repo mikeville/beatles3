@@ -6,6 +6,7 @@
 
 /* #SUSY-GRID-VARIABLES------------ */
 $med: 40rem;
+$large: 52rem;
 $max-width: 64rem;
 
 $column-width: 4rem;
@@ -30,7 +31,9 @@ $susy: (
 
 .grid--main {
     @include container(6 ($column-width $gutter-width) show);
-
+    padding-left: 1rem;
+    padding-right: 1rem;
+  
     @include breakpoint($med) {
       @include container(12 ($column-width $gutter-width) show);
       padding-left: $container-margin;
@@ -59,39 +62,80 @@ svg {
 
 
 .site-header {
-  @include span(12 of 12);
+  @include span(6 of 6);
   @include rhythm(1,0,0,3);
 }
 
 .page-body-container {
-  @include span(12 of 12);  
+  @include span(6 of 6);  
 }
 
 .page-header {
-  @include span(8 of 12);
+  @include span(6 of 6);
   @include rhythm(0,0,0,3);
+
+  @include breakpoint($med) {
+    @include span(10 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(8 of 12);
+  }
 }
 
-.site-header__site-title-container,
-.site-header__site-title-container__site-title {
-  @include span(12 of 12);
+.site-header__site-title-container {
+  @include span(6 of 6);
+  
+  @include breakpoint($med) {
+    @include span(8 of 12);
+  }
 }
 
-.site-header__nav {
-  @include span(12 of 12);
+.site-header__nav2 {
+  @include span(6 of 6);
+  @include breakpoint($med) {
+    @include span(last 4 of 12);
+  }
 }
 
-.nav__link {
-  @include span(2 of 12);
+
+/*------------------------------------*\
+    #THUMBNAIL-INDEX
+\*------------------------------------*/
+
+.thumb-index {
+  @include span(6 of 6);
+}
+
+.thumb-index__thumb {
+  background-color: $text-secondary;
+  @include span(6 of 6);
   @include rhythm(0,0,0,1);
 }
 
-#nav__link--6 {
-  @include span(last 2 of 12);
+.thumb--primary {
+  @include breakpoint($med) {
+    @include span(8 of 12);
+  }
 }
 
+.thumb--secondary {
+  @include breakpoint($med) {
+    @include span(last 4 of 12);
+  }
+}
 
+.thumb--tertiary {
+  @include breakpoint($med) {
+    @include span(4 of 12);
+  }
+}
 
+.thumb--tertiary:last-child {
+  @include breakpoint($med) {
+    @include span(last 4 of 12);
+  }
+}
 
 
 /*------------------------------------*\
