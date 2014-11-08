@@ -142,6 +142,18 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ED2126;
 }
 
+/* line 96, ../sass/modules/_colors.scss */
+.segment_intro--variant,
+.segment_outro--variant,
+.segment_verse--variant,
+.segment_chorus--variant,
+.segment_bridge--variant,
+.segment_break--variant {
+  background: linear-gradient(135deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(225deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(315deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(45deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%);
+  background-size: 4px 4px;
+  background-color: transparent;
+}
+
 /* line 105, ../sass/modules/_colors.scss */
 .segment_verse--instrumental,
 .segment_chorus--instrumental,
@@ -198,6 +210,26 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .segment_break--instrumental {
   fill: #74c044;
   background-color: #74c044;
+}
+
+/* line 158, ../sass/modules/_colors.scss */
+.span--i_ntro {
+  color: #88857c;
+}
+
+/* line 162, ../sass/modules/_colors.scss */
+.span--v_erse {
+  color: #57caef;
+}
+
+/* line 166, ../sass/modules/_colors.scss */
+.span--c_horus {
+  color: #ffce06;
+}
+
+/* line 170, ../sass/modules/_colors.scss */
+.span--b_ridge {
+  color: #ee3766;
 }
 
 @-ms-viewport {
@@ -555,7 +587,7 @@ a:hover,
   font-weight: 300;
 }
 
-/* line 93, ../sass/partials/_typography.scss */
+/* line 99, ../sass/partials/_typography.scss */
 .track-container--expanded {
   border-top: 1px dotted #fff8cd;
   border-bottom: 1px dotted #fff8cd;
@@ -568,7 +600,7 @@ a:hover,
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 98, ../sass/partials/_typography.scss */
+/* line 104, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   font-size: 64px;
   font-size: 4rem;
@@ -586,7 +618,7 @@ a:hover,
   color: #ee3766;
 }
 
-/* line 106, ../sass/partials/_typography.scss */
+/* line 118, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -600,7 +632,7 @@ a:hover,
   padding-left: 1.1rem;
 }
 
-/* line 112, ../sass/partials/_typography.scss */
+/* line 124, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;

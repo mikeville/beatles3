@@ -397,13 +397,40 @@ var setEventsTest = function() {
   // Highlight instances of segment names in notes ========
   // ======================================================
 
+// var addSegmentSpanClasses = function(){
+
+//   var segmentClasses = {
+//     i_ntro: ['intro', 'outro'],
+//     c_horus: ['choruses', 'chorus', 'refrains', 'refrain'],
+//     v_erse: ['verses', 'verse'],
+//     b_ridge: ['bridges', 'bridge'],
+//   }
+
+//   function replaceAny(targetList, spanClass) {
+//     targetList = targetList;
+//     spanClass = spanClass;
+
+//     function replaceAnySub(target) {
+//       var string = $('.track-container__graphic-container__notes-container__note-list').html();
+//       var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+//       $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+ 
+//     }
+//     _.each( targetList, replaceAnySub)
+//    }
+
+//   _.each( segmentClasses, replaceAny )
+
+
+
+//// -------------------
 var addSegmentSpanClasses = function(){
 
   var segmentClasses = {
     i_ntro: ['intro', 'outro'],
     c_horus: ['choruses', 'chorus', 'refrains', 'refrain'],
     v_erse: ['verses', 'verse'],
-    b_ridge: ['bridges', 'bridge'],
+    b_ridge: ['bridges', 'two-bridge', 'bridge'],
   }
 
   function replaceAny(targetList, spanClass) {
@@ -411,9 +438,15 @@ var addSegmentSpanClasses = function(){
     spanClass = spanClass;
 
     function replaceAnySub(target) {
-      var string = $('.track-container__graphic-container__notes-container__note-list').html();
-      var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
-      $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+      // var string = $('.track-container__graphic-container__notes-container__note-list').html();
+      // var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+      // $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+
+      $('.track-container__graphic-container__notes-container__note-list').each(function(noteList) {
+        var noteString = $(this).html()
+        var noteStringWithSpans = noteString.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+        $(this).html(noteStringWithSpans)
+      })   
  
     }
     _.each( targetList, replaceAnySub)

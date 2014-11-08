@@ -156,7 +156,7 @@ $instrumental: $green;
 
 
 .span--i_ntro {
-  color: $intro-outro;
+  color: tint($intro-outro, 30);
 }
 
 .span--v_erse {
