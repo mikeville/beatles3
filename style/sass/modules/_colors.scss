@@ -39,23 +39,23 @@ $instrumental: $green;
 
 
 
-@mixin pattern-dots4($dotSize){
+@mixin pattern-dots4($color: $background, $dotSize: 3){
   // background-color: $verse;
   background-image:
-  radial-gradient($background $dotSize * 8%, transparent $dotSize * 8% + 2%),
-  radial-gradient($background $dotSize * 8%, transparent $dotSize * 8% + 2%);
+  radial-gradient($color $dotSize * 8%, transparent $dotSize * 8% + 2%),
+  radial-gradient($color $dotSize * 8%, transparent $dotSize * 8% + 2%);
   background-size:$dotSize * 2px $dotSize * 2px;
   background-position: 0 0, $dotSize * 1px $dotSize * 1px;
 }
 
 
-@mixin pattern-zigzags() {
+@mixin pattern-zigzags($color: $background) {
 
   background: 
-  linear-gradient(135deg, $background 25%, transparent 25%) -2px 0,
-  linear-gradient(225deg, $background 25%, transparent 25%) -2px 0,
-  linear-gradient(315deg, $background 25%, transparent 25%),
-  linear-gradient(45deg, $background 25%, transparent 25%); 
+  linear-gradient(135deg, $color 25%, transparent 25%) -2px 0,
+  linear-gradient(225deg, $color 25%, transparent 25%) -2px 0,
+  linear-gradient(315deg, $color 25%, transparent 25%),
+  linear-gradient(45deg, $color 25%, transparent 25%); 
   background-size: 4px 4px;
   background-color: transparent;
 
@@ -75,15 +75,46 @@ $instrumental: $green;
     border-right: 1px solid $background;
 }
 
+// LEGEND'S GRID ----------------
+.legend-item {
+  display: inline;
+}
+
+.legend__segment {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.legend__chip {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+// -----------------------------
+// LEGEND'S TYPOGRAPHY
+
+.legend-item {
+  color: $background;
+}
+
+.legend-item--chip {
+  color: $text;
+}
 
 #legend__segment-chorus { background-color: $chorus; }
 #legend__segment-verse { background-color: $verse; }
 #legend__segment-bridge { background-color: $bridge; }
-#legend__segment-unique { background-color: $instrumental; }
-#legend__segment-variation { background-color: $instrumental; }
-#legend__segment-solo { background-color: $instrumental; }
+#legend__segment-break { background-color: $break; }
 #legend__segment-intro { background-color: $intro-outro; }
-
+#legend__segment-instrumental { 
+  background-color: $instrumental; 
+  @include pattern-zigzags($text); 
+  // border: 1px solid red;
+}
+#legend__segment-variant { 
+  background-color: $text; 
+  @include pattern-dots4();
+}
 
 #legend__authorship__paul { background-color: $yellow; }
 #legend__authorship__john { background-color: $blue; }
@@ -99,14 +130,14 @@ $instrumental: $green;
 .segment_chorus--variant,
 .segment_bridge--variant,
 .segment_break--variant {
-  @include pattern-zigzags(); 
+  @include pattern-dots4();
 }
 
 .segment_verse--instrumental,
 .segment_chorus--instrumental,
 .segment_bridge--instrumental,
 .segment_break--instrumental {
-  @include pattern-dots4(3);
+  @include pattern-zigzags(); 
 }
 
 

@@ -88,6 +88,12 @@ a:hover,
     @include ellipsis;
     font-weight: 300;
   }
+
+  // .track-container__graphic-container__notes-container,
+  // .notes-container__note {
+  //   display: hidden;
+  //   @include border(green);
+  // }
 }
 
 .track-container--expanded {
@@ -101,6 +107,12 @@ a:hover,
     @include rhythm(0,0,0,3);
     color: $pink;
   }
+
+  // .track-container__graphic-container__notes-container,
+  // .notes-container__note {
+  //   display: block;
+  //   @include border(red);
+  // }
 }
 
 .track-container__graphic-container__notes-container__note-list {

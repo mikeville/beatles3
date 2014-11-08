@@ -123,13 +123,6 @@ svg {
   @include rhythm(0,1,0,1);
 }
 
-.legend__segment {
-  display: inline;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-  margin-right: 0.25rem;
-  color: $background;
-}
 
 /*------------------------------------*\
     #TIMELINE

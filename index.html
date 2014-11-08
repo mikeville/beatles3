@@ -16,6 +16,7 @@
 
   <link rel='stylesheet' type='text/css' href='style/css/main.css' />
   <link rel='stylesheet' type='text/css' href='style/css/jquery.qtip.min.css' />
+  <link rel='stylesheet' type='text/css' href='style/css/font-awesome.min.css' />
   <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700,700italic,500italic,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
 </head>
@@ -49,13 +50,13 @@
         <div id='context-container'>
           <div class='context-container__legend-container'>
             <ul class='context-container__legend-container-legend'>
-              <li id='legend__segment-chorus' class='legend__segment'>Chorus</li>
-              <li id='legend__segment-verse' class='legend__segment'>Verse</li>
-              <li id='legend__segment-bridge' class='legend__segment'>Bridge</li>
-              <!-- <li id='legend__segment-unique'>Unique Section</li> -->
-              <li id='legend__segment-variation' class='legend__segment'>Variations</li>
-              <!-- <li id='legend__segment-solo'>Solo/Instrumental</li> -->
-              <li id='legend__segment-intro' class='legend__segment'>Intro/Outro</li>
+              <li id='legend__segment-verse' class='legend-item legend__segment'>Verse</li>
+              <li id='legend__segment-chorus' class='legend-item legend__segment'>Chorus</li>
+              <li id='legend__segment-bridge' class='legend-item legend__segment'>Bridge</li>
+              <li id='legend__segment-break' class='legend-item legend__segment'>Other</li>
+              <li id='legend__segment-intro' class='legend-item legend__segment'>Intro/Outro</li>
+              <li class='legend-item legend-item--chip legend__segment'>Instrumental/solo<span id='legend__segment-instrumental' class='legend__chip'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+              <li class='legend-item legend-item--chip legend__segment'>Variant<span id='legend__segment-variant' class='legend__chip'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
             </ul>
           </div>
           <div class='context-container__axis-container'>

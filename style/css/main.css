@@ -78,100 +78,134 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 79, ../sass/modules/_colors.scss */
+.legend-item {
+  display: inline;
+}
+
+/* line 83, ../sass/modules/_colors.scss */
+.legend__segment {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+/* line 89, ../sass/modules/_colors.scss */
+.legend__chip {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+/* line 96, ../sass/modules/_colors.scss */
+.legend-item {
+  color: #1e1e1a;
+}
+
+/* line 100, ../sass/modules/_colors.scss */
+.legend-item--chip {
+  color: #fff8cd;
+}
+
+/* line 104, ../sass/modules/_colors.scss */
 #legend__segment-chorus {
   background-color: #ffce06;
 }
 
-/* line 80, ../sass/modules/_colors.scss */
+/* line 105, ../sass/modules/_colors.scss */
 #legend__segment-verse {
   background-color: #57caef;
 }
 
-/* line 81, ../sass/modules/_colors.scss */
+/* line 106, ../sass/modules/_colors.scss */
 #legend__segment-bridge {
   background-color: #ee3766;
 }
 
-/* line 82, ../sass/modules/_colors.scss */
-#legend__segment-unique {
+/* line 107, ../sass/modules/_colors.scss */
+#legend__segment-break {
   background-color: #74c044;
 }
 
-/* line 83, ../sass/modules/_colors.scss */
-#legend__segment-variation {
-  background-color: #74c044;
-}
-
-/* line 84, ../sass/modules/_colors.scss */
-#legend__segment-solo {
-  background-color: #74c044;
-}
-
-/* line 85, ../sass/modules/_colors.scss */
+/* line 108, ../sass/modules/_colors.scss */
 #legend__segment-intro {
   background-color: #555244;
 }
 
-/* line 88, ../sass/modules/_colors.scss */
+/* line 109, ../sass/modules/_colors.scss */
+#legend__segment-instrumental {
+  background-color: #74c044;
+  background: linear-gradient(135deg, #fff8cd 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(225deg, #fff8cd 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(315deg, #fff8cd 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(45deg, #fff8cd 25%, rgba(0, 0, 0, 0) 25%);
+  background-size: 4px 4px;
+  background-color: transparent;
+}
+
+/* line 114, ../sass/modules/_colors.scss */
+#legend__segment-variant {
+  background-color: #fff8cd;
+  background-image: radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%), radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%);
+  background-size: 6px 6px;
+  background-position: 0 0, 3px 3px;
+}
+
+/* line 119, ../sass/modules/_colors.scss */
 #legend__authorship__paul {
   background-color: #ffce06;
 }
 
-/* line 89, ../sass/modules/_colors.scss */
+/* line 120, ../sass/modules/_colors.scss */
 #legend__authorship__john {
   background-color: #57caef;
 }
 
-/* line 90, ../sass/modules/_colors.scss */
+/* line 121, ../sass/modules/_colors.scss */
 #legend__authorship__george {
   background-color: #74c044;
 }
 
-/* line 91, ../sass/modules/_colors.scss */
+/* line 122, ../sass/modules/_colors.scss */
 #legend__authorship__ringo {
   background-color: #A052A0;
 }
 
-/* line 92, ../sass/modules/_colors.scss */
+/* line 123, ../sass/modules/_colors.scss */
 #legend__authorship__other {
   background-color: #666666;
 }
 
-/* line 93, ../sass/modules/_colors.scss */
+/* line 124, ../sass/modules/_colors.scss */
 #legend__authorship__cowritten {
   background-color: #ED2126;
 }
 
-/* line 96, ../sass/modules/_colors.scss */
+/* line 127, ../sass/modules/_colors.scss */
 .segment_intro--variant,
 .segment_outro--variant,
 .segment_verse--variant,
 .segment_chorus--variant,
 .segment_bridge--variant,
 .segment_break--variant {
-  background: linear-gradient(135deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(225deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(315deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(45deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%);
-  background-size: 4px 4px;
-  background-color: transparent;
-}
-
-/* line 105, ../sass/modules/_colors.scss */
-.segment_verse--instrumental,
-.segment_chorus--instrumental,
-.segment_bridge--instrumental,
-.segment_break--instrumental {
   background-image: radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%), radial-gradient(#1e1e1a 24%, rgba(0, 0, 0, 0) 26%);
   background-size: 6px 6px;
   background-position: 0 0, 3px 3px;
 }
 
-/* line 113, ../sass/modules/_colors.scss */
+/* line 136, ../sass/modules/_colors.scss */
+.segment_verse--instrumental,
+.segment_chorus--instrumental,
+.segment_bridge--instrumental,
+.segment_break--instrumental {
+  background: linear-gradient(135deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(225deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%) -2px 0, linear-gradient(315deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(45deg, #1e1e1a 25%, rgba(0, 0, 0, 0) 25%);
+  background-size: 4px 4px;
+  background-color: transparent;
+}
+
+/* line 144, ../sass/modules/_colors.scss */
 .segment_silence {
   fill: #555244;
   background-color: #555244;
   border-right: none;
 }
 
-/* line 121, ../sass/modules/_colors.scss */
+/* line 152, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -180,7 +214,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 129, ../sass/modules/_colors.scss */
+/* line 160, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -188,7 +222,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 136, ../sass/modules/_colors.scss */
+/* line 167, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -196,7 +230,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 143, ../sass/modules/_colors.scss */
+/* line 174, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -204,7 +238,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 150, ../sass/modules/_colors.scss */
+/* line 181, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
@@ -212,22 +246,22 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #74c044;
 }
 
-/* line 158, ../sass/modules/_colors.scss */
+/* line 189, ../sass/modules/_colors.scss */
 .span--i_ntro {
   color: #88857c;
 }
 
-/* line 162, ../sass/modules/_colors.scss */
+/* line 193, ../sass/modules/_colors.scss */
 .span--v_erse {
   color: #57caef;
 }
 
-/* line 166, ../sass/modules/_colors.scss */
+/* line 197, ../sass/modules/_colors.scss */
 .span--c_horus {
   color: #ffce06;
 }
 
-/* line 170, ../sass/modules/_colors.scss */
+/* line 201, ../sass/modules/_colors.scss */
 .span--b_ridge {
   color: #ee3766;
 }
@@ -424,19 +458,10 @@ html, body {
   margin-bottom: 0.5rem;
 }
 
-/* line 126, ../sass/partials/_grid.scss */
-.legend__segment {
-  display: inline;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-  margin-right: 0.25rem;
-  color: #1e1e1a;
-}
-
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 138, ../sass/partials/_grid.scss */
+/* line 131, ../sass/partials/_grid.scss */
 .album-container,
 .album-container__label-container,
 .track-container {
@@ -446,7 +471,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 145, ../sass/partials/_grid.scss */
+/* line 138, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -458,21 +483,21 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 150, ../sass/partials/_grid.scss */
+/* line 143, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 23.72881%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 154, ../sass/partials/_grid.scss */
+/* line 147, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
   width: 74.57627%;
   float: right;
   margin-right: 0;
 }
 
-/* line 158, ../sass/partials/_grid.scss */
+/* line 151, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
