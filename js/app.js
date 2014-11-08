@@ -405,7 +405,72 @@ var addSpans = function(){
     $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
   }
 
-  bridgeWords.forEach( replaceStrings )
+  // bridgeWords.forEach( replaceStrings )
+
+
+  var segmentClasses = {
+    bridge: ['bridge', 'blazingly', 'crown'],
+    verse: ['verses', 'verse', 'they', 'This', 'recording']
+  }
+
+  function replaceVerses(target) {
+    spanClass = "v_erse";
+    // target = target
+    var string = $('.track-container__graphic-container__notes-container__note-list').html();
+    var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+    $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+  }
+
+  function replaceBridges(target) {
+    spanClass = "b_ridge";
+    // target = target
+    var string = $('.track-container__graphic-container__notes-container__note-list').html();
+    var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+    $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+  }
+  
+  segmentClasses.verse.forEach( replaceVerses )
+  segmentClasses.bridge.forEach( replaceBridges )
+
+// ----------------
+
+  // var segmentClasses = {
+  //   bridge: ['bridge', 'blazingly', 'crown'],
+  //   verse: ['verse', 'verses', 'auspiciously']
+  // }
+
+
+  // function replaceVerses(target) {
+  //   spanClass = "verse";
+  //   // target = target
+  //   var string = $('.track-container__graphic-container__notes-container__note-list').html();
+  //   var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+  //   $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+  // }
+
+  // function replaceBridges(target) {
+  //   spanClass = "bridge";
+  //   // target = target
+  //   var string = $('.track-container__graphic-container__notes-container__note-list').html();
+  //   var stringWithHTML = string.replace(target, "<span class='span--"+spanClass+"'>"+target+"</span>")
+  //   $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+  // }
+  
+  // segmentClasses.verse.forEach( replaceVerses )
+  // segmentClasses.bridge.forEach( replaceBridges )
+
+// ---------
+
+
+  // function replaceStrings2(value, key) {
+
+  // }
+
+  // _.each(segmentClasses, function(value, key){
+  //   _.each(key, function(value, key){
+
+  //   })
+  // })
 
 }
 

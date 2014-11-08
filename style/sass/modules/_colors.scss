@@ -99,7 +99,7 @@ $instrumental: $green;
 .segment_chorus--variant,
 .segment_bridge--variant,
 .segment_break--variant {
-  // @include pattern-zigzags(); 
+  @include pattern-zigzags(); 
 }
 
 .segment_verse--instrumental,
@@ -154,5 +154,13 @@ $instrumental: $green;
   background-color: $break;
 }
 
+
+.span--v_erse {
+  color: $verse;
+}
+
+.span--b_ridge {
+  color: $bridge;
+}
 
 
