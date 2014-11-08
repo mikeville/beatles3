@@ -3,6 +3,114 @@ var data = {
 }
 
 
+var App = Backbone.Router.extend({
+  routes: {
+    // this is the root route
+    "": "home",
+    "songstructure": "songStructure",
+    "authorship" : "authorship",
+    "selfreference" : "selfReference",
+    "schedule" : "schedule",
+    "tonality" : "tonality",
+    "shop" : "shop",
+    "test" : "test"
+  },
+
+  test: function(){
+    app.current_page = "test"
+    if (ui) ui.remove()
+    var ui = new UI()
+  },
+
+
+  home: function(){
+    app.current_page = "home"
+  },
+
+  songStructure: function(){
+    app.current_page = "songstructure"
+  },
+
+  authorship: function(){
+    app.current_page = "authorship"
+  },
+
+  selfReference: function(){
+    app.current_page = "selfreference"
+  },
+
+  schedule: function(){
+    app.current_page = "schedule"
+  },
+
+  tonality: function(){
+    app.current_page = "tonality"
+  },
+
+  shop: function(){
+    app.current_page = "shop"
+  }
+
+})
+
+
+var UI = Backbone.View.extend({
+
+  initialize: function(attributes){
+
+    this.render({
+      // header: new UI.Header(),
+      // body: new UI.Body(),
+      // footer: new UI.Footer(),
+      footer: new UI.Test()
+    });
+
+  },
+
+  el: function(){
+    return $('#test-page-wrapper')
+  },
+
+
+  render: function(sub_views){
+    var self = this;
+    this.$el.empty()
+    
+    _.each(this.sub_views, function(view){
+      view.remove()
+    })
+
+    this.sub_views = sub_views
+
+    _.each(this.sub_views, function(view){
+      var view_el = view.render().$el
+      self.$el.append(view_el)
+    })
+    return this;
+  }
+
+
+})
+
+UI.Test = Backbone.View.extend({
+  initialize: function(){
+    
+  },
+  render: function(){
+    this.$el.html(this.template({
+      page_name: app.current_page
+    }))
+    return this;
+  },
+  template: function(attributes){
+    var source = $('#test-template').html()
+    var template = Handlebars.compile(source)
+    return template(attributes)
+  }
+})
+
+
+
 // ======================================================
 // COLORS, FROM CSS ===================
 // ======================================================
@@ -450,6 +558,16 @@ $(function(){
   d3.json('/data/dataMaster.json', function(error, json) {
     if (error) return console.warn(error);
     data.master = json.beatlesData;
+
+
+    // instantiates app Router
+    window.app = new App();
+
+    // required code to use Router
+    Backbone.history.start();
+
+
+
 
     // Clear loading message
     $('#loading-message').empty();
