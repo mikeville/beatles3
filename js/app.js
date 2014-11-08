@@ -168,6 +168,7 @@ var d3Sketch1 = function(){
     .selectAll('text') 
       .attr('transform', 'translate(2, 0)')
       .attr('fill', colorText)
+      .attr('font-size', '10px')
 
   // segmentsSortDefault();
 

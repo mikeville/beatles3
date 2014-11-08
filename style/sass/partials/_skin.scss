@@ -35,3 +35,12 @@ html {
 .album-container {
   border-top: 1px solid $text;
 }
+
+.context-container__axis-container__pusher {
+  // border-bottom: 1px solid $text;
+}
+
+
+.album-container:first-child {
+  border-top: none;
+}

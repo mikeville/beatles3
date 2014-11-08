@@ -446,6 +446,11 @@ html, body {
   background-color: #1e1e1a;
 }
 
+/* line 117, ../sass/partials/_grid.scss */
+#context-container__axis-container__axis {
+  margin-left: 25.42373%;
+}
+
 /* line 122, ../sass/partials/_grid.scss */
 .context-container__legend-container {
   margin-top: 0px;
@@ -700,4 +705,9 @@ html {
 /* line 35, ../sass/partials/_skin.scss */
 .album-container {
   border-top: 1px solid #fff8cd;
+}
+
+/* line 44, ../sass/partials/_skin.scss */
+.album-container:first-child {
+  border-top: none;
 }
