@@ -29,12 +29,14 @@ $susy: (
 
 
 .grid--main {
-    @include container(12 ($column-width $gutter-width) );
-    // @include container(6 ($column-width $gutter-width) show );
+    @include container(6 ($column-width $gutter-width) show);
 
-    padding-left: $container-margin;
-    padding-right: $container-margin;
-    max-width: $max-width;
+    @include breakpoint($med) {
+      @include container(12 ($column-width $gutter-width) show);
+      padding-left: $container-margin;
+      padding-right: $container-margin;
+      max-width: $max-width;
+    }
 }
 
 
@@ -87,6 +89,9 @@ svg {
 #nav__link--6 {
   @include span(last 2 of 12);
 }
+
+
+
 
 
 /*------------------------------------*\
