@@ -431,8 +431,8 @@ html, body {
   padding-top: 0rem;
   padding-bottom: 0px;
   padding-bottom: 0rem;
-  margin-bottom: 48px;
-  margin-bottom: 3rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 
 /* line 110, ../sass/partials/_grid.scss */
@@ -446,12 +446,12 @@ html, body {
   background-color: #1e1e1a;
 }
 
-/* line 117, ../sass/partials/_grid.scss */
+/* line 118, ../sass/partials/_grid.scss */
 #context-container__axis-container__axis {
   margin-left: 25.42373%;
 }
 
-/* line 122, ../sass/partials/_grid.scss */
+/* line 123, ../sass/partials/_grid.scss */
 .context-container__legend-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -466,7 +466,7 @@ html, body {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 131, ../sass/partials/_grid.scss */
+/* line 132, ../sass/partials/_grid.scss */
 .album-container,
 .album-container__label-container,
 .track-container {
@@ -476,7 +476,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 138, ../sass/partials/_grid.scss */
+/* line 139, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -488,21 +488,21 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 143, ../sass/partials/_grid.scss */
+/* line 144, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 23.72881%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 147, ../sass/partials/_grid.scss */
+/* line 148, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
   width: 74.57627%;
   float: right;
   margin-right: 0;
 }
 
-/* line 151, ../sass/partials/_grid.scss */
+/* line 152, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
@@ -566,10 +566,24 @@ a:hover,
   font-weight: 500;
 }
 
+/* line 50, ../sass/partials/_typography.scss */
+.context-container__axis-container,
+#context-container__axis-container__axis {
+  font-size: 13px;
+  font-size: 0.8rem;
+  line-height: 24px;
+  line-height: 1.5rem;
+}
+
+/* line 59, ../sass/partials/_typography.scss */
+#context-container__axis-container__axis {
+  font-weight: 100;
+}
+
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 55, ../sass/partials/_typography.scss */
+/* line 67, ../sass/partials/_typography.scss */
 .album-container__label-container__label {
   font-size: 32px;
   font-size: 2rem;
@@ -586,23 +600,23 @@ a:hover,
   margin-bottom: 1.5rem;
 }
 
-/* line 62, ../sass/partials/_typography.scss */
+/* line 74, ../sass/partials/_typography.scss */
 .track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 75, ../sass/partials/_typography.scss */
+/* line 87, ../sass/partials/_typography.scss */
 .track-container:hover {
   cursor: pointer;
   background-color: #292925;
 }
-/* line 79, ../sass/partials/_typography.scss */
+/* line 91, ../sass/partials/_typography.scss */
 .track-container:hover .track-container__label-container__label {
   color: #ee3766;
 }
 
-/* line 85, ../sass/partials/_typography.scss */
+/* line 97, ../sass/partials/_typography.scss */
 .track-container--collapsed .track-container__label-container__label {
   overflow: hidden;
   font-size: 13px;
@@ -617,7 +631,7 @@ a:hover,
   font-weight: 300;
 }
 
-/* line 99, ../sass/partials/_typography.scss */
+/* line 111, ../sass/partials/_typography.scss */
 .track-container--expanded {
   border-top: 1px dotted #fff8cd;
   border-bottom: 1px dotted #fff8cd;
@@ -630,7 +644,7 @@ a:hover,
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 104, ../sass/partials/_typography.scss */
+/* line 116, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   font-size: 64px;
   font-size: 4rem;
@@ -648,7 +662,7 @@ a:hover,
   color: #ee3766;
 }
 
-/* line 118, ../sass/partials/_typography.scss */
+/* line 130, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -662,7 +676,7 @@ a:hover,
   padding-left: 1.1rem;
 }
 
-/* line 124, ../sass/partials/_typography.scss */
+/* line 136, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;

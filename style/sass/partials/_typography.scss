@@ -47,6 +47,18 @@ a:hover,
   font-weight: 500;
 }
 
+.context-container__axis-container,
+#context-container__axis-container__axis {
+  @include adjust-font-size-to(0.8rem, 3);
+}
+
+.context-container__axis-container__pusher {
+
+}
+
+#context-container__axis-container__axis {
+  font-weight: 100;
+}
 
 /*------------------------------------*\
     #TIMELINE
