@@ -395,14 +395,18 @@ var setEventsTest = function() {
 
 var addSpans = function(){
 
+  var bridgeWords = ['bridge', 'blazingly', 'crown'];
 
-  var replacer = function() {
+  function replaceStrings(target, index, array) {
+    spanClass = "bridge";
+    // target = target
     var string = $('.track-container__graphic-container__notes-container__note-list').html();
-    var stringWithHTML = string.replace("bridge", "<span class='span--bridge'>bridge</span>")
+    var stringWithHTML = string.replace(""+target+"", "<span class='span--"+spanClass+"'>"+target+"</span>")
     $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
   }
 
-  replacer();
+  bridgeWords.forEach( replaceStrings )
+
 }
 
 
