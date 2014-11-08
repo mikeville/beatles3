@@ -22,8 +22,9 @@
       {"start":146.042,"end":172.062,"segType":"verse--variant"},
       {"start":172.062,"end":175.800,"segType":"silence"}],
     "notes": [
-      "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52.",
-      "Every section of the song starts off rhythmically with a pickup before the downbeat. This starts as early as the introductory bass note that falls between the word 'four' and the first measure. It all goes to enhance a general feeling of urgency already projected by other aspects of the music."    ]
+      "[This] is one of the Boys' first fast, hard rockers. It was probably the most blazingly original song they had yet written at the time of its recording. Appropriately and auspiciously, they chose to crown it with the lead-off spot on their first album.",
+      "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52."
+    ]
     },
     {"trackIndex": 1, "order": 2, "trackTitle": "Misery", "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
@@ -38,9 +39,8 @@
       {"start":106.547,"end":110.160,"segType":"silence"}],
     "notes": [
       "The form is the standard two-bridge model with one verse intervening. The relatively short duration of the finished song could have easily accommodated an additional instrumental-solo verse before the second bridge, but my theory is that the closed shape of those verse sections, especially built as they are from such a limited set of chords, would have been a claustrophobic mistake that they wisely avoided.",
-      "The lyrics of the four verses form a familiar pattern of ABCC.",
-      "Three of the four verses and the refrains all begin rhythmically on the downbeat. The lone exception is the second verse ('I've lost her now'), which begins with a pickup."
-    ]
+      "The lyrics of the four verses form a familiar pattern of ABCC."
+      ]
     },
     {"trackIndex": 2, "order": 3, "trackTitle": "Anna (Go to Him)", "segments":
       [{"start":0.000,"end":0.708,"segType":"silence"},
@@ -55,7 +55,7 @@
       {"start":159.510,"end":173.560,"segType":"chorus"},
       {"start":173.560,"end":177.573,"segType":"silence"}],
     "notes": [
-      "note"
+      "They replace the fade-out ending of the original with a complete one; already this had become a marked preference in their own material."
     ]
     },
     {"trackIndex": 3, "order": 4, "trackTitle": "Chains", "segments":
@@ -70,7 +70,7 @@
       {"start":126.008,"end":141.647,"segType":"outro"},
       {"start":141.647,"end":146.493,"segType":"silence"}],
     "notes": [
-      "note"
+      "The verse of this song is in twelve-bar blues form, and though its in a Major key, there are a number of minor-sounding inflections in the melody making the music sound both more bluesy and exotic.  ...It seems that when it came to the Blues, that the Beatles preferred ordering takeout rather than take a chance with cooking it up for themselves."
     ]
     },
     {"trackIndex": 4, "order": 5, "trackTitle": "Boys", "segments":
@@ -85,7 +85,7 @@
       {"start":128.114,"end":142.763,"segType":"outro"},
       {"start":142.763,"end":147.507,"segType":"silence"}],
     "notes": [
-      "note"
+      "(Try another song. No notes for this one.)"
     ]
     },
     {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why", "segments":
@@ -101,7 +101,9 @@
       {"start":123.234,"end":143.117,"segType":"verse--variant"},
       {"start":143.117,"end":147.760,"segType":"silence"}],
     "notes": [
-      "note"
+      "This is just about the fussiest, most complicated form we've yet seen. You can sort of parse it as a mutant version of the two-bridge model, but what is most notable is how the verse material appears in three variations, each of which is tailored to suit a different purpose.",
+"Next note The initial verse is typically 'expository' in nature but has an harmonically open ending on V that is unsuitable for leading into the bridge. As a result, the first variant, though very similar to the initial verse, is crucially amended to link smoothly with the bridge that follows it.",
+"The lyrics closely match the form. Lyrics of both 'initial' verses are identical, as are the respective lyrics of both second variant verse, and bridge; the single appearance of first variant verse has unique lyrics."
     ]
     },
     {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me", "segments":
@@ -114,7 +116,13 @@
       {"start":108.016,"end":118.939,"segType":"outro"},
       {"start":118.939,"end":123.373,"segType":"silence"}],
     "notes": [
-      "note"
+      "'Please Please Me' was only their second single, but it was already a quantum leap in compositional terms over their first one, 'Love Me Do'. In addition to the tight vocal harmonies seen earlier, we have here a couple of tricky chord choices, crackling drum fills, continuous variation in the deployment of the backing vocals, and as they say in the 'biz', much, much more.",
+      "Compared with the extant tapes of the Quarrymen, the Star Club, the Decca audition, or even the couple of preceding EMI sessions, 'Please Please Me' gives us an energized performance and an arrangement more complicated than anything these Boys had attempted heretofore. This would seem to suggest that the firm and creative influence of George Martin began to be felt even at this early date.",
+      "This song is also emotionally quite gripping, not only because of its apparently incessant drive, but even more so for the very human way in which the hero appears to waver in the amount of self-control he can muster — starting out urgently insistent yet trying to appear controlled; talking through clenched teeth in a forced-polite voice, even while his facade is continually cracking to reveal the true heat and impatience behind it. On one level, it's a fairly obvious seduction scenario, yet you find yourself quite hypnotized if not overwhelmed by the force and subtlety with which the meaning of the words are played-off against the message of the music.",
+      "The form is the compact single bridge model we've seen before in 'No Reply' and 'Day Tripper' where the especially raving intensity of mood argues in favor of keeping things brief.",
+      "The use of a complete ending is noteworthy. In context of the rest of the top 40 of this period, circa 1963, where, failing recourse to a statistical analysis of the matter, we seem to at least remember everything as having a fade-out at the end, the relatively large number of early Lennon and McCartney songs with complete endings — 12 out of those same canonical early 21 singled out below — would seem to be bucking a trend; then again, perhaps 'setting a trend' would be more correct under the circumstances; after all, for a while, it was their profession.",
+      "The lyrics of the three verse sections create an ABA pattern.",
+      "The verses rhythmically start after the downbeat. The bridge starts right on the downbeat."
     ]
     },
     {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do", "segments":
@@ -128,7 +136,9 @@
       {"start":109.708,"end":137.945,"segType":"verse"},
       {"start":137.945,"end":142.760,"segType":"silence"}],
     "notes": [
-      "note"
+      "To those who argue that the early original songs of The Beatles are just the same old stuff of which the Top 40 was made in the early 1960s, I present this quirky first official release of theirs.",
+      "The most intriguing aspect to this intuitive innovation of the early Beatles is the question of how much of it was motivated by intentional originality and how much a by-product of less-than-entirely-adept emulation of their derivative influences.",
+      "The form used here is none other than the standard two-bridge model with a single verse intervening. The positioning of the instrumental solo within a repeat of the bridge rather than a verse is unusual and likely accounts for the absence of there being a pair of verses in the middle. Contrast this with other Beatles songs of the same period that more typically place a solo in one of two intervening verse; e.g. 'I Saw Her Standing There', or even 'How Do You Do It'."
     ]
     },
     {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You", "segments":
@@ -143,7 +153,8 @@
       {"start":114.823,"end":122.070,"segType":"outro"},
       {"start":122.070,"end":125.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "The form is virtually identical to that of 'Misery', with two bridges separated by only one verse.",
+      "An unusual and creative formal touch here is the way that the intro turns out to be a subtle variation of the bridge."
     ]
     },
     {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You", "segments":
@@ -154,7 +165,7 @@
       {"start":139.238,"end":151.907,"segType":"outro"},
       {"start":151.907,"end":158.067,"segType":"silence"}],
     "notes": [
-      "note"
+      "The form is very unusual, likely a consequence of the longish verse and slow tempo. There are only three verses in the song, and in instead of a real bridge, the first half of the middle verse is done up as break-like instrumental solo passage with the regular vocal part resuming in the second half. Although the form of 'From Me To You' is otherwise quite different, the instrumental break there is very similarly handled."
     ]
     },
     {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret", "segments":
@@ -167,7 +178,7 @@
 {"start":103.607,"end":114.808,"segType":"outro"},
 {"start":114.808,"end":119.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "The intro is slow, the verse long, and the bridge short. The form is compact, the less popular single bridge model, and the overall duration of the song brief, as well; a likely consequence of the large amount of repetitious rhetoric built into the verse section."
     ]
     },
     {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey", "segments":
@@ -179,7 +190,7 @@
 {"start":92.522,"end":120.505,"segType":"bridge"},
 {"start":120.505,"end":125.133,"segType":"silence"}],
     "notes": [
-      "note"
+      "The music features a number of tricks: the slow intro and outro, the modally inflected minor key, and the constant switching between ternary and binary meters from section to section; the latter would eventually make its conspicuous appearance in several Beatles' compositions, but not until much later."
     ]
     },
     {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place", "segments":
@@ -192,7 +203,8 @@
       {"start":95.997,"end":107.648,"segType":"outro"},
       {"start":107.648,"end":112.867,"segType":"silence"}],
     "notes": [
-      "note"
+      "The form is unusually small with just a single bridge.",
+      "The modification of the second verse to effect a smoother transition into the bridge is an unusual formal touch..."
     ]
     },
     {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout", "segments":
@@ -205,7 +217,7 @@
 {"start":127.233,"end":152.147,"segType":"bridge"},
 {"start":152.147,"end":153.267,"segType":"silence"}],
     "notes": [
-      "note"
+      "[In the original version] The Isleys end the song with an extended jam on the verse which follows the first arpeggio buildup. The Boys had the savvy to not only repeat the bridge and buildup but to parlay the latter into a slow-triplet-bound complete ending. This gives the overall thrust of the song a much greater sense of teleology, of having 'arrived' somewhere; the Isleys (itself not at all a bad version by any means) sounds in comparison more like just static vamping."
     ]
     }
   ]},

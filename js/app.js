@@ -67,7 +67,7 @@ var d3Sketch1 = function(){
   // Add track labels =============
   var trackTitles = trackContainers.append('div')
       .attr('class', 'track-container__label-container')
-    .append('h4')  
+    .append('h3')  
       .attr('class', 'track-container__label-container__label')
     .text(function(d) { return d['trackTitle']; });
 
@@ -271,14 +271,6 @@ var d3Sketch2_divs = function(){
         // .style('height', height)
         .attr('class', function(d) { return 'segment segment_'+d.segType })
 
-//test
-  d3.selectAll('#context-container-wrapper').append('div')
-    // .style('width', '70px')
-    .style('width', function(d) { 
-      return '20px'
-    })
-    .style('height', '20px')
-    .attr('class', 'div-test2')
 
   // Add notes containers =============
   // graphicContainer.append('div')
@@ -286,7 +278,7 @@ var d3Sketch2_divs = function(){
   //   .append('p')
   //     .text(function(d) { return d['notes']; })
 
-  graphicContainer.append('div')
+  var noteLists = graphicContainer.append('div')
       .attr('class', 'track-container__graphic-container__notes-container')
     .append('ul')
       .attr('class', 'track-container__graphic-container__notes-container__note-list')
@@ -295,7 +287,6 @@ var d3Sketch2_divs = function(){
     .enter().append('li')
       .attr('class', 'note-list__note')
       .text(function(d) { return d; })
-
 
   // ======================================================
   // DRAW MAIN GRAPHICS + TRANSITIONS =====================
@@ -362,21 +353,58 @@ var d3Sketch2_divs = function(){
   // ======================================================
 
 
+// var setEventsTest = function() {
+//   $('.track-container__graphic-container__notes-container').hide();
+
+//   $('.track-container').click(function(){
+//       $(this).find('.track-container__graphic-container__notes-container').toggle();
+//       if  ($(this).hasClass('track-container--collapsed')) {
+//         $(this).addClass('track-container--expanded');
+//         $(this).removeClass('track-container--collapsed');
+//       } else {
+//         $(this).addClass('track-container--collapsed');
+//         $(this).removeClass('track-container--expanded');       
+//       }
+//     }
+//   )
+// }
+
+
 var setEventsTest = function() {
   $('.track-container__graphic-container__notes-container').hide();
 
+
   $('.track-container').click(function(){
-      $(this).find('.track-container__graphic-container__notes-container').toggle();
-      if  ($(this).hasClass('track-container--collapsed')) {
-        $(this).addClass('track-container--expanded');
-        $(this).removeClass('track-container--collapsed');
-      } else {
-        $(this).addClass('track-container--collapsed');
-        $(this).removeClass('track-container--expanded');       
-      }
+    $('.track-container__graphic-container__notes-container').hide();
+
+    var thisNotes = $(this).find('.track-container__graphic-container__notes-container')
+    thisNotes.toggle("fast");
+
+     // $(this).find('.track-container__graphic-container__notes-container').toggle();
+      // if  ($(this).hasClass('track-container--collapsed')) {
+      //   $(this).addClass('track-container--expanded');
+      //   $(this).removeClass('track-container--collapsed');
+      // } else {
+      //   $(this).addClass('track-container--collapsed');
+      //   $(this).removeClass('track-container--expanded');       
+      // }
+
     }
   )
 }
+
+var addSpans = function(){
+
+
+  var replacer = function() {
+    var string = $('.track-container__graphic-container__notes-container__note-list').html();
+    var stringWithHTML = string.replace("bridge", "<span class='span--bridge'>bridge</span>")
+    $('.track-container__graphic-container__notes-container__note-list').html(stringWithHTML);
+  }
+
+  replacer();
+}
+
 
 
 $(function(){
@@ -406,6 +434,8 @@ $(function(){
     // Initialize stickiness
     // $("#context-container").sticky();
     $("#context-container").sticky();
+
+    addSpans();
 
 
   })
