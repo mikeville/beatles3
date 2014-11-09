@@ -73,25 +73,57 @@
   </div>
   <div class="thumb-index">
     <div class="thumb-index__thumb thumb--primary">
-      <a href="/songstructure.html">Song Structure</a>
+      <a href="#songstructure">Song Structure</a>
     </div>
     <div class="thumb-index__thumb thumb--secondary">
-      Authorship
+      <a href="#authorship">Authorship</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      Self Reference
+      <a href="#selfreference">Self Reference</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      Schedule
+      <a href="#schedule">Schedule</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      Tonality
+      <a href="#tonality">Tonality</a>
     </div>
   </div>
 </script>
 
 <script id='template__page__songstructure' type="text/x-handlebars-template">
-  <h1>SONG STRUCTURE</h1>
+  <p class='page-header__subheader'>
+    How did the form of Beatles songs evolve?
+  </p>
+  <p class='page-header__description body-copy'>
+    This is some copy describing what to look out for in the graphic below. The notes are selections from Alan Polack’s <a href="#">“Notes on...”</a> series. Data is adopted from <a href="#">John Smith’s MIT dissertation</a>.
+  </p>
+</div>
+<div id='context-container-wrapper'>
+  <div id='context-container'>
+    <div class='context-container__legend-container'>
+      <ul class='context-container__legend-container-legend'>
+        <li id='legend__segment-verse' class='legend-item legend__segment'>Verse</li>
+        <li id='legend__segment-chorus' class='legend-item legend__segment'>Chorus</li>
+        <li id='legend__segment-bridge' class='legend-item legend__segment'>Bridge</li>
+        <li id='legend__segment-break' class='legend-item legend__segment'>Other</li>
+        <li id='legend__segment-intro' class='legend-item legend__segment'>Intro/Outro</li>
+        <li class='legend-item legend-item--chip legend__segment'>Instrumental/solo<span id='legend__segment-instrumental' class='legend__chip'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+        <li class='legend-item legend-item--chip legend__segment'>Variant<span id='legend__segment-variant' class='legend__chip'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class='context-container__axis-container'>
+    <div class='context-container__axis-container__pusher track-container__label-container'>
+      Minutes:
+    </div>
+    <div id='context-container__axis-container__axis' class="track-container__graphic-container__svg-wrapper">
+    </div>
+    <div id='loading-message'>
+    </div>   
+  </div>
+</div>
+<div id='timeline-container' class='timeline-container'>  
+</div>
 </script>
 
 <script id='template__page__authorship' type="text/x-handlebars-template">

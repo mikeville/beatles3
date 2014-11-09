@@ -30,12 +30,12 @@ $susy: (
 
 
 .grid--main {
-    @include container(6 ($column-width $gutter-width) show);
+    @include container(6 ($column-width $gutter-width) );
     padding-left: 1rem;
     padding-right: 1rem;
   
     @include breakpoint($med) {
-      @include container(12 ($column-width $gutter-width) show);
+      @include container(12 ($column-width $gutter-width) );
       padding-left: $container-margin;
       padding-right: $container-margin;
       max-width: $max-width;

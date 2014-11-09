@@ -41,6 +41,8 @@ var App = Backbone.Router.extend({
     app.currentPage = "songstructure"
     if (ui) ui.remove()
     var ui = new UI2()
+
+    loadSongStructureGraphic();
   },
 
   authorship: function(){
@@ -571,9 +573,6 @@ var d3Sketch2_divs = function(){
 
 
 
-
-
-
   // ======================================================
   // EVENTS =================================================
   // ======================================================
@@ -659,6 +658,22 @@ var addSegmentSpanClasses = function(){
 
 }
 
+function loadSongStructureGraphic() {
+      // Draw D3
+    // d3Sketch1();
+    d3Sketch2_divs();
+
+    // Set Events
+    setEventsTest();
+
+    // Initialize stickiness
+    // $("#context-container").sticky();
+    $("#context-container").sticky();
+
+    // Highlight instances of segment names in notes
+    addSegmentSpanClasses();
+}
+
 
 
 $(function(){
@@ -675,32 +690,14 @@ $(function(){
     if (error) return console.warn(error);
     data.master = json.beatlesData;
 
-
     // instantiates app Router
     window.app = new App();
 
     // required code to use Router
     Backbone.history.start();
 
-
-
-
     // Clear loading message
     $('#loading-message').empty();
-
-    // Draw D3
-    // d3Sketch1();
-    d3Sketch2_divs();
-
-    // Set Events
-    setEventsTest();
-
-    // Initialize stickiness
-    // $("#context-container").sticky();
-    $("#context-container").sticky();
-
-    // Highlight instances of segment names in notes
-    addSegmentSpanClasses();
 
 
   })
