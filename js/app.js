@@ -208,7 +208,8 @@ function setUpD3() {
     .selectAll('.album-container')
       .data(data.master)
     .enter().append('div')
-      .attr('class', 'album-container');
+      .attr('class', 'album-container')
+      .attr('data-albumindex', function(d, i) { return i });
 
   // Add album labels =============
   albumContainers.append('div')
@@ -222,7 +223,8 @@ function setUpD3() {
       .data(function(d, i) { return d['tracks']; })
     .enter().append('div')
       .attr('class', 'track-container track-container--collapsed')
-      .attr('id', function(d) { return 'track-container--'+d['trackIndex']; });
+      .attr('id', function(d) { return 'track-container--'+d['trackIndex']; })
+      .attr('data-trackindex', function(d) { return d['trackIndex']; });
 
   // Add track labels =============
   trackTitles = trackContainers.append('div')
@@ -291,15 +293,19 @@ function drawSongStructureD3(){
   //   .append('p')
   //     .text(function(d) { return d['notes']; })
 
-  var noteLists = graphicContainer.append('div')
+  var noteContainers = graphicContainer.append('div')
       .attr('class', 'track-container__graphic-container__notes-container')
-    .append('ul')
+    
+  var noteLists = noteContainers.append('ul')
       .attr('class', 'track-container__graphic-container__notes-container__note-list')
     .selectAll('li')
       .data(function(d, i) { return d['notes'] })
     .enter().append('li')
       .attr('class', 'note-list__note')
       .text(function(d) { return d; })
+
+  var videoContainers = noteContainers.append('div')
+    .attr('class', 'track-container__graphic-container__notes-container__video-container')
 
 
   // ======================================================
@@ -362,10 +368,13 @@ function drawSongStructureD3(){
 
 
 function setEventsTest() {
+
+
   $('.track-container__graphic-container__notes-container').hide();
 
 
   $('.track-container').click(function(){
+
     $('.track-container__graphic-container__notes-container').hide();
 
     var thisNotes = $(this).find('.track-container__graphic-container__notes-container')
@@ -380,8 +389,17 @@ function setEventsTest() {
       //   $(this).removeClass('track-container--expanded');       
       // }
 
-    }
-  )
+    })
+
+  $('.track-container').click(function(){ 
+    var albumIndex = $('#track-container--0').parent().data('albumindex');
+    var trackIndex = $(this).data('trackindex');
+    var videoLink = data.master[albumIndex].tracks[trackIndex].videoLink;
+
+    $(this).find('.track-container__graphic-container__notes-container__video-container').html(
+      "<iframe class='video-container__video' src='"+videoLink+"' frameborder='0' allowfullscreen></iframe>"
+    )
+  })
 }
 
   // ======================================================

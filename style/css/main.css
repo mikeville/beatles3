@@ -748,6 +748,12 @@ html, body {
   margin-right: 0;
 }
 
+/* line 227, ../sass/partials/_grid.scss */
+.video-container__video {
+  width: 200px;
+  height: 200px;
+}
+
 /*------------------------------------*\
     #TYPE-VARIABLES
 \*------------------------------------*/

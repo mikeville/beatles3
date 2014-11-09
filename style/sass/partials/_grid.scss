@@ -223,3 +223,11 @@ svg {
 .track-container__graphic-container__notes-container {
   @include span(9 of 9); 
 }
+
+.video-container__video {
+  // width: 300px;
+  // height: 35px;
+  // height: 24px;
+   width: 200px;
+   height: 200px;
+}
