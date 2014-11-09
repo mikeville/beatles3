@@ -25,6 +25,8 @@ var App = Backbone.Router.extend({
 
   home: function(){
     app.current_page = "home"
+    if (ui) ui.remove()
+    var ui = new UI()
   },
 
   songStructure: function(){
@@ -59,16 +61,16 @@ var UI = Backbone.View.extend({
   initialize: function(attributes){
 
     this.render({
-      // header: new UI.Header(),
+      header: new UI.Header(),
       // body: new UI.Body(),
       // footer: new UI.Footer(),
-      footer: new UI.Test()
+      // footer: new UI.Test()
     });
 
   },
 
   el: function(){
-    return $('#test-page-wrapper')
+    return $('#page-wrapper')
   },
 
 
@@ -104,6 +106,24 @@ UI.Test = Backbone.View.extend({
   },
   template: function(attributes){
     var source = $('#test-template').html()
+    var template = Handlebars.compile(source)
+    return template(attributes)
+  }
+})
+
+
+UI.Header = Backbone.View.extend({
+  initialize: function(){
+    
+  },
+  render: function(){
+    this.$el.html(this.template({
+      page_name: app.current_page
+    }))
+    return this;
+  },
+  template: function(attributes){
+    var source = $('#template__site-header').html()
     var template = Handlebars.compile(source)
     return template(attributes)
   }
