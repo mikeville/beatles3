@@ -116,12 +116,14 @@ $instrumental: $green;
   @include pattern-dots4();
 }
 
-#legend__authorship__paul { background-color: $yellow; }
-#legend__authorship__john { background-color: $blue; }
-#legend__authorship__george { background-color: $green; }
-#legend__authorship__ringo { background-color: $purple; }
-#legend__authorship__other { background-color: $grey-legend; }
-#legend__authorship__cowritten { background-color: $red; }
+#legend__authorship--john { background-color: $blue; }
+#legend__authorship--paul { background-color: $yellow; }
+#legend__authorship--george { background-color: $green; }
+#legend__authorship--ringo { background-color: $purple; }
+#legend__authorship--other { background-color: $grey-legend; }
+#legend__authorship--cowritten { 
+  background-color: $pink;
+  }
 
 #legend__selfreference--implicit { background-color: $pink; }
 #legend__selfreference--explicit { background-color: $yellow; }

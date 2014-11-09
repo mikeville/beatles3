@@ -147,81 +147,81 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 119, ../sass/modules/_colors.scss */
-#legend__authorship__paul {
-  background-color: #ffce06;
-}
-
-/* line 120, ../sass/modules/_colors.scss */
-#legend__authorship__john {
+#legend__authorship--john {
   background-color: #57caef;
 }
 
+/* line 120, ../sass/modules/_colors.scss */
+#legend__authorship--paul {
+  background-color: #ffce06;
+}
+
 /* line 121, ../sass/modules/_colors.scss */
-#legend__authorship__george {
+#legend__authorship--george {
   background-color: #74c044;
 }
 
 /* line 122, ../sass/modules/_colors.scss */
-#legend__authorship__ringo {
+#legend__authorship--ringo {
   background-color: #A052A0;
 }
 
 /* line 123, ../sass/modules/_colors.scss */
-#legend__authorship__other {
+#legend__authorship--other {
   background-color: #666666;
 }
 
 /* line 124, ../sass/modules/_colors.scss */
-#legend__authorship__cowritten {
-  background-color: #ED2126;
+#legend__authorship--cowritten {
+  background-color: #ee3766;
 }
 
-/* line 126, ../sass/modules/_colors.scss */
+/* line 128, ../sass/modules/_colors.scss */
 #legend__selfreference--implicit {
   background-color: #ee3766;
 }
 
-/* line 127, ../sass/modules/_colors.scss */
+/* line 129, ../sass/modules/_colors.scss */
 #legend__selfreference--explicit {
   background-color: #ffce06;
 }
 
-/* line 128, ../sass/modules/_colors.scss */
+/* line 130, ../sass/modules/_colors.scss */
 #legend__selfreference--melodic {
   background-color: #57caef;
 }
 
-/* line 130, ../sass/modules/_colors.scss */
+/* line 132, ../sass/modules/_colors.scss */
 #legend__schedule--recording {
   background-color: #ee3766;
 }
 
-/* line 131, ../sass/modules/_colors.scss */
+/* line 133, ../sass/modules/_colors.scss */
 #legend__schedule--filming {
   background-color: #ffce06;
 }
 
-/* line 132, ../sass/modules/_colors.scss */
+/* line 134, ../sass/modules/_colors.scss */
 #legend__schedule--touring {
   background-color: #57caef;
 }
 
-/* line 134, ../sass/modules/_colors.scss */
+/* line 136, ../sass/modules/_colors.scss */
 #legend__tonality--major {
   background-color: #ffce06;
 }
 
-/* line 135, ../sass/modules/_colors.scss */
+/* line 137, ../sass/modules/_colors.scss */
 #legend__tonality--minor {
   background-color: #57caef;
 }
 
-/* line 136, ../sass/modules/_colors.scss */
+/* line 138, ../sass/modules/_colors.scss */
 #legend__tonality--diatonic {
   background-color: #ee3766;
 }
 
-/* line 140, ../sass/modules/_colors.scss */
+/* line 142, ../sass/modules/_colors.scss */
 .segment_intro--variant,
 .segment_outro--variant,
 .segment_verse--variant,
@@ -233,7 +233,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-position: 0 0, 3px 3px;
 }
 
-/* line 149, ../sass/modules/_colors.scss */
+/* line 151, ../sass/modules/_colors.scss */
 .segment_verse--instrumental,
 .segment_chorus--instrumental,
 .segment_bridge--instrumental,
@@ -243,14 +243,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: transparent;
 }
 
-/* line 157, ../sass/modules/_colors.scss */
+/* line 159, ../sass/modules/_colors.scss */
 .segment_silence {
   fill: #555244;
   background-color: #555244;
   border-right: none;
 }
 
-/* line 165, ../sass/modules/_colors.scss */
+/* line 167, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -259,7 +259,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 173, ../sass/modules/_colors.scss */
+/* line 175, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -267,7 +267,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 180, ../sass/modules/_colors.scss */
+/* line 182, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -275,7 +275,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 187, ../sass/modules/_colors.scss */
+/* line 189, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -283,7 +283,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 194, ../sass/modules/_colors.scss */
+/* line 196, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
@@ -291,27 +291,27 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #74c044;
 }
 
-/* line 202, ../sass/modules/_colors.scss */
+/* line 204, ../sass/modules/_colors.scss */
 .span--i_ntro {
   color: #88857c;
 }
 
-/* line 206, ../sass/modules/_colors.scss */
+/* line 208, ../sass/modules/_colors.scss */
 .span--v_erse {
   color: #57caef;
 }
 
-/* line 210, ../sass/modules/_colors.scss */
+/* line 212, ../sass/modules/_colors.scss */
 .span--c_horus {
   color: #ffce06;
 }
 
-/* line 214, ../sass/modules/_colors.scss */
+/* line 216, ../sass/modules/_colors.scss */
 .span--b_ridge {
   color: #ee3766;
 }
 
-/* line 219, ../sass/modules/_colors.scss */
+/* line 221, ../sass/modules/_colors.scss */
 .span--i_nstrumental {
   color: white;
   text-decoration: underline;
@@ -320,7 +320,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-decoration-color: white;
 }
 
-/* line 227, ../sass/modules/_colors.scss */
+/* line 229, ../sass/modules/_colors.scss */
 .span--v_ariant {
   color: white;
   text-decoration: underline;
@@ -485,6 +485,14 @@ html, body {
   float: left;
   margin-left: 0;
   margin-right: 0;
+  margin-top: 8px;
+  margin-top: 0.5rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
 }
 @media (min-width: 40rem) {
   /* line 94, ../sass/partials/_grid.scss */
@@ -492,6 +500,14 @@ html, body {
     width: 49.15254%;
     float: right;
     margin-right: 0;
+    margin-top: 0px;
+    margin-top: 0rem;
+    padding-top: 0px;
+    padding-top: 0rem;
+    padding-bottom: 0px;
+    padding-bottom: 0rem;
+    margin-bottom: 0px;
+    margin-bottom: 0rem;
     text-align: right;
   }
 }
@@ -499,7 +515,7 @@ html, body {
 /*------------------------------------*\
     #THUMBNAIL-INDEX
 \*------------------------------------*/
-/* line 108, ../sass/partials/_grid.scss */
+/* line 110, ../sass/partials/_grid.scss */
 .thumb-index {
   width: 100%;
   float: left;
@@ -507,7 +523,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 112, ../sass/partials/_grid.scss */
+/* line 114, ../sass/partials/_grid.scss */
 .thumb-index__thumb {
   background-color: #555244;
   width: 100%;
@@ -526,7 +542,7 @@ html, body {
 }
 
 @media (min-width: 40rem) {
-  /* line 119, ../sass/partials/_grid.scss */
+  /* line 121, ../sass/partials/_grid.scss */
   .thumb--primary {
     width: 66.10169%;
     float: left;
@@ -536,7 +552,7 @@ html, body {
 }
 
 @media (min-width: 40rem) {
-  /* line 126, ../sass/partials/_grid.scss */
+  /* line 128, ../sass/partials/_grid.scss */
   .thumb--secondary {
     width: 32.20339%;
     float: right;
@@ -546,7 +562,7 @@ html, body {
 }
 
 @media (min-width: 40rem) {
-  /* line 133, ../sass/partials/_grid.scss */
+  /* line 135, ../sass/partials/_grid.scss */
   .thumb--tertiary {
     width: 32.20339%;
     float: left;
@@ -556,7 +572,7 @@ html, body {
 }
 
 @media (min-width: 40rem) {
-  /* line 140, ../sass/partials/_grid.scss */
+  /* line 142, ../sass/partials/_grid.scss */
   .thumb--tertiary:last-child {
     width: 32.20339%;
     float: right;
@@ -564,10 +580,30 @@ html, body {
   }
 }
 
+/* line 148, ../sass/partials/_grid.scss */
+.index__store-box {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  height: 5rem;
+  border: 1px solid #fff8cd;
+}
+
+/* line 153, ../sass/partials/_grid.scss */
+.index__signup-box {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  height: 5rem;
+  border: 1px solid #fff8cd;
+}
+
 /*------------------------------------*\
     #STATIC-GRAPHICS
 \*------------------------------------*/
-/* line 151, ../sass/partials/_grid.scss */
+/* line 163, ../sass/partials/_grid.scss */
 .static-graphic {
   width: 100%;
   float: left;
@@ -578,7 +614,7 @@ html, body {
 /*------------------------------------*\
     #CONTEXT-CONTAINER
 \*------------------------------------*/
-/* line 160, ../sass/partials/_grid.scss */
+/* line 172, ../sass/partials/_grid.scss */
 #context-container-wrapper {
   width: 100%;
   float: left;
@@ -594,7 +630,7 @@ html, body {
   margin-bottom: 0rem;
 }
 
-/* line 165, ../sass/partials/_grid.scss */
+/* line 177, ../sass/partials/_grid.scss */
 #context-container,
 .context-container__legend-container,
 .context-container__axis-container {
@@ -605,7 +641,7 @@ html, body {
   background-color: #1e1e1a;
 }
 
-/* line 172, ../sass/partials/_grid.scss */
+/* line 184, ../sass/partials/_grid.scss */
 .context-container__axis-container {
   margin-top: 8px;
   margin-top: 0.5rem;
@@ -617,12 +653,12 @@ html, body {
   margin-bottom: 0rem;
 }
 
-/* line 176, ../sass/partials/_grid.scss */
+/* line 188, ../sass/partials/_grid.scss */
 #context-container__axis-container__axis {
   margin-left: 25.42373%;
 }
 
-/* line 181, ../sass/partials/_grid.scss */
+/* line 193, ../sass/partials/_grid.scss */
 .context-container__legend-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -637,7 +673,7 @@ html, body {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 190, ../sass/partials/_grid.scss */
+/* line 202, ../sass/partials/_grid.scss */
 .album-container,
 .album-container__label-container,
 .track-container {
@@ -647,7 +683,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 197, ../sass/partials/_grid.scss */
+/* line 209, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -659,21 +695,21 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 202, ../sass/partials/_grid.scss */
+/* line 214, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 23.72881%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 206, ../sass/partials/_grid.scss */
+/* line 218, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
   width: 74.57627%;
   float: right;
   margin-right: 0;
 }
 
-/* line 210, ../sass/partials/_grid.scss */
+/* line 222, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
@@ -736,6 +772,11 @@ a:hover,
 }
 
 /* line 59, ../sass/partials/_typography.scss */
+.nav2__link:first-child {
+  margin-left: 0;
+}
+
+/* line 63, ../sass/partials/_typography.scss */
 .nav2__link:hover {
   cursor: pointer;
   color: #1e1e1a;
@@ -743,7 +784,7 @@ a:hover,
   border-color: #ee3766;
 }
 
-/* line 66, ../sass/partials/_typography.scss */
+/* line 70, ../sass/partials/_typography.scss */
 .nav2__link--next-tag {
   font-size: 8px;
   font-size: 0.5rem;
@@ -755,7 +796,7 @@ a:hover,
 /*------------------------------------*\
     #HEADER
 \*------------------------------------*/
-/* line 76, ../sass/partials/_typography.scss */
+/* line 81, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title {
   font-size: 32px;
   font-size: 2rem;
@@ -772,7 +813,7 @@ a:hover,
   margin-bottom: 0.5rem;
 }
 
-/* line 82, ../sass/partials/_typography.scss */
+/* line 87, ../sass/partials/_typography.scss */
 .page-header__subheader {
   font-size: 24px;
   font-size: 1.5rem;
@@ -781,7 +822,7 @@ a:hover,
   font-weight: 200;
 }
 
-/* line 87, ../sass/partials/_typography.scss */
+/* line 92, ../sass/partials/_typography.scss */
 .context-container__axis-container,
 #context-container__axis-container__axis {
   font-size: 13px;
@@ -790,7 +831,7 @@ a:hover,
   line-height: 1.5rem;
 }
 
-/* line 96, ../sass/partials/_typography.scss */
+/* line 101, ../sass/partials/_typography.scss */
 #context-container__axis-container__axis {
   font-weight: 100;
 }
@@ -798,7 +839,7 @@ a:hover,
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 104, ../sass/partials/_typography.scss */
+/* line 109, ../sass/partials/_typography.scss */
 .album-container__label-container__label {
   font-size: 32px;
   font-size: 2rem;
@@ -815,23 +856,23 @@ a:hover,
   margin-bottom: 1.5rem;
 }
 
-/* line 111, ../sass/partials/_typography.scss */
+/* line 116, ../sass/partials/_typography.scss */
 .track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 124, ../sass/partials/_typography.scss */
+/* line 129, ../sass/partials/_typography.scss */
 .track-container:hover {
   cursor: pointer;
   background-color: #292925;
 }
-/* line 128, ../sass/partials/_typography.scss */
+/* line 133, ../sass/partials/_typography.scss */
 .track-container:hover .track-container__label-container__label {
   color: #ee3766;
 }
 
-/* line 134, ../sass/partials/_typography.scss */
+/* line 139, ../sass/partials/_typography.scss */
 .track-container--collapsed .track-container__label-container__label {
   overflow: hidden;
   font-size: 13px;
@@ -846,7 +887,7 @@ a:hover,
   font-weight: 300;
 }
 
-/* line 148, ../sass/partials/_typography.scss */
+/* line 153, ../sass/partials/_typography.scss */
 .track-container--expanded {
   border-top: 1px dotted #fff8cd;
   border-bottom: 1px dotted #fff8cd;
@@ -859,7 +900,7 @@ a:hover,
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 153, ../sass/partials/_typography.scss */
+/* line 158, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   font-size: 64px;
   font-size: 4rem;
@@ -877,7 +918,7 @@ a:hover,
   color: #ee3766;
 }
 
-/* line 167, ../sass/partials/_typography.scss */
+/* line 172, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -891,7 +932,7 @@ a:hover,
   padding-left: 1.1rem;
 }
 
-/* line 173, ../sass/partials/_typography.scss */
+/* line 178, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;

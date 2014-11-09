@@ -93,9 +93,11 @@ svg {
 
 .site-header__nav2 {
   @include span(6 of 6);
+  @include rhythm(1,0,0,0);
 
   @include breakpoint($med) {
     @include span(last 6 of 12);
+    @include rhythm(0,0,0,0);
     text-align: right;
   }
 }
@@ -143,6 +145,16 @@ svg {
   }
 }
 
+.index__store-box {
+  @include span(6 of 6);
+  height: 5rem; //#temp
+  border: 1px solid $text; //#temp
+}
+.index__signup-box {
+  @include span(6 of 6);
+  height: 5rem; //#temp
+  border: 1px solid $text; //#temp
+}
 
 /*------------------------------------*\
     #STATIC-GRAPHICS

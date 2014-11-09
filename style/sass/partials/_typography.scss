@@ -56,6 +56,10 @@ a:hover,
   border: 1px solid $text;
 }
 
+.nav2__link:first-child {
+  margin-left: 0;
+}
+
 .nav2__link:hover {
   cursor: pointer;
   color: $background;
@@ -67,6 +71,7 @@ a:hover,
   @include adjust-font-size-to(0.5rem);
   font-weight: 500;
 }
+
 
 
 /*------------------------------------*\

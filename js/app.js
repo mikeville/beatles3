@@ -46,6 +46,8 @@ var App = Backbone.Router.extend({
     app.currentPage = "authorship"
     if (ui) ui.remove()
     var ui = new UI()
+
+    loadAuthorshipGraphic();
   },
 
   selfReference: function(){
@@ -148,47 +150,61 @@ var UI = Backbone.View.extend({
 // ******************************************************
 // ******************************************************
 // ======================================================
-// SONG STRUCTURE GRAPHIC ===============================
+// SET UP D3 ===============================
 // ======================================================
 // ******************************************************
 // ******************************************************
 
+var maxTime,
+    svgWrapperWidth,
+    width,
+    height,
+    chordVizHeightRange,
+    xScale,
+    yScale,
+    animationDuration
+
+var albumContainers,
+    trackContainers,
+    trackTitles,
+    graphicContainer,
+    trackGraphics
+
+
+function setUpD3() {
+
+ // ======================================================
+// SET UP D3 VARIABLES ===================
+// ======================================================
+
+  maxTime = 510
+
+  svgWrapperWidth = ( $('#timeline-container').width() * 0.75 );
+
+  width = svgWrapperWidth;
+  height = 20;
+
+  
+
+  chordVizHeightRange = 2000
+
+  xScale = d3.scale.linear()
+      .domain([0, maxTime])
+      .range([0, width]);  
+
+ yScale = d3.scale.linear()
+      .domain([0, maxTime])
+      .range([0, chordVizHeightRange]);
+
+  animationDuration = 1000;
 
 
 // ======================================================
 // DRAW GRAPHIC CONTAINERS AND LABELS ===================
 // ======================================================
 
-
-var drawSongStructureD3 = function(){
-
-  // Set up D3 =============
-
-  var maxTime = 510
-
-  var svgWrapperWidth = ( $('#timeline-container').width() * 0.75 );
-
-  var width = svgWrapperWidth;
-  var height = 20;
-
-  
-
-  var chordVizHeightRange = 2000
-
-  var xScale = d3.scale.linear()
-      .domain([0, maxTime])
-      .range([0, width]);  
-
-  var yScale = d3.scale.linear()
-      .domain([0, maxTime])
-      .range([0, chordVizHeightRange]);
-
-  var animationDuration = 1000;
-
-
-
   // Make album containers =============
-  var albumContainers = d3.select('#timeline-container')
+  albumContainers = d3.select('#timeline-container')
     .selectAll('.album-container')
       .data(data.master)
     .enter().append('div')
@@ -202,14 +218,14 @@ var drawSongStructureD3 = function(){
     .text(function(d) { return d['albumTitle']; });
 
   // Make track containers =============
-  var trackContainers = albumContainers.selectAll('.track-container')
+  trackContainers = albumContainers.selectAll('.track-container')
       .data(function(d, i) { return d['tracks']; })
     .enter().append('div')
       .attr('class', 'track-container track-container--collapsed')
       .attr('id', function(d) { return 'track-container--'+d['trackIndex']; });
 
   // Add track labels =============
-  var trackTitles = trackContainers.append('div')
+  trackTitles = trackContainers.append('div')
       .attr('class', 'track-container__label-container')
     .append('h4')  
       .attr('class', 'track-container__label-container__label')
@@ -218,30 +234,34 @@ var drawSongStructureD3 = function(){
 
   // Add SVG container =============
 
-  var graphicContainer = trackContainers.append('div')
+  graphicContainer = trackContainers.append('div')
       .attr('class', 'track-container__graphic-container')
 
-  var trackGraphics = graphicContainer.append('div')
+  trackGraphics = graphicContainer.append('div')
       .attr('class', 'track-container__graphic-container__graphic-wrapper')
       .style('height', height)
       .style('width', width)
 
-      // for responsive svgs that scale with outer div:
-      // .attr('preserveAspectRatio', 'xMidYMid')
-      // .attr('viewBox', '0 0 '+width+' '+height)
-
-  // Add segment rectangles into SVG =============
-  // var trackSegments = trackSVGs.selectAll('rect')
-  //     .data(function(d, i) { return d['segments'] })
-  //   .enter().append('rect')
-  //     .attr('x', function(d, i) {return xScale(d.start) })
-  //     .attr('y', 0)
-  //     .style('width', function(d) { return xScale(d.end-d.start)+'px' })
-  //     .style('height', height+'px')
-  //     .attr('class', function(d) { return 'tooltip segment segment_'+d.segType })
-  //     .attr('title', function(d) { return d.segType })
+}
 
 
+// ******************************************************
+// ******************************************************
+// ======================================================
+// SONG STRUCTURE GRAPHIC ===============================
+// ======================================================
+// ******************************************************
+// ******************************************************
+
+
+
+
+function drawSongStructureD3(){
+
+
+  // ======================================================
+  // DRAW GRAPHICS =====================
+  // ======================================================
 
 
   var trackSegments = trackGraphics.selectAll('div')
@@ -256,6 +276,13 @@ var drawSongStructureD3 = function(){
         // .style('width', function(d) { return xScale(d.end-d.start) })
         // .style('height', height)
         .attr('class', function(d) { return 'segment segment_'+d.segType })
+
+
+
+
+  // ======================================================
+  // ADD NOTES =====================
+  // ======================================================
 
 
   // Add notes containers =============
@@ -274,31 +301,12 @@ var drawSongStructureD3 = function(){
       .attr('class', 'note-list__note')
       .text(function(d) { return d; })
 
-  // ======================================================
-  // DRAW MAIN GRAPHICS + TRANSITIONS =====================
-  // ======================================================
-
-
-
-
-  var segmentsSortDefault = function(){
-    trackSegments
-        // .transition()
-        //   .duration(animationDuration)
-        // .attr('x', function(d, i) { return xScale(d.start) })
-        // .attr('y', 0)
-        .style('width', function(d) { return xScale(d.end-d.start)+'px' })
-        .style('height', height+'px')
-        .attr('class', function(d) { return 'tooltip segment segment_'+d.segType })
-        .attr('title', function(d) { return d.segType })
-  }
-
 
   // ======================================================
-  // AXIS =================================================
+  // DRAW AXIS =================================================
   // ======================================================
 
-  formatMinutes = function(d) { 
+  function formatMinutes(d) { 
       var minutes = Math.floor((d / 60) - 1)
       // var output = minutes + 1 + ':00'
       var output = minutes + 1
@@ -326,7 +334,6 @@ var drawSongStructureD3 = function(){
       .attr('transform', 'translate(2, 0)')
       .attr('fill', colorText)
 
-  // segmentsSortDefault();
 
 }
 
@@ -354,7 +361,7 @@ var drawSongStructureD3 = function(){
 // }
 
 
-var setEventsTest = function() {
+function setEventsTest() {
   $('.track-container__graphic-container__notes-container').hide();
 
 
@@ -382,7 +389,7 @@ var setEventsTest = function() {
   // ======================================================
 
 
-var addSegmentSpanClasses = function(){
+function addSegmentSpanClasses(){
 
   var segmentClasses = {
     i_ntro: ['intro', 'outro'],
@@ -414,24 +421,22 @@ var addSegmentSpanClasses = function(){
 
   _.each( segmentClasses, replaceAny )
 
-//// -------------------
-
 
 }
 
-function loadSongStructureGraphic() {
-      // Draw D3
-    // d3Sketch1();
-    drawSongStructureD3();
 
-    // Set Events
-    setEventsTest();
+// ******************************************************
+// ******************************************************
+// ======================================================
+// SONG STRUCTURE GRAPHIC ===============================
+// ======================================================
+// ******************************************************
+// ******************************************************
 
-    // Highlight instances of segment names in notes
-    addSegmentSpanClasses();
+
+function drawAuthorshipD3() {
+  console.log('drawing authorship');
 }
-
-
 
 
 
@@ -448,6 +453,31 @@ function loadSongStructureGraphic() {
 function initSticky() {
     $("#context-container").sticky();
 }
+
+
+function loadSongStructureGraphic() {
+    // Draw D3
+    setUpD3();
+    drawSongStructureD3();
+
+    // Set Events
+    setEventsTest();
+
+    // Highlight instances of segment names in notes
+    addSegmentSpanClasses();
+}
+
+
+
+function loadAuthorshipGraphic() {
+    // Draw D3
+    setUpD3();
+    drawAuthorshipD3();
+}
+
+
+
+
 
 
 
