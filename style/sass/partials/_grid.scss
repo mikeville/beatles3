@@ -87,14 +87,16 @@ svg {
   @include span(6 of 6);
   
   @include breakpoint($med) {
-    @include span(8 of 12);
+    @include span(6 of 12);
   }
 }
 
 .site-header__nav2 {
   @include span(6 of 6);
+
   @include breakpoint($med) {
-    @include span(last 4 of 12);
+    @include span(last 6 of 12);
+    text-align: right;
   }
 }
 
@@ -110,24 +112,28 @@ svg {
 .thumb-index__thumb {
   background-color: $text-secondary;
   @include span(6 of 6);
-  @include rhythm(0,0,0,1);
+  @include rhythm(0,0,0,1.5);
+  height: 10rem; //#temp
 }
 
 .thumb--primary {
   @include breakpoint($med) {
     @include span(8 of 12);
+    height: 15rem; //#temp
   }
 }
 
 .thumb--secondary {
   @include breakpoint($med) {
     @include span(last 4 of 12);
+    height: 15rem; //#temp
   }
 }
 
 .thumb--tertiary {
   @include breakpoint($med) {
     @include span(4 of 12);
+    height: 10rem;
   }
 }
 
@@ -153,7 +159,7 @@ svg {
 
 #context-container-wrapper {
   @include span(12 of 12);
-  @include rhythm(0,0,0,4);
+  @include rhythm(4,0,0,0);
 }
 
 #context-container,
@@ -163,6 +169,9 @@ svg {
   background-color: $background;
 }
 
+.context-container__axis-container {
+  @include rhythm(1,0,0,0);
+}
 
 #context-container__axis-container__axis {
   @include push(3 of 12);

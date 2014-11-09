@@ -363,6 +363,8 @@ var addSegmentSpanClasses = function(){
     c_horus: ['choruses', 'chorus', 'refrains', 'refrain'],
     v_erse: ['verses', 'verse'],
     b_ridge: ['bridges', 'two-bridge', 'bridge'],
+    i_nstrumental: ['solos', 'solo', 'break', 'breaks'],
+    v_ariant: ['variant', 'variation'],
   }
 
   function replaceAny(targetList, spanClass) {

@@ -19,6 +19,10 @@
   <link rel='stylesheet' type='text/css' href='style/css/font-awesome.min.css' />
   <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700,700italic,500italic,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
+
+  <!-- Necessar to display properly on mobile -->
+  <meta name="viewport" content="initial-scale=1">
+
 </head>
 <body>  
   <div id="page-wrapper" class='grid--main page-wrapper'>
@@ -43,7 +47,7 @@
     <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
   </div>
   <nav class='site-header__nav2'>
-    HOME HEADER
+    <a class="nav2__link" href="/">Shop</a>
   </nav>
 </script>
 
@@ -55,7 +59,7 @@
   <nav class='site-header__nav2'>
     <a class="nav2__link" href="/">Home</a>
     <a class="nav2__link" href="/">Shop</a>
-    <a class="nav2__link" href="/">Next: Tonality</a>
+    <a class="nav2__link" href="/"><span class="nav2__link--next-tag">Next:</span> Tonality</a>
   </nav>
 </script>
 
@@ -72,26 +76,26 @@
 <script id='template__page__home' type="text/x-handlebars-template">
   <div class='page-header'>
     <p class='page-header__subheader page-header__subheader--home'>
-      Graphic explorations of one of the world’s loveliest datasets, the recorded works of The Beatles.
+      The Beatles evolved over time. This project seeks to visualize those changes with graphic representations of their recorded works, a rich/lovely dataset. What areas of their evolution interest you most?:
     </p>
     <p class='page-header__description body-copy'>
     </p>
   </div>
   <div class="thumb-index">
     <div class="thumb-index__thumb thumb--primary">
-      <a href="#songstructure">Song Structure</a>
+      <a href="#songstructure">The form and structure of their songs</a>
     </div>
     <div class="thumb-index__thumb thumb--secondary">
-      <a href="#authorship">Authorship</a>
+      <a href="#authorship">Songwriting authorship for each song</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#selfreference">Self Reference</a>
+      <a href="#selfreference">Self-references to prevoius works</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#schedule">Schedule</a>
+      <a href="#schedule">Recording schedule</a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#tonality">Tonality</a>
+      <a href="#tonality">Tonality, and use of keys</a>
     </div>
   </div>
 </script>
