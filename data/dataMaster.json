@@ -6,7 +6,15 @@
     "day": 22
   },
   "tracks": [
-    {"trackIndex": 0, "order": 1, "trackTitle": "I Saw Her Standing There", "segments":[
+    {"trackIndex": 0, "order": 1, "trackTitle": "I Saw Her Standing There", 
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":[
       {"start":0.000,"end":2.612,"segType":"silence"},
       {"start":2.612,"end":8.424,"segType":"intro"},
       {"start":8.424,"end":20.410,"segType":"verse"},
@@ -26,7 +34,15 @@
       "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52."
     ]
     },
-    {"trackIndex": 1, "order": 2, "trackTitle": "Misery", "segments":
+    {"trackIndex": 1, "order": 2, "trackTitle": "Misery", 
+    "authorship":[
+      {"McCartney": 0.4},
+      {"Lennon": 0.6},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
       {"start":0.414,"end":10.635,"segType":"intro"},
       {"start":10.635,"end":24.938,"segType":"verse"},
@@ -42,7 +58,15 @@
       "The lyrics of the four verses form a familiar pattern of ABCC."
       ]
     },
-    {"trackIndex": 2, "order": 3, "trackTitle": "Anna (Go to Him)", "segments":
+    {"trackIndex": 2, "order": 3, "trackTitle": "Anna (Go to Him)", 
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
       [{"start":0.000,"end":0.708,"segType":"silence"},
       {"start":0.708,"end":9.670,"segType":"intro"},
       {"start":9.670,"end":29.411,"segType":"verse"},
@@ -58,7 +82,15 @@
       "They replace the fade-out ending of the original with a complete one; already this had become a marked preference in their own material."
     ]
     },
-    {"trackIndex": 3, "order": 4, "trackTitle": "Chains", "segments":
+    {"trackIndex": 3, "order": 4, "trackTitle": "Chains",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
       [{"start":0.000,"end":0.433,"segType":"silence"},
       {"start":0.433,"end":7.675,"segType":"intro"},
       {"start":7.675,"end":29.722,"segType":"verse"},
@@ -73,7 +105,15 @@
       "The verse of this song is in twelve-bar blues form, and though its in a Major key, there are a number of minor-sounding inflections in the melody making the music sound both more bluesy and exotic.  ...It seems that when it came to the Blues, that the Beatles preferred ordering takeout rather than take a chance with cooking it up for themselves."
     ]
     },
-    {"trackIndex": 4, "order": 5, "trackTitle": "Boys", "segments":
+    {"trackIndex": 4, "order": 5, "trackTitle": "Boys",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
       [{"start":0.000,"end":0.383,"segType":"silence"},
       {"start":0.383,"end":7.332,"segType":"intro"},
       {"start":7.332,"end":27.109,"segType":"verse"},
@@ -88,7 +128,15 @@
       "(Try another song. No notes for this one.)"
     ]
     },
-    {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why", "segments":
+    {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why",
+    "authorship":[
+      {"McCartney": 0.3},
+      {"Lennon": 0.7},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
       {"start":0.459,"end":3.878,"segType":"intro"},
       {"start":3.878,"end":26.895,"segType":"verse"},
@@ -106,8 +154,16 @@
 "The lyrics closely match the form. Lyrics of both 'initial' verses are identical, as are the respective lyrics of both second variant verse, and bridge; the single appearance of first variant verse has unique lyrics."
     ]
     },
-    {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me", "segments":
-      [{"start":0.000,"end":0.429,"segType":"silence"},
+    {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+       [{"start":0.000,"end":0.429,"segType":"silence"},
       {"start":0.429,"end":7.709,"segType":"intro"},
       {"start":7.709,"end":35.120,"segType":"verse"},
       {"start":35.120,"end":62.671,"segType":"verse"},
@@ -125,7 +181,15 @@
       "The verses rhythmically start after the downbeat. The bridge starts right on the downbeat."
     ]
     },
-    {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do", "segments":
+    {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do",
+    "authorship":[
+      {"McCartney": 0.7},
+      {"Lennon": 0.3},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
       {"start":0.412,"end":13.424,"segType":"intro"},
       {"start":13.424,"end":34.694,"segType":"verse"},
@@ -141,7 +205,15 @@
       "The form used here is none other than the standard two-bridge model with a single verse intervening. The positioning of the instrumental solo within a repeat of the bridge rather than a verse is unusual and likely accounts for the absence of there being a pair of verses in the middle. Contrast this with other Beatles songs of the same period that more typically place a solo in one of two intervening verse; e.g. 'I Saw Her Standing There', or even 'How Do You Do It'."
     ]
     },
-    {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You", "segments":
+    {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You",
+    "authorship":[
+      {"McCartney": 0.8},
+      {"Lennon": 0.2},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
       {"start":0.459,"end":14.663,"segType":"intro"},
       {"start":14.663,"end":32.531,"segType":"verse"},
@@ -157,7 +229,15 @@
       "An unusual and creative formal touch here is the way that the intro turns out to be a subtle variation of the bridge."
     ]
     },
-    {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You", "segments":
+    {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
       {"start":0.414,"end":49.429,"segType":"verse"},
       {"start":49.429,"end":94.389,"segType":"verse"},
@@ -168,8 +248,16 @@
       "The form is very unusual, likely a consequence of the longish verse and slow tempo. There are only three verses in the song, and in instead of a real bridge, the first half of the middle verse is done up as break-like instrumental solo passage with the regular vocal part resuming in the second half. Although the form of 'From Me To You' is otherwise quite different, the instrumental break there is very similarly handled."
     ]
     },
-    {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret", "segments":
-      [{"start":0.000,"end":0.465,"segType":"silence"},
+    {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
+       [{"start":0.000,"end":0.465,"segType":"silence"},
 {"start":0.465,"end":14.931,"segType":"intro"},
 {"start":14.931,"end":41.958,"segType":"verse"},
 {"start":41.958,"end":68.992,"segType":"verse"},
@@ -181,7 +269,15 @@
       "The intro is slow, the verse long, and the bridge short. The form is compact, the less popular single bridge model, and the overall duration of the song brief, as well; a likely consequence of the large amount of repetitious rhetoric built into the verse section."
     ]
     },
-    {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey", "segments":
+    {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
 {"start":0.412,"end":8.127,"segType":"intro"},
 {"start":8.127,"end":43.804,"segType":"verse"},
@@ -193,7 +289,15 @@
       "The music features a number of tricks: the slow intro and outro, the modally inflected minor key, and the constant switching between ternary and binary meters from section to section; the latter would eventually make its conspicuous appearance in several Beatles' compositions, but not until much later."
     ]
     },
-    {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place", "segments":
+    {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 1},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 0}
+    ],
+    "segments":
       [{"start":0.000,"end":0.435,"segType":"silencez"},
       {"start":0.435,"end":9.131,"segType":"intro"},
       {"start":9.131,"end":34.331,"segType":"verse"},
@@ -207,8 +311,16 @@
       "The modification of the second verse to effect a smoother transition into the bridge is an unusual formal touch..."
     ]
     },
-    {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout", "segments":
-      [{"start":0.000,"end":0.416,"segType":"silence"},
+    {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout",
+    "authorship":[
+      {"McCartney": 0},
+      {"Lennon": 0},
+      {"Harrison": 0},
+      {"Starr": 0},
+      {"Other": 1}
+    ],
+    "segments":
+       [{"start":0.000,"end":0.416,"segType":"silence"},
 {"start":0.416,"end":8.576,"segType":"intro"},
 {"start":8.576,"end":38.499,"segType":"verse"},
 {"start":38.499,"end":69.033,"segType":"verse"},
