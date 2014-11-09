@@ -176,7 +176,52 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ED2126;
 }
 
+/* line 126, ../sass/modules/_colors.scss */
+#legend__selfreference--implicit {
+  background-color: #ee3766;
+}
+
 /* line 127, ../sass/modules/_colors.scss */
+#legend__selfreference--explicit {
+  background-color: #ffce06;
+}
+
+/* line 128, ../sass/modules/_colors.scss */
+#legend__selfreference--melodic {
+  background-color: #57caef;
+}
+
+/* line 130, ../sass/modules/_colors.scss */
+#legend__schedule--recording {
+  background-color: #ee3766;
+}
+
+/* line 131, ../sass/modules/_colors.scss */
+#legend__schedule--filming {
+  background-color: #ffce06;
+}
+
+/* line 132, ../sass/modules/_colors.scss */
+#legend__schedule--touring {
+  background-color: #57caef;
+}
+
+/* line 134, ../sass/modules/_colors.scss */
+#legend__tonality--major {
+  background-color: #ffce06;
+}
+
+/* line 135, ../sass/modules/_colors.scss */
+#legend__tonality--minor {
+  background-color: #57caef;
+}
+
+/* line 136, ../sass/modules/_colors.scss */
+#legend__tonality--diatonic {
+  background-color: #ee3766;
+}
+
+/* line 140, ../sass/modules/_colors.scss */
 .segment_intro--variant,
 .segment_outro--variant,
 .segment_verse--variant,
@@ -188,7 +233,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-position: 0 0, 3px 3px;
 }
 
-/* line 136, ../sass/modules/_colors.scss */
+/* line 149, ../sass/modules/_colors.scss */
 .segment_verse--instrumental,
 .segment_chorus--instrumental,
 .segment_bridge--instrumental,
@@ -198,14 +243,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: transparent;
 }
 
-/* line 144, ../sass/modules/_colors.scss */
+/* line 157, ../sass/modules/_colors.scss */
 .segment_silence {
   fill: #555244;
   background-color: #555244;
   border-right: none;
 }
 
-/* line 152, ../sass/modules/_colors.scss */
+/* line 165, ../sass/modules/_colors.scss */
 .segment_intro,
 .segment_outro,
 .segment_intro--variant,
@@ -214,7 +259,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
-/* line 160, ../sass/modules/_colors.scss */
+/* line 173, ../sass/modules/_colors.scss */
 .segment_verse,
 .segment_verse--variant,
 .segment_verse--instrumental {
@@ -222,7 +267,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #57caef;
 }
 
-/* line 167, ../sass/modules/_colors.scss */
+/* line 180, ../sass/modules/_colors.scss */
 .segment_chorus,
 .segment_chorus--variant,
 .segment_chorus--instrumental {
@@ -230,7 +275,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ffce06;
 }
 
-/* line 174, ../sass/modules/_colors.scss */
+/* line 187, ../sass/modules/_colors.scss */
 .segment_bridge,
 .segment_bridge--variant,
 .segment_bridge--instrumental {
@@ -238,7 +283,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #ee3766;
 }
 
-/* line 181, ../sass/modules/_colors.scss */
+/* line 194, ../sass/modules/_colors.scss */
 .segment_break,
 .segment_break--variant,
 .segment_break--instrumental {
@@ -246,27 +291,27 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #74c044;
 }
 
-/* line 189, ../sass/modules/_colors.scss */
+/* line 202, ../sass/modules/_colors.scss */
 .span--i_ntro {
   color: #88857c;
 }
 
-/* line 193, ../sass/modules/_colors.scss */
+/* line 206, ../sass/modules/_colors.scss */
 .span--v_erse {
   color: #57caef;
 }
 
-/* line 197, ../sass/modules/_colors.scss */
+/* line 210, ../sass/modules/_colors.scss */
 .span--c_horus {
   color: #ffce06;
 }
 
-/* line 201, ../sass/modules/_colors.scss */
+/* line 214, ../sass/modules/_colors.scss */
 .span--b_ridge {
   color: #ee3766;
 }
 
-/* line 206, ../sass/modules/_colors.scss */
+/* line 219, ../sass/modules/_colors.scss */
 .span--i_nstrumental {
   color: white;
   text-decoration: underline;
@@ -275,7 +320,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-decoration-color: white;
 }
 
-/* line 214, ../sass/modules/_colors.scss */
+/* line 227, ../sass/modules/_colors.scss */
 .span--v_ariant {
   color: white;
   text-decoration: underline;

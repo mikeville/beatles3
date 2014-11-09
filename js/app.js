@@ -50,18 +50,26 @@ var App = Backbone.Router.extend({
 
   selfReference: function(){
     app.currentPage = "selfreference"
+    if (ui) ui.remove()
+    var ui = new UI()
   },
 
   schedule: function(){
     app.currentPage = "schedule"
+    if (ui) ui.remove()
+    var ui = new UI()
   },
 
   tonality: function(){
     app.currentPage = "tonality"
+    if (ui) ui.remove()
+    var ui = new UI()
   },
 
   shop: function(){
     app.currentPage = "shop"
+    if (ui) ui.remove()
+    var ui = new UI()
   }
 
 })
@@ -73,6 +81,8 @@ var UI = Backbone.View.extend({
     this.renderHeader()
     this.renderBodyContent()
     this.renderFooter()
+
+    initSticky();
   },
 
   renderHeader: function(){
@@ -100,6 +110,22 @@ var UI = Backbone.View.extend({
         break;
       case "authorship":
         var templateBodyContent = Handlebars.compile( $('#template__page__authorship').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "selfreference":
+        var templateBodyContent = Handlebars.compile( $('#template__page__selfreference').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "schedule":
+        var templateBodyContent = Handlebars.compile( $('#template__page__schedule').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "tonality":
+        var templateBodyContent = Handlebars.compile( $('#template__page__tonality').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "shop":
+        var templateBodyContent = Handlebars.compile( $('#template__page__shop').html() )
         $('#test-body').html( templateBodyContent )
         break;
       default: //not sure if i did this right
@@ -401,10 +427,6 @@ function loadSongStructureGraphic() {
     // Set Events
     setEventsTest();
 
-    // Initialize stickiness
-    // $("#context-container").sticky();
-    $("#context-container").sticky();
-
     // Highlight instances of segment names in notes
     addSegmentSpanClasses();
 }
@@ -420,6 +442,13 @@ function loadSongStructureGraphic() {
 // ======================================================
 // ******************************************************
 // ******************************************************
+
+
+// Initialize sticky legends
+function initSticky() {
+    $("#context-container").sticky();
+}
+
 
 
 $(function(){

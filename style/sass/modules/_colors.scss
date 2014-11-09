@@ -123,6 +123,19 @@ $instrumental: $green;
 #legend__authorship__other { background-color: $grey-legend; }
 #legend__authorship__cowritten { background-color: $red; }
 
+#legend__selfreference--implicit { background-color: $pink; }
+#legend__selfreference--explicit { background-color: $yellow; }
+#legend__selfreference--melodic { background-color: $blue; }
+
+#legend__schedule--recording { background-color: $pink; }
+#legend__schedule--filming { background-color: $yellow; }
+#legend__schedule--touring { background-color: $blue; }
+
+#legend__tonality--major { background-color: $yellow; }
+#legend__tonality--minor { background-color: $blue; }
+#legend__tonality--diatonic { background-color: $pink; }
+
+
 
 .segment_intro--variant,
 .segment_outro--variant,
