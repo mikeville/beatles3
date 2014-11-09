@@ -75,6 +75,10 @@ $instrumental: $green;
     border-right: 1px solid $background;
 }
 
+.segment--empty {
+  border-right: none;
+}
+
 // LEGEND'S GRID ----------------
 .legend-item {
   display: inline;
@@ -235,4 +239,9 @@ $instrumental: $green;
 }
 
 
+.author--0 { background-color: $yellow }
+.author--1 { background-color: $blue }
+.author--2 { background-color: $green }
+.author--3 { background-color: $purple }
+.author--4 { background-color: $intro-outro }
 

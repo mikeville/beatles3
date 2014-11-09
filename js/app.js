@@ -428,14 +428,46 @@ function addSegmentSpanClasses(){
 // ******************************************************
 // ******************************************************
 // ======================================================
-// SONG STRUCTURE GRAPHIC ===============================
+// AUTHORSHIP GRAPHIC ===============================
 // ======================================================
 // ******************************************************
 // ******************************************************
 
 
 function drawAuthorshipD3() {
-  console.log('drawing authorship');
+
+  // ======================================================
+  // DRAW GRAPHICS =====================
+  // ======================================================
+
+
+  // var trackSegments = trackGraphics.selectAll('div')
+  //     .data(function(d, i) { return d['segments'] })
+  //   .enter().append('div')
+  //       .style('width', function(d) { 
+  //         var widthy = xScale(d.end-d.start);
+  //         widthy = widthy.toString() + 'px';
+  //         return widthy;
+  //       })
+  //       .style('height', height + 'px')
+  //       // .style('width', function(d) { return xScale(d.end-d.start) })
+  //       // .style('height', height)
+  //       .attr('class', function(d) { return 'segment segment_'+d.segType })
+
+
+  var trackSegments = trackGraphics.selectAll('div')
+      .data(function(d, i) { return d['authorship'] })
+    .enter().append('div')
+      .style('width', function(d) { return d + '%'; })
+      .style('height', height + 'px')
+      .attr('class', function(d, i) { 
+        if (d) {
+          return 'segment author--'+i 
+        } else {
+          return 'segment segment--empty'
+        }
+      })
+
 }
 
 
