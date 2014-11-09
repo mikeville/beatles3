@@ -272,7 +272,9 @@
       {"start":119.850,"end":130.012,"segType":"outro"},
       {"start":130.012,"end":133.733,"segType":"silence"}],
     "notes": [
-      "first note of second album"
+      "A raving album opener, rich in detail and elliptical in form.",
+      "What's particularly interesting is how the normal, easy-to-recognize distinction between verse / bridge / refrain is rather blurred here...",
+      "I think you can eventually reduce the form to the double-bridge model with a single intervening verse but in order to do so you need to parse the second half of the verse section as mini-refrain that also happens to be used as the song's intro."
     ]
     },
     {"trackIndex": 15, "order": 2, "trackTitle": "All I've Got to Do",
@@ -287,7 +289,8 @@
       {"start":109.877,"end":120.304,"segType":"verse--instrumental"},
       {"start":120.304,"end":124.533,"segType":"silence"}],
     "notes": [
-      "note"
+      "We have yet another example here where the bridge is repeated but separated by only a single verse section; this time, I believe the reluctance to provide that additional verse is motivated by the slowness of the harmonic rhythm throughout the song.",
+      "Two small but creative twists are applied to the otherwise straightforward short form: the strange opening that's not quite a full intro, and the manner in which the final verse, arranged as it is with a wordlessly hummed vocal, fades out in mid-section."
     ]
     },
     {"trackIndex": 16, "order": 3, "trackTitle": "All My Loving",
@@ -303,7 +306,10 @@
       {"start":112.247,"end":125.838,"segType":"outro"},
       {"start":125.838,"end":129.560,"segType":"silence"}],
     "notes": [
-      "note"
+      "Many people, Lewisohn among them, have described 'All My Loving' as Paul's 'best, most complex piece of songwriting yet'",
+      "The form is relatively compact, and the number of verse repetitions plus the complete ending make it seem deceptively familiar, but it really doesn't fall neatly into either the single / double bridge model of which we've seen so much, or the strict verse / refrain pattern of the folk ballad.",
+      "The appearance a refrain section here is quite noteworthy, especially in conjunction with the short bridge section for solo guitar.",
+      "Also special is the way in which the song opens in the midst of the action without an intro, or even a downbeat from which the singer can grab his opening cue note."
     ]
     },
     {"trackIndex": 17, "order": 4, "trackTitle": "Don't Bother Me",
@@ -321,7 +327,8 @@
       {"start":135.366,"end":144.182,"segType":"outro"},
       {"start":144.182,"end":149.373,"segType":"silence"}],
     "notes": [
-      "note"
+      "This moody and exotic sounding number was, of course, the first solo-original composition George was to do With The Beatles. As a premiere effort, it is technically quite polished, yet even more notable for its compositional individualism, especially in light of what must have been the creative climate within the Beatles as a group at the time of its composition",
+      "The song turns out in retrospect to uncannily foreshadow musical techniques and tendencies with which he would preoccupy himself for years to come; in particular, the minor key, the sensually modal melody, and the inwardly focused and sad/angry theme of the lyrics."
     ]
     },
     {"trackIndex": 18, "order": 5, "trackTitle": "Little Child",
@@ -339,7 +346,8 @@
       {"start":95.191,"end":104.297,"segType":"outro"},
       {"start":104.297,"end":108.000,"segType":"silence"}],
     "notes": [
-      "note"
+      "The form of this song is a bit tricky. On strictly musical grounds, I believe one hears it in the way that I've parsed it above, as one of the standard and familiar formal models. However, the repeat pattern of the lyrics would seem to argue otherwise; that what I've labeled a 'verse' is more of a 'refrain' because the words are unvaried over four repeats of the section. Similarly, that what I've labeled as a 'bridge' is more properly a 'verse' because it is only in that section that the words are varied. This alternate pigeon-holing scheme though would yield an unusual formal structure indeed: Intro | Refrain | Refrain | Verse | Refrain | Break | Verse | Refrain | Outro (fade-out). Hence, I'll stay with my original analysis, though this formal ambiguity caused by the disposition of the lyrics is noteworthy.",
+      "Another quite uncommon feature in the form of this song is the appearance of an honest-to-goodness instrumental break, in strict twelve-bar blues no less!"
     ]
     },
     {"trackIndex": 19, "order": 6, "trackTitle": "Till There Was You",
@@ -357,7 +365,7 @@
       {"start":117.943,"end":131.973,"segType":"outro"},
       {"start":131.973,"end":136.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "The Beatles' acoustic arrangement with its Latin beat and bongos is certainly a far cry from the smoothly flowing schmaltz of the original version heard in 'The Music Man' Broadway show."
     ]
     },
     {"trackIndex": 20, "order": 7, "trackTitle": "Please Mister Postman",
@@ -377,7 +385,7 @@
       {"start":149.231,"end":151.592,"segType":"chorus--variant"},
       {"start":151.592,"end":156.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "The monotony of the harmonic plan tends to blur somewhat the distinction between what is 'refrain' and 'verse', but it should be noted how the former utilizes dramatic antiphonal counterpoint between the backing and lead vocals, while the latter features the lead up front with the backers softly oooh-ing."
     ]
     },
     {"trackIndex": 21, "order": 8, "trackTitle": "Roll Over Beethoven",
@@ -395,7 +403,8 @@
       {"start":142.889,"end":163.425,"segType":"chorus"},
       {"start":163.425,"end":167.627,"segType":"silence"}],
     "notes": [
-      "note"
+      "As with many other, if not quite literally all, of Chuck Berry's songs, every section of this one is in the twelve-bar blues form — eight of them all in a row! I only call the fourth section a bridge ('Well if you feel it') because of the subtle change in the melody and back-beat.",
+      "Formalistically, each twelve-bar section is internally sub-divided so that the first eight measures provide verse-like exposition, and the final four measures deliver a refrain-like hook."
     ]
     },
     {"trackIndex": 22, "order": 9, "trackTitle": "Hold Me Tight",
@@ -412,7 +421,7 @@
       {"start":141.493,"end":149.007,"segType":"outro"},
       {"start":149.007,"end":152.573,"segType":"silence"}],
     "notes": [
-      "note"
+      "This one's a good example of the standard two-bridge-but-no-solo formal model."
     ]
     },
     {"trackIndex": 23, "order": 10, "trackTitle": "You Really Got A Hold On Me",
@@ -433,7 +442,7 @@
       {"start":172.524,"end":178.781,"segType":"outro"},
       {"start":178.781,"end":182.893,"segType":"silence"}],
     "notes": [
-      "note"
+      "There's an unusually complex form at play in this song; note, that I define my terms used above as follows: Verse — 'I don't like you ...'; Refrain — 'You really got a hold on me ...'; Closing — 'I love you and all I want you do ...'; Bridge / Re-Intro — instrumental followed by 'Tighter!'"
     ]
     },
     {"trackIndex": 24, "order": 11, "trackTitle": "I Wanna Be Your Man",
@@ -450,7 +459,8 @@
       {"start":106.454,"end":115.013,"segType":"outro"},
       {"start":115.013,"end":118.973,"segType":"silence"}],
     "notes": [
-      "note"
+      "This song is ravingly bluesy in a stylized but facile, simplistic way, representing a certain kind of triumph of style per se over content.",
+      "In context of the other contemporaneous Lennon and McCartney originals of the period, this one is formalistically notable for its bridge-like refrain, and the improvisatory instrumental break."
     ]
     },
     {"trackIndex": 25, "order": 12, "trackTitle": "Devil In Her Heart",
@@ -468,7 +478,7 @@
       {"start":126.197,"end":143.933,"segType":"outro"},
       {"start":143.933,"end":147.667,"segType":"silence"}],
     "notes": [
-      "note"
+      "The form of the song though is surprisingly flat in spite of the dramatic scenario, with a mechanical succession of refrain and verse pairs."
     ]
     },
     {"trackIndex": 26, "order": 13, "trackTitle": "Not A Second Time",
@@ -485,7 +495,9 @@
       {"start":111.302,"end":124.840,"segType":"outro"},
       {"start":124.840,"end":128.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "The middle section of the song would appear to be much more of a refrain than a bridge...After all, it does feature the song's lyrical hook at the end and feels overall more like a fulfillment of the verses than a contrasting interlude away from them. Nevertheless, it's still an unusual sort of refrain for its convergent harmonic shape and the way in which it sounds like a continuing outgrowth of the verse instead of a discrete section on its own. You also expect a refrain to be a bit more tunefully catchy if not downright jingle-like than this one is.",
+      "The appearance of the instrumental solo in a section based on the refrain instead of the verse is another unusual formal feature here. So is the fact that this solo-refrain immediately follows another refrain section.",
+      "Less unique but nonetheless noteworthy is the use of a variation of the original verse section for those verses which immediately precede a refrain."
     ]
     },
     {"trackIndex": 27, "order": 14, "trackTitle": "Money",
@@ -502,7 +514,7 @@
       {"start":141.599,"end":166.054,"segType":"chorus"},
       {"start":166.054,"end":167.560,"segType":"silence"}],
     "notes": [
-      "note"
+      "This is yet another song in which (virtually) every section is in twelve-bar blues form, but it bears an interesting comparison with 'Roll Over Beethoven'. Here, the twelve-bar frame is divided so that only four measures are verse-like exposition with the remaining eight devoted to a raving refrain. The proportions in 'Roll Over Beethoven' are a reversed eight-to-four."
     ]
     }
   ]},

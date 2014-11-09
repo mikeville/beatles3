@@ -393,9 +393,9 @@ function addSegmentSpanClasses(){
 
   var segmentClasses = {
     i_ntro: ['intro', 'outro'],
-    c_horus: ['choruses', 'chorus', 'refrains', 'refrain'],
+    c_horus: ['choruses', 'chorus', 'refrains', 'mini-refrain', 'refrain'],
     v_erse: ['verses', 'verse'],
-    b_ridge: ['bridges', 'two-bridge', 'bridge'],
+    b_ridge: ['bridges', 'two-bridge', 'double-bridge', 'mini-bridge', 'bridge'],
     i_nstrumental: ['solos', 'solo', 'break', 'breaks'],
     v_ariant: ['variant', 'variation']
   }
@@ -407,7 +407,7 @@ function addSegmentSpanClasses(){
     function replaceAnySub(target) {
       $('.track-container__graphic-container__notes-container__note-list').each(function(noteList) {
         var noteString = $(this).html()
-        var regex = new RegExp(target, "g")
+        var regex = new RegExp(target, "gi")
 
         var noteStringWithSpans = noteString.replace(regex, "<span class='span--"+spanClass+"'>"+target+"</span>")
         $(this).html(noteStringWithSpans)
