@@ -13,47 +13,111 @@ var App = Backbone.Router.extend({
     "schedule" : "schedule",
     "tonality" : "tonality",
     "shop" : "shop",
-    "test" : "test"
+    "test" : "test",
+    "test2" : "test2"
   },
 
   test: function(){
-    app.current_page = "test"
+    app.currentPage = "test"
     if (ui) ui.remove()
     var ui = new UI()
+  },
+
+
+  test2: function(){
+    app.currentPage = "test"
+    if (ui) ui.remove()
+    var ui = new UI2()
   },
 
 
   home: function(){
-    app.current_page = "home"
+    app.currentPage = "home"
     if (ui) ui.remove()
-    var ui = new UI()
+    var ui = new UI2()
   },
 
   songStructure: function(){
-    app.current_page = "songstructure"
+    app.currentPage = "songstructure"
+    if (ui) ui.remove()
+    var ui = new UI2()
   },
 
   authorship: function(){
-    app.current_page = "authorship"
+    app.currentPage = "authorship"
+    if (ui) ui.remove()
+    var ui = new UI2()
   },
 
   selfReference: function(){
-    app.current_page = "selfreference"
+    app.currentPage = "selfreference"
   },
 
   schedule: function(){
-    app.current_page = "schedule"
+    app.currentPage = "schedule"
   },
 
   tonality: function(){
-    app.current_page = "tonality"
+    app.currentPage = "tonality"
   },
 
   shop: function(){
-    app.current_page = "shop"
+    app.currentPage = "shop"
   }
 
 })
+
+
+var UI2 = Backbone.View.extend({ 
+
+  initialize: function(attributes){
+    this.renderHeader()
+    this.renderBodyContent()
+    this.renderFooter()
+  },
+
+  renderHeader: function(){
+    if (app.currentPage === "home") {
+      var templateHeader = Handlebars.compile( $('#template__site-header--home').html() )
+      $('#site-header').html( templateHeader )
+    } else {
+      var templateHeader = Handlebars.compile( $('#template__site-header').html() )
+      $('#site-header').html( templateHeader )     
+    }
+  },
+
+  renderBodyContent: function(){
+    pageName = app.currentPage
+    console.log(pageName)
+
+    switch (pageName) {
+      case "home":
+        var templateBodyContent = Handlebars.compile( $('#template__page__home').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "songstructure":
+        var templateBodyContent = Handlebars.compile( $('#template__page__songstructure').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      case "authorship":
+        var templateBodyContent = Handlebars.compile( $('#template__page__authorship').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+      default: //not sure if i did this right
+        var templateBodyContent = Handlebars.compile( $('#template__page__home').html() )
+        $('#test-body').html( templateBodyContent )
+        break;
+    }
+
+
+  },
+
+  renderFooter: function(){
+    var templateFooter = Handlebars.compile( $('#test-footer').html() )
+    $('#site-footer').html( templateFooter )
+  }
+})
+
 
 
 var UI = Backbone.View.extend({
@@ -62,7 +126,7 @@ var UI = Backbone.View.extend({
 
     this.render({
       header: new UI.Header(),
-      // body: new UI.Body(),
+      body: new UI.Body()
       // footer: new UI.Footer(),
       // footer: new UI.Test()
     });
@@ -100,7 +164,7 @@ UI.Test = Backbone.View.extend({
   },
   render: function(){
     this.$el.html(this.template({
-      page_name: app.current_page
+      page_name: app.currentPage
     }))
     return this;
   },
@@ -118,12 +182,44 @@ UI.Header = Backbone.View.extend({
   },
   render: function(){
     this.$el.html(this.template({
-      page_name: app.current_page
+      page_name: app.currentPage
     }))
     return this;
   },
   template: function(attributes){
     var source = $('#template__site-header').html()
+    var template = Handlebars.compile(source)
+    return template(attributes)
+  }
+})
+
+
+UI.Body = Backbone.View.extend({
+  initialize: function(){
+    
+  },
+  render: function(){
+    this.$el.html(this.template({
+      page_name: app.currentPage
+    }))
+    return this;
+  },
+  template: function(attributes, template_name){
+    switch (template_name) {
+      case "home":
+        var source = $('#template__page__home').html();
+        break;
+      case "songstructure":
+        var source = $('#template__page__songstructure').html();
+        break;
+      case "authorship":
+        var source = $('#template__page__authorship').html();
+        break;
+      default:
+        var source = $('#template__page__home').html(); //not sure if this is right
+        break;
+    }
+    
     var template = Handlebars.compile(source)
     return template(attributes)
   }

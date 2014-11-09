@@ -24,40 +24,31 @@
   <div id="page-wrapper" class='grid--main page-wrapper'>
     <header id="site-header" class='site-header'>
     </header>
-    <div class="page-body-container">
-      <div class='page-header'>
-        <p class='page-header__subheader page-header__subheader--home'>
-          Graphic explorations of one of the world’s loveliest datasets, the recorded works of The Beatles.
-        </p>
-        <p class='page-header__description body-copy'>
-        </p>
-      </div>
+    <div id="test-body" class="page-body-container">
     </div>
-    <div class="thumb-index">
-      <div class="thumb-index__thumb thumb--primary">
-        <a href="/songstructure.html">Song Structure</a>
-      </div>
-      <div class="thumb-index__thumb thumb--secondary">
-        Authorship
-      </div>
-      <div class="thumb-index__thumb thumb--tertiary">
-        Self Reference
-      </div>
-      <div class="thumb-index__thumb thumb--tertiary">
-        Schedule
-      </div>
-      <div class="thumb-index__thumb thumb--tertiary">
-        Tonality
-      </div>
-    </div>
-    <footer>
-      Footer
+    <footer id="site-footer">
     </footer>
   </div>
 
 
 <script id='test-template' type="text/x-handlebars-template">
-  <h1>TESTTESTTESTTEST</h1>
+  <h1>THIS IS A NEW TEST TEMPLATE</h1>
+</script>
+
+
+
+<script id='test-footer' type="text/x-handlebars-template">
+  <h1>FOOTER FOOTER FOOTER</h1>
+</script>
+
+
+<script id='template__site-header--home' type="text/x-handlebars-template">
+  <div class='site-header__site-title-container'>
+    <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
+  </div>
+  <nav class='site-header__nav2'>
+    HOME HEADER
+  </nav>
 </script>
 
 
@@ -71,6 +62,42 @@
     <a class="nav2__link" href="/">Next: Tonality</a>
   </nav>
 </script>
+
+<script id='template__page__home' type="text/x-handlebars-template">
+  <div class='page-header'>
+    <p class='page-header__subheader page-header__subheader--home'>
+      Graphic explorations of one of the world’s loveliest datasets, the recorded works of The Beatles.
+    </p>
+    <p class='page-header__description body-copy'>
+    </p>
+  </div>
+  <div class="thumb-index">
+    <div class="thumb-index__thumb thumb--primary">
+      <a href="/songstructure.html">Song Structure</a>
+    </div>
+    <div class="thumb-index__thumb thumb--secondary">
+      Authorship
+    </div>
+    <div class="thumb-index__thumb thumb--tertiary">
+      Self Reference
+    </div>
+    <div class="thumb-index__thumb thumb--tertiary">
+      Schedule
+    </div>
+    <div class="thumb-index__thumb thumb--tertiary">
+      Tonality
+    </div>
+  </div>
+</script>
+
+<script id='template__page__songstructure' type="text/x-handlebars-template">
+  <h1>SONG STRUCTURE</h1>
+</script>
+
+<script id='template__page__authorship' type="text/x-handlebars-template">
+  <h1>AUTHORSHIP</h1>
+</script>
+
 
 
 
