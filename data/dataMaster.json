@@ -24,10 +24,18 @@
       {"start":146.042,"end":172.062,"segType":"verse--variant"},
       {"start":172.062,"end":175.800,"segType":"silence"}],
     "notes": [
-      "[This] is one of the Boys' first fast, hard rockers. It was probably the most blazingly original song they had yet written at the time of its recording. Appropriately and auspiciously, they chose to crown it with the lead-off spot on their first album.",
+      "This is one of the Boys' first fast, hard rockers. It was probably the most blazingly original song they had yet written at the time of its recording. Appropriately and auspiciously, they chose to crown it with the lead-off spot on their first album.",
       "The form is a fully cranked out two bridge model with two verses intervening, the latter of which is for guitar solo, thus making for comparatively long running time of 2:52."
     ],
-    "videoLink" : "//www.youtube.com/embed/DsgWfAilIEM"
+    "links" : {
+      "video": "//www.youtube.com/embed/DsgWfAilIEM",
+      "lyrics": "<div id='rg_embed_link_112197' class='rg_embed_link'>Read <a href='http://rock.genius.com/The-beatles-i-saw-her-standing-there-lyrics'>“I Saw Her Standing There” by The Beatles</a> on Genius</div><script src='//rock.genius.com/songs/112197/embed.js?dark=1'></script>",
+      "lyrics2": {
+        "id": "rg_embed_link_112197",
+        "link": "http://rock.genius.com/The-beatles-i-saw-her-standing-there-lyrics",
+        "source": "//rock.genius.com/songs/112197/embed.js?dark=1"
+        }
+      }
     },
     {"trackIndex": 1, "order": 2, "trackTitle": "Misery", 
     "authorship":[ 40, 60, 0, 0, 0 ],
@@ -115,8 +123,7 @@
       {"start":143.117,"end":147.760,"segType":"silence"}],
     "notes": [
       "This is just about the fussiest, most complicated form we've yet seen. You can sort of parse it as a mutant version of the two-bridge model, but what is most notable is how the verse material appears in three variations, each of which is tailored to suit a different purpose.",
-"Next note The initial verse is typically 'expository' in nature but has an harmonically open ending on V that is unsuitable for leading into the bridge. As a result, the first variant, though very similar to the initial verse, is crucially amended to link smoothly with the bridge that follows it.",
-"The lyrics closely match the form. Lyrics of both 'initial' verses are identical, as are the respective lyrics of both second variant verse, and bridge; the single appearance of first variant verse has unique lyrics."
+"The initial verse is typically 'expository' in nature but...is unsuitable for leading into the bridge. As a result, the first variant, though very similar to the initial verse, is crucially amended to link smoothly with the bridge that follows it."
     ]
     },
     {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me",
@@ -132,12 +139,8 @@
       {"start":118.939,"end":123.373,"segType":"silence"}],
     "notes": [
       "'Please Please Me' was only their second single, but it was already a quantum leap in compositional terms over their first one, 'Love Me Do'. In addition to the tight vocal harmonies seen earlier, we have here a couple of tricky chord choices, crackling drum fills, continuous variation in the deployment of the backing vocals, and as they say in the 'biz', much, much more.",
-      "Compared with the extant tapes of the Quarrymen, the Star Club, the Decca audition, or even the couple of preceding EMI sessions, 'Please Please Me' gives us an energized performance and an arrangement more complicated than anything these Boys had attempted heretofore. This would seem to suggest that the firm and creative influence of George Martin began to be felt even at this early date.",
-      "This song is also emotionally quite gripping, not only because of its apparently incessant drive, but even more so for the very human way in which the hero appears to waver in the amount of self-control he can muster — starting out urgently insistent yet trying to appear controlled; talking through clenched teeth in a forced-polite voice, even while his facade is continually cracking to reveal the true heat and impatience behind it. On one level, it's a fairly obvious seduction scenario, yet you find yourself quite hypnotized if not overwhelmed by the force and subtlety with which the meaning of the words are played-off against the message of the music.",
       "The form is the compact single bridge model we've seen before in 'No Reply' and 'Day Tripper' where the especially raving intensity of mood argues in favor of keeping things brief.",
-      "The use of a complete ending is noteworthy. In context of the rest of the top 40 of this period, circa 1963, where, failing recourse to a statistical analysis of the matter, we seem to at least remember everything as having a fade-out at the end, the relatively large number of early Lennon and McCartney songs with complete endings — 12 out of those same canonical early 21 singled out below — would seem to be bucking a trend; then again, perhaps 'setting a trend' would be more correct under the circumstances; after all, for a while, it was their profession.",
-      "The lyrics of the three verse sections create an ABA pattern.",
-      "The verses rhythmically start after the downbeat. The bridge starts right on the downbeat."
+      "The use of a complete ending is noteworthy...in context of the rest of the top 40 of this period, circa 1963, where [fade-outs were common]"
     ]
     },
     {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do",
@@ -541,7 +544,7 @@
       {"start":135.695,"end":147.450,"segType":"outro"},
       {"start":147.450,"end":152.520,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 29, "order": 2, "trackTitle": "I Should Have Known Better",
@@ -559,7 +562,7 @@
       {"start":150.938,"end":159.400,"segType":"outro"},
       {"start":159.400,"end":164.080,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 30, "order": 3, "trackTitle": "If I Fell",
@@ -574,7 +577,7 @@
       {"start":129.289,"end":137.150,"segType":"outro"},
       {"start":137.150,"end":142.027,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 31, "order": 4, "trackTitle": "I'm Happy Just To Dance With You",
@@ -591,7 +594,7 @@
       {"start":101.750,"end":114.399,"segType":"outro"},
       {"start":114.399,"end":118.680,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 32, "order": 5, "trackTitle": "And I Love Her",
@@ -608,7 +611,7 @@
       {"start":131.306,"end":147.168,"segType":"outro"},
       {"start":147.168,"end":151.053,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 33, "order": 6, "trackTitle": "Tell Me Why",
@@ -625,7 +628,7 @@
       {"start":102.946,"end":125.718,"segType":"chorus"},
       {"start":125.718,"end":130.053,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 34, "order": 7, "trackTitle": "Can't Buy Me Love",
@@ -643,7 +646,7 @@
       {"start":117.220,"end":130.322,"segType":"outro"},
       {"start":130.322,"end":134.920,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 35, "order": 8, "trackTitle": "Any Time At All",
@@ -660,7 +663,7 @@
       {"start":120.415,"end":129.193,"segType":"outro"},
       {"start":129.193,"end":133.387,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 36, "order": 9, "trackTitle": "I'll Cry Instead",
@@ -676,7 +679,7 @@
       {"start":82.576,"end":103.468,"segType":"verse"},
       {"start":103.468,"end":107.720,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 37, "order": 10, "trackTitle": "Things We Said Today",
@@ -693,7 +696,7 @@
       {"start":145.078,"end":153.483,"segType":"outro"},
       {"start":153.483,"end":158.827,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 38, "order": 11, "trackTitle": "When I Get Home",
@@ -711,7 +714,7 @@
       {"start":126.630,"end":134.142,"segType":"outro"},
       {"start":134.142,"end":138.347,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 39, "order": 12, "trackTitle": "You Can't Do That",
@@ -729,7 +732,7 @@
       {"start":147.703,"end":152.671,"segType":"outro"},
       {"start":152.671,"end":157.627,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back",
@@ -746,7 +749,7 @@
       {"start":131.527,"end":138.743,"segType":"outro"},
       {"start":138.743,"end":140.547,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     }
   ]},
@@ -768,7 +771,7 @@
       {"start":124.784,"end":133.621,"segType":"outro"},
       {"start":133.621,"end":137.827,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 42, "order": 2, "trackTitle": "I'm a Loser",
@@ -786,7 +789,7 @@
       {"start":128.964,"end":148.098,"segType":"outro"},
       {"start":148.098,"end":153.507,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 43, "order": 3, "trackTitle": "Baby's in Black",
@@ -807,7 +810,7 @@
       {"start":109.230,"end":123.069,"segType":"chorus"},
       {"start":123.069,"end":127.560,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 44, "order": 4, "trackTitle": "Rock and Roll Music",
@@ -826,7 +829,7 @@
       {"start":128.429,"end":149.125,"segType":"outro"},
       {"start":149.125,"end":153.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 45, "order": 5, "trackTitle": "I'll Follow the Sun",
@@ -843,7 +846,7 @@
       {"start":90.188,"end":106.403,"segType":"verse"},
       {"start":106.403,"end":111.040,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 46, "order": 6, "trackTitle": "Mr. Moonlight",
@@ -858,7 +861,7 @@
       {"start":131.037,"end":151.984,"segType":"verse"},
       {"start":151.984,"end":157.200,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 47, "order": 7, "trackTitle": "Kansas City- Hey, Hey, Hey",
@@ -875,7 +878,7 @@
       {"start":139.347,"end":146.147,"segType":"verse_(fade_out)"},
       {"start":146.147,"end":153.467,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 48, "order": 8, "trackTitle": "Eight Days a Week",
@@ -892,7 +895,7 @@
       {"start":145.731,"end":160.987,"segType":"outro"},
       {"start":160.987,"end":165.427,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 49, "order": 9, "trackTitle": "Words of Love",
@@ -908,7 +911,7 @@
       {"start":110.306,"end":128.514,"segType":"outro"},
       {"start":128.514,"end":134.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 50, "order": 10, "trackTitle": "Honey Don't",
@@ -929,7 +932,7 @@
       {"start":171.984,"end":174.851,"segType":"outro"},
       {"start":174.851,"end":179.600,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 51, "order": 11, "trackTitle": "Every Little Thing",
@@ -948,7 +951,7 @@
       {"start":108.536,"end":119.267,"segType":"outro"},
       {"start":119.267,"end":124.533,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 52, "order": 12, "trackTitle": "I Don't Want to Spoil the Party",
@@ -966,7 +969,7 @@
       {"start":140.807,"end":151.500,"segType":"outro"},
       {"start":151.500,"end":156.173,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 521, "order": 13, "trackTitle": "What You're Doing",
@@ -984,7 +987,7 @@
       {"start":124.331,"end":148.707,"segType":"outro"},
       {"start":148.707,"end":154.693,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 522, "order": 14, "trackTitle": "Every body's Trying to Be My Baby",
@@ -1001,7 +1004,7 @@
       {"start":120.278,"end":142.465,"segType":"verse"},
       {"start":142.465,"end":143.867,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     }
   ]},
@@ -1026,7 +1029,7 @@
       {"start":129.916,"end":136.840,"segType":"outro"},
       {"start":136.840,"end":141.067,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 54, "order": 2, "trackTitle": "The Night Before",
@@ -1044,7 +1047,7 @@
 {"start":146.094,"end":152.932,"segType":"outro"},
 {"start":152.932,"end":156.693,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 55, "order": 3, "trackTitle": "You've Got to Hide Your Love Away",
@@ -1061,7 +1064,7 @@
 {"start":107.698,"end":127.036,"segType":"verse--instrumental"},
 {"start":127.036,"end":131.440,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 56, "order": 4, "trackTitle": "I Need You",
@@ -1078,7 +1081,7 @@
       {"start":134.371,"end":147.307,"segType":"outro"},
       {"start":147.307,"end":151.493,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 57, "order": 5, "trackTitle": "Another Girl",
@@ -1095,7 +1098,7 @@
 {"start":118.039,"end":123.214,"segType":"outro"},
 {"start":123.214,"end":128.000,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 58, "order": 6, "trackTitle": "You're Going to Lose That Girl",
@@ -1112,7 +1115,7 @@
 {"start":128.859,"end":136.359,"segType":"outro"},
 {"start":136.359,"end":140.440,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 59, "order": 7, "trackTitle": "Ticket to Ride",
@@ -1129,7 +1132,7 @@
 {"start":167.620,"end":186.514,"segType":"outro"},
 {"start":186.514,"end":192.493,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 60, "order": 8, "trackTitle": "Act Naturally",
@@ -1147,7 +1150,7 @@
 {"start":140.889,"end":147.934,"segType":"outro"},
 {"start":147.934,"end":153.173,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 61, "order": 9, "trackTitle": "It's Only Love",
@@ -1162,7 +1165,7 @@
 {"start":97.919,"end":114.233,"segType":"outro"},
 {"start":114.233,"end":118.800,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 62, "order": 10, "trackTitle": "You Like Me Too Much",
@@ -1180,7 +1183,7 @@
 {"start":145.821,"end":154.826,"segType":"outro"},
 {"start":154.826,"end":158.800,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 63, "order": 11, "trackTitle": "Tell Me What You See",
@@ -1197,7 +1200,7 @@
 {"start":144.898,"end":155.016,"segType":"outro"},
 {"start":155.016,"end":159.693,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 64, "order": 12, "trackTitle": "I've Just Seen A Face",
@@ -1219,7 +1222,7 @@
 {"start":117.261,"end":122.687,"segType":"outro"},
 {"start":122.687,"end":127.173,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 641, "order": 13, "trackTitle": "Yesterday",
@@ -1236,7 +1239,7 @@
 {"start":114.914,"end":122.853,"segType":"outro"},
 {"start":122.853,"end":127.427,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 642, "order": 14, "trackTitle": "Dizzy Miss Lizzy",
@@ -1280,7 +1283,7 @@
 {"start":130.506,"end":145.649,"segType":"outro"},
 {"start":145.649,"end":150.267,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 66, "order": 2, "trackTitle": "Norwegian Wood (This Bird Has Flown)",
@@ -1297,7 +1300,7 @@
 {"start":112.971,"end":122.694,"segType":"outro"},
 {"start":122.694,"end":125.427,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 67, "order": 3, "trackTitle": "You Won't See Me",
@@ -1314,7 +1317,7 @@
 {"start":186.853,"end":196.020,"segType":"outro"},
 {"start":196.020,"end":202.600,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 68, "order": 4, "trackTitle": "Nowhere Man",
@@ -1333,7 +1336,7 @@
 {"start":143.122,"end":161.037,"segType":"outro"},
 {"start":161.037,"end":164.307,"segType":"outro"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 69, "order": 5, "trackTitle": "Think for Yourself",
@@ -1351,7 +1354,7 @@
 {"start":129.600,"end":136.539,"segType":"outro"},
 {"start":136.539,"end":139.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 70, "order": 6, "trackTitle": "The Word",
@@ -1371,7 +1374,7 @@
 {"start":154.291,"end":160.719,"segType":"bridge"},
 {"start":160.719,"end":163.693,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 71, "order": 7, "trackTitle": "Michelle",
@@ -1391,7 +1394,7 @@
 {"start":139.918,"end":160.869,"segType":"verse--instrumental"},
 {"start":160.869,"end":162.373,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 72, "order": 8, "trackTitle": "What Goes On",
@@ -1409,7 +1412,7 @@
 {"start":157.234,"end":165.938,"segType":"outro"},
 {"start":165.938,"end":170.800,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 73, "order": 9, "trackTitle": "Girl",
@@ -1428,7 +1431,7 @@
 {"start":140.351,"end":148.200,"segType":"chorus"},
 {"start":148.200,"end":153.867,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 74, "order": 10, "trackTitle": "I'm Looking Through You",
@@ -1444,7 +1447,7 @@
 {"start":107.868,"end":142.498,"segType":"verse"},
 {"start":142.498,"end":147.827,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 75, "order": 11, "trackTitle": "In My Life",
@@ -1462,7 +1465,7 @@
 {"start":125.659,"end":143.715,"segType":"outro"},
 {"start":143.715,"end":147.973,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 77, "order": 12, "trackTitle": "Wait",
@@ -1482,7 +1485,7 @@
 {"start":113.649,"end":132.629,"segType":"verse"},
 {"start":132.629,"end":136.960,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 771, "order": 13, "trackTitle": "If I Needed Someone",
@@ -1501,7 +1504,7 @@
 {"start":128.261,"end":139.977,"segType":"outro"},
 {"start":139.977,"end":143.840,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 772, "order": 14, "trackTitle": "Run for Your Life",
@@ -1570,7 +1573,7 @@
       {"start":123.866,"end":127.667,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 80, "order": 3, "trackTitle": "I'm Only Sleeping",
@@ -1591,7 +1594,7 @@
       {"start":175.705,"end":181.667,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 81, "order": 4, "trackTitle": "Love You To",
@@ -1611,7 +1614,7 @@
       {"start":176.416,"end":181.200,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 82, "order": 5, "trackTitle": "Here, There and Everywhere",
@@ -1630,7 +1633,7 @@
       {"start":141.322,"end":145.867,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 83, "order": 6, "trackTitle": "Yellow Submarine",
@@ -1649,7 +1652,7 @@
       {"start":155.139,"end":160.400,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 84, "order": 7, "trackTitle": "She Said She Said",
@@ -1668,7 +1671,7 @@
       {"start":152.592,"end":157.133,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 85, "order": 8, "trackTitle": "Good Day Sunshine",
@@ -1689,7 +1692,7 @@
       {"start":125.940,"end":129.760,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 86, "order": 9, "trackTitle": "And Your Bird Can Sing",
@@ -1709,7 +1712,7 @@
       {"start":117.965,"end":121.733,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 87, "order": 10, "trackTitle": "For No One",
@@ -1729,7 +1732,7 @@
       {"start":117.098,"end":121.707,"segType":"silence"}
     ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 88, "order": 11, "trackTitle": "Doctor Robert",
@@ -1747,7 +1750,7 @@
       {"start":131.832,"end":135.200,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 89, "order": 12, "trackTitle": "I Want to Tell You",
@@ -1766,7 +1769,7 @@
       {"start":144.808,"end":150.627,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 90, "order": 13, "trackTitle": "Got to Get You into My Life",
@@ -1785,7 +1788,7 @@
       {"start":144.808,"end":150.627,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 91, "order": 14, "trackTitle": "Tomorrow Never Knows",
@@ -1806,7 +1809,7 @@
       {"start":175.604,"end":177.400,"segType":"silence"}
       ],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     }
   ]},
@@ -1828,7 +1831,7 @@
 {"start":97.937,"end":117.650,"segType":"verse"},
 {"start":117.650,"end":122.427,"segType":"outro"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 93, "order": 2, "trackTitle": "With a Little Help from My Friends",
@@ -1847,7 +1850,7 @@
 {"start":150.448,"end":164.008,"segType":"outro"},
 {"start":164.008,"end":164.009,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 94, "order": 3, "trackTitle": "Lucy in the Sky with Diamonds",
@@ -1867,7 +1870,7 @@
 {"start":193.356,"end":205.727,"segType":"chorus"},
 {"start":205.727,"end":208.440,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 95, "order": 4, "trackTitle": "Getting Better",
@@ -1886,7 +1889,7 @@
 {"start":156.439,"end":167.511,"segType":"outro"},
 {"start":167.511,"end":167.867,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 96, "order": 5, "trackTitle": "Fixing a Hole",
@@ -1904,7 +1907,7 @@
 {"start":126.578,"end":154.077,"segType":"outro"},
 {"start":154.077,"end":156.627,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 97, "order": 6, "trackTitle": "She's Leaving Home",
@@ -1923,7 +1926,7 @@
 {"start":201.962,"end":213.916,"segType":"outro"},
 {"start":213.916,"end":215.040,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 98, "order": 7, "trackTitle": "Being for the Benefit of Mr. Kite!",
@@ -1938,7 +1941,7 @@
 {"start":112.844,"end":154.776,"segType":"bridge"},
 {"start":154.776,"end":157.093,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 99, "order": 8, "trackTitle": "Within You Without You",
@@ -1955,7 +1958,7 @@
 {"start":273.463,"end":304.001,"segType":"chorus"},
 {"start":304.001,"end":305.067,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 100, "order": 9, "trackTitle": "When I'm Sixty-Four",
@@ -1971,7 +1974,7 @@
       {"start":150.344,"end":157.073,"segType":"outro"},
       {"start":157.073,"end":157.707,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 101, "order": 10, "trackTitle": "Lovely Rita",
@@ -1989,7 +1992,7 @@
 {"start":131.745,"end":161.359,"segType":"outro--variant"},
 {"start":161.359,"end":162.093,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 102, "order": 11, "trackTitle": "Good Morning Good Morning",
@@ -2005,7 +2008,7 @@
 {"start":97.519,"end":119.624,"segType":"verse"},
 {"start":119.624,"end":161.307,"segType":"outro"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 103, "order": 12, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
@@ -2015,7 +2018,7 @@
 {"start":20.533,"end":44.821,"segType":"chorus"},
 {"start":44.821,"end":78.893,"segType":"chorus"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1031, "order": 13, "trackTitle": "A Day in the Life",
@@ -2035,7 +2038,7 @@
 {"start":306.860,"end":333.876,"segType":"break"},
 {"start":333.876,"end":333.907,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     }
   ]},
@@ -2062,7 +2065,7 @@
       {"start":140.245,"end":166.204,"segType":"outro"},
       {"start":166.204,"end":171.827,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 105, "order": 2, "trackTitle": "The Fool on the Hill",
@@ -2081,7 +2084,7 @@
       {"start":159.918,"end":176.109,"segType":"outro"},
       {"start":176.109,"end":180.173,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 106, "order": 3, "trackTitle": "Flying",
@@ -2094,7 +2097,7 @@
       {"start":93.337,"end":131.749,"segType":"outro"},
       {"start":131.749,"end":136.960,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 107, "order": 4, "trackTitle": "Blue Jay Way",
@@ -2113,7 +2116,7 @@
       {"start":186.580,"end":233.327,"segType":"chorus"},
       {"start":233.327,"end":236.707,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 108, "order": 5, "trackTitle": "Your Mother Should Know",
@@ -2130,7 +2133,7 @@
       {"start":127.025,"end":145.575,"segType":"outro"},
       {"start":145.575,"end":149.600,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 109, "order": 6, "trackTitle": "I Am the Walrus",
@@ -2152,7 +2155,7 @@
       {"start":197.625,"end":273.283,"segType":"outro"},
       {"start":273.283,"end":277.067,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 110, "order": 7, "trackTitle": "Hello Goodbye",
@@ -2171,7 +2174,7 @@
       {"start":165.642,"end":206.381,"segType":"outro--variant"},
       {"start":206.381,"end":211.467,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 111, "order": 8, "trackTitle": "Strawberry Fields Forever",
@@ -2189,7 +2192,7 @@
       {"start":172.278,"end":249.540,"segType":"outro"},
       {"start":249.540,"end":250.493,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 112, "order": 9, "trackTitle": "Penny Lane",
@@ -2208,7 +2211,7 @@
       {"start":153.579,"end":180.009,"segType":"refrain"},
       {"start":180.009,"end":183.373,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 113, "order": 10, "trackTitle": "Baby You're a Rich Man",
@@ -2224,7 +2227,7 @@
       {"start":161.634,"end":177.998,"segType":"outro"},
       {"start":177.998,"end":183.760,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 114, "order": 11, "trackTitle": "All You Need Is Love",
@@ -2243,7 +2246,7 @@
       {"start":164.257,"end":224.000,"segType":"outro"},
       {"start":224.000,"end":228.440,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     }
   ]},
@@ -2272,7 +2275,7 @@
       {"start":147.331,"end":163.321,"segType":"outro"},
       {"start":163.321,"end":163.322,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 116, "order": 2, "trackTitle": "Dear Prudence",
@@ -2287,7 +2290,7 @@
       {"start":219.498,"end":232.904,"segType":"outro"},
       {"start":232.904,"end":236.360,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 117, "order": 3, "trackTitle": "Glass Onion",
@@ -2304,7 +2307,7 @@
     {"start":109.064,"end":137.976,"segType":"outro"},
     {"start":137.976,"end":137.977,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 118, "order": 4, "trackTitle": "Ob-La-Di, Ob-La-Da",
@@ -2325,7 +2328,7 @@
       {"start":180.203,"end":188.854,"segType":"outro"},
       {"start":188.854,"end":188.855,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 119, "order": 5, "trackTitle": "Wild Honey Pie",
@@ -2341,7 +2344,7 @@
       {"start":44.290,"end":52.932,"segType":"outro"},
       {"start":52.932,"end":52.933,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 120, "order": 6, "trackTitle": "The Continuing Story of Bungalow Bill",
@@ -2359,7 +2362,7 @@
       {"start":150.837,"end":194.067,"segType":"outro"},
       {"start":194.067,"end":194.067,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 121, "order": 7, "trackTitle": "While My Guitar Gently Weeps",
@@ -2375,7 +2378,7 @@
       {"start":217.275,"end":280.626,"segType":"outro"},
       {"start":280.626,"end":285.293,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 122, "order": 8, "trackTitle": "Happiness Is a Warm Gun",
@@ -2387,7 +2390,7 @@
       {"start":94.498,"end":161.633,"segType":"chorus--variant"},
       {"start":161.633,"end":163.467,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 123, "order": 9, "trackTitle": "Marthy My Dear",
@@ -2403,7 +2406,7 @@
       {"start":142.524,"end":147.508,"segType":"outro"},
       {"start":147.508,"end":148.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 124, "order": 10, "trackTitle": "I'm So Tired",
@@ -2418,7 +2421,7 @@
       {"start":108.611,"end":123.307,"segType":"outro"},
       {"start":123.307,"end":123.307,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 125, "order": 11, "trackTitle": "Black Bird",
@@ -2436,7 +2439,7 @@
       {"start":125.371,"end":138.267,"segType":"outro"},
       {"start":138.267,"end":138.267,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126, "order": 12, "trackTitle": "Piggies",
@@ -2454,7 +2457,7 @@
       {"start":101.964,"end":124.333,"segType":"outro"},
       {"start":124.333,"end":124.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1261, "order": 13, "trackTitle": "Rocky Raccoon",
@@ -2473,7 +2476,7 @@
       {"start":205.959,"end":212.893,"segType":"outro"},
       {"start":212.893,"end":212.893,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1262, "order": 14, "trackTitle": "Don't Pass Me By",
@@ -2490,7 +2493,7 @@
       {"start":206.016,"end":230.400,"segType":"outro"},
       {"start":230.400,"end":230.400,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1263, "order": 15, "trackTitle": "Why Don't We Do It in the Road",
@@ -2502,7 +2505,7 @@
       {"start":71.673,"end":99.389,"segType":"chorus"},
       {"start":99.389,"end":101.440,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1264, "order": 16, "trackTitle": "I Will",
@@ -2516,7 +2519,7 @@
       {"start":84.931,"end":106.027,"segType":"outro"},
       {"start":106.027,"end":106.027,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 1265, "order": 17, "trackTitle": "Julia",
@@ -2551,7 +2554,7 @@
       {"start":153.437,"end":162.922,"segType":"outro"},
       {"start":162.922,"end":162.923,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues",
@@ -2568,7 +2571,7 @@
       {"start":198.078,"end":237.593,"segType":"verse"},
       {"start":237.593,"end":241.093,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126503, "order": 3, "trackTitle": "Mother Nature's Son",
@@ -2585,7 +2588,7 @@
       {"start":157.040,"end":165.706,"segType":"outro"},
       {"start":165.706,"end":168.040,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126504, "order": 4, "trackTitle": "Everybody's Got Something to Hide Except Me and My Monkey",
@@ -2601,7 +2604,7 @@
       {"start":119.739,"end":144.800,"segType":"outro"},
       {"start":144.800,"end":144.800,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126505, "order": 5, "trackTitle": "Sexie Sadie",
@@ -2617,7 +2620,7 @@
       {"start":133.608,"end":195.333,"segType":"outro"},
       {"start":195.333,"end":195.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126506, "order": 6, "trackTitle": "Helter Skelter",
@@ -2635,7 +2638,7 @@
       {"start":152.907,"end":269.231,"segType":"outro"},
       {"start":269.231,"end":269.667,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126507, "order": 7, "trackTitle": "Long Long Long",
@@ -2653,7 +2656,7 @@
       {"start":151.374,"end":183.050,"segType":"outro"},
       {"start":183.050,"end":184.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126508, "order": 8, "trackTitle": "Revolution 1",
@@ -2670,7 +2673,7 @@
       {"start":209.698,"end":255.733,"segType":"outro"},
       {"start":255.733,"end":255.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126509, "order": 9, "trackTitle": "Honey Pie",
@@ -2689,7 +2692,7 @@
       {"start":145.961,"end":161.333,"segType":"verse--instrumental"},
       {"start":161.333,"end":161.333,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126510, "order": 10, "trackTitle": "Savoy Truffle",
@@ -2710,7 +2713,7 @@
       {"start":166.401,"end":173.500,"segType":"outro"},
       {"start":173.500,"end":174.893,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126511, "order": 11, "trackTitle": "Cry Baby Cry",
@@ -2730,7 +2733,7 @@
       {"start":141.638,"end":182.491,"segType":"outro"},
       {"start":182.491,"end":182.492,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126512, "order": 12, "trackTitle": "Revolution 9",
@@ -2741,7 +2744,7 @@
       {"start":415.797,"end":502.200,"segType":"break"},
       {"start":502.200,"end":502.200,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 126513, "order": 13, "trackTitle": "Good Night",
@@ -2785,7 +2788,7 @@
 {"start":183.271,"end":213.499,"segType":"outro"},
 {"start":213.499,"end":216.667,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 128, "order": 2, "trackTitle": "Dig a Pony",
@@ -2806,7 +2809,7 @@
 {"start":208.217,"end":231.245,"segType":"outro"},
 {"start":231.245,"end":234.800,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 129, "order": 3, "trackTitle": "Across the Universe",
@@ -2829,7 +2832,7 @@
 {"start":187.510,"end":222.748,"segType":"outro"},
 {"start":222.748,"end":228.560,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 130, "order": 4, "trackTitle": "I Me Mine",
@@ -2844,7 +2847,7 @@
 {"start":107.511,"end":144.349,"segType":"verse"},
 {"start":144.349,"end":145.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 131, "order": 5, "trackTitle": "Dig It",
@@ -2856,7 +2859,7 @@
 {"start":29.261,"end":50.000,"segType":"chorus"},
 {"start":50.000,"end":50.000,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 132, "order": 6, "trackTitle": "Let It Be",
@@ -2877,7 +2880,7 @@
 {"start":216.549,"end":241.500,"segType":"outro"},
 {"start":241.500,"end":243.307,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 133, "order": 7, "trackTitle": "Maggie Mae",
@@ -2890,7 +2893,7 @@
 {"start":25.692,"end":38.050,"segType":"outro"},
 {"start":38.050,"end":40.600,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 134, "order": 8, "trackTitle": "I've Got A Feeling",
@@ -2908,7 +2911,7 @@
 {"start":188.640,"end":214.150,"segType":"outro"},
 {"start":214.150,"end":217.960,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 135, "order": 9, "trackTitle": "One After 909",
@@ -2926,7 +2929,7 @@
 {"start":153.897,"end":170.535,"segType":"outro"},
 {"start":170.535,"end":175.507,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 136, "order": 10, "trackTitle": "The Long and Winding Road",
@@ -2942,7 +2945,7 @@
 {"start":203.301,"end":215.900,"segType":"outro"},
 {"start":215.900,"end":217.867,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 137, "order": 11, "trackTitle": "For You Blue",
@@ -2958,7 +2961,7 @@
 {"start":125.342,"end":149.200,"segType":"verse/outro"},
 {"start":149.200,"end":152.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 138, "order": 12, "trackTitle": "Get Back",
@@ -3004,7 +3007,7 @@
       {"start":180.829,"end":254.248,"segType":"outro"},
       {"start":254.248,"end":260.627,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 140, "order": 2, "trackTitle": "Something",
@@ -3020,7 +3023,7 @@
       {"start":166.409,"end":179.000,"segType":"outro"},
       {"start":179.000,"end":183.000,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 141, "order": 3, "trackTitle": "Maxwell's Silver Hammer",
@@ -3040,7 +3043,7 @@
       {"start":197.017,"end":204.998,"segType":"outro--variant"},
       {"start":204.998,"end":207.267,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 142, "order": 4, "trackTitle": "Oh! Darling",
@@ -3056,7 +3059,7 @@
       {"start":168.038,"end":204.499,"segType":"verse"},
       {"start":204.499,"end":206.707,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 143, "order": 5, "trackTitle": "Octopus's Garden",
@@ -3071,7 +3074,7 @@
 {"start":156.313,"end":168.099,"segType":"outro"},
 {"start":168.099,"end":171.160,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 144, "order": 6, "trackTitle": "I Want You",
@@ -3088,7 +3091,7 @@
 {"start":277.055,"end":464.110,"segType":"outro"},
 {"start":464.110,"end":467.173,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 145, "order": 7, "trackTitle": "Here Comes The Sun",
@@ -3107,7 +3110,7 @@
 {"start":159.683,"end":183.998,"segType":"outro"},
 {"start":183.998,"end":185.560,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 146, "order": 8, "trackTitle": "Because",
@@ -3125,7 +3128,7 @@
 {"start":126.324,"end":165.250,"segType":"outro"},
 {"start":165.250,"end":165.533,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 147, "order": 9, "trackTitle": "You Never Give Me Your Money",
@@ -3137,7 +3140,7 @@
 {"start":148.093,"end":242.400,"segType":"verse--variant"},
 {"start":242.400,"end":242.400,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 148, "order": 10, "trackTitle": "Sun King",
@@ -3151,7 +3154,7 @@
 {"start":109.960,"end":146.310,"segType":"verse"},
 {"start":146.310,"end":146.307,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 149, "order": 11, "trackTitle": "Mean Mr. Mustard",
@@ -3161,7 +3164,7 @@
 {"start":1.737,"end":35.576,"segType":"verse"},
 {"start":35.576,"end":66.293,"segType":"verse"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 150, "order": 12, "trackTitle": "Polythene Pam",
@@ -3174,7 +3177,7 @@
 {"start":40.868,"end":47.048,"segType":"intro"},
 {"start":47.048,"end":72.733,"segType":"outro"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 151, "order": 13, "trackTitle": "She Came In Through The Bathroom Window",
@@ -3188,7 +3191,7 @@
 {"start":93.320,"end":116.600,"segType":"bridge"},
 {"start":116.600,"end":117.733,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 152, "order": 14, "trackTitle": "Golden Slumbers",
@@ -3200,7 +3203,7 @@
 {"start":34.560,"end":62.211,"segType":"chorus"},
 {"start":62.211,"end":91.573,"segType":"verse"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 153, "order": 15, "trackTitle": "Carry That Weight",
@@ -3212,7 +3215,7 @@
 {"start":67.364,"end":89.874,"segType":"chorus"},
 {"start":89.874,"end":96.867,"segType":"outro"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 154, "order": 16, "trackTitle": "The End",
@@ -3223,7 +3226,7 @@
 {"start":89.014,"end":123.498,"segType":"break--instrumental"},
 {"start":123.498,"end":139.827,"segType":"silence"}],
     "notes": [
-      "note"
+      "Notes coming soon"
     ]
     },
     {"trackIndex": 155, "order": 17, "trackTitle": "Her Majesty",
