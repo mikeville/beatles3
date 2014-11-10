@@ -394,11 +394,21 @@ function setEventsTest() {
   $('.track-container').click(function(){ 
     var albumIndex = $('#track-container--0').parent().data('albumindex');
     var trackIndex = $(this).data('trackindex');
-    var videoLink = data.master[albumIndex].tracks[trackIndex].videoLink;
+    var videoLink = data.master[albumIndex].tracks[trackIndex].links.video;
+    var lyrics = data.master[albumIndex].tracks[trackIndex].links.lyrics2;
 
-    $(this).find('.track-container__graphic-container__notes-container__video-container').html(
-      "<iframe class='video-container__video' src='"+videoLink+"' frameborder='0' allowfullscreen></iframe>"
-    )
+    // $(this).find('.track-container__graphic-container__notes-container__video-container').html(
+    //   "<iframe class='video-container__video' src='"+videoLink+"' frameborder='0' allowfullscreen></iframe>"
+    // )
+
+    // $(this).find('.track-container__graphic-container__notes-container__video-container').html(
+    //   // lyricsLink
+    //   "<div id='"+lyrics.id+"' class='rg_embed_link'><a href='"+lyrics.link+"'>Annotated Lyrics</div><script src='"+lyrics.source+"''></script>"
+    // )
+
+// <div id='rg_embed_link_112197' class='rg_embed_link'>Read <a href='http://rock.genius.com/The-beatles-i-saw-her-standing-there-lyrics'>“I Saw Her Standing There” by The Beatles</a> on Genius</div><script src='//rock.genius.com/songs/112197/embed.js?dark=1'></script>
+
+
   })
 }
 

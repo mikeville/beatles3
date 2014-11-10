@@ -47,7 +47,7 @@
     <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
   </div>
   <nav class='site-header__nav2'>
-    <a class="nav2__link" href="/">Shop</a>
+    <a class="nav2__link" href="http://mike-deals-shop.myshopify.com/collections/charting-the-beatles" target="_blank">Shop</a>
   </nav>
 </script>
 
@@ -58,7 +58,7 @@
   </div>
   <nav class='site-header__nav2'>
     <a class="nav2__link" href="/">Home</a>
-    <a class="nav2__link" href="/">Shop</a>
+    <a class="nav2__link" href="http://mike-deals-shop.myshopify.com/collections/charting-the-beatles" target="_blank">Shop</a>
     <a class="nav2__link" href="/"><span class="nav2__link--next-tag">Next:</span> Tonality</a>
   </nav>
 </script>
@@ -76,33 +76,45 @@
 <script id='template__page__home' type="text/x-handlebars-template">
   <div class='page-header'>
     <p class='page-header__subheader page-header__subheader--home'>
-      The Beatles evolved over time. This project seeks to visualize those changes with graphic representations of their recorded works, a rich/lovely dataset. What areas of their evolution interest you most?:
+    Explore graphic studies of the band’s evolution.
     </p>
     <p class='page-header__description body-copy'>
     </p>
   </div>
   <div class="thumb-index">
     <div class="thumb-index__thumb thumb--primary">
-      <a href="#songstructure">The form and structure of their songs</a>
+      <a href="#songstructure"><img class="thumb-index__thumb__img" src="images/thumb-songstructure.jpg"></a>
     </div>
     <div class="thumb-index__thumb thumb--secondary">
-      <a href="#authorship">Songwriting authorship for each song</a>
+      <a href="#authorship"><img class="thumb-index__thumb__img" src="images/thumb-authorship.jpg"></a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#selfreference">Self-references to prevoius works</a>
+      <a href="#selfreference"><img class="thumb-index__thumb__img" src="images/thumb-selfreference.jpg"></a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#schedule">Recording schedule</a>
+      <a href="#schedule"><img class="thumb-index__thumb__img" src="images/thumb-schedule.jpg"></a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
-      <a href="#tonality">Tonality, and use of keys</a>
+      <a href="#tonality"><img class="thumb-index__thumb__img" src="images/thumb-tonality.jpg"></a>
     </div>
   </div>
   <div class="index__store-box">
-    Any Beatles lovers in your family? Order a poster
+    <div class="index__store-box__image-container">
+      <a href="http://mike-deals-shop.myshopify.com/collections/charting-the-beatles" target="_blank"><img class="thumb-index__thumb__img" src="images/beatles-141109-PosterMockupComp2-24x36-schedule.jpg"></a>
+    </div>
+    <div class="index__store-box__text-container">
+      Any Beatles lovers in your family? <br>
+      <a class="link--highlight" href="http://mike-deals-shop.myshopify.com/collections/charting-the-beatles" target="_blank">Poster gifts available</a>
+    </div>
   </div>
   <div class="index__signup-box">
-    This is an ongoing project. If you’d like to receive a message when more graphics and posters are added, submit your email.
+    <p class="index__signup-box__copy">
+    This is an ongoing project. If you’d like to receive a message when more graphics are added, submit your email:
+    </p>
+    <form>
+      <input type="text" name="email" placeholder="email address">
+      <input type="submit" value="Submit">
+    </form>
   </div>
 </script>
 
@@ -172,10 +184,12 @@
         </li>
         <li id='legend__authorship--other' class='legend-item legend__segment'>Other
         </li>
-        <li class='legend-item legend-item--chip legend__segment'>Co-written Song<span id='legend__authorship--cowritten' class='legend__chip'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
       </ul>
     </div>
   </div>
+</div>
+<div class='timeline-container'>  
+  <img class="static-graphic" src="images/static-authorshipoverview.gif"> 
 </div>
 <div id='timeline-container' class='timeline-container'>  
 </div>
@@ -209,7 +223,7 @@
   </div>
 </div>
 <div id='timeline-container--selfreference' class='timeline-container'>  
-  <img class="static-graphic" src="images/Beatles_141105_CompForSiteSketch-selfreference.gif"> 
+  <img class="static-graphic" src="images/static-selfreference.gif"> 
 </div>
 </script>
 
@@ -240,7 +254,7 @@
   </div>
 </div>
 <div id='timeline-container--schedule' class='timeline-container'>  
-  <img class="static-graphic" src="images/Beatles_141105_CompForSiteSketch-schedule.gif"> 
+  <img class="static-graphic" src="images/static-schedule.gif"> 
 </div>
 </script>
 
@@ -253,7 +267,7 @@
     How did the form of Beatles songs evolve?
   </p>
   <p class='page-header__description body-copy'>
-    This is some copy describing what to look out for in the graphic below. The notes are selections from Alan Polack’s <a href="#">“Notes on...”</a> series. Data is adopted from <a href="#">John Smith’s MIT dissertation</a>.
+    The Circle of Fifths is a visual representation of the 12 tones of the chromatic scale. If we use this structure to plot the relative distribution of keys in which each album’s songs were written, we start to see evolving tonal relationships as the Beatles’ songwriting matured.
   </p>
 </div>
 <div id='context-container-wrapper'>
@@ -271,7 +285,7 @@
   </div>
 </div>
 <div id='timeline-container--tonality' class='timeline-container'>  
-  <img class="static-graphic" src="images/Beatles_141105_CompForSiteSketch-tonality.gif"> 
+  <img class="static-graphic" src="images/static-tonality.gif"> 
 </div>
 </script>
 
@@ -291,7 +305,9 @@
 
 
 <script id='test-footer' type="text/x-handlebars-template">
-  <h1>FOOTER FOOTER FOOTER</h1>
+  <p>
+    By <a href="http://www.shapeshop.co" target="_blank" class="link--highlight">Shape Shop</a> (available for hire).
+  </p>
 </script>
 
 
