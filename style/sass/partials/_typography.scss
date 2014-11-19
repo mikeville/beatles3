@@ -18,6 +18,11 @@ html {
   color: $text;
 }
 
+.body-copy {
+  @include rhythm(0,0,0,2);
+  font-weight: 300;
+}
+
 a {
   color: $text;
   text-decoration: none;
@@ -31,6 +36,7 @@ a:hover,
 .body-copy a {
   color: $yellow;
 }
+
 
 
 .link--highlight {

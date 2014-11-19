@@ -82,7 +82,7 @@ var UI = Backbone.View.extend({
   initialize: function(attributes){
     this.renderHeader()
     this.renderBodyContent()
-    this.renderFooter()
+    // this.renderFooter()
 
     initSticky();
   },
@@ -137,12 +137,12 @@ var UI = Backbone.View.extend({
     }
 
 
-  },
-
-  renderFooter: function(){
-    var templateFooter = Handlebars.compile( $('#test-footer').html() )
-    $('#site-footer').html( templateFooter )
   }
+
+  // renderFooter: function(){
+  //   var templateFooter = Handlebars.compile( $('#test-footer').html() )
+  //   $('#site-footer').html( templateFooter )
+  // }
 })
 
 
@@ -410,7 +410,22 @@ function setEventsTest() {
 
 
   })
+
+
 }
+
+
+
+
+// function lyricsDisplayer(){
+//     $('.lyrics-test').click(function(){
+//       console.log('clicked')
+//       $('.lyrics-test-container').addClass('hidden');
+//       $('.lyrics-test-container').hide();
+//       $('.index__signup-box').addClass('hidden');
+//     })
+// }
+
 
   // ======================================================
   // Highlight instances of segment names in notes ========
@@ -563,6 +578,8 @@ $(function(){
     // Clear loading message
     $('#loading-message').empty();
 
+
+    // lyricsDisplayer();
 
   })
   

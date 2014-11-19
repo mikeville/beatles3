@@ -1,3 +1,68 @@
+.hidden {
+  display: none;
+
+}
+
+
+#form-test {
+
+  .mpzFrmOuter5214 {
+    border: none;
+    border-top: 1px solid $text;
+  }
+
+  .mpzFrmTitle5214,
+  .mpzFrmIntro5214,
+  .mpzFrmIntro5214,
+  .mpzFrmButton5214 {
+    margin: 0;
+    padding: 0;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .mpzFrmInput5214 {
+    color: $text;
+  }
+
+  .mpzFrmButton5214 {
+    margin: 0;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    vertical-align: text-top;
+  }
+
+
+  .mpzFrmOuter5214 {
+    @include span(6 of 6);
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    margin-right: 0;
+  }
+
+  #mpzdata-5214-firstname {
+    @include span(2 of 6);
+  }
+
+  #mpzdata-5214-email {
+    @include span(2 of 6);
+  }
+
+  .mpzFrmButton5214 {
+    @include span(last 2 of 6);
+  }
+
+}
+
+
+.for-hire-message {
+  @include rhythm(2,0,0,0);
+}
+
+
 /*------------------------------------*\
     #CONFIG-SUSY
 \*------------------------------------*/
