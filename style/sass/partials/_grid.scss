@@ -120,6 +120,10 @@ svg {
   // @include border(green);
 }
 
+.image {
+  width: 100%;
+}
+
 
 /*------------------------------------*\
     #HEADER
@@ -333,6 +337,19 @@ svg {
   // height: 24px;
    width: 200px;
    height: 200px;
+}
+
+// hide horizontal line in axis:
+.domain {
+  display: none;
+}
+
+
+
+.axis-container--authorship {
+  margin-left: span(3 of 12);  
+  @include span(last 9 of 12);
+  @include rhythm(5,0,0,3);  
 }
 
 

@@ -168,7 +168,9 @@ var albumContainers,
     trackContainers,
     trackTitles,
     graphicContainer,
-    trackGraphics
+    trackGraphics,
+    axisAuthorship
+
 
 
 function setUpD3() {
@@ -217,6 +219,24 @@ function setUpD3() {
     .append('h3')
       .attr('class', 'album-container__label-container__label')
     .text(function(d) { return d['albumTitle']; });
+
+
+   // Add Axis ================
+
+  // axisAuthorship = albumContainers.append('div')
+  //     .attr('class', 'track-container axis--authorship')
+
+  // axisAuthorship.append('div')   
+  //     .attr('class', 'track-container__label-container')
+  //   .append('h4')  
+  //     .attr('class', 'track-container__label-container__label')
+
+  // axisAuthorship.append('div')
+  //     .attr('class', 'track-container__graphic-container')
+  //         .append('h4')  
+  //     .attr('class', 'track-container__label-container__label')
+  //     .html('<img class="image" src="images/axis-authorship.png">')
+
 
   // Make track containers =============
   trackContainers = albumContainers.selectAll('.track-container')
