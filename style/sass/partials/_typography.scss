@@ -20,7 +20,7 @@ html {
 
 .body-copy {
   @include rhythm(0,0,0,2);
-  font-weight: 300;
+  font-weight: 100;
 }
 
 a {
@@ -95,9 +95,19 @@ a:hover,
   @include rhythm(1,0,0,1);
 }
 
+.page-header__title {
+  @include adjust-font-size-to(3rem, 6);
+  font-weight: 500;
+  @include rhythm(0,0,0,1);
+  color: $green;
+}
+
 .page-header__subheader {
-  @include adjust-font-size-to(1.5rem, 4);
+  @include adjust-font-size-to(2rem, 4.5);
   font-weight: 200;
+    @include rhythm(0,0,0,2);
+    color: $green;
+
 }
 
 .context-container__axis-container,
