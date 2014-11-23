@@ -354,7 +354,7 @@ function drawSongStructureD3(){
       .attr('class', 'axis')
       .attr('transform', 'translate(1, 20)')
       .attr('stroke', colorText)
-      // .attr('fill', colorText)
+      .attr('fill', 'none')
       .call(segmentsAxis)
     .selectAll('text') 
       .attr('transform', 'translate(2, 0)')

@@ -793,8 +793,8 @@ html, body {
   padding-top: 0rem;
   padding-bottom: 0px;
   padding-bottom: 0rem;
-  margin-bottom: 0px;
-  margin-bottom: 0rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 
 /* line 280, ../sass/partials/_grid.scss */
@@ -902,11 +902,6 @@ html, body {
 .video-container__video {
   width: 200px;
   height: 200px;
-}
-
-/* line 343, ../sass/partials/_grid.scss */
-.domain {
-  display: none;
 }
 
 /* line 349, ../sass/partials/_grid.scss */

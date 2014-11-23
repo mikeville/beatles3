@@ -274,7 +274,7 @@ svg {
 
 #context-container-wrapper {
   @include span(12 of 12);
-  @include rhythm(4,0,0,0);
+  @include rhythm(4,0,0,4);
 }
 
 #context-container,
@@ -341,7 +341,7 @@ svg {
 
 // hide horizontal line in axis:
 .domain {
-  display: none;
+  // display: none;
 }
 
 
