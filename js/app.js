@@ -218,7 +218,7 @@ function setUpD3() {
       .attr('class', 'album-container__label-container')
     .append('h3')
       .attr('class', 'album-container__label-container__label')
-    .text(function(d) { return d['albumTitle']; });
+    .html(function(d) { return d['albumTitle'] + ' <span class="album-container__label-container__year">' + d['releaseDate']['year'] + '</span>'; });
 
 
    // Add Axis ================
@@ -322,7 +322,7 @@ function drawSongStructureD3(){
       .data(function(d, i) { return d['notes'] })
     .enter().append('li')
       .attr('class', 'note-list__note')
-      .text(function(d) { return d; })
+      .html(function(d) { return d; })
 
   var videoContainers = noteContainers.append('div')
     .attr('class', 'track-container__graphic-container__notes-container__video-container')
@@ -460,7 +460,7 @@ function addSegmentSpanClasses(){
     v_erse: ['verses', 'verse'],
     b_ridge: ['bridges', 'two-bridge', 'double-bridge', 'mini-bridge', 'bridge'],
     i_nstrumental: ['solos', 'solo', 'break', 'breaks'],
-    v_ariant: ['variant', 'variation']
+    v_ariant: ['variant', 'variations', 'variation']
   }
 
   function replaceAny(targetList, spanClass) {

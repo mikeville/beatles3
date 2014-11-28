@@ -25,7 +25,7 @@ html {
 
 a {
   color: $text;
-  text-decoration: none;
+  // text-decoration: none;
 }
 
 a:hover,
@@ -34,7 +34,7 @@ a:hover,
 }
 
 .body-copy a {
-  color: $yellow;
+  // color: $yellow;
 }
 
 
@@ -110,6 +110,10 @@ a:hover,
 
 }
 
+.page-header__subheader--home {
+  color: $text;
+}
+
 .context-container__axis-container,
 #context-container__axis-container__axis {
   @include adjust-font-size-to(0.8rem, 3);
@@ -133,6 +137,11 @@ a:hover,
   @include rhythm(0,0,0,3);
 }
 
+
+.album-container__label-container__year {
+  @include adjust-font-size-to(1.5rem);
+  font-weight: 100;
+}
 
 .track-container__label-container {
   text-transform: uppercase;
@@ -213,4 +222,11 @@ a:hover,
 .index__signup-box__copy {
   @include adjust-font-size-to(0.8rem, 2.5);
   @include rhythm(0,0,0,1);
+}
+
+
+
+.for-hire-message {
+  @include adjust-font-size-to(0.8rem);
+
 }

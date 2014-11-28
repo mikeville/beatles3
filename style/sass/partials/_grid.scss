@@ -69,6 +69,7 @@
 
 
 .for-hire-message {
+  @include span(6 of 6);
   @include rhythm(2,0,0,0);
 }
 
@@ -230,6 +231,7 @@ svg {
 
 .thumb-index__thumb__img {
   width: 100%;
+  @include rhythm(0,0,0,0);
 }
 
 .index__store-box {
@@ -307,6 +309,13 @@ svg {
   @include rhythm(0,1,0,1);
 }
 
+.context-container__legend-container--songstructure {
+  @include rhythm(0,1,0,4);
+}
+
+.overview-graphic--song-structure {
+  @include rhythm(0,0,0,10);
+}
 
 /*------------------------------------*\
     #TIMELINE

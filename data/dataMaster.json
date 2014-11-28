@@ -249,7 +249,7 @@
 {"start":127.233,"end":152.147,"segType":"bridge"},
 {"start":152.147,"end":153.267,"segType":"silence"}],
     "notes": [
-      "[In the original version] The Isleys end the song with an extended jam on the verse which follows the first arpeggio buildup. The Boys had the savvy to not only repeat the bridge and buildup but to parlay the latter into a slow-triplet-bound complete ending. This gives the overall thrust of the song a much greater sense of teleology, of having 'arrived' somewhere; the Isleys (itself not at all a bad version by any means) sounds in comparison more like just static vamping."
+      "[In the original version] The Isleys end the song with an extended jam on the verse which follows the first arpeggio buildup. The Boys had the savvy to not only repeat the bridge and buildup but to parlay the latter into a slow-triplet-bound complete ending. This gives the overall thrust of the song a much greater sense of <a href='http://en.wikipedia.org/wiki/Teleology' target='_blank'>teleology</a>, of having 'arrived' somewhere; the Isleys (itself not at all a bad version by any means) sounds in comparison more like just static vamping."
     ]
     }
   ]},
@@ -544,7 +544,9 @@
       {"start":135.695,"end":147.450,"segType":"outro"},
       {"start":147.450,"end":152.520,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Though much less directly blues-derived than either 'Can't Buy Me Love' or 'You Can't Do That', 'A Hard Day's Night' bears close comparison to both of those songs. At the very least, all three of them share the same long form, with two bridges and an instrumental break. Of course, the more interesting connection is the manner in which 'A Hard Day's Night' takes one step further the concept, seen in the other two songs, of a style borne of the fusion between traditional blues elements and those more recognizable as the Beatles' own trademarks.",
+      "Next note There's a bonafide trend to be charted here: 'Can't Buy Me Love' had a verse section that was close to pure blues in form, chord progression and melody. 'You Can't Do That' retained the blues form and the chord progression, but its melody already had wavered between the minor and Major third. In 'A Hard Day's Night', only the twelve-bar length and AAB phrasing of the blues remains along with some of the minor third melodic flavor, but the rest had long since gone the way of Lennon and McCartney.",
+      "Next note 'A Hard Day's Night' is a particularly forward-looking song as well. Aside from several innovations in the area of harmony and arrangement, its rhythmic resources make an especially strong contribution. As we'll see during our walk-through, behind the generally energetic and syncopated bustle that appears on the surface, there is also a great deal of forward thrust generated here by the way the music, on an almost subliminal level, toys around with surprising stop-and-go contrasts of pace and activity."
     ]
     },
     {"trackIndex": 29, "order": 2, "trackTitle": "I Should Have Known Better",
@@ -562,7 +564,10 @@
       {"start":150.938,"end":159.400,"segType":"outro"},
       {"start":159.400,"end":164.080,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The form is an unusual, even strange, variation on the more standard two-bridge model, the novel features being the appearance of three verse sections in a row between the bridges (the middle one of which is an instrumental), and the segue of the second bridge directly into the outro without a verse section intervening.",
+      "In addition, we run into, for the first time in this series, a situation where the two verses that precede a bridge section are subtly modified in order to effect a smoother formal transition. While this procedure is definitely not the default of the genre, neither is it all exceptional. Browsing through the Beatles canon, we find the following other examples, and the list here excludes cases in which a verse variant is used for purposes other than smoothing the bridge transition (such as only to smooth the transition to the outro, or simply for the heck of it): 'There's A Place'; 'Not A Second Time'; 'You're Going To Lose That Girl'; 'Within You Without You'; 'Good Morning Good Morning'; 'A Day In The Life'; 'I Am The Walrus'.",
+      "Next note The list is clearly dominated by John, and in spite of a couple relatively early examples, the big crush appears around the 'Sergeant Pepper's' album.",
+      "Next note Four of the verses have lyrics with an overall repeat scheme of ABCB. In other words, the verses before each bridge share the same lyrics. The 'text' of this song pervasively incorporates trademark Beatles wordplay on phonemes ('hey-hey-hey,' 'woah-woah,' 'So-oh,' and 'tooooh -ooh-ooh-ooh, oh') and immediate repeating of short trite phrases ('and I do,' 'can't you see,' and 'give me more')."
     ]
     },
     {"trackIndex": 30, "order": 3, "trackTitle": "If I Fell",
@@ -577,7 +582,8 @@
       {"start":129.289,"end":137.150,"segType":"outro"},
       {"start":137.150,"end":142.027,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This one was one of the most soulful songs Lennon and McCartney had yet written at the time of its initial release, and the harmonic card trick contained in its intro remains one of their most clever and daring ever.",
+      "Next note The form is also unusual. Instead of a discrete bridge or refrain section, formal contrast is provided by a bridge-like extension that grows directly out of each of the inner two verses."
     ]
     },
     {"trackIndex": 31, "order": 4, "trackTitle": "I'm Happy Just To Dance With You",
@@ -594,7 +600,7 @@
       {"start":101.750,"end":114.399,"segType":"outro"},
       {"start":114.399,"end":118.680,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "A brisk tempo combines here with relatively small section lengths to make this a short song with a paradoxically longish form; the refrain is not only repeated twice, but the latter half of it appears as part of the intro as well."
     ]
     },
     {"trackIndex": 32, "order": 5, "trackTitle": "And I Love Her",
@@ -611,7 +617,10 @@
       {"start":131.306,"end":147.168,"segType":"outro"},
       {"start":147.168,"end":151.053,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "With 'And I Love Her' we move still earlier in the songbook to the first of Macca's unabashed original love songs to be released, and an equally early example of a kind of Major/minor key harmonic twist that emerges as a much favored stylistic technique of their's over the long run.",
+      "Next note Indeed, the plaintive bitter-sweetness of 'And I Love Her' derives in large measure from it's tonal ambiguity; is it in a Major or minor key?",
+      "Next note The song continually flip-flops back and forth between a minor key (c# minor) and its relative Major (E Major). Another major point of interest (and source of ambiguity) in this song is that it makes a delicious modulation up one-half step at the beginning of the guitar break, but more on that later.",
+      "Next note The form is unusual: one bridge, only, with two verses preceding and three verses following; and the middle verse of the final three scored for guitar solo. The first three of the four verses set to words feature different lyrics in a verbal pattern of 'I,' 'She,' and 'the stars.' The final verse repeats the 'stars' lyric."
     ]
     },
     {"trackIndex": 33, "order": 6, "trackTitle": "Tell Me Why",
@@ -628,7 +637,8 @@
       {"start":102.946,"end":125.718,"segType":"chorus"},
       {"start":125.718,"end":130.053,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Superficially speaking, 'Tell Me Why' is not one of the more conspicuously forward looking songs on the 'Hard Day's Night' album. The very limited, conventionalized set of chords, and the antiphonal vocal arrangement seem particularly familiar, if not predictable. Nonetheless, the bracing, confrontational tone of the lyric, and the subliminal way in which 'the blues' are conjured even in absence of the twelve-bar form, mark this song as one very much if its place in time and context.",
+      "Next note The form is also unusual both in the way it leads off with a refrain, but even more so in the way that the lone bridge section is saved for very near the end."
     ]
     },
     {"trackIndex": 34, "order": 7, "trackTitle": "Can't Buy Me Love",
@@ -646,7 +656,7 @@
       {"start":117.220,"end":130.322,"segType":"outro"},
       {"start":130.322,"end":134.920,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We have here a very standard long form with two refrain-like bridges separated by two verse sections, one of which contains a guitar solo. However the combination within the same song of a verse section so traditionally bluesy with a refrain, intro and outro that is equally so non bluesy is far from routine and makes this number truly ground-breaking in its own quiet way."
     ]
     },
     {"trackIndex": 35, "order": 8, "trackTitle": "Any Time At All",
@@ -663,7 +673,11 @@
       {"start":120.415,"end":129.193,"segType":"outro"},
       {"start":129.193,"end":133.387,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Any Time At All' is yet another one of those Beatles songs that tends to get eclipsed by the more popular hits of its period, that is still quite a pleasure to discover at whatever stage of your interest in the group's music you eventually encounter it. It's also a fine example of a song whose form and content on the surface seems so straightforward and familiar, yet once you get past the surface glitz, and the simpler pleasures, you find a wealth of more adventurous options to be explored.",
+      "Next note I embarked on this series of articles fully expecting in short order to stumble occasionally — if not quite repeatedly — into examples of formulaic Beatles songwriting. But thus far, every one I've chosen reveals its own variations, once we look at it carefully enough. I am beginning to suspect that by the time we get through the entire repertoire, we'll still not have come across too many songs in total can be said to be playing it strictly by the so-called rules.",
+      "Next note In 'Any Time At All' the form is conspicuously not a variation of the more familiar one- or two-bridge models we've seen over and over again, and is noteworthy on three counts: 1) A frequently recurring refrain section dominates the song. This folk ballad-like design, while a common enough device in other pop and folk music and, is not often found in the early work of the Boys. 2) The song contains only two verses. I assume that the doubled-up length of the verses themselves, the number of repeats of the refrain, and the peculiar placement of the bridge so close to the end of the track all argue against inclusion of a late-breaking third verse. 3)The bridge itself introduces new, unique material — though the melodic material does link back to the appoggiatura stuff earlier — rather than recycling material from the refrain or the verse as is more common.",
+      "Next note The two verses contain no lyrics that are repeated. Their rhyme scheme using the third and sixth line of each verse is novel.",
+      "Next note In context of the refrain's starting with a long pickup and the verse's starting after the downbeat I think it's an effective — and not entirely coincidental — twist that the instrumental section starts right on the downbeat. Note how much flatter the whole song sounds if the break section simply opts for the same rhythmic gesture of either the verse or refrain."
     ]
     },
     {"trackIndex": 36, "order": 9, "trackTitle": "I'll Cry Instead",
@@ -679,7 +693,8 @@
       {"start":82.576,"end":103.468,"segType":"verse"},
       {"start":103.468,"end":107.720,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The 'official' version, found on the British 'Hard Day's Night' album, is a standard two-bridge model with neither an instrumental solo section nor double verse in between the two bridge sections. An small unusual twist here is the lack of an outro, proper; instead, the song simply comes to a complete halt at the end of the final verse.",
+      "Next note Strange as it sounds, the song was planned at one point to be used in The Film as the musical accompaniment to the 'running and jumping' scene, instead of 'Can't Buy Me Love'. In order to lengthen it out to match the timing of the film scene, an 'alternate' version, with the first verse repeated at the end, was artificially spliced together. This formalistic oddity can be found on the American film album (from United Artists) as well as the mono pressing of 'Something New'."
     ]
     },
     {"trackIndex": 37, "order": 10, "trackTitle": "Things We Said Today",
@@ -696,7 +711,11 @@
       {"start":145.078,"end":153.483,"segType":"outro"},
       {"start":153.483,"end":158.827,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Things We Said Today' is one of the earliest and best-ever examples of the innovative Harmony stunts which The Beatles were capable of, being uninhibited as they were by any schoolbook knowledge of the so-called rules. On the lyrical side here, there's a correspondingly precocious ambiguity over the exact scenario in which the song, on the surface just a plain old love ballad, takes place.",
+      "Next note The one thing that does seem fairly clear is that it's about the imperturbable constancy of true love in the face of logistical challenge, or perhaps more precisely, the fear of challenge. As you might expect, one of the most exciting discoveries to be made in an analysis of such a song is the way in which the details of the music assist the words in the evocation of an otherwise difficult to verbalize complex of emotions.",
+      "Next note Our friend Macca, in an interview clip from the 'Put It There' video, suggests that he chose to revive this song for the 1989/1990 tour because it 'says something nice, ... it's a simple song, ... easy to play.' What do you think? Is it that he doesn't give himself enough credit, or perhaps, are we hearing just a small note of false modesty?",
+      "Next note The form is the standard two-bridge model with a single verse intervening. In context it achieves a delicate balance between the rambling and the forthright. The inclusion of two bridges is in the interest of conjuring a somewhat relaxed mood. But the omission of an instrumental solo section, which would have probably appeared either in place of the third verse or as an additional verse section preceding the second bridge, keeps the proceedings from becoming too relaxed. After all, we need to keep focused with some urgency on the fact that the protagonist has a lot that he must say right now lest this moment pass.",
+      "Next note The lyrics of the four verses contain a refrain-like final couplet based on the title phrase, and they create a pattern of ABCC. The AB verses feature a characteristic 'I / we' swap, and they, along with the two bridges, rhythmically begin right on the downbeat. The CC verses are each more tightly integrated with the bridges that precede them so that they rhythmically begin well ahead of the downbeat, with the phrase 'and that's enough;' the downbeat falling in this case on the final syllable."
     ]
     },
     {"trackIndex": 38, "order": 11, "trackTitle": "When I Get Home",
@@ -714,7 +733,10 @@
       {"start":126.630,"end":134.142,"segType":"outro"},
       {"start":134.142,"end":138.347,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We wind up here completing our study of the Beatles' third album with this relatively less popular but nonetheless characteristically novel and interesting number. I believe that some listeners find in this song a tense agitation in the refrain and a fierce determination in the verse that are irritatingly out of proportion to the situation implied by the lyrics. For my own tastes, this contrast only goes to heighten a sense of irony and intrigue about the song.",
+      "Next note After all, just why the forceful delivery? Is the hero simply worried that he'll be somehow prevented by the second woman from returning 'home', or perhaps is it more the reflection of an inner ambivalence within the hero himself about wanting to effect such a return? I similarly wonder what in blazes he possibly means by the line 'I'll love her more till I walk out that door again' — just going to work or out on errands the next day after his planned return, or is this some off-handed allusion to the inevitability of repeated philandering? Such wonderfully elliptical ambiguity! :-) But getting back to the music ...",
+      "Next note The most unusual item found here is the key scheme. The relatively large number of songs on the 'A Hard Day's Night' album which make conspicuous use of either relative Major/minor shifts (e.g. 'And I Love Her' and 'I'm Happy Just To Dance With You' ) or parallel Major/minor shifts (e.g. 'Things We Said Today' and 'I'll Be Back') has already been discussed in this series. But 'When I Get Home' is the only example we've seen in which both gambits are used in the same song.",
+      "Next note Secondarily, the form of the song is also unusual, starting off with a refrain, but also containing a bridge, as well. Compare this, by the way, with 'Tell Me Why'."
     ]
     },
     {"trackIndex": 39, "order": 12, "trackTitle": "You Can't Do That",
@@ -732,7 +754,8 @@
       {"start":147.703,"end":152.671,"segType":"outro"},
       {"start":152.671,"end":157.627,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Generally speaking, 'You Can't Do That' foreshadows a heavier, harder-rocking sound for the group that would infiltrate an increasingly large portion of their repertoire over the next couple or three albums. Call it the dawn of the Later Early Period :-)",
+      "Next note It also bears a close comparison to its companion A-side, 'Can't Buy Me Love'. Both have the same form although the bridge of this one is closer to a 'true' bridge than the refrain-like one we saw last time. Both songs also display a split stylistic personality by utilizing relatively straight blues in the verse but not at all in the bridge. The split in 'You Can't Do That' runs even deeper to the extent that the verse itself is not the pure twelve-bar blues variety seen in 'Can't Buy Me Love', but rather features other elements thrown into the mix."
     ]
     },
     {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back",
@@ -749,7 +772,12 @@
       {"start":131.527,"end":138.743,"segType":"outro"},
       {"start":138.743,"end":140.547,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The poignant bitter-sweetness of 'I'll Be Back' stems in large part from its obvious yet equally effective gambit of shifting constantly back and forth between the Major and minor modes of 'A.' There'll be more to say about this before the end but as usual, you find much more than just this one gambit in a detailed walkthrough of the song.",
+      "Next note The form is deceptively familiar but, as we've often seen with other songs, it reveals an uncommon design upon closer look. Most unusual here is the total of three bridge sections, the middle one of which is musically different from the outer two, even though it bears some resemblance to the them.",
+      "Next note The intro, at first blush, would seem almost negligible in its scant two-measure length, but is crucial for the way its being in A Major sets the surprise-trap for the verse, which follows beginning in a minor. I find it rather sublime to contemplate how what you come to later recognize as the central personality trait of this song is presented so neatly encapsulated right off at the start.",
+      "Next note The outro, of course, recapitulates this same notion. For a change, the standard device of a looped figure repeating into a fade-out actually is of 'programmatic' significance to the extent that it helps us visualize our hero heading off into the metaphorical sunset with the most exquisitely ambivalent feelings in his heart.",
+      "Next note We also have here yet another one of our examples of an avoidance of foolish consistency — the final verse is truncated to half of its normal length. It's a good example of formalistic fine-tuning. While it wouldn't be the end of the world to leave this last verse just like the others, when you consider the cumulative duration of the song caused by the preceding three verses plus three bridges, it's probably a good thing the Boys decided to not keep us. Play it out in your head with a full final verse and see for yourself if you start getting a tad antsy or not.",
+      "Next note The lyrics of the four verses make a pattern of ABBA', with the middle two identical, and the final one being an abridged variation of the first one."
     ]
     }
   ]},
@@ -771,7 +799,9 @@
       {"start":124.784,"end":133.621,"segType":"outro"},
       {"start":133.621,"end":137.827,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The intense and complex emotionality of 'No Reply' comes as much from its construction as it does from the screaming, double-tracked lead vocal. We'll do an end-to-end run-through but be forewarned to keep your eye on the third phrase of the verse in particular.",
+      "Next note The overall form is compact. There is only one bridge which is followed by only one verse. The bridge is noteworthy in that is the same length as the verses; a full sixteen measures.",
+      "Next note The form is curiously similar to that of 'Day Tripper' but for different reasons. In 'Day Tripper', we saw a bridge so climactic that a repeat would have been an anti-climax. In 'No Reply', the bridge provides relief from the intensity and dramatic shape of the verses. The issue here is not so much that the bridge can't be repeated as much as it is that we couldn't handle more than three verses without feeling burnt out. Play out the two-bridge variations in your head in which either one or even two more verses intervene between them and you'll see what I mean."
     ]
     },
     {"trackIndex": 42, "order": 2, "trackTitle": "I'm a Loser",
@@ -789,7 +819,9 @@
       {"start":128.964,"end":148.098,"segType":"outro"},
       {"start":148.098,"end":153.507,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "For a rock song, this one contains a stronger blend of folk elements than almost anything else the Beatles had done to-date.",
+    "Next note Apart from the semi-acoustic arrangement, we have a form which (with the exception of the break and outro) presents a ballad-like straight alternation of verse and refrain. The lyrics are different for each verse and imply a kind of narrative that is told in second person direct address, and ends on a cliché moral note ('... pride comes be-fore a fall...'). We'll come across even more details supportive of this thesis as we do our walk-through below.",
+    "Next note The most unusual formal touch here is the instrumental break section that is a hybrid half-verse plus refrain. However, the ad-lib intro and recapitulation of the break that occurs in the outro are both also noteworthy."
     ]
     },
     {"trackIndex": 43, "order": 3, "trackTitle": "Baby's in Black",
@@ -810,7 +842,9 @@
       {"start":109.230,"end":123.069,"segType":"chorus"},
       {"start":123.069,"end":127.560,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Formalistically, this one is among the more verbose and complicated songs we've looked at, with its refrain, bridge, and guitar solo sections. While the Beatles didn't go in for this sort of thing very often, neither is such a form unprecedented. Examples uncovered thus far in our studies include 'It Won't Be Long', 'When I Get Home', and 'You're Going To Lose That Girl'. The fact that the preceding list is entirely built out of songs that conspicuously belong to John would seem noteworthy.",
+      "Next note Stylistically, the song has an unusual mishmash of elements — the bluesy tune and choice of chords; the folksy almost hillbilly vocal arrangement; not to mention the exotic touch in the final verse where those drone-like open fifths in the bass parts conjure, to my ears, a strange musical cross between Scottish bagpipes and an Indian tamboura.",
+      "Next note John described it as a waltz (check his spoken lead into the song at the Paris concerts in January 1965), but in spite of the 3/4 time signature, the rapid tempo and agitated mood of the piece seem out of character with that Romantic dance form."
     ]
     },
     {"trackIndex": 44, "order": 4, "trackTitle": "Rock and Roll Music",
@@ -829,7 +863,7 @@
       {"start":128.429,"end":149.125,"segType":"outro"},
       {"start":149.125,"end":153.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Within this batch of six covers, this was clearly the 'longest running' number, still hanging in there at the bitter end of their touring days. Along with 'Twist and Shout', it is one of a very small number of non original songs which might be described nonetheless as one of the group's emblematic 'anthems'. Curiously though, this particular Chuck song appears to have not been on the playlets of the Quarrymen era in spite of the fact that they were already playing back then the likes of 'Roll Over Beethoven', 'Johnny B. Goode', and 'Sweet Little Sixteen'."
     ]
     },
     {"trackIndex": 45, "order": 5, "trackTitle": "I'll Follow the Sun",
@@ -846,7 +880,9 @@
       {"start":90.188,"end":106.403,"segType":"verse"},
       {"start":106.403,"end":111.040,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Form-wise, this is one of the more straightforward ones we've seen in a while: a familiar two-bridge model where two verses, one of which is a (partial) instrumental solo, separate the bridges.",
+      "Next note The folksy first impression created by the primarily acoustic arrangement and performance style is belied by chord progressions and a tune that are distinctly non-folk-like.",
+      "Next note Ever since we crossed the approximate frontier of the 'Hard Day's Night' album, I've been pointing out repeated examples of the Beatles' tendency toward blending elements of the Blues style into a pop-rock context. Along with some of the other songs on the 'For Sale' album, this particular one is a fine example of the Boys playing the same trick, but with folk elements instead of the Blues."
     ]
     },
     {"trackIndex": 46, "order": 6, "trackTitle": "Mr. Moonlight",
@@ -861,7 +897,9 @@
       {"start":131.037,"end":151.984,"segType":"verse"},
       {"start":151.984,"end":157.200,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Judging from the introductory vocal scream you'd be tempted to suppose that John had a hankering to play the good Doctor that was as long-lived as Paul's desire to be Little Richard. It turns out that this song was not at all an 'oldie' at the time the Beatles picked up on it and they didn't even keep it in their repertoire for all that long!",
+    "Next note Seems like this is the Beatles' cover which everyone loves to hate; it must be something about the self-consciously campy vocal, lugubrious Hammond organ, and generally queasy blend of dooh-whop and Latin musical styles. But get beyond this if you can and discover a number of compositional details which are more reminiscent of the Beatles' own style than you'd ever expect from the surface. Some examples:",
+    "Next note The first section is based on a subtly different form from the rest of them. The relatively long verses all sub-divide into two halves, the second of which is always introduced by a rising scale played solo by the bass guitar, and if you bother to check, the first half of the first one is quite different from (and eight measures longer than) all the rest."
     ]
     },
     {"trackIndex": 47, "order": 7, "trackTitle": "Kansas City- Hey, Hey, Hey",
@@ -878,7 +916,7 @@
       {"start":139.347,"end":146.147,"segType":"verse_(fade_out)"},
       {"start":146.147,"end":153.467,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Here we have the inevitable song, actually two of them spliced together, in which every section is in straight twelve-bar (8 + 4 or AAB) blues form. Though recorded originally as two separate songs, Little Richard himself had already popularized the 'medley' performed here by the Beatles. Independent of Paul's Penniman fixation, it's easy to imagine that the antiphonal backing vocals of the second half would have been something to attract the Beatles toward this number."
     ]
     },
     {"trackIndex": 48, "order": 8, "trackTitle": "Eight Days a Week",
@@ -895,7 +933,8 @@
       {"start":145.731,"end":160.987,"segType":"outro"},
       {"start":160.987,"end":165.427,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In particular, we'll discover how the harmony of 'Eight Days A Week' is built out of a wonderfully teasing exploitation of the special effect called a 'false (or 'cross') relation'. This harmonic idiom is used quite a bit throughout the Beatles' output and I think that 'Eight Days A Week' provides an object lesson worth exploring.",
+      "Next note In terms of form, we have another double bridge with single intervening verse. The lyrics are on the light side in terms of content in spite of the characteristic cleverness of the title phrase. The four verses all end with the hook phrase, and verse pairs 1/3 and 2/4 respectively contain the same opening couplet."
     ]
     },
     {"trackIndex": 49, "order": 9, "trackTitle": "Words of Love",
@@ -911,7 +950,8 @@
       {"start":110.306,"end":128.514,"segType":"outro"},
       {"start":128.514,"end":134.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Strange, isn't it, given the extent to which the group can be said to have been influenced and inspired by the nice fellow from Lubbock, that this is the only one of his tunes to have become part of the official Beatles' songbook, especially considering the relatively large number of his tunes that had been in their early repertoire, starting as early as the infamous Quarrymen acetate of 'That'll Be The Day'.",
+      "Next note The form is 'monotonous' in the manner of Chuck's blues numbers though the sections here are all eight, instead of twelve, measures long. The harmonic content is an ostinato/mantra-like endless repetition of the I -» IV -» V chord progression, and the two-fold instrumental solo section is an unusual touch."
     ]
     },
     {"trackIndex": 50, "order": 10, "trackTitle": "Honey Don't",
@@ -932,7 +972,7 @@
       {"start":171.984,"end":174.851,"segType":"outro"},
       {"start":174.851,"end":179.600,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Compared to the tidiness of the typical Beatles' original composition, the repeat and alternation pattern sections of this one is relatively cranked out seemingly at random. Note especially the multiple solos and their asymmetrical placement. Faced with a similar game plan back in 'Matchbox', the ever-fastidious Fab Four had taken the trouble to 'reorganize' the song for increased tightness."
     ]
     },
     {"trackIndex": 51, "order": 11, "trackTitle": "Every Little Thing",
@@ -951,7 +991,9 @@
       {"start":108.536,"end":119.267,"segType":"outro"},
       {"start":119.267,"end":124.533,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The form of this one is a tad subtle; being neither a one- or two-bridge pop model, nor a folk-like strict alternation of verses and refrains. Instead, we have some kind of hybrid in which the refrain sections (three, count 'em, three) are alternated with double verses; yeah, I know, the single-versed guitar section breaks up what would have otherwise been a foolishly consistent pattern.",
+      "Next note In contrast to the last several songs we've looked at, this one is in a relatively germane and generic early Beatles' pop/rock style, right down to the usage of funky vocal counterpoint in the refrain.",
+      "Next note Nevertheless, a sufficient number of novel details betray the extent to which the group had compositionally progressed beyond the likes of 'She Loves You' and 'I Want To Hold Your Hand': in addition to the unusual form we have modally inflected harmony, and a carefully layered instrumental backing with its piano-reinforced bassline and punctuating touches of timpani."
     ]
     },
     {"trackIndex": 52, "order": 12, "trackTitle": "I Don't Want to Spoil the Party",
@@ -969,7 +1011,8 @@
       {"start":140.807,"end":151.500,"segType":"outro"},
       {"start":151.500,"end":156.173,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The instrumental and vocal arrangement create a folksy, even countrified facade for this song, but virtually everything else about it including the lyrics suggests the pop-rock Beatles' style. Conceptually it's another kind of hybrid.",
+      "Next note The repeat pattern of the form with its use of a bridge instead of a refrain, as well as the chord choices and melodic style, suggest the urban pop style more so than they do C&W, in spite of all acoustic guitar and vocal harmony mannerisms on the surface of the piece."
     ]
     },
     {"trackIndex": 521, "order": 13, "trackTitle": "What You're Doing",
@@ -987,7 +1030,8 @@
       {"start":124.331,"end":148.707,"segType":"outro"},
       {"start":148.707,"end":154.693,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The form of this song is a quite standard two-bridge model.",
+      "Next note Although the overall instrumental texture bears an uncanny resemblance to that of 'Every Little Thing', the arrangement does contain a number of features which, if not entirely novel and unique, we've not seen in our studies for a while."
     ]
     },
     {"trackIndex": 522, "order": 14, "trackTitle": "Every body's Trying to Be My Baby",
@@ -1004,7 +1048,7 @@
       {"start":120.278,"end":142.465,"segType":"verse"},
       {"start":142.465,"end":143.867,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This one sports the familiar Perkins' signature of a lengthy form with unusual repeat patterns and multiple sections for instrumental solo. In contrast to 'Honey Don't', this time every section is in the classic twelve-bar blues mold. Indeed, the 4 + 8 inner structure of each frame obviates the need for a separate refrain since the longer second half of each section provides its functional equivalent."
     ]
     }
   ]},
@@ -1029,7 +1073,9 @@
       {"start":129.916,"end":136.840,"segType":"outro"},
       {"start":136.840,"end":141.067,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Even while you're totally riveted by 'Help's' hard driving beat and desperately anxious lyrics, its flat ballad form and prominent part for acoustic rhythm guitar are at work, adding a folksy stylistic cross current.",
+      "Next note The folk ballad form, with its repetitious alternation of verse with refrain, is no stranger in the Beatles song book, but it appears much less frequently than the more familiar one or two-bridge pop song forms.",
+      "Next note In absence of the continuing story line upon which the typical folksong relies in order to sustain interest, 'Help!' makes a couple of formal adjustments to avoid rote monotony: The lyrics of the three verses create an A-B-A pattern. The texture of the instrumental arrangement is dramatically lightened up for the first half of the last verse by thinning out the drum part and eliminating the backing vocal part."
     ]
     },
     {"trackIndex": 54, "order": 2, "trackTitle": "The Night Before",
@@ -1047,7 +1093,9 @@
 {"start":146.094,"end":152.932,"segType":"outro"},
 {"start":152.932,"end":156.693,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "With its strong bluesy foreground that is so nicely balanced out by the predominantly pop style that underlies it, this song provides about as good an example as you'll find of the Beatles' predilection on the threshold of mid-career for a synthesis of their erstwhile desire to play genuine twelve-bar blues with an even greater passion to transcend that it.",
+      "Next note They use the standard long form here, one of their favorites, with its two bridges that are separated by two verse sections, the second one of which is partly for instrumental solo. 'From Me To You' and 'A Hard Day's Night' come to mind as archetypal examples, but there are many others as well.",
+      "Next note In addition, there is an almost subliminally unifying effect created by the recurring use of chromatic shifts and scale fragments; anticipatory shades of Paul's later 'You Won't See Me', which happens to share a certain amount of similarity with this song at the level of its subject matter."
     ]
     },
     {"trackIndex": 55, "order": 3, "trackTitle": "You've Got to Hide Your Love Away",
@@ -1064,7 +1112,8 @@
 {"start":107.698,"end":127.036,"segType":"verse--instrumental"},
 {"start":127.036,"end":131.440,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "From the upbeat self confidence of 'Thank You Girl' and 'Any Time At All' we move this time to the other end of the emotional spectrum with 'You've Got To Hide Your Love Away', a song that further exemplifies some of John's signature style traits as much as it breaks some new ground for its time.",
+      "Next note The form is a cross between the two-bridge pop song and the verse / refrain alternating folk ballad, with a central unit of two verses plus a refrain repeated twice, preceded by a scanty intro and followed, quite unusually, by an instrumental verse that wraps the whole thing up. The verse pairs are internally differentiated between a 'primary' version and a slightly modified variant that leads more smoothly into the refrain."
     ]
     },
     {"trackIndex": 56, "order": 4, "trackTitle": "I Need You",
@@ -1081,7 +1130,9 @@
       {"start":134.371,"end":147.307,"segType":"outro"},
       {"start":147.307,"end":151.493,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We have another intriguing stylistic mix here, this time from George. The pop-rock core is augmented by a folksy undercurrent that manifests itself most strongly in the haunting pseudo-modality of the tune.",
+      "Next note The choice of form is the shorter two-bridge model where the bridges are separated by only one section.",
+      "Next note George's proclivity for blurring somewhat the division between verse and bridge sections by the phrasing of the lyrics shows up again here though in not as pronounced a form as the one observed in 'You Like Me Too Much'."
     ]
     },
     {"trackIndex": 57, "order": 5, "trackTitle": "Another Girl",
@@ -1098,7 +1149,9 @@
 {"start":118.039,"end":123.214,"segType":"outro"},
 {"start":123.214,"end":128.000,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "If you make the effort to get beyond the pedestrian lyrics and the by-today's-standards embarrassing visual background given this song in the 'Help!' film (Paul out on a beach holding a woman sideways and 'playing' her like some kind of anthropomorphic bass guitar — or do I misremember it?), you find here a song that is a veritable cross-section of the tricks and trademarks of the Beatles to this point of their career.",
+      "Next note We also find in this song yet another example of John's cross-influence on Paul. Though the influence in this case is not as obvious on the surface of things as it is in the case of, say, 'Paperback Writer' and 'Rain', the parallels between 'Another Girl' and 'You're Going To Lose That Girl' are as striking as they are surprising, once they've been pointed out to you.",
+      "Next note The form sounds subtly more unusual than it actually is because of the extremely refrain-like final phrase of the verse section. The last time we had seen this effect, way back in this series 'You're Going To Lose That Girl' and 'It Won't Be Long', it had thrown us off guard quite a bit. Once you parse this phrase as part of the verse proper, the form suddenly reveals itself as one of the standard forms, with two-verses, two-bridges, and only one verse intervening. The use of such a pseudo-refrain, though, especially when it also appears as the song's introductory section, does have a unique the power to, if not outright confuse, make a formalistically fluid impression."
     ]
     },
     {"trackIndex": 58, "order": 6, "trackTitle": "You're Going to Lose That Girl",
@@ -1115,7 +1168,7 @@
 {"start":128.859,"end":136.359,"segType":"outro"},
 {"start":136.359,"end":140.440,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The lyrics of all three verses are based on the computer programmer's conditional 'if/then' clause, with the third verse being a literal repeat of the first. The two bridges feature identical lyrics that are contrastingly couched in a consequentially assertive tone of voice."
     ]
     },
     {"trackIndex": 59, "order": 7, "trackTitle": "Ticket to Ride",
@@ -1132,7 +1185,8 @@
 {"start":167.620,"end":186.514,"segType":"outro"},
 {"start":186.514,"end":192.493,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "After the folksy originals and nostalgic covers of the 'Beatles For Sale' album, 'Ticket To Ride' brings with it a measure of tight toughness that is most welcome to those wondering wether this erstwhile sharp edge of the group's attitude and style had fled following the 'Hard Day's Night' album.",
+      "Next note The form is an ordinary two-bridge model with only one verse in the middle and no instrumental section. The special kicks here are to be found in the arrangement, especially in its exploitation of texture, rhythm, and harmonic dissonance."
     ]
     },
     {"trackIndex": 60, "order": 8, "trackTitle": "Act Naturally",
@@ -1150,7 +1204,9 @@
 {"start":140.889,"end":147.934,"segType":"outro"},
 {"start":147.934,"end":153.173,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This rockabilly entry goes much further down the 'countryish' path than any Beatles' original had to-date but it works in context, due in large part to Ringo's unvarnished vocal which sounds astonishingly similar in treatment to the Buck Owens' original.",
+      "Beyond the lead vocal, the Beatles' version matches the original in many other respects including same key, same basic arrangement right down to the tapping, and the backing vocal part for the bridges.",
+      "Next note There are some differences, as well, the most significant of which affects the form: the music used by the Beatles for the intro, outro and break appears in the original only for the break and even there it is used in abbreviated form. At the detailed level, the original uses a boogie-like arpeggio bassline for the bridge while the Beatles stay with the oompah figuration used in the verse. Paul continues the backing vocal into the final verse whereas the original omits it. And, for those more or less exclusively acquainted with the Beatles' version, the different scanning of the words by Owens sounds somehow 'wrong' at first."
     ]
     },
     {"trackIndex": 61, "order": 9, "trackTitle": "It's Only Love",
@@ -1165,7 +1221,8 @@
 {"start":97.919,"end":114.233,"segType":"outro"},
 {"start":114.233,"end":118.800,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The combination of textural soft-focus with a 'moderato' tempo is a bit of a departure for John though the elliptical emotional stance of the lyrics is right up his alley.",
+    "Next note The form is structurally both short and simple. To the extent that, as we'll see, the formal boundary between what I've labeled as 'verse' and 'refrain' is rather blurred you might argue that the meat of the song be even more compactly described as a repetition of a single larger verse and refrain 'combo' section."
     ]
     },
     {"trackIndex": 62, "order": 10, "trackTitle": "You Like Me Too Much",
@@ -1183,7 +1240,9 @@
 {"start":145.821,"end":154.826,"segType":"outro"},
 {"start":154.826,"end":158.800,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "George had been granted his first solo shot as a songwriter with 'Don't Bother Me' way back on 'With The Beatles'. Amazingly, he had to wait until this one for a second chance. It's up to the biographers to find out if this was the only other thing he had written since then, or if perhaps there is a plethora of 'lost' Harrisongs that have been either supressed, destroyed or are otherwise waiting to be unearthed by the perseveringly enterprising.",
+    "Next note In spite of its superficial resemblances to the songs of Lennon and McCartney which surround it in context, 'You Like Me Too Much' contains ample substance which attest to its belonging to George, only; especially in its chord progressions and the attitude of its lyrics.",
+    "Next note The form of the song also contains a number of formalistically distinctive earmarks: the apparently ad-lib/slow intro, the deployment of both a bridge and break, and the subtle manner in which verse and bridge elide with each other in terms of both music and words."
     ]
     },
     {"trackIndex": 63, "order": 11, "trackTitle": "Tell Me What You See",
@@ -1200,7 +1259,9 @@
 {"start":144.898,"end":155.016,"segType":"outro"},
 {"start":155.016,"end":159.693,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In context of some of the more innovative songs of the 'Help!' / 'Beatles VI' era, this one is part of a small group of songs that might be described as nice but non-blockbuster. Several by now well-established Beatles' trademark devices and novel touches are apparent here at the detailed level; the larger than usual number of cross-references and associations with other Beatles' songs mentioned below indeed seems to reflect this.",
+      "Next note Nonetheless, the overall mood and technique here are relatively simple and straightforward. I'm sure there is at least one of my readers who has been in love with this one since the first time s/he heard it, and that's fine :-) Just remember, I did say it's nice, didn't I?",
+      "Next note On the surface, the form is yet again the familiar one of two-bridges-but-no-solo, yet the verse section here is unusual in that its second half sounds a bit like refrain; compare this with the earlier example of 'Thank You Girl'. Even more unusual is the way that a mini-solo is worked into the second half of the bridge itself."
     ]
     },
     {"trackIndex": 64, "order": 12, "trackTitle": "I've Just Seen A Face",
@@ -1222,7 +1283,8 @@
 {"start":117.261,"end":122.687,"segType":"outro"},
 {"start":122.687,"end":127.173,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Aside from the delightfully unplugged arrangement, and a greater than ever amount of attention paid to compositional detail, this song manifests a button-busting sense of energy that is timeless and most compelling.",
+    "Next note The form is reasonably clear in some sense, but it's also unusually complicated and would appear to have absorbed the influence of several styles. The two verses in a row near the beginning are pure pop-rock. The strict alternation of verse and refrain in the second half is rather folksy. The triple refrain as an outro is reminiscent of the R&B rave-up. And the whole thing is lead off by an extraordinary intro that is not so easily pigeon-holed."
     ]
     },
     {"trackIndex": 641, "order": 13, "trackTitle": "Yesterday",
@@ -1239,7 +1301,10 @@
 {"start":114.914,"end":122.853,"segType":"outro"},
 {"start":122.853,"end":127.427,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song is so well established in the pop-cultural subconscious that it's difficult to relate to it objectively, no less say something new and insightful about it, but we'll try.",
+      "Next note As is often the case with the over-exposed war horses of any artsy genre, whether or not you 'like' this song, there's some good reason why it became so over-exposed in the first place. (hint) It's a fine piece of work with something going for it in virtually every department: the unique arrangement, an attractive tune, even some asymmetrical phrasing and a couple of off-beat chord progressions.",
+      "Next note By the same token, one should not be fooled by whatever unique and interesting factors surround the song's history and production into thinking of it as more unique and different than it is. Especially if you can step around the self-pitying lyrics for a moment (Paul possibly taking a lesson from George, for a change) you'll find this song to actually lie along the same compositional and moody lines of the other hymn or anthem-like ballads which so vividly characterize some of Paul's highest achievements, especially in the post-Pepper period.",
+      "Next note Just for the record, the form here is the shorter two bridge model. And the tempo is uncharacteristically slow."
     ]
     },
     {"trackIndex": 642, "order": 14, "trackTitle": "Dizzy Miss Lizzy",
@@ -1256,7 +1321,8 @@
 {"start":149.046,"end":172.609,"segType":"verse"},
 {"start":172.609,"end":174.267,"segType":"silence"}],
     "notes": [
-      "note for dizz miss lizzy"
+      "This Williams' song is of the genre in which every single section is in the strict twelve-bar format. Indeed, no Beatles' album to this point would be complete without at least one example of this kind. Here, the distinctive feature is the bluesy lead guitar ostinato figure used as solo material in the intro and break and as an obbligato in all the verses.",
+      "It turns out that the Beatles tamper with the form of the original, adding a second instrumental break section and a final repeat of the 'fever' verse."
     ]
     }
   ]},
@@ -1283,7 +1349,10 @@
 {"start":130.506,"end":145.649,"segType":"outro"},
 {"start":145.649,"end":150.267,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Recorded in mid-October 1965, 'Drive My Car' bears some uncanny associations with both sides of a certain 'double-A' single of our acquaintance that was coincidentally worked on in the studio during the same week. To my ears, the rap-like declamation of the lyrics and anti-melody of 'Day Tripper' (not to mention the lubricious 'driving' metaphor), and the slow triplets of 'We Can Work It Out' strongly resonate here.",
+      "By the same token, 'Drive My Car' also has a few unique aspects to it. The form is the flat one of the folk ballad in which four pairs of verse and refrain are presented in a row with the only relief coming in the way of a guitar solo for one of the verse sections. The vocal parts are exceedingly dissonant. And most unusual of all, the particular use of harmony here makes your clear sense of the home key an extremely elusive proposition much of the time.",
+      "In true ballad the refrain lyrics are unvarying while the words of the four verses are all different. The lyrics, while not quite unique or ground breaking per se, are notably Lennonesque in the way they weave such a suggestively droll tale from scraps of small talk that are pieced together so that it's not immediately obvious who said what to whom. I especially like the tag line, 'and maybe I'll love you.' Whadaymean, maybe!?",
+      "Rhythmically, the verses always start after the downbeat, the refrain starts right on the downbeat, and the beep-beep coda starts with a long wind up ahead of the downbeat."
     ]
     },
     {"trackIndex": 66, "order": 2, "trackTitle": "Norwegian Wood (This Bird Has Flown)",
@@ -1300,7 +1369,9 @@
 {"start":112.971,"end":122.694,"segType":"outro"},
 {"start":122.694,"end":125.427,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This understated and characteristically oblique song of John's is also admirably economical in terms of both form and content, with everything but the bridges being derived from the same hook motif. In lesser hands, the large amount of unvaried repetition and static harmony of this piece might have resulted in a moribund, boring mess. The Beatles leverage it all in favor of and unity and focus.",
+      "It is also another one of the very few Beatles' songs in a ternary meter; this time, most lilting and very un-waltz-like.",
+      "The much commented-upon use of a sitar was surely ground breaking enough at the time per se. What I am particularly struck by, given the novelty-numbing distance of time, is the extent to which the psychedelic buzzing of that exotic instrument is so uncannily complemented here by the high level of percussive noise achieved by using a hard pick on the otherwise standard twelve-string guitar."
     ]
     },
     {"trackIndex": 67, "order": 3, "trackTitle": "You Won't See Me",
@@ -1317,7 +1388,10 @@
 {"start":186.853,"end":196.020,"segType":"outro"},
 {"start":196.020,"end":202.600,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Tucked away within the harmonic inner voice leading of 'You Won't See Me''s harmonic structure are descending chromatic scale fragments whose recurrence in all sections help unify the song with subliminal efficiency. I said 'voices,' George, not 'lights.' :-)",
+      "Next note The form is the familiar two-bridge model with single verse intervening and no solo instrumental section. The moderate tempo drives the track's running time to 3:22, clearly discouraging any thought of doubling the verse between the bridges.",
+      "Next note The verse lyrics are in a form of ABCC; i.e. unique lyrics for the first three sections, with the final verse repeating those of the third section.",
+      "Next note The verses begin with a pickup, but the bridge (and even the title phrase, arguably) place their stress right on the downbeat, lending sense of grim pronouncement each time."
     ]
     },
     {"trackIndex": 68, "order": 4, "trackTitle": "Nowhere Man",
@@ -1336,7 +1410,10 @@
 {"start":143.122,"end":161.037,"segType":"outro"},
 {"start":161.037,"end":164.307,"segType":"outro"}],
     "notes": [
-      "Notes coming soon"
+      "Tucked away within the harmonic inner voice leading of 'You Won't See Me''s harmonic structure are descending chromatic scale fragments whose recurrence in all sections help unify the song with subliminal efficiency. I said 'voices,' George, not 'lights.' :-)",
+      "The form is the familiar two-bridge model with single verse intervening and no solo instrumental section. The moderate tempo drives the track's running time to 3:22, clearly discouraging any thought of doubling the verse between the bridges.",
+      "The verse lyrics are in a form of ABCC; i.e. unique lyrics for the first three sections, with the final verse repeating those of the third section.",
+      "The verses begin with a pickup, but the bridge (and even the title phrase, arguably) place their stress right on the downbeat, lending sense of grim pronouncement each time."
     ]
     },
     {"trackIndex": 69, "order": 5, "trackTitle": "Think for Yourself",
@@ -1354,7 +1431,8 @@
 {"start":129.600,"end":136.539,"segType":"outro"},
 {"start":136.539,"end":139.333,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song is extremely ambitious in its chord choices and progressions, as well as the rhythmic antiphonal counterpoint between its main vocal thread and supporting bassline.",
+      "At the same time, its bluesy melodic motifs and flat, folksy formal outline make it a curious stylistic hybrid."
     ]
     },
     {"trackIndex": 70, "order": 6, "trackTitle": "The Word",
@@ -1374,7 +1452,9 @@
 {"start":154.291,"end":160.719,"segType":"bridge"},
 {"start":160.719,"end":163.693,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'The Word' quite intriguingly (if also a bit obviously) anticipates the later and more ambitious 'All You Need Is Love', and we'll have what to say about that in the final comments. However, as impressively dressed up as it is in virtuostically raucous production values, you can't fully disguise the extent to which it is based at root on very simple musical material; a kind of Middle Period analog to 'Little Child'.",
+      "The comparison to 'Little Child', by the way, turns out to be more apt than you'd think at first blush — no snickering back there :-) If nothing else the two songs share a nod to the pure twelve-bar blues form and a correspondingly shouting R&B vocal style. Even more interesting though is the extent to which, in both songs, one has a hard time deciding what kind of labels (chosen from the routine list of 'verse', 'bridge', or 'refrain') to place upon each of the formal sections.",
+      "There are a few relatively unique formal touches here as well: (a) what I've been referring to lately as the 'flat folksy' form (with its rote sequencing of sectional pairs), (b) dissonant deployment of a static ostinato in the bridge, (c) holding back of the instrumental break until quite late in the song, and (d) allowing that break to spill over into the verse section which follows it."
     ]
     },
     {"trackIndex": 71, "order": 7, "trackTitle": "Michelle",
@@ -1394,7 +1474,9 @@
 {"start":139.918,"end":160.869,"segType":"verse--instrumental"},
 {"start":160.869,"end":162.373,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Encouraged as he must have been by the raging success of 'Yesterday', Paul provides us in 'Michelle' with yet another tender, plaintive ballad; this one in equal part Art Song and neo-schmaltzy fox-trot. The affinities between these two songs are both deep and numerous, as we'll see.",
+      "At the same time 'Michelle' surprisingly bears some comparison with the likes of George's 'Think For Yourself'. And while the notion of direct influence in this case may be debatable, the technical parallels between the two (the shifty handling of the Major/minor modes, a jumpy melody, and equally prowling harmonies) are ironical and instructive.",
+      "The form is on the generous side. Granted, the verses are very short, but the lengthy bridge is repeated three full times, and its second half shows up as both the intro and first part of the outro."
     ]
     },
     {"trackIndex": 72, "order": 8, "trackTitle": "What Goes On",
@@ -1412,7 +1494,8 @@
 {"start":157.234,"end":165.938,"segType":"outro"},
 {"start":165.938,"end":170.800,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This almost parodistic homage to the same C&W style the Beatles had earlier covered in the likes of 'Act Naturally' is a typical Ringo 'vehicle' if ever there was one right down to the scenario of sad-and-lonely betrayal described in the lyrics.",
+      "The form is a folksy strict alternation of refrains and verses, the key is the ever popular choice for the Beatles of E Major, and the tempo is fast — fast enough that 2/2 might be a more accurate designation of the meter than the 4/4 that I have chosen."
     ]
     },
     {"trackIndex": 73, "order": 9, "trackTitle": "Girl",
@@ -1431,7 +1514,9 @@
 {"start":140.351,"end":148.200,"segType":"chorus"},
 {"start":148.200,"end":153.867,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This predominantly acoustic, stylized folk ballad embodies many of the trends, themes, and techniques that characterize the overall image of 'Rubber Soul'. It often does seem unfairly lost in the shadow cast by certain bigger hits on the album. Yet, even though it may be neither as trenchant as 'Norwegian Wood' nor as sublime as 'In My Life', 'Girl' does contain much to be admired; particularly in its intense yet oblique baring of the author's heart it lies directly along a vector from the earlier 'You've Got Hide Your Love Away'.",
+      "Considering that the Beatles didn't go in for full-fledged modulations all that much in their songs, this one is quite notable for the way in which it keeps changing key throughout. In particular, it makes use of the technique of alternating between a minor key and its relative Major towards ends that are both expressive and structural. Paul would appear to have as much a soft spot as John for this gambit over the long run. Off the top of my head we've seen it most before in 'Not A Second Time', 'And I Love Her', and 'Yesterday'.",
+      "The form is of interest for its inclusion of both a refrain and a bridge, as well as its placement of the instrumental solo so near to the very end; the latter, yet another connection with 'You've Got Hide Your Love Away'."
     ]
     },
     {"trackIndex": 74, "order": 10, "trackTitle": "I'm Looking Through You",
@@ -1447,7 +1532,10 @@
 {"start":107.868,"end":142.498,"segType":"verse"},
 {"start":142.498,"end":147.827,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We've got yet another fine example here of the Beatles' own unique folk rock style; this one jazzed up a bit by a faintest touch of the blues.",
+      "Kinetic energy abounds from more than just the beat. For one thing, Paul scans the lyrics in a manner that is inconsistently off-center from the otherwise four-square phrasing of the music; an effect more pleasing than it would sound from my verbal description of it :-)",
+      "But even more so, the phraseology of both verse and bridge features a rhetoric suggestive of cumulatively established momentum. The image comes to mind of 'run and jump, now return to the starting point you so you may run and jump again, only this time much farther.' Resonance between the latter strictly musical phenomenon and any correlative emotional or passionate experience of yours are guaranteed to raise a smile.",
+      "The form, for a change, is the very standard model with two bridge and only one verse intervening."
     ]
     },
     {"trackIndex": 75, "order": 11, "trackTitle": "In My Life",
@@ -1465,7 +1553,9 @@
 {"start":125.659,"end":143.715,"segType":"outro"},
 {"start":143.715,"end":147.973,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In spite of the Baroque keyboard solo of the original, or the schmaltzy-cum-folksy arrangement cooked up by Joshua Rifkin for Judy Collins' cover of it, the 'style' of this song remains tantalizingly indeterminate.",
+      "The form contains a folk ballad-like rote alternation of sections, though the use of a bridge rather than a refrain, coupled with the inconsistent deployment of the motif heard in the intro as a 'spacer' between sections, blurs most of whatever specifically folk-style associations you might otherwise derive from the it (the form) per se.",
+      "Above all, the song creates a delicate and delicious balance between heart baring intimacy of the first order and a vaguely subordinate and reticent unease. The closest I can pinpoint the latter is to something not quite straightforward about some of the chord progressions and the way in which the tune runs roughshod over them. In the final result, this 'unease' is something that, as a long term listener, I feel more strongly than I can discern with any precision. But if I am at all on the right track, it is as though whatever confidence is shared within the confines of this song is done so at no small cause of pain, as though it were happening compulsively on some level, in spite of the author's will."
     ]
     },
     {"trackIndex": 77, "order": 12, "trackTitle": "Wait",
@@ -1485,7 +1575,11 @@
 {"start":113.649,"end":132.629,"segType":"verse"},
 {"start":132.629,"end":136.960,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "There's a higher than average level of formalistic interest in this song: it opens right in the midst of the action with an off-the-beat vocal pickup; there's no intro, not even an instrumental downbeat to give the singer his cue. For that matter, there's no formal outro here either; the song kind of just rhetorically grinds to a halt.",
+      "Furthermore, the main expository component of this song is curiously half-verse/half-refrain in style. It's almost tempting to parse the section as two discrete sections in their own right but that would lead to a rather over-busy reading of the form which I don't believe is supported by your experience of listening to it.",
+      "What's particularly fascinating is that not only have we seen both of the above formal features in other earlier songs of the Beatles, but in a couple of cases we've seen both features within the same song; to wit — 'I Want To Hold Your Hand', 'It Won't Be Long' and 'You're Going To Lose That Girl'. And if the strong John Connection doesn't yet strike you, consider the following punch list of songs which feature the verse/refrain concept, albeit without a midst-of-action opening — 'Please Please Me', 'From Me To You', and 'Ticket To Ride'. Granted, you can likely find me similar examples which are not all exclusively by John; Paul's 'All My Loving' comes immediately to mind, for example. Nevertheless I believe the correlation I've cited bears some weight.",
+      "The music itself is highly syncopated to the max, the effect of which is emphasized by the non-four-square phrasing of the verse section and the almost constantly off-beat harmonic rhythm.",
+      "At the other extreme, the particular choice of form lays out the lyrics in an almost slavishly symmetrical mosaic pattern of of ABCACBA."
     ]
     },
     {"trackIndex": 771, "order": 13, "trackTitle": "If I Needed Someone",
@@ -1504,7 +1598,8 @@
 {"start":128.261,"end":139.977,"segType":"outro"},
 {"start":139.977,"end":143.840,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'If I Needed Someone' is not anywhere nearly as ambitious or original as the likes of 'Don't Bother Me' and 'Think For Yourself'. And yet, just beneath the surface production values that otherwise allow the song to fit in so compatibly among the Lennon and McCartney originals which surround it (the title of a certain ancient Beatleg, 'Homogenized Beatles' comes to mind), are to be found all the telltale touches which mark the song as one by George; in particular, the modal harmony, the cramped stepwise tune, and the wistful appoggiaturas.",
+      "The form adds an unusual twist to the classic two-bridge model, with three consecutive verses separating the bridges, the middle one of which is a kind of instrumental break."
     ]
     },
     {"trackIndex": 772, "order": 14, "trackTitle": "Run for Your Life",
@@ -1522,7 +1617,10 @@
 {"start":122.661,"end":136.795,"segType":"chorus"},
 {"start":136.795,"end":138.800,"segType":"silence"}],
     "notes": [
-      "note for run for your life"
+      "Everybody, including John himself, has apologized or made excuses for this song somewhere along the line. You'd think that this one must be one of the more obvious last-minute fillers hastily thrown together before the 'Rubber Soul' drop-deadline. When you go to check Lewisohn's recording diary, though, you're surprised to find out that it was one of the first tracks recorded for the new album!",
+      "Furthermore, we now live in a time where we've been sensitized and dismayed by a rising tide of ubiquitous domestic violence to the point where the words of this song seem in plain bad taste. Personally, I can vouch that even way back at the time of its initial release, people thought that the Jealous-Guy-Posturing heard here was at least a tad over-stated, especially for supposedly good clean fun.",
+      "It's a shame since musically at least, even if it's not top-drawer Beatles' music circa late 1965, it's not really such a bad song, per se. The style is that hard-to-categorize mix of blues (dig that lead guitar riff), pop-rock (the old cliché I -» vi chord progression), and even a touch of the folksy (if you'll note the use of the acoustic rhythm guitar) so characteristic of the middle-period Boys.",
+      "The form is distinguished by a primary section that combines elements of both verse and refrain (compare this with 'Wait' ), a twelve-bar blues frame for the instrumental 'break', and an overall repeat pattern that doesn't quite match any of our more typical one or two bridge models."
     ]
     }
   ]},
@@ -1554,7 +1652,8 @@
       {"start":155.233,"end":159.000,"segType":"silence"}
       ],
     "notes": [
-      "note for taxman"
+      "'Taxman' turns out to be George's one-time-only shot at the first track position, and though his offering surely grooves with adequate oomph to match its predecessors, the song is still an album-opening change of pace in terms of its exotic flavor in the music and absence of love interest in the lyrics. I half wonder if the campy count-in is meant as a direct self-parody of 'I Saw Her Standing There' or not.",
+      "The form is relatively flat, with many iterations of the same verse / refrain 'combination' section and a bridge that is musically not much different from the rest of the song."
     ]
     },
     {"trackIndex": 79, "order": 2, "trackTitle": "Eleanor Rigby",
@@ -1573,7 +1672,7 @@
       {"start":123.866,"end":127.667,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "Although the music here is highly syncopated, instead of the jumpy kind of high-stepping effect you'd expect, you find the song to be characterized overall by a gesture resembling an anxious sigh (like a sharp, sudden intake of breath expelled in enervating slow motion) that applies not only to foreground rhythm, but several other parameters as well, including harmonic rhythm, phrasing, and even the contours of the tune itself."
     ]
     },
     {"trackIndex": 80, "order": 3, "trackTitle": "I'm Only Sleeping",
@@ -1594,7 +1693,7 @@
       {"start":175.705,"end":181.667,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "We have an interesting formalistic elision here in the way that the bridge melds so seamlessly with the verse that follows it that the next verse at first sounds like the ending the bridge rather than the start of something else; and in retrospect, the bridge, per se, seems like only a fragment of something. This example, by the way, bears intriguing comparison with 'She's A Woman', of all things; do check it out."
     ]
     },
     {"trackIndex": 81, "order": 4, "trackTitle": "Love You To",
@@ -1614,7 +1713,9 @@
       {"start":176.416,"end":181.200,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "One of the most curious side-bars on the history of music in the late sixties has to be the apparently sudden flash point of interest in, and influence of, the so-called Classical Music of India. The Beatles, George in particular, were prime catalysts of this faddish phenomenon, and a song like our 'Love You To' can hardly be talked about without some consideration of the historical context...At the time it seemed like many people who, just the week before had never seen a sitar or heard of Ravi Shankar, were running out, overnight, to buy what we nowadays call 'world music' recordings, tickets to rug concerts, and even authentic instruments. ",
+      "The music is not only built out of unfamiliar techniques, but is also reflective of a different world outlook — think about the extent to which harmony in Western music implies '<a href='http://en.wikipedia.org/wiki/Teleology' target='_blank'>teleological</a> movement or progress', and, by contrast, the extent to which detailed elaboration over a drone conjures a so-very-different mood of quiet contemplation of the world without-and-within.",
+      "Here, in 'Love You To', we find a genuinely Indian-styled usage of mode, melody, rhythm and instrumentation. Even the form, which otherwise maintains a 'neo-classical' boxy rock form preserves the Indian convention of an out-of-tempo improvised slow intro."
     ]
     },
     {"trackIndex": 82, "order": 5, "trackTitle": "Here, There and Everywhere",
@@ -1633,7 +1734,9 @@
       {"start":141.322,"end":145.867,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "This song is remarkable for its bitter-sweet tune, clever harmonic scheme, and understated arrangement. It is a landmark triumph of the soft rock genre. No kidding.",
+      "It opens with one of those (relatively rare-for-the-Beatles) ad-lib introductions, but the form is otherwise the classic two-bridge model, with only one verse intervening and no instrumental break.",
+      "The lyrics make a rather John-like structural use of the title words."
     ]
     },
     {"trackIndex": 83, "order": 6, "trackTitle": "Yellow Submarine",
@@ -1652,7 +1755,8 @@
       {"start":155.139,"end":160.400,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "The music which underlies this track is simple, even a bit simplistic, but that's not only the whole aesthetic point of it, but this simplicity provides the firm platform needed to support the campy-yet-futuristic collage of sampled sound-bites overlaid upon it.",
+      "The use of a refrain, not bridge; approximately only one third of the more than hundred songs we've covered in this study so far use the refrain, and consideration of just which Beatles' songs go for it in favor of the bridge is another matter I'll leave as a party game for now. We also have here the extremely unusual appearance in the middle of three verses in a row."
     ]
     },
     {"trackIndex": 84, "order": 7, "trackTitle": "She Said She Said",
@@ -1671,7 +1775,13 @@
       {"start":152.592,"end":157.133,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "Although the most conspicuous feature of 'She Said She Said' is the metrical high jinks of the bridge, this song also provides us with object lessons about two other general compositional topics: how to experiment without things falling apart, and the special characteristics of modal harmony.",
+      "Experimentation! Among other things, this song teaches us yet another of the composer's trade secrets: whenever you are pushing one parameter of your musical grammar to the max, hold at least some if not all of the other parameters steady lest your meaning become obscured by sensory overload, or your composition come apart as though from centrifugal force. This principle potentially operates on many different levels to the extent that the 'parameters' involved may include as diverse elements as form, rhythm, texture, harmony, even lyrics.",
+      "In spite of the fact that 'She Said She Said' flaunts inscrutably psychedelic lyrics, heavy limiting applied to virtually every instrument as well as the voice track, and of course, that wobbly meter, it also sports a positively buttoned down, classic form; i.e. the two-bridge model with a single verse intervening.",
+      "The lyrics create the relatively common form of ABCC; i.e. new lyrics for the first three verses, with the third's set of lyrics repeated the fourth and final time around.",
+      "No matter how experimental they were in other aspects of composition, The Beatles with very rare exception, clung to such classic forms in their songs; it is as though they needed these forms as a bedrock on which to anchor their experiments lest they fall apart.",
+      "The usage of asymmetric, acyclic (albeit clearly articulated) forms are rare enough in their output that their identification and examination as a group would itself make an interesting study. Start with 'Happiness Is A Warm Gun' and 'You Never Give Me Your Money' and see how many more you can find!",
+      "Going even further, I'm tempted to argue that it is no coincidence that the even fewer cases where they abandoned articulated form entirely, (e.g. 'Revolution #9', 'What's the New Mary Jane') have turned out to be among their least popular work over the long run. All this is not intended as a criticism; I mention it to acknowledge that for all their glibly touted breaking of barriers, the Boys were really neo-classicists at heart."
     ]
     },
     {"trackIndex": 85, "order": 8, "trackTitle": "Good Day Sunshine",
@@ -1692,7 +1802,9 @@
       {"start":125.940,"end":129.760,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "The form is essentially that of a folk ballad, with strictly alternating refrains and verses. The intro, outro, and semi-instrumental middle verse lend an explicitly 'pop' cross current.",
+      "The ballad format encourages the different lyrics we find in each verse.",
+      "The refrain commences right on the downbeat. The verse starts with a pickup."
     ]
     },
     {"trackIndex": 86, "order": 9, "trackTitle": "And Your Bird Can Sing",
@@ -1712,7 +1824,8 @@
       {"start":117.965,"end":121.733,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "This song may be most notable for its setting of an elegantly Classical/Baroque leitmotif in context of a proto-grunge and noisy guitar mix but there's more to it than that.",
+      "The form, though essentially a two-bridge model with only one verse separating the bridges, includes a repeat of the entire guitar solo verse section right before the outro."
     ]
     },
     {"trackIndex": 87, "order": 10, "trackTitle": "For No One",
@@ -1732,7 +1845,8 @@
       {"start":117.098,"end":121.707,"segType":"silence"}
     ],
     "notes": [
-      "Notes coming soon"
+      "As an example of Paul's interest in borrowing elements of the early nineteenth century 'Art Song', I place this one on the Spectrum of Style somewhere in between 'Eleanor Rigby' and 'Michelle'. Its self-conscious application of Classical Techniques is almost but not quite as extreme as the former, while the romantic feelings conjured by its lyrics are at least as earnest yet infinitely more grown up than the latter.",
+      "The form is completely cyclic in the style of a multi-versed art or folk song. The sequence of double verse and bridge is thrice repeated without intro, outro, or any other intervening interludes."
     ]
     },
     {"trackIndex": 88, "order": 11, "trackTitle": "Doctor Robert",
@@ -1750,7 +1864,8 @@
       {"start":131.832,"end":135.200,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "While 'Doctor Robert's' most conspicuous claim to infamy may be its oblique-yet-obvious reference to recreational drug usage, it is musically most interesting for its harmonic/home-key trickery...[as] one of John's more daring experiments with harmony this side of 'Strawberry Fields Forever' or 'I Am The Walrus'. You might want to think of it as an 'harmonic hallucination,' that...is ironic in context of the song's lyrics.",
+      "Overall, the song feels a bit 'slight' in terms of its short form, lack of an instrumental break, and no variation of the arrangement later than the first refrain. It's interesting to contemplate how one's perception of the 'size' of a song is related as much to matters of formal and instrumental complexity, as it is to temporal duration."
     ]
     },
     {"trackIndex": 89, "order": 12, "trackTitle": "I Want to Tell You",
@@ -1769,7 +1884,7 @@
       {"start":144.808,"end":150.627,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "This is very much a typical Hari-song; replete with a hard and high anxiety in the lyrics that is further manifested in the musical fabric by dissonance, both harmonic and rhythmic. We're talking about serious illness of ease."
     ]
     },
     {"trackIndex": 90, "order": 13, "trackTitle": "Got to Get You into My Life",
@@ -1788,7 +1903,8 @@
       {"start":144.808,"end":150.627,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "We have another wonderful example here of Macca reaching hard for Something, if not really, New, then something newly synthesized out of everything he knew, could remember, and somehow find a way to fit into the mix. Go ahead — make fun of him (and me too, while you're at it! :-)), but I challenge you to stylistically pigeon-hole this one: is it big-band 'pop', neolyte blues, modal contemporary rock, or what-not?",
+      "Formalistically the song is unusual for the manner in which the vamping and potentially self-perpetuating coda develops as an outgrowth of an extra, extended repeat of the refrain just before the ending."
     ]
     },
     {"trackIndex": 91, "order": 14, "trackTitle": "Tomorrow Never Knows",
@@ -1809,7 +1925,8 @@
       {"start":175.604,"end":177.400,"segType":"silence"}
       ],
     "notes": [
-      "Notes coming soon"
+      "'Tomorrow Never Knows' is a veritable kitchen-sink mix of just about every trick in the Beatles' book to-date, including: an Indian drone, modal tune, bluesy instrumental, tape loops, ADT, vocals played through revolving speakers, distortedly close-up miking of instruments, and a psychedelically mystical 'outlook.' One of the amazing aspects of this song is the extent to which this collage not merely hangs together, but pulls into such a powerfully focused, unified effect.",
+      "The intro here is not so much a fade-in as it is a small variation of the typical staggered/layered intro. Similarly, the ending is not so much a fade-out as it is a musical disintegration. You might find it interesting to compare the ending of 'Tomorrow Never Knows' with almost anything written during the sixties by one contemporary American composer, Elliott Carter, who explicitly cultivated an aesthetic in his endings of a universe winding down and flying apart; complete with excerpts from classical poetry in his liner notes to support his point of view."
     ]
     }
   ]},
@@ -1831,7 +1948,7 @@
 {"start":97.937,"end":117.650,"segType":"verse"},
 {"start":117.650,"end":122.427,"segType":"outro"}],
     "notes": [
-      "Notes coming soon"
+      "The use of both a bridge and refrain here, in absolute arch-like symmetry makes the song feel longer than its scan two minute length; remember, that about ten seconds of that two minutes is the opening mix of crowd and tuning noise!"
     ]
     },
     {"trackIndex": 93, "order": 2, "trackTitle": "With a Little Help from My Friends",
@@ -1850,7 +1967,9 @@
 {"start":150.448,"end":164.008,"segType":"outro"},
 {"start":164.008,"end":164.009,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The somewhat campy 'Sgt. Pepper's Lonely Hearts Club Band' overture wisely proceeds directly away to an even more frankly campy, feel-good tune for the second track. People take some time to warm up to room temperature and there is no sense putting the make on them before they have done so. In other words, the likes of 'Mr. Kite' et al would be lost on your partner at this point, so bide your time, eh?",
+      "Next note I think of 'With A Little Help From My Friends' as similar to 'Yellow Submarine' with its rather purposefully over-simplified musical vocabulary, minus the special effects but with a more advanced antiphonal vocal arrangement, and a much more serious lyrical subtext added. More on that later.",
+      "Next note The form is, yet again, 'creatively derived' from standard pop song formats, but is still unusual if you look at it closely. I was almost going to combine what I've called here the Verse and the Refrain into one sixteen-measure section; after all, we've seen other Beatles' songs in which the ending of the Verse has strong Refrain-like elements — take a look at 'Please Please Me', 'I Want to Hold Your Hand' and 'Ticket to Ride'. I decided against this parsing of the form because of the way the final Refrain follows the second bridge all by its lonesome."
     ]
     },
     {"trackIndex": 94, "order": 3, "trackTitle": "Lucy in the Sky with Diamonds",
@@ -1870,7 +1989,7 @@
 {"start":193.356,"end":205.727,"segType":"chorus"},
 {"start":205.727,"end":208.440,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The use of drone-like harmony in the verse and rote repetition of a single phrase in the refrain lends an appropriate eyes-pinned hypnotic feeling to the piece."
     ]
     },
     {"trackIndex": 95, "order": 4, "trackTitle": "Getting Better",
@@ -1889,7 +2008,8 @@
 {"start":156.439,"end":167.511,"segType":"outro"},
 {"start":167.511,"end":167.867,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In accord with the compositional advisory re: balancing contrasts, it is most fitting for abstract 'Lucy ...' to be followed by the more representational 'Getting Better' with its simple harmonic structure, steady beat, and mischievously clear message of hope.",
+      "The whole thing reminds me of 'Got To Get You Into My Life' not just for the rave-up, vamping mood and long phrases, but also for the slightly elusive form. I've chosen to parse it as though the first refrain is 'slightly lacking' and the other refrains are followed by a bridge. You could just as easily parse it with the bridge as an extension of the refrains, and labeling the first one as 'extremely lacking'. The point is that the usually clear formal dividing lines are blurry here, and not easily defined definitively."
     ]
     },
     {"trackIndex": 96, "order": 5, "trackTitle": "Fixing a Hole",
@@ -1907,7 +2027,8 @@
 {"start":126.578,"end":154.077,"segType":"outro"},
 {"start":154.077,"end":156.627,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song has a split stylistic personality: the verse is a Gershwinesque jazz/blues hybrid, while the bridge is more of a torch-song pop march.",
+      "The form, on the other hand, is one of the standard two-bridge models; this one belonging to the sub-category which has two middle verses, the second of which is an instrumental solo."
     ]
     },
     {"trackIndex": 97, "order": 6, "trackTitle": "She's Leaving Home",
@@ -1926,7 +2047,7 @@
 {"start":201.962,"end":213.916,"segType":"outro"},
 {"start":213.916,"end":215.040,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The Beatles were uncommonly sharp at coming up with surprising, unlikely stylistic blends or 'bends'. But from this point of their career onward, Paul, in particular, would occasionally indulge a hankering stylistic 'mimicry'. The latter is much more difficult to pull off with artistic success because the attempt to sound 'authentic' in such cases puts you at risk of sounding equally trite or 'facile'...'She's Leaving Home' is, perhaps, closer to the mimicry end of the spectrum than it is to the blend end"
     ]
     },
     {"trackIndex": 98, "order": 7, "trackTitle": "Being for the Benefit of Mr. Kite!",
@@ -1941,7 +2062,8 @@
 {"start":112.844,"end":154.776,"segType":"bridge"},
 {"start":154.776,"end":157.093,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Mr. Kite...' has a visual vividness uncommon for the likes of words and music, what with its circus poster lyrics, the harmonium that sounds like a calliope, and the bustle of those electronic tape loops.",
+      "The musical materials are unusual but are also frugally deployed to the extent that all the sections are built upon the same om-and-about fourteen-measure long chord progression. I think this is motivated, if for no other reason, by the principle that if you're going to go crazy in one department (in this case, the electronic noise overdubs), than you've got to keep the musical backbone clear and firm in other departments."
     ]
     },
     {"trackIndex": 99, "order": 8, "trackTitle": "Within You Without You",
@@ -1958,7 +2080,8 @@
 {"start":273.463,"end":304.001,"segType":"chorus"},
 {"start":304.001,"end":305.067,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This intense and musically complex synthesis of Beatles' pop, summer-of-'67-sensibility, and classical Indian music is not to be taken lightly, and certainly not with ease. Along with 'Love You To' and 'The Inner Light', it represents George's most unabashed, full-blown, and unadulterated embrace of the Indian musical style.",
+      "[Mark] Lewisohn speaks of how the song was conceived in three large sections from the start, and indeed, this conception survives clearly in the finished product; a sprawling ABA structure, with two vocal sections that surround a central instrumental break."
     ]
     },
     {"trackIndex": 100, "order": 9, "trackTitle": "When I'm Sixty-Four",
@@ -1974,7 +2097,8 @@
       {"start":150.344,"end":157.073,"segType":"outro"},
       {"start":157.073,"end":157.707,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song is Paul's first official foray into the carefully put-on nostalgic-cum-vaudeville stylization that would become a stock part of his compositional arsenal for the remainder of his career as a Beatle. In context of 'Sgt. Pepper''s running order, it provides a well-needed and right contrast to the preceding track.",
+      "The form is an unusual perfect arch; there is no doubling up of any sections, and the intro and outro are identical. There is no specific refrain section, though the verse here is of the type whose last phrase is refrain-like."
     ]
     },
     {"trackIndex": 101, "order": 10, "trackTitle": "Lovely Rita",
@@ -1992,7 +2116,7 @@
 {"start":131.745,"end":161.359,"segType":"outro--variant"},
 {"start":161.359,"end":162.093,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "It's got an unusual form — we haven't seen one this difficult to call since, perhaps, 'It Won't Be Long'. The issue here isn't so much one of where to parse the section boundaries as much as it is one of how to characterize the sections labels. What I decided to call the verse can arguably be labeled as a refrain, except that the words are different each time except for the opening line. Similarly, I've called labeled the intervening section as a bridge because of its wandering harmonic character; again, the words change each time. Yet, some people might be more comfortable labeling it as a verse, as long as you call the other section a refrain. Beyond a point, it's a matter of semantics more than anything else. One thing's for sure: I think the ordering of the sections still comes out the same."
     ]
     },
     {"trackIndex": 102, "order": 11, "trackTitle": "Good Morning Good Morning",
@@ -2008,7 +2132,8 @@
 {"start":97.519,"end":119.624,"segType":"verse"},
 {"start":119.624,"end":161.307,"segType":"outro"}],
     "notes": [
-      "Notes coming soon"
+      "This is truly, truly, one of the great songs; with its uneven meter, blisters-on-fingers drumming, washed out horns and silver saxophones, and rapid-fire verbal slide-show imagery; inspired by no less than a mass media commercial effort on behalf of Kellogg's Corn Flakes; 'the best to you each morning,' indeed. (Doesn't your alarm radio ever trip off on a Blue Monday Morning in the middle of some piece of equally insipid and insidiously cheerily bit of nonsense?)",
+      "And yet, for all its (you say you want a) revolutionary gestures, you must acknowledge how, at the same time, well grounded it is on a classic-pop/rock formal design."
     ]
     },
     {"trackIndex": 103, "order": 12, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
@@ -2018,7 +2143,8 @@
 {"start":20.533,"end":44.821,"segType":"chorus"},
 {"start":44.821,"end":78.893,"segType":"chorus"}],
     "notes": [
-      "Notes coming soon"
+      "In context of the pop-rock album format I dare say that such a reprise is unprecedented. The concept is a sufficiently familiar one from the world of opera and musical stage show, but on a Beatles' album!? And, as is typical with Beatles' innovations of this sort, the gesture is not gratuitously novel; in the current instance, the reprise of the title track serves two critical functions: a unifying element for the album overall, and a boundary marker that importantly sets the following 'A Day In The Life' off by itself, as it were, from the rest of the album.",
+      "The formal layout of the reprise is in strong contrast to the opening track: this time we have only an intro followed by two iterations of the refrain."
     ]
     },
     {"trackIndex": 1031, "order": 13, "trackTitle": "A Day in the Life",
@@ -2038,7 +2164,8 @@
 {"start":306.860,"end":333.876,"segType":"break"},
 {"start":333.876,"end":333.907,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This large form furthermore has a high-level ABA classical clarity that is ironically belied by its avoidance of perfect symmetry.",
+      "For years, we've been fortunate to have widely available a precious outtake of this song, the master tape of which was wiped, but which was miraculously preserved in acetate form. It is as if we are privileged in this recording to listen to something that fate would otherwise have not permitted to be heard in this world; pretty mystical :-)  More recently, 'Anthology', Volume 2 has provided us with a melange that includes the middle section of the acetate combined with two different outtakes of the outer sections...the acetate in its pristine entirety is something which you must hear."
     ]
     }
   ]},
@@ -2065,7 +2192,9 @@
       {"start":140.245,"end":166.204,"segType":"outro"},
       {"start":166.204,"end":171.827,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song works so effectively as the 'overture' to both the film and EP for which it is was written by virtue of its upbeat, yet somewhat stuffy, stylized pomp-and-circumstance production values.",
+      "Next note The relative sparseness of the raw materials used in this track provide a subtle clarity to the music that allows a novel harmonic trick in the key structure, which otherwise might be lost in the background, to stay right in your face where it belongs.",
+      "Next note Rhythmic motifs and shifts of tempo are also used on this track toward formally articulative ends, something you don't find much in the work of the Beatles, at least to this point of their career."
     ]
     },
     {"trackIndex": 105, "order": 2, "trackTitle": "The Fool on the Hill",
@@ -2084,7 +2213,9 @@
       {"start":159.918,"end":176.109,"segType":"outro"},
       {"start":176.109,"end":180.173,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song surely belongs in McCartney's top drawer. On one level, it is one of his most explicit efforts in the evocative direction of the Early Romantic (nineteenth century) 'art song'. Yet, on another level, it can also be described as an intriguing fusion of the sort that is arguably one of Paul's specialties of the house.",
+      "Next note The form is completely flat (no pejorative connotations, please) with four uninterrupted iterations of the verse-and-refrain sections. This ballad form is equally at home in both folk music as well as the art song; for examples of the latter, browse through Schubert's cycle, 'Die Schöne Müllerin'. For examples of the former, see anything by Pete Seeger or Peter, Paul and Mary, or any song on 'Blonde on Blonde', with the exception, of course, of 'I Want You (So Bad)' (how's that for a Beatles / Dylan cross-pollination!!), 'Just Like A Woman', and maybe one or two others.",
+      "Next note Lyrically, the song explores some of the same themes of lonely, alienated isolation covered in the likes of 'Eleanor Rigby' or 'She's Leaving Home'. Whereas the earlier songs for the most part merely suggest the inner lives, thoughts and feelings of their protagonists through attention to tell-tale, albeit painfully mundane details, we find the attention focused here almost exclusively on the main character's inner life, with the external references having become vague and abstract. Contrast, for example, Father MacKenzie's darning of socks with the unnamed 'man of a thousand voices'."
     ]
     },
     {"trackIndex": 106, "order": 3, "trackTitle": "Flying",
@@ -2097,7 +2228,11 @@
       {"start":93.337,"end":131.749,"segType":"outro"},
       {"start":131.749,"end":136.960,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "There's little if any proof of it in the officially recorded legacy, but we have indisputable evidence that the very Early and Late Beatles loved to jam; to set a simple chord progression (more often than not, but not always a twelve-bar blues frame) and improvise their instrumental hearts out until exhausted, bored, or both.",
+      "Next note Look back at the 1960' Quarrymen tapes that survive: more than an hour of innocently aimless twelve-bar jam sessions plus a comparatively well thought out twelve-bar theme and variations, in the minor mode, no less, that makes the cut on 'Anthology', Volume 1, as 'Cayenne'; hmm..., my copy of the venerable 'Quarrymen Rehearse With Stu Sutcliff [sic!] Spring 1960' identifies a more complete mastering of the same performance as 'Thinking Of Linking (Inst.),' but of course we know that's wrong :-)",
+      "Next note At the far end, you find the (unreleased) 'Get Back' and 'Abbey Road' session tapes full of jam sessions; in the case of the former, we have seemingly endless versions of 'Dig It' and (my favorite), an extended version of 'Sun King''s intro on top of which is superimposed a vamp of 'Don't Let Me Down'. In the case of the latter, we have the unedited raw tapes of both 'Something' and 'You Never Give Me Your Money'.",
+      "Next note In the middle, there appears to be a dearth. Okay, there's the infamous take 7 ('We got a song and an instrumental there ...') of 'She's A Woman', and '12-Bar Original'. Anything else? Did they somehow loose the taste for it, or did they have the humility to just not tape it all?",
+      "Next note And then, there is this 'Arial Tour Instrumental' curiosity; a bit too fully choreographed to pass as a true improvisation, but rather less fully developed than we'd expect for a composition from our Own Sweet Boys by this point of their career. Hell, even 'Cry For A Shadow' has more fully-invested calories than this one!"
     ]
     },
     {"trackIndex": 107, "order": 4, "trackTitle": "Blue Jay Way",
@@ -2116,7 +2251,10 @@
       {"start":186.580,"end":233.327,"segType":"chorus"},
       {"start":233.327,"end":236.707,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The style of this song is surely derived from Indian music though, compared to the likes of 'Within You Without You', the exotic influence is much less direct, as it is applied only to the use of a drone bass, and a somewhat modal, raga-like tune. For a change, no explicitly Indian instruments are incorporated, nor is there anything much in the way of fancy rhythmic or metrical fireworks.",
+      "Next note The form again is the straight folk ballad, making for an interesting comparison with 'Fool On The Hill' in context of the 'Magical Mystery Tour' song lineup.",
+      "Next note The decision by someone out there to place this song immediately following 'Flying' on the US version of the 'Magical Mystery Tour' album (not to mention the official CD!) does a real disservice to 'Blue Jay Way'. The two tracks are both in the same key, and both are slow paced and static in form. This winds up making the second of the two seem more lugubriously plodding and monotonous than it might otherwise seem.",
+      "Next note I mean, let's not mince words — 'Blue Jay Way' pursues a kind of plodding monotony to purposely make a point. I just think that 'Flying' is a particularly poor choice of an animal act for it to have to follow. In both the film, as well as the original EP lineup (where it appears by itself on side D, it has much more breathing space in which to be."
     ]
     },
     {"trackIndex": 108, "order": 5, "trackTitle": "Your Mother Should Know",
@@ -2133,7 +2271,10 @@
       {"start":127.025,"end":145.575,"segType":"outro"},
       {"start":145.575,"end":149.600,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Here we have more feel-good nostalgia from Paul. Yet, while the mood of this song may be even more extremely Tiny-Tim-ish than that of the earlier 'When I'm Sixty-Four', the musical content here turns out to be much less four-square compared to the earlier song than you might realize from casual contact.",
+      "Next note Formalistically, we have an unusual asymmetrical phrasing pattern in the verse, plus the even more unusual deployment of an instrumental bridge in place of the typical sung refrain.",
+      "Next note Harmonically, we have another example of the much-beloved Beatles' gambit of exploiting home key ambiguity between a Major key and its relative minor.",
+      "Next note The nostalgic tone is set as much by the heavy use of secondary dominant chord chains (i.e. V-of-what-not) and their associated descending chromatic scale fragments as it is by the opening arpeggio in the tune, the style of the arrangement, the oom-pah four-in-the-bar back-beat, and those corny lyrics. Regarding the latter, I got punched hard in the stomach once, in the 9th grade, when I leaned across the aisle in home room and whispered to one tough guy Leo Sullivan from Coney Island the words, 'Your mother ...'"
     ]
     },
     {"trackIndex": 109, "order": 6, "trackTitle": "I Am the Walrus",
@@ -2155,7 +2296,8 @@
       {"start":197.625,"end":273.283,"segType":"outro"},
       {"start":273.283,"end":277.067,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Many times I've told you how wherever you find the Beatles at their most far out you also find them, under the surface, operating on their most classical instincts. So don't be fooled here: no matter what else you may respond to in this wonderfully outrageous song, you should acknowledge the extent to which it ultimately weighs in as a (granted, extremely stylized and abstract) talkin' blues number. In this regard I'm thinking not just of the patter style declamation of the words, but also of the formal use of phrases in groups of three, and the prominent exposure given to the V -» IV -» I progression, especially in context of a song whose harmony is otherwise quite out to lunch.",
+      "Even the two unusual formal details of this song are precedented by surprisingly early efforts by the same composer: Verses that are followed by refrains are subtly different from those which are followed by other verses. Take a look back at 'I Should Have Known Better'. The intro reappears in the middle of the song. Look all the way back for this to 'Thank You Girl', which is also bears interesting comparison to 'Walrus' in terms of the pseudo bluesy bone structure."
     ]
     },
     {"trackIndex": 110, "order": 7, "trackTitle": "Hello Goodbye",
@@ -2174,7 +2316,9 @@
       {"start":165.642,"end":206.381,"segType":"outro--variant"},
       {"start":206.381,"end":211.467,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The style here is campy though it's not as easily pigeon-holed as, say, 'When I'm Sixty-Four' or 'Your Mother Should Know'. Yes, it's infectious and clever beyond what initially meets the ear, but it's also just a tad over-produced, in my humble opinion.",
+      "Next note The form is unusual, with no intro, strictly alternating verse and refrain sections, and an additional outro section.",
+      "Next note They were obviously very fond of the fake/second ending gambit; you get to a point where the gesture of it ('The End ... or is it?') starts to feel like a cinematic cliché. All the same, you must acknowledge how clever those Beatles were at finding multifarious ways of playing this same treat. Think about how different are 'Strawberry Fields Forever', the 'Sgt. Pepper inner groove', 'Helter Skelter', and 'Her Majesty' from each other; not to mention the mysterious un-numbered final track on 'Anthology', Volume 3 :-)"
     ]
     },
     {"trackIndex": 111, "order": 8, "trackTitle": "Strawberry Fields Forever",
@@ -2192,7 +2336,8 @@
       {"start":172.278,"end":249.540,"segType":"outro"},
       {"start":249.540,"end":250.493,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song is an undeniable landmark breakthrough, though with the exception of the midstream switch to a different backing track and the double fade-out at the end, there is nothing on the technical side here that is quite literally so '' as much as it is a matter of several still-novel techniques being taken to new levels of complexity, intensity, and simultaneous exploitation and juxtaposition.",
+      "The use of tape-speed variations; up close miking; limiting; playing tapes backwards; the inclusion of instruments and instrumental groups that are conspicuously non-rock in their primary association; strange chord progressions, and surprising changes of meter — all these things have their precedents on 'Revolver' or its related singles, but the irony is that they are presented here in 'Strawberry Fields Forever' in creative extensions such that you never feel as if the Beatles are merely repeating themselves. Also, there's a kitchen-sink presentation of so many of these tricks in a single number that is, prior to 'Strawberry Fields Forever', quite unprecedented."
     ]
     },
     {"trackIndex": 112, "order": 9, "trackTitle": "Penny Lane",
@@ -2211,7 +2356,10 @@
       {"start":153.579,"end":180.009,"segType":"refrain"},
       {"start":180.009,"end":183.373,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "On a bad day, Paul's keen interest in trying out diverse musical styles could produce a kind of undigested whole-cloth parody that you either have to love or simply cannot stand; e.g. 'Honey Pie' or 'Maxwell's Silver Hammer'. On a good day, though, he could demonstrate an extraordinary talent for melting several such styles so that the whole becomes something not just 'greater than,' but somehow Different From and Elevated Above, the mere Sum of its Parts. And 'Penny Lane', in my humble opinion, was the product of a very good day.",
+      "Next note It's more 'classical' than 'Got To Get You Into My Life' but maybe less so than 'For No One'; more 'popular' and 'hard rocking' than 'Eleanor Rigby' but maybe less so than 'Good Day Sunshine'. Go and figure; I defy you to easily classify it!",
+      "Next note The completely cyclical form is rather folk-like, though the transposition upward of the final refrain is quite reminiscent of the late fifties / early sixties cliché of stepping up a half-step for the last chorus. The Beatles only other use of this latter gambit, to this point of their career, is found as far back as 'And I Love Her' (... and, gee, which one of them wrote that one? :-)).",
+      "Next note The rhythmic pulse is march-like with an undercurrent of fast triplets and localized syncopations that emphasize, rather than challenge, the rigidity of the four-in-the-bar meter."
     ]
     },
     {"trackIndex": 113, "order": 10, "trackTitle": "Baby You're a Rich Man",
@@ -2227,7 +2375,8 @@
       {"start":161.634,"end":177.998,"segType":"outro"},
       {"start":177.998,"end":183.760,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is a relatively simple song for the period, both in terms of the leanness of the material, and, as Lewisohn describes it, the speed with which it was put together.",
+      "Next note By the same token, it does bear the earmarks of its period in the large number of instruments and effects used in the recording, and the consciousness-pricking themes in the lyrics of identity crisis, impatient dissatisfaction with wealth that is only material, and an ambiguity in the author's stance between tender encouragement and nasty ridicule. Consider it an intermediate point on the curve between 'And Your Bird Can Sing' and 'Hey Bulldog'."
     ]
     },
     {"trackIndex": 114, "order": 11, "trackTitle": "All You Need Is Love",
@@ -2246,7 +2395,11 @@
       {"start":164.257,"end":224.000,"segType":"outro"},
       {"start":224.000,"end":228.440,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In terms of release dates, this song followed remarkably close on the heels of 'Sgt. Pepper'. Its genesis and original debut are matters of recording and broadcast history, the details of which I urge you to seek elsewhere to the extent that they are relatively tangential to our own perspective on the music, per se. I could easily argue, by the same token, that the song cannot be considered in isolation of the broadcast's production values and effect; but maybe I'm just being perverse, a wiseguy, or both :-)",
+      "Next note I do strongly recommend that you exert yourself to hear a good quality, complete version of the actual broadcast of the 25th June 1967, and as much of the video clips of it that have shown up in various documentaries over the years. Media-wise, this track is designed with sort of the reverse experiential strategy used in 'A Day In The Life'. There, the blind mystery of the audio-only medium adds an important element of surprise. Here, without the video clues, I dare say that some of the complexity and point of the proceedings is lost. The string players with their clunky earphones, the group also wearing earphones while sitting on high stools, and the crowd of all our friends sitting on the floor in their colorful 'costumes' are somehow part of the message that is lost on vinyl; Professor McLuhan should have been impressed.",
+      "Next note The form contains the unusual twist of opening with three consecutive verses. I prefer to parse this at the high level with the first verse being more a part of the intro than of the body of the song; note how this first verse does not present the tune of the song, but rather establishes the 'love, love, love' chorus part which serves as vocal wallpaper for the rest of the verses which follow. And, yes, I know; for the later verses the pattern is changed to a melisma on a single utterance of The Word.",
+      "Next note The music is cast in a variation of the campy, anthem-ic march style used before on the likes of 'Yellow Submarine', though in this case, the number of diverse montage elements used is more complex than before, and the limping meter used in the verses prevents the 'march' from sounding too obvious.",
+      "Next note The words, too, contain more interest than initially meets the eye. You not only have the clever retrograde of the title phrase ('love is all you need'), but also some rather off-handedly delivered philosophical observations on the ironic tension between the attempts you make to self-direct life's course and the way you learn from experience to accept the influence of so-called destiny. Yes, the lyrics are more to the point than my characterization of them."
     ]
     }
   ]},
@@ -2275,7 +2428,10 @@
       {"start":147.331,"end":163.321,"segType":"outro"},
       {"start":163.321,"end":163.322,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Coming on the heels of what the Beatles had been putting out for the two years previous (i.e. 'Revolver' through 'Magical Mystery Tour' albums plus all the contemporaneous singles), this track has the fresh impact of a palate-cleansing, eye-catching, and ear-opening album opener, if ever there was one: butte, rhythmically tricky, full of not-so-vague tribute-cum-parodistic references, and still, not least of all: Right-on, Hard-edged Rock-n-Roll Music, just the same; thank you.",
+      "Next note You'd have to have been born on another planet, or at least in a different century, to miss the several Beach Boys references. I dare say the Ray Charles' 'Georgia On My Mind' reference is a tad more subtle (note Paul's Quarrymen cover of 'Hallelujah I Love Her So'). But you need be a real Oldies maven to catch the ultimate allusion here, to Chuck Berry's 'Back in the USA'; see our .sig file du jour's quotation for confirmation; and don't tell me that Paul didn't know about this. [**]",
+      "Next note And if you admit the flat-III chord into the otherwise insular Blues family of I-IV-V, you've got to admit how much this particular song goes to reinforce (speaking of the Q-men) the Beatles' long-term, essential longing to be a (Rhythm'n) Blues group in spite of whatever novel fusion of disparate musical elements brought them their epochal success and notoriety.",
+      "Next note Phrasing-wise, this song is intriguingly neither twelve-bar nor four-square in its structure."
     ]
     },
     {"trackIndex": 116, "order": 2, "trackTitle": "Dear Prudence",
@@ -2290,7 +2446,9 @@
       {"start":219.498,"end":232.904,"segType":"outro"},
       {"start":232.904,"end":236.360,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Here we've got another fine example of how John took that same droney aesthetic with which George was so enthralled and went much further with it in terms of synthetic creativity. George may have felt both isolated and patronized by Lennon and McCartney as a songwriting team and one some level; just because you're rejection sensitive it doesn't mean they're not really out to ignore you :-) However, I suspect that on an individual basis, John at least took note of, and more than a passing interest in George's musical preoccupations. Granted, this interest didn't yield much in the way of direct collaboration; 'Cry For A Shadow' is something of a fluke, after all. But in terms of the more subtle question of indirect influence and inspiration, the common thread that runs through the likes of 'Rain', 'Tomorrow Never Knows'; and the subject of this specific study is intriguing.",
+      "Next note 'Dear Prudence' has not only a static harmonic profile, but even a formally flat floor plan; a steady stream of harmonically identical verses interrupted only once at the formal mid-point by a simple bridge which, itself, is as harmonically single-minded as the rest of the song.",
+      "Next note The impressive accomplishment is that such a satisfying build up of tension and its release is achieved In Spite Of All Stasis :-) The challenge is to create a sense of build up without relying much at all on either harmony or melody. Instead, the strategy is to carefully sustain an atmosphere within which texture and dynamic crescendo are developed over the long run."
     ]
     },
     {"trackIndex": 117, "order": 3, "trackTitle": "Glass Onion",
@@ -2307,7 +2465,8 @@
     {"start":109.064,"end":137.976,"segType":"outro"},
     {"start":137.976,"end":137.977,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In spite of its short length, compact form, frugal material, and casual production values, this talking-blues/patter-song packs a surprising amount of novelty, especially in its underlying musical structure.",
+      "Next note The form has a schematic stick-figure feeling about it. This is caused by the lack of an intro, the almost completely unrelieved series of verse / refrain pairs, and the way in which musical phrases are immediately repeated in each of those sections. The non-sequitur outro serves to counteract what otherwise could have been a fatal complacency."
     ]
     },
     {"trackIndex": 118, "order": 4, "trackTitle": "Ob-La-Di, Ob-La-Da",
@@ -2328,7 +2487,8 @@
       {"start":180.203,"end":188.854,"segType":"outro"},
       {"start":188.854,"end":188.855,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The charming effect of this upbeat number is nicely enhanced by its apparently spontaneous, come-as-you-are production values. Those characteristic overdubbed Beatlesque details seem much more randomly applied here than usual.",
+      "Next note The form feels on the long side, though if you take in the verse and refrain as a single unit, the whole thing reduces down to the so-called shorter two-bridge model; with only one section coming between the bridges."
     ]
     },
     {"trackIndex": 119, "order": 5, "trackTitle": "Wild Honey Pie",
@@ -2344,7 +2504,9 @@
       {"start":44.290,"end":52.932,"segType":"outro"},
       {"start":52.932,"end":52.933,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This little bonsai tree of a song compels our interest from at least three perspectives, no matter how slight you may find it in terms of content.",
+      "Next note The first thing to note is how the song seems to be purposely placed where it is to keep you diverted and/or distracted while the stage hands change sets, as it were, during the entr'acte separating 'Ob-La-Di, Ob-La-Da' from '... Bungalow Bill'. The gesture represents a theatrical exploitation of the LP album qua 'medium' that is not to be under-estimated.",
+      "Next note Secondly, this song is, in terms of form, much more of a complete miniature than an offhanded fragment; as long as you're willing to step back and accept a rather minimalistic/schematic definition of 'form.' Paul would play this trick at least twice more with 'Why Don't We Do It In The Road' and 'Her Majesty'. The 'Brother, can you take me back ...' coda to 'Cry Baby Cry' provides a clearly fragmentary counter example. And the mini-medleys of, say, 'Happiness Is A Warm Gun' and 'You Never Give Me Your Money' alternatively suggest how similar fragments can be successfully integrated to produce a whole that is greater than the sum of the parts."
     ]
     },
     {"trackIndex": 120, "order": 6, "trackTitle": "The Continuing Story of Bungalow Bill",
@@ -2362,7 +2524,7 @@
       {"start":150.837,"end":194.067,"segType":"outro"},
       {"start":194.067,"end":194.067,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We have here an example of the folk ballad, form notable in for the way in which the refrain is used as an intro, and is repeated several times ('Sing it, one more time, everybody!') at the end, conjuring the atmosphere of a live, rather than studio, performance."
     ]
     },
     {"trackIndex": 121, "order": 7, "trackTitle": "While My Guitar Gently Weeps",
@@ -2378,7 +2540,11 @@
       {"start":217.275,"end":280.626,"segType":"outro"},
       {"start":280.626,"end":285.293,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Two very different versions exist of 'While My Guitar Gently Weeps.' One, the official release on the White Album, is loud, heavy, wailing, and arranged in successively recorded thick layers of sound. The other version, take 1, available for years in bootleg and finally released officially on 'Anthology 3', is very much the opposite in tone; introspectively quiet and quite simply arranged, essentially for solo voice and acoustic guitar, with just a hint of harmonium toward the end.",
+      "Next note And yet, one might say that the expressive core of 'While My Guitar Gently Weeps' is to be found more deeply embedded in the musical elements which are in common between the two versions than it is to be found among the details of their contrasting arrangements, no matter how interesting it may be to explore and compare their details.",
+      "Next note Within the melody, chord progressions, and formal phrasing of the song we discover a thoroughly sad lament in which there is ironic tension on at least two levels: first, the contrast between the ploddingly slow tempo and continually restless progression of chords; second, the predominance of downward-moving gestures which conjure a mood of pessimism, despite the intermittent appearance of upward gestures that you would half-expect to lighten things up a bit.",
+      "Next note While the emphasis in this article will be on the so-called common musical elements, we will also take a close look, along the way, at the difference between the two versions.",
+      "Next note In between these two extremes, by the way, was yet another arrangement which has not been released officially or otherwise. From Lewisohn's commentary it sounds rather similar to the official version would appear to have been scrapped as a matter of its having become overdeveloped with too many overdubs and manipulations of tape speed."
     ]
     },
     {"trackIndex": 122, "order": 8, "trackTitle": "Happiness Is a Warm Gun",
@@ -2390,7 +2556,10 @@
       {"start":94.498,"end":161.633,"segType":"chorus--variant"},
       {"start":161.633,"end":163.467,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song represents a most intriguing formal experiment, one that you might describe as a 'teleological medley'. It manages to project an integrated impression in ironic spite of its acyclical form, and varied sequence of styles, and meters. The Beatles' ultimate grand example of this formal approach is, of course, the 'Huge Melody' that ends 'Abbey Road', but, it's this track on which you hear it first!",
+      "Next note In contrast to the 'Abbey Road' medley, where most of the sections could survive extraction from their immediate context to serve as an independent 'numbers' per se, you find here, with perhaps the exception of the final 'title' section, that the individual components are quite fragmentary and rely heavily on immediate repetition of a single idea to establish any sense of formal autonomy. There's not quite enough substance in any of them to stand on their own; otherwise you just might go as far as calling this a 'suite'; which latter term, now that I think of it, would be appropriate for 'Abbey Road'.",
+      "Next note The primary force that holds it together and prevents it from otherwise sounding like a random grab bag is the modulated development of intensity and mood created by the specific sequencing of the sections; each new section builds on what has preceded it while adding something new. Secondarily, the changes of meter either between or within every section establish themselves as a kind of leitmotif.",
+      "Next note In both his 'Recording Sessions' and his liner notes to 'Anthology', Volume 3, Lewisohn blithely asserts that this track is made up of three songs. From where does he get it? I count four, at least."
     ]
     },
     {"trackIndex": 123, "order": 9, "trackTitle": "Marthy My Dear",
@@ -2406,7 +2575,9 @@
       {"start":142.524,"end":147.508,"segType":"outro"},
       {"start":147.508,"end":148.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Don't be fooled: the gracious surface charm of this song is more substantively belied by novel touches in the departments of form, phrasing and harmony than you might ever notice without a closer look.",
+      "Next note The form is complicated, albeit in subtle terms: A larger than average quotient of precious bandwidth is monopolized by purely instrumental music; i.e. the long intro, mid-section break, and outro. That instrumental intro encompasses one complete verse section, thus 'forcing' the unusual deployment of only a single sung verse before the first bridge. Similarly, the instrumental verse section in the middle 'forces' the final verse to be the only other sung verse in the entire song. Though the piece includes two bridges, the first one includes an extension that is cavalierly omitted the second time 'round.",
+      "Next note The verse includes a Charleston-like syncopated repeat of the first melodic fragment, thereby setting up an asymmetrical interpolation of two excess beats within the first line of the song. Paul would much later employ a variation of this same technique in 'Two Of Us'; listen (I command you!) to the early run-throughs of the latter (the first track on the venerable 'Songs From The Past', Volume 4) in which Paul adjures his colleagues to listen to how well 'it works' as he 'rhythms it' for them, demo style."
     ]
     },
     {"trackIndex": 124, "order": 10, "trackTitle": "I'm So Tired",
@@ -2421,10 +2592,12 @@
       {"start":108.611,"end":123.307,"segType":"outro"},
       {"start":123.307,"end":123.307,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song is quite a vivid musical evocation of some unhappy inner state, alternating by fits and starts between enervated and unnerved. We also find here a substance-amplified unsteadiness (implied in both the lyrics, and more subtly in the moderato fox-trot back-beat) that curiously reminds me of the 'tipsy' beat you find in some of Ravel's 'Valses Nobles et Sentimentales'.",
+      "Next note The increased intensity of the refrain compared to the verse creates an impression of a parallel increase in the tempo, but it's only an illusion. One of the song's real charms is the manner in which the quietly ascending bassline leads into the third verse as though 'nothing' had happened in the previous, ranting refrain section.",
+      "Next note That ascending bassline pickup which opens the track turns out to be a mirror image of the bassline riff which ended the previous song. Chalk it to being either 'no coincidence' or a very happy one, at the very least. The key shift between the two songs of a subtle half-step upward bears an uncanny (and also 'coincidental') parallel with the half-step downward shift displayed by the transition of 'Eleanor Rigby' to 'I'm Only Sleeping'; even the specific keys involved are the same!"
     ]
     },
-    {"trackIndex": 125, "order": 11, "trackTitle": "Black Bird",
+    {"trackIndex": 125, "order": 11, "trackTitle": "Blackbird",
     "authorship":[ 95, 5, 0, 0, 0],
     "segments":
        [{"start":0.000,"end":4.573,"segType":"intro"},
@@ -2439,7 +2612,9 @@
       {"start":125.371,"end":138.267,"segType":"outro"},
       {"start":138.267,"end":138.267,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This folk song, spiked by just a little shot of blues, is a welcome contrast (or perhaps, antidote) to what might be called the various excesses scattered all over the rest of the double 'White Album'; no pejorative connotations intended.",
+      "Next note The song is a marvel of deceptive simplicity: the raw materials used are both simple in nature and small in number. Yet, they are recombined with a quiet, clever economy that makes them sound quite rich.",
+      "Next note The song also features a surprisingly large amount of free-verse uneven phrasing."
     ]
     },
     {"trackIndex": 126, "order": 12, "trackTitle": "Piggies",
@@ -2457,7 +2632,9 @@
       {"start":101.964,"end":124.333,"segType":"outro"},
       {"start":124.333,"end":124.333,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is quite a surprising blend of pseudo-classical mannerisms in the music with sophomoric cynicism in the lyrics!",
+      "Next note Classical connotations jump at you right off the surface of this song, starting with the harpsichord and cello on the backing track, and the almost painfully galumphing, square back-beat; but it runs deeper than that, as we'll see. Makes one wonder if this is sheer happenstance or else perhaps there is biographic evidence showing this was done aforethought.",
+      "Next note For example, he says, the deployment of a brief instrumental intro before every verse is a technique you'll find occasionally in so-called nineteenth century art songs; e.g. page through any book of Schubert Lieder and you'll undoubtedly run into some examples. Please label this 'Classical Exhibit Number 2'. Its usage here makes for a bulky form which, in turn, makes the song feel 'longer' than it actually is; only 2:04, including the trailing pig snorts!"
     ]
     },
     {"trackIndex": 1261, "order": 13, "trackTitle": "Rocky Raccoon",
@@ -2476,7 +2653,9 @@
       {"start":205.959,"end":212.893,"segType":"outro"},
       {"start":212.893,"end":212.893,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This light-heartedly delivered number about the very serious subject of an almost fatal romantic showdown finds Paulie dressed up again in something ordered from the costume party store; this time, it's a getup from the Wild, Wild American West.",
+      "Next note Compositionally, the song is a clever triumph of formal articulation over rote monothematicism by virtue of controlled, subtle variation in a number of departments. That's an excessively highfalutin way of saying, gee, the whole three and a half minute track is played out over the same unvarying eight-bar chord progression, and yet, rather than sounding painfully monotonous, it creates the impression of a something developed with the full formal scale and variety you typically expect from a 'song'!",
+      "Next note The secret is in the handling of the vocal style, lyrics, and instrumentation. And it bears some comparison with the way Messrs. Berry and Penniman (et al) know how to create a high-level form out of what is otherwise an unvarying series of twelve-bar frames."
     ]
     },
     {"trackIndex": 1262, "order": 14, "trackTitle": "Don't Pass Me By",
@@ -2493,7 +2672,8 @@
       {"start":206.016,"end":230.400,"segType":"outro"},
       {"start":230.400,"end":230.400,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Perhaps the only thing that's more astonishing than Ringo's officially releasing a song for the first time in 1968 is the evidence that the song already existed, at least in part, four or more years earlier.",
+      "Next note Seek out the BBC Radio first-ever 'Top Gear' program broadcast on July 16, 1964 (where were you on that date?), where you can listen to Ringo and Paul not just discussing the song with host Brian Matthews, but even hear them singing a few sample bars. In that context, you could imagine the song being delivered as a rocking bluesy number, in the manner of 'Can't Buy Me Love'. But wait four years, slow down the tempo, add a part for fiddler, and voila: we have it served up all countrified and back woodsy, as if it ever could be any other way."
     ]
     },
     {"trackIndex": 1263, "order": 15, "trackTitle": "Why Don't We Do It in the Road",
@@ -2505,7 +2685,7 @@
       {"start":71.673,"end":99.389,"segType":"chorus"},
       {"start":99.389,"end":101.440,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is one of what I call Paul's 'bonsai tree' songs; refer back to our study of 'Wild Honey Pie' for an introduction to the concept. This particular song features minimalistic (albeit vividly colorful) content, stick-figure form, outrageous-giddy attitude, and is sequenced in a context where it provides some kind of comic relief, and presages a shift in mood back toward serious, loving intimacy for the last couple tracks on 'Side 2' of the 'White Album'."
     ]
     },
     {"trackIndex": 1264, "order": 16, "trackTitle": "I Will",
@@ -2519,7 +2699,8 @@
       {"start":84.931,"end":106.027,"segType":"outro"},
       {"start":106.027,"end":106.027,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is quite a pink-edged daisy of a song, written in that earnest, fervent melodic style that is only one of Paul's genuine trademarks. And, just as with the likes of 'Yesterday', 'Hey Jude', and 'Let It Be', there is something underlying here that is inscrutably hymn-like, even 'religious' in tone.",
+      "Next note The compact form is unusual for the lack of an intro; an outro that is long in proportion to the otherwise short overall length of the song, and the fact that the lyrics of every verse are different; i.e. it may be 'short' but it still tells a 'story'."
     ]
     },
     {"trackIndex": 1265, "order": 17, "trackTitle": "Julia",
@@ -2536,7 +2717,9 @@
       {"start":160.914,"end":174.200,"segType":"outro"},
       {"start":174.200,"end":174.200,"segType":"silence"}],
     "notes": [
-      "note for julia"
+      "This song is almost agonizingly exquisite in its restrained, laconic poetry, its combination of suggestive imagery with a reluctance to be explicit; 'silent cloud touch me,' indeed.",
+      "Next note Though it is cast in an unadorned and folksy finger picking acoustic guitar style, the musical text is just as elusive as are the words.",
+      "Next note The formal design is also equivocal; what I label above as 'verse' and 'refrain', you might prefer to call 'intro' and 'verse'. I myself could argue it either way; heck, but I'll stick with 'verse' and 'refrain' because of the way the title is repeated like a mantra throughout all appearances of that section, no matter how many of the other words are varied."
     ]
     },
     {"trackIndex": 126501, "order": 1, "trackTitle": "Birthday",
@@ -2554,7 +2737,8 @@
       {"start":153.437,"end":162.922,"segType":"outro"},
       {"start":162.922,"end":162.923,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In its 'White Album' context of so many varied moods and styles, 'Birthday' stands out as a representative example of the sort of plain old blistering Rock that The Beatles were still capable of in the heart of their so-called Late Period.",
+      "Next note On the surface, one of the first things you notice is that this is one of the very few Lenon / McCartney songs that is even partly in strict twelve-bar blues form, though once you probe more deeply, you quickly discover that this is no mere rote revivalist knock-off."
     ]
     },
     {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues",
@@ -2571,7 +2755,10 @@
       {"start":198.078,"end":237.593,"segType":"verse"},
       {"start":237.593,"end":241.093,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is another one of what I call the Beatles' big 'gesture' songs; those in which production and performance values rather overshadow, even overwhelm the underlying raw material; where the gesture is to be exploited for its suggestive connotations of the cliché and the cultural ready-made. John was particularly fond of doing these; I leave it to you as a classroom exercise or discussion topic to identify other examples.",
+      "Next note In this case, it is a kind of intense, over-wrought and stylized Blues that is conjured, the sort that was quite popular in Britain at the time; the sort for which you need a sidebar here on the likes of the 'Animals' and their influence-ee's to fully appreciate.",
+      "Next note The form stays completely within the same variation of the standard twelve-bar blues frame, yet, manages to convey a sense of diversified form by altering details in the melodic and rhythmic foreground; compare this with 'Rocky Raccoon', of all things!",
+      "Next note There is also the uncanny way in which a 'hiccup' of an extra beat added to most of the verses is balanced out near the end by that most rough and rude of splices."
     ]
     },
     {"trackIndex": 126503, "order": 3, "trackTitle": "Mother Nature's Son",
@@ -2588,7 +2775,9 @@
       {"start":157.040,"end":165.706,"segType":"outro"},
       {"start":165.706,"end":168.040,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is another one of those hymn-like folk songs, cast by Paul in a decidedly pop music formal scheme. It's a close relative of 'Blackbird'; lyrically, perhaps the bit less profound but more elaborately produced of the two songs.",
+      "Next note The form of the official recording is the small two-bridge model (i.e. only one verse between the buttons), with one ingenious variation: to separate the unique pair of verses that opens the song, the final phrase of the verse is repeated as a 'spacer' in between them. Then, the same gesture is repeated at the very end of the song, this time, in order to provide the outro. Compare this with the Esher demo [**] of the song and the studio outtake on 'Anthology', Volume 3, both of which contain a more folk-like final repeat of the refrain-like bridge at the end.",
+      "[** The so-called Esher demos consist of 26 demos recorded at George Harrison's Esher bungalow, between the return of Lennon and Harrison from Rishikesh, India, in April 1968 and the start of the recordings for the 'White Album' on the 30th of May 1968. Some of these were released on 'Anthology', Volume 3.]"
     ]
     },
     {"trackIndex": 126504, "order": 4, "trackTitle": "Everybody's Got Something to Hide Except Me and My Monkey",
@@ -2604,7 +2793,10 @@
       {"start":119.739,"end":144.800,"segType":"outro"},
       {"start":144.800,"end":144.800,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This is yet another one of John's broad-gesture songs. It's an early foreshadow of the primal scream style that he would increasingly be drawn to in some of his 'solo' work with Yoko, but as a Beatles' track, this one bears comparison with 'Yer Blues' in terms of its heavy guitar texture and sometimes wrenching meter.",
+      "Next note The painfully slow harmonic rhythm combined with the virtually unnoticeable borderline between the verse and refrain sections creates the impression of an improvisatory rave-up that could go on seemingly forever; as if, as actually happens in the case of the later 'Dig It', the officially released track was just a conveniently-sized slice lifted out of a much longer, complete studio performance.",
+      "Next note The 'wrenching meter' effect here is caused by switching the meter from 4/4 to 3/4 for two measures of the last phrase of the refrain. John had used essentially the same gambit in 'Strawberry Fields Forever'; but you won't read about that in the newspapers :-)",
+      "Next note The lyrics are a rather extreme example of John's talent for milking poetic ambiguity from small bites of clichéd small talk: 'Come on / take it easy'. The amazing thing is how the roots of this go as far back as such early tracks as 'Yes It Is'."
     ]
     },
     {"trackIndex": 126505, "order": 5, "trackTitle": "Sexie Sadie",
@@ -2620,7 +2812,9 @@
       {"start":133.608,"end":195.333,"segType":"outro"},
       {"start":195.333,"end":195.333,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We have an intriguing mix of styles here that is not easily pigeon-holed; cutting edge lyrics on the one hand, and do-wop backing vocals and an almost Classical Era piano accompaniment on the other.",
+      "Next note The form is the longer two-bridge model, with an unusual pair of sung verses in the middle, and variations on the verse section used for the outro.",
+      "Next note Throughout, the music (by way of the harmonic choices) suggests a feeling of rallying ones energy to struggle up hill against tireless forces that would appear to be doggedly ready and willing to push you back and drag you down; an interesting effect in light of the lyrics."
     ]
     },
     {"trackIndex": 126506, "order": 6, "trackTitle": "Helter Skelter",
@@ -2638,10 +2832,12 @@
       {"start":152.907,"end":269.231,"segType":"outro"},
       {"start":269.231,"end":269.667,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The style of this song is essentially bluesy in spite of its avoidance of strict twelve-bar frames and I -» IV -» V harmonies. The form is slightly unusual with its midstream repeat of the intro and double fade-out outro, but nothing we haven't seen them use before in songs as diverse as 'Thank You Girl' and 'I Am The Walrus', and 'Strawberry Fields Forever'.",
+      "Next note And yet, crank this one up some late night when you're home alone and all the lights are off, and it's guaranteed to raise the hair on the back of your neck; to scare and unsettle you. And that phenomenon has absolutely nothing to do with what knowledge you do or don't possess about the song's bizarre connection with Charles Manson.",
+      "Next note You have to look beyond the form and style here to the lyrics, vocal performance, and recording production in order to discover the roots of this song's sinister effect."
     ]
     },
-    {"trackIndex": 126507, "order": 7, "trackTitle": "Long Long Long",
+    {"trackIndex": 126507, "order": 7, "trackTitle": "Long, Long, Long",
     "authorship":[ 0, 0, 100, 0, 0],
     "segments":
        [{"start":0.000,"end":0.360,"segType":"silence"},
@@ -2656,7 +2852,10 @@
       {"start":151.374,"end":183.050,"segType":"outro"},
       {"start":183.050,"end":184.333,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In this one of his relatively scattered turns at bat George gives us an off-beat mixture of styles typical of the times: a three-way cross between jazz waltz, folk song, and late sixties psychedelia. Roughly in order of appearance you find a ternary meter, a couple of ninth chords, an essentially acoustic backing track, form dominated by rote pairs of refrains and verses, a sitar, and a non-sequitur outro.",
+      "Next note The song completes the third side of the 'White Album' with a whimpering gesture not much different from what 'Julia' does for 'Side 2'. From a surface glance, you might call this one George's own take on 'I'm So Tired'; low, low, low-key soliloquy of lugubrious longing (watch it, Alan, you're overdoing it), produced in such a way that you worry that the protagonist won't have the energy needed to perform satisfactorily.",
+      "Next note A game of approach-avoidance is neatly played out in the harmony, with every section starting off away from the home key and several of them ending similarly away from it. It's as if the protagonist is dealing with a hot potato of an emotion that he cannot acknowledge except obliquely, and that he feels nervously in need of retreat the minute he finds himself confronting it head on.",
+      "Next note Feelings of discouraged low energy are conveyed by the several phrases that extend a lingering measure or more longer than they strictly need to."
     ]
     },
     {"trackIndex": 126508, "order": 8, "trackTitle": "Revolution 1",
@@ -2673,7 +2872,8 @@
       {"start":209.698,"end":255.733,"segType":"outro"},
       {"start":255.733,"end":255.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "We're treated to some ultra-stylized blues here; nothing about it conforms strictly to the orthodox twelve-bar form, though there's more than an adequate presence of secondary sexual characteristics (many of the chord choices and the bent notes in the melody) to establish the pheromonial aura of the genre.",
+      "The form is equally subtle; with a verse that can arguably be parsed as a verse-bridge combination, and an instrumental break in a form not used elsewhere in the piece; look to Paulie's much earlier 'She's A Woman' (another stylized blues track — quelle surprise!) for an intriguing precedent."
     ]
     },
     {"trackIndex": 126509, "order": 9, "trackTitle": "Honey Pie",
@@ -2692,7 +2892,9 @@
       {"start":145.961,"end":161.333,"segType":"verse--instrumental"},
       {"start":161.333,"end":161.333,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "You know I'm not a big fan of Paul's Old Fashioned Parodies, but I admire this song for its craftsmanship and authenticity of detail in virtually every department, right down to narrative fairy tale of working girl to legend of the silver screen. The more familiar you are with dance or show tunes of the Roaring Twenties or from the very primitive 'talkie' films of the early thirties, the better you can appreciate it. Yes, some of you may also associate it with Guy Lombardo, though to be sure, his Royal Canadians of many a New Years Eve television broadcast were themselves already exploiting it for nostalgia-inducing capabilities.",
+      "Next note The form is an extended variation on the standard two-bridge model, with a lengthy intro, a triplet of verses between the bridges, and a pair of verses at the end. Three of the many verse sections are predominantly instrumental, suggestive of the little dance interludes you'd expect to find in this stage-oriented genre.",
+      "Next note The use of an intro that is in a slower tempo and contains music and lyrics not heard anywhere else in the song proper is a conspicuous period detail. 'Do You Want To Know A Secret' is about the closest the Beatles ever come to this on their own. In the close-but-no-cigar category you have 'Misery' (slow, but exposes the song's title tag line), and 'If I Fell' (with unique content but securely within the same tempo as the rest of the track)."
     ]
     },
     {"trackIndex": 126510, "order": 10, "trackTitle": "Savoy Truffle",
@@ -2713,7 +2915,7 @@
       {"start":166.401,"end":173.500,"segType":"outro"},
       {"start":173.500,"end":174.893,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In the true 'White Album' spirit of masquerading in diverse musical styles, we find George here turning in a heavily syncopated, bluesy, rock and roller that has a strong contemporary dance band undercurrent. The preachy lyrics though are a Harrisonian dead give-away if you ask me."
     ]
     },
     {"trackIndex": 126511, "order": 11, "trackTitle": "Cry Baby Cry",
@@ -2733,7 +2935,9 @@
       {"start":141.638,"end":182.491,"segType":"outro"},
       {"start":182.491,"end":182.492,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "In a world where the archetypal lyrics for a lullaby are 'hush little baby, don't you cry', John's title phrase here combined with 'she's old enough to know better' conjures up some kind of perverse Anti Lullaby.",
+      "Next note The fancifully surreal nursery rhyme verses are striking themselves, with their alternating King and Queen, Duchess and Duke. When the pattern is broken in the final verse you wonder if he's avoiding foolish consistency, or like Paul in 'What You're Doing', he just ran out of options. But in any event, it's the unexplained and ambiguous, just-this-side-of-nasty needling of the refrain that fascinates you in spite of yourself. Is John singing the song about 'mother' in third person, or is he singing in the first person, in which case the offending line should be taken as self-mocking?",
+      "Next note We have a standard folk song form with an introductory refrain. The proceedings are enlivened by the prevalent number of elisions between sections. Imagine how flat and four-square it would sound without them."
     ]
     },
     {"trackIndex": 126512, "order": 12, "trackTitle": "Revolution 9",
@@ -2744,7 +2948,11 @@
       {"start":415.797,"end":502.200,"segType":"break"},
       {"start":502.200,"end":502.200,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "If 'Revolution #9' were a film you might render its capsule entry in Halliwell's film 'Guide' as follows: *Synopsis*: Dream-like collage of musical and spoken tape sources conjures up a mysteriously apocalyptic mood. *Assessment*: Moderately ambitious media experiment. Not bad at all, but historically much more important because it appeared on a pop music album with the Beatles' imprimatur no less, than because of anything specifically ground breaking or outrageous in its production values.",
+      "There's nothing here in the way of the alternating formal sections, chord progressions, articulated phrases or characterizing tunes you've learned to expect. And brief it surely is not.",
+      "Another John, Cage that is, wryly asked in one of his lectures on the compositional process: Which is more musical, a truck passing by a factory or a truck passing by a music school?",
+      "What you react to, especially in context of a 'rock album' is the absence of the large number of traditional musical values you rightly expect. So strong are your conditioned expectations that the very first time you ever listen to this track you subconsciously strain your patience hoping that it's all going to turn out to be some kind of prankish, nightmare, surprise intro to a real song.",
+      "As one of the more infamous achievements of the mid twentieth century avant garde, this form of musical composition challenges the listener on both psychological and philosophical grounds. The extent to which the pervasive ambiguity of content teases the listener into projecting a personalized vision of continuity onto the music opens up a radical new dimension to the experience we call 'listening'. Similarly, the extent to which the background 'noise' of real life provides the same kind of narrative ambiguity if we bother to attend to it as thoughtfully as we do to so-called music, then the line between what we call a 'composition' and what is merely 'random noise' is significantly blurred if not eradicated."
     ]
     },
     {"trackIndex": 126513, "order": 13, "trackTitle": "Good Night",
@@ -2762,7 +2970,8 @@
       {"start":167.519,"end":190.250,"segType":"outro"},
       {"start":190.250,"end":191.800,"segType":"silence"}],
     "notes": [
-      "note for good night"
+      "The style of this song would be pretty Schmaltzy based just on its chords, tune, and phrasing. The 'possibly overlush' arrangement only goes to push it over the top. You'd think that this kind of sentimentality would be anathema to the Beatles, especially John. Then again, I've got a feeling it's intended as a as a campy spoof.",
+      "Next note The form is built out of standard parts with the exception of the special bridge that appears before the final verse. The appearance of verse and bridge material in the intro, the doubled up verses, and the three-time appearance of the verse-next-bridge sequence makes the song feel longer, more complicated formally than it actually is."
     ]
     }
   ]},
@@ -2788,7 +2997,10 @@
 {"start":183.271,"end":213.499,"segType":"outro"},
 {"start":213.499,"end":216.667,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Two Of Us' is an idyllic love song in which uneven phrase lengths, changes of meter, and novel chord changes liven up and add bite to an acoustic pseudo-folk song that might otherwise be a bit too sweet and blandly charming for its own good.",
+      "Next note The form is the very classic two-bridge variant in which just a single verse separates the bridges and there is no instrumental solo section. The repeat of the intro between the first two verses is a rare but far from unique touch.",
+      "Next note The change of meter in the Verse is one of the more extreme examples of this gambit this side of 'She Said She Said' and 'Good Day Sunshine'.",
+      "Next note This song is a unique (?) example of where the 'Let It Be' album track is arguably the definitive 'best' version. It's a later take of the song, more carefully arranged and more crisply performed than the one on the 'Get Back' album. And to give the devil his due, it's one of the only songs on the album for which Spector delivers a mix whose 'finish' (in the photo processing or wood furniture sense of the word) feels appropriate to the style and mood of the music. See our Further Thoughts for more on this and the other alternate versions of 'Two Of Us'."
     ]
     },
     {"trackIndex": 128, "order": 2, "trackTitle": "Dig a Pony",
@@ -2809,7 +3021,10 @@
 {"start":208.217,"end":231.245,"segType":"outro"},
 {"start":231.245,"end":234.800,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The amount of non-routine musical detail in this song is all the more surprising and impressive because of its intentionally candid, rough presentation. An admittedly non-scientific poll of my acquaintances reveals that some people just don't like this song because of this sloppy while over the top intensity.",
+      "Next note Tough nuggies is all I can say. If the composer/performer's willing to take a risk it's only polite for you cutting him some slack for it. I'll grant that the Platonically ideal rendering of this song by the Beatles is something we're not privileged to hear, but I'll stick by my first point, that the risk element of hyperintensity (if not the sloppiness, per se) is germane.",
+      "Next note This is one of the truly scarce entries in the Beatles catalog with a clear and strong ternary backbeat. 'Baby's In Black' and 'I Me Mine' surely belong on this short list. Those song with a pulse of rapid triplets, such as 'Norwegian Wood' and 'She's Leaving Home', do not make the cut because in each of them the higher-order binary meter asserts itself over the triplets, placing the latter in the metrical background.",
+      "Next note The form is dominated by the verse/refrain pattern of a folk ballad, but also includes the doubled up verses and the half-time instrumental break of a pop song."
     ]
     },
     {"trackIndex": 129, "order": 3, "trackTitle": "Across the Universe",
@@ -2832,7 +3047,9 @@
 {"start":187.510,"end":222.748,"segType":"outro"},
 {"start":222.748,"end":228.560,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Across The Universe' features a striking mix of folk and Indian elements similar to that of 'Dear Prudence'. Yes, it was surprisingly written before the infamous trip to India, but so was George's 'Within You Without You'.",
+      "Next note The form is clearly articulated but unorthodox in construction. At the high level it is close to the flat form of the folk ballad, in which a grouping of sections is repeated several times as a group, per se. The unusual touch here is the interpolation of what I've called the 'Mantra' before each refrain.",
+      "Next note Additionally, each sectional grouping starts off with a pair of verses, but you discover that two distinct but very similar verse variations are used, and each grouping orders them differently. The first pair is V/V', the second pair V/V, and the third pair V'/V. The end result is charming particularly because of the casual, offhand manner in which this undeniable amount complexity of detail is played out."
     ]
     },
     {"trackIndex": 130, "order": 4, "trackTitle": "I Me Mine",
@@ -2847,7 +3064,10 @@
 {"start":107.511,"end":144.349,"segType":"verse"},
 {"start":144.349,"end":145.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'I Me Mine' is an interesting folk/blues stylistic hybrid with more than just a touch of the hard rocking waltz beat.",
+      "Next note The latter somehow appears to have tickled the fanciful ire of George's mate John. There's both the indelible video image of John and Yoko ridiculingly waltzing to the song just for yuks in the 'Let It Be' film, and a bootlegged outtake (Yellow Dog's CD 'All Things Must Pass', part 2: acoustic, track 9) on which John not only sings along in a mock schmaltzy operatic voice, but in reaction to the ternary beat tells George, 'Run along, son. We're a rock and roll band,' and by way of example, recites a four square 'boom-pah boom-pah' rhythm. This itself is ironic when you consider John's own penchant for the 3/4 meter, as well as his conspicuous absence from the eventual recording of the official version of 'I Me Mine' in early January 1970.",
+      "Next note The form alternates Verse and Refrain sections with no outro, ending off just where you'd expect the usual transition to the next Refrain. In consideration of the recording history and the available outtakes, you get the impression George never had, or took, the time to truly finish the piece; that they might not have taken it as far as they wound up doing if not for a sense of obligation to include it on the album because parts of it would appear in the film; shades of 'Across The Universe'.",
+      "Next note The early outtakes of the song, all from the 1/8/69 sessions, demonstrate an uncertainty about how to segue into and out of the Refrain, with a variety of experiments using a Flamenco-like beat for the transition that was clearly (thankfully?) lost on the way to the session for the official version a few days shy of a complete year later."
     ]
     },
     {"trackIndex": 131, "order": 5, "trackTitle": "Dig It",
@@ -2859,7 +3079,10 @@
 {"start":29.261,"end":50.000,"segType":"chorus"},
 {"start":50.000,"end":50.000,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Given the sometimes seemingly endless hours and even days on end of the Beatles drifting out of one loosely coupled but extended jam session into another during the 'Get Back' month of January 1969, our snippet of a song here, 'Dig It', would appear to bear an unfair and awesome burden, serving as the sole remnant of such musical horseplay to make the cut for the official 'Let It Be' album.",
+    "Next note But 'Dig It' also demonstrates once again how even humblest of Beatles recordings bears examination and provokes thought. No matter that the specific musical content here is arguably slight. It's the exploitation of the recorded medium for its own sake that creates value in this case. And more irony: it doesn't really matter if it was genuinely Phil Spector's own idea to handle it in this manner. The upside credit for just about anything good on the 'Let It Be' album acrues to the group themselves, with Spector left holding the bag for what's wrong with it. So much for the Beatles as nature intended.",
+    "Next note The official release of this song on the 'Let It Be' album is a scant minute-long choice cut excerpted from a much longer performance of it in the studio, with a spoken bit from an entirely different arrangement of the same number tacked on to the ending. This simple yet deft act of audio retouching uncannily elevates an otherwise half baked, improvisationally executed idea (as evidenced by the film clips and unedited audio tape) into a recorded 'gesture,' at once both inspired for wild zaniness and presciently apt in the way it sets up Paul's big anthem which follows. But no offence intended: anyone who has ever goofily jammed with friends at a home party must listen to this track and think on some level, 'gee, I can do just as well as this.'",
+    "Next note In spite of its comparable brevity, 'Dig It''s gesture should not be confused with what I've described elsewhere as the complete-but-miniature 'bonsai song form;' see the notes on 'Wild Honey Pie' and '... In the Road'. 'Dig It' is different, both in its circular, undifferentiated form, and the extent to which the fade-in tips you off that what you're listening to is taken out of context from something much longer. Actually, the circular form only goes to add to the illusion of open ended duration."
     ]
     },
     {"trackIndex": 132, "order": 6, "trackTitle": "Let It Be",
@@ -2880,7 +3103,8 @@
 {"start":216.549,"end":241.500,"segType":"outro"},
 {"start":241.500,"end":243.307,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Let It Be' quite effortlessly overflows with an emotional earnestness and prodigious melodic thrust that are both familiar qualities common to much of Paul's best work. But, 'Let It Be', with its quaint, diatonic style, its inclusion of pseudo-religious imagery in the lyrics, and its lingering afterglow of having stated some mysterious truth, earns it a unique, high place in Macca's songbook, a niche that it shares, perhaps alone, with 'Hey Jude'.",
+      "<a href='http://www.icce.rug.nl/~soundscapes/DATABASES/AWP/lib.shtml' target='_blank'>Pollack's full notes</a>"
     ]
     },
     {"trackIndex": 133, "order": 7, "trackTitle": "Maggie Mae",
@@ -2893,7 +3117,8 @@
 {"start":25.692,"end":38.050,"segType":"outro"},
 {"start":38.050,"end":40.600,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Maggie Mae' follows on the heels of the song 'Let It Be', ending off side 1 of the 'Let It Be' album with a surprisingly wry flourish.",
+      "Polishing off side 1 with the fragment of a raunchy so-called 'traditional' ditty performed in the overdone caterwauling style of amateur street corner buskers was an arch Beatlesque way of spiking the questions."
     ]
     },
     {"trackIndex": 134, "order": 8, "trackTitle": "I've Got A Feeling",
@@ -2911,7 +3136,10 @@
 {"start":188.640,"end":214.150,"segType":"outro"},
 {"start":214.150,"end":217.960,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Here we have a medium slow, medium hard bluesy groove whose casual production values belie a unique Beatles experiment with form.",
+      "Next note The single most notable feature here is the alternation and eventual superimposition of two separate songs. It's more than just a medley; the fancy college board musicology term for it is a 'quodlibet'. Aside from the many learned Baroque specimens of this technique, you can find two very well known examples from the Broadway show repertoire of the late fifties: 'West Side Story's dueling versions of 'Tonight' (one by the rival gangs, and one by Maria), and 'Music Man''s alternation of 'Goodnight My Someone' with 'Seventy Six Trombones'.",
+      "Next note The lyrics sport that clever yin/yang alternating wordplay that's a Beatles favorite way back to their early period. Here we find the 'Oh yeah/oh no', 'wandering/wondering', and 'hard year/good year'.",
+      "Next note That said, there's a part of me's got a feeling they're really not trying very hard with this one; that what may have started off as a really clever idea is eventually held back from greatness by the relative mediocrity of its raw materials, and the extent to which its two parts fail to contrast to sufficient effect. The two Broadway classics mentioned above, show how it's 'really' supposed to be done."
     ]
     },
     {"trackIndex": 135, "order": 9, "trackTitle": "One After 909",
@@ -2929,7 +3157,11 @@
 {"start":153.897,"end":170.535,"segType":"outro"},
 {"start":170.535,"end":175.507,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "With the exception of the two 'Anthology' singles the 'One After 909' must easily be the oldest 'new' Beatlesong ever. Its official release date, as part of the 'Let It Be' album, was May 1970, yet there are home recordings of the pre-Beatles playing the song virtually ten full years earlier.",
+      "Next note It's a paradox: they supposedly held it back for so long because they never did feel it was quite ready for prime time. Indeed, in comparison to just about any other original song released on their first couple albums and singles, 'One After 909' is an unusually simple and straightforward song in every compositional category.",
+      "Next note In contrast to some of the subtle formalistic variants you'll find even in their early works, this one is fully cranked out with its two bridges and a guitar solo modelled on the pattern of the verse section. You might even say the form is a bit boxy from the way all the sections are built out of even numbers of four-measure phrases.",
+      "Next note On the other hand, the stylized blues tint of the music allow it to fit in just about anywhere in the Beatles canon. And the lyrics have a deadpan bite and ambiguity in spite of the simple story they tell that can somehow pass for later, or at least 'mature' Beatles fare.",
+      "Next note Some truth in advertising: much of this particular note is drawn from a longer article published in The 910 (Vol.I, No.7) tracing the evolution of the song through a succession of bootleg recordings. For the moment let's just focus on the official recording."
     ]
     },
     {"trackIndex": 136, "order": 10, "trackTitle": "The Long and Winding Road",
@@ -2945,7 +3177,10 @@
 {"start":203.301,"end":215.900,"segType":"outro"},
 {"start":215.900,"end":217.867,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Macca does it again: in spite of his unabashed and sometimes even shameless sentimentality, he comes up with an affecting, durable torch song with 'The Long And Winding Road'. The secrets of his success are to be found in the manner in which novel approaches to form and harmonic structure underscore the emotional core of the song, and belie whatever curbside surface clichés it has which may initially turn you off.",
+      "Next note The song appears to describe a repeatedly thwarted passion in whose ultimate fulfillment the hero maintains unshakable faith. The underlying music goes so far as to confirm such fulfillment, even though the words, if you read them carefully, indicate the outcome has not yet become an eventuality, nor may it be taken for granted. It's kind of like Dylan's 'Tangled Up In Blue' done up McCartney style; accent on vulnerability in place of bitter irony, no fancy tricks with timelines, and a more or less happy ending.",
+      "Next note A thwarting of desire is suggested in the harmony by the relentlessness with which the relative minor key of c attempts to upstage and derail the true home key of Eb. Both Paul and John had played with Major/minor tonal schemes in many songs over a long period of time (for oldies sake look back to 'And I Love Her' and 'I'll Be Back'), but 'The Long And Winding Road' is one of the most sophisticated examples of it in the songbook.",
+      "Next note The restless discomfort that becomes a secondary infection borne of being constantly thwarted is suggested by a certain intentional blurring of the formal outlines whose clarity you otherwise come to rightfully rely upon. Note how the opening (title) phrase of the song reappers in contexts that make its formal purpose ambiguous. Is it an Intro, or the start of the Verse, or maybe even the end of the Bridge section? I'm going to 'analyze' it below as the start of the Verse section, but its overriding formal ambiguity, per se, that is germane."
     ]
     },
     {"trackIndex": 137, "order": 11, "trackTitle": "For You Blue",
@@ -2961,7 +3196,7 @@
 {"start":125.342,"end":149.200,"segType":"verse/outro"},
 {"start":149.200,"end":152.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'For You Blue' qualifies as possibly the most uncomplicated and straightforward song on the 'Let It Be' album. It's one of the very few original Beatles songs in which every section is a strict twelve-bar blues frame. And the official version features a relatively tight performance of a snappy instrumental arrangement for just the Beatles four that resonates nicely with the unusually unmuddied romantic euphoria of the lyrics. 'Ah, very good that, George.'"
     ]
     },
     {"trackIndex": 138, "order": 12, "trackTitle": "Get Back",
@@ -2981,7 +3216,8 @@
 {"start":170.473,"end":185.355,"segType":"outro"},
 {"start":185.355,"end":187.093,"segType":"silence"}],
     "notes": [
-      "note for get back"
+      "'Get Back' exemplifies a kind of stylized Blues that is one of the lasting Beatles trademarks.",
+  "Next note Formalistically it is built out of a long sequence of short sections that sound very similar (twisty little passages, all different ...), but which can be sorted into three classes based on closer inspection."
     ]
     }
   ]},
@@ -3007,7 +3243,8 @@
       {"start":180.829,"end":254.248,"segType":"outro"},
       {"start":254.248,"end":260.627,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Come Together' opens the 'Abbey Road' album with a stylistic gesture that remains, over the long run of their career as well as from our historical view of it 30 years later, one of the Beatles key strengths and accomplishments. Call it what you will: 'stylized', 'neo-classical'; maybe even 'rubber soul' (read: music style, not album title). In essence it's a matter of ironically updating an old style such that even when the antecedent musical elements stand out as painfully obvious, the effect of the stylized writing and production values transcend the model. Think 'evocation' as opposed to 'imitation'; compare this song with the group's covers of songs by Mr. Chuck Berry.",
+      "The song weighs in at a lengthy 4:20. Both the form and proportional assignments of time are quite expansive. The first refrain doesn't appear until 1:10, and the extended and harmonically static outro occupies a virtually equivalent amount of time at the end. In the meanwhile that intro recurs over and over. As a result, the mood is one of having all the time in the world, in spite of the fact that both tempo and backbeat are moderately driving. (By the same token, you'll note the detail-sweating wisdom exercised by shortening some of those intro reprises in the second half of the song.)"
     ]
     },
     {"trackIndex": 140, "order": 2, "trackTitle": "Something",
@@ -3023,7 +3260,8 @@
       {"start":166.409,"end":179.000,"segType":"outro"},
       {"start":179.000,"end":183.000,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Something' is arguably one of the most intense-yet-quietly sustained entries in the Beatles songbook right up there with the likes of Paul's much earlier 'Yesterday'.",
+      "It's a slow, passionate number in which the protagonist stands on the knife edge of likely and inevitably falling in love but without the complete certainty that he will yet arrive there. It's an exquisitely bittersweet state of heart effectively evoked in the music as much as it is specified by the words. The affirmative and optimistic rising hook phrase that opens and closes the song (as well as each of the verses) is more than amply balanced out by a constant, nagging undertow of literally 'falling' motion in the bassline and tune. The decision to not set that rising hook to vocalized lyrics tells us the score with eloquent reticence."
     ]
     },
     {"trackIndex": 141, "order": 3, "trackTitle": "Maxwell's Silver Hammer",
@@ -3043,7 +3281,8 @@
       {"start":197.017,"end":204.998,"segType":"outro--variant"},
       {"start":204.998,"end":207.267,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "So here we have Paul, bless him, seemingly unable to resist doing one more campy, musical hall style number. The music itself is 'okay' as far as facile, singable pop song fodder go, but the attempt to cut the cutsey cloying cliché with straight-faced black comedy about a brutal serial killer would seem to fall flat. Could it ever have been in style or good taste?",
+      "Although the song begins with the start of the first verse without any intro, we eventually encounter a very intro-like interlude that trails each of the Verse/Refrain pairs."
     ]
     },
     {"trackIndex": 142, "order": 4, "trackTitle": "Oh! Darling",
@@ -3059,7 +3298,10 @@
       {"start":168.038,"end":204.499,"segType":"verse"},
       {"start":204.499,"end":206.707,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Paul gives us yet another one of those uncanny Beatlesque stylistic hybrids with this song: the emotional ethos of slow and heavy blues mixed with the form and chord progressions of the slow, wall climbing doo-wop oldie.",
+      "There is a surpringly small number of songs in slow ternary meter in the complete Beatles songbook. Other than the two I already mentioned in the previous paragraph I can think of only 'Yes It Is' and maybe 'Norwegian Wood'.",
+      "For all of its bluesy flavor, the fact remains that the form here is the classic pop two-bridge model with only a single verse separating the bridges. None of the sections matches the length or chord progression of traditional twelve-bar blues.",
+      "As a point of formal curiosity you'll note that this song has virtually no intro or outro."
     ]
     },
     {"trackIndex": 143, "order": 5, "trackTitle": "Octopus's Garden",
@@ -3074,7 +3316,9 @@
 {"start":156.313,"end":168.099,"segType":"outro"},
 {"start":168.099,"end":171.160,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The charm of 'Octopus's Garden' lies in its simplicity and complete lack of pretension; the latter in spite of the typically Beatlesque lavish production values. Particularly irresistable here is the Peter Pan-like theme of youthful escape from the harsh realm of storm (no relation to Rory :-)), wave, and being told what to do to a place of shade, warmth, joy, happiness and safety.",
+    "The form is made compact by virtue of the relatively long Verse section which, itself, might be subdivided into a mini | Verse | Verse | Bridge | Verse | module of its own.",
+    "Simplicity in this song is operative one might say to the extreme of creating the musical equivalent of what is called 'naive' in painting or sculpture. I am struck in particular by the barely concealed parallel fifths and octaves between the tune and the bassline and the way in which the instrumental break introduces no really new material inspite of the temporary change of key."
     ]
     },
     {"trackIndex": 144, "order": 6, "trackTitle": "I Want You",
@@ -3091,7 +3335,10 @@
 {"start":277.055,"end":464.110,"segType":"outro"},
 {"start":464.110,"end":467.173,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'I Want You (She's So Heavy)' is one of their most unusual experiments with form, not to mention its characteristically odd phrase lengths and changes of meter. It seems a shame that its equally unusual long running time, abrupt ending, and especially its obsessively intense focus and over the top Primal Screaming affect tend to upstage and eclipse the creative novelty of the musical text.",
+      "It's not quite a medley, rather more like two separate songs cinematically cross cut with each other. One provides the verses, while the other provides the intro, refrain, and extended outro.",
+      "The dramatic pauses between the sections and the uneven phrase lengths within them recall several other of John's best work along the lines of 'Strawberry Fields ...', 'Good Morning ...', 'Happiness ...', and 'Yer Blues'.",
+      "Beneath all the novelty there lies a heavy foundation deeply rooted in relatively traditional hard blues."
     ]
     },
     {"trackIndex": 145, "order": 7, "trackTitle": "Here Comes The Sun",
@@ -3110,7 +3357,8 @@
 {"start":159.683,"end":183.998,"segType":"outro"},
 {"start":183.998,"end":185.560,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Folksy influences on 'Here Comes The Sun' are apparent in the series of Verse/Refrain pairs, the prominent role for acoustic guitar, and the generally laid back mood.",
+      "The use of a middle bridge, offbeat metrical patterns and chord choices bespeak several other, dare we say Beatlesque, influences."
     ]
     },
     {"trackIndex": 146, "order": 8, "trackTitle": "Because",
@@ -3128,7 +3376,11 @@
 {"start":126.324,"end":165.250,"segType":"outro"},
 {"start":165.250,"end":165.533,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "This song represents a daring concept on a number of levels: style, form, harmony, and singing.",
+      " Stylistically it defies neat pigeon-holing in terms of genre. The finger picked arpeggios might suggest folk music, and the embellished A-Major chords bluesy jazz, but it's difficult to see how any other the other elements in the music and arrangement support either.",
+      "Formally you can make out the basic contours of a relatively standard Verse -» Verse -» Bridge -» Verse outline, but the recurring use of what I've labeled a 'mini bridge' and the handling of the outro serve to blur your sense of formal articulation.",
+      "Harmonically the song has an overall insecure sense of home key because that infernal mini bridge continually leads the music to the threshold of D Major, in spite of the repeated establishment of c# minor as the home key throughout the song by standard I -» ii -» V -» I means.",
+      "The thrice overdubbed three-part vocal arrangement creates a mood of wide-eyed and unblinkingly rapt contemplation that is sustained wall to wall with almost unaturally calm intensity. Technique-wise it may pay hommage to the earlier Beatles efforts of 'This Boy' and 'Yes It Is', but there is a transcendent element here that reminds me more so of a piece such as Bach's 'Air' from the Third Orchestral Suite; the movement well known as the one for the (you should pardon the expression) 'G string'."
     ]
     },
     {"trackIndex": 147, "order": 9, "trackTitle": "You Never Give Me Your Money",
@@ -3140,7 +3392,11 @@
 {"start":148.093,"end":242.400,"segType":"verse--variant"},
 {"start":242.400,"end":242.400,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "Taking a cue from the emphasis in my last note (re: 'She Said She Said') on the undeniable primacy of classic song forms within the Beatles songbook, let's look this time at 'You Never Give Me Your Money' at the other end of the formal spectrum; along with '... Warm Gun', being one of the extremely rare examples in the canon where the Beatles opt for '<a href='http://en.wikipedia.org/wiki/Teleology' target='_blank'>teleological</a> medley' in place of any more traditional periodic / cyclical form.",
+      "'You Never Give Me Your Money' is built from three different sections that are nominally compatible, but virtually unrelated to each other. As with all but the final section of '... Warm Gun', you find that while each of the sections here suggests the potential for complete development into a song that can stand on its own, each is presented for now in a fragmentary manner where they rely heavily on the immediate repetition of a single idea to establish any sense of formal autonomy.",
+      "On the one hand that makes it easy for the listener to grasp the articulation of the larger form, but it begs the question of how any feeling of unity is brought to bear on such independent diversity. We'll examine each section in turn and come back later to this question.",
+      "Each of the three parts has its own rhyme scheme, though none of them is quite large enough, formally, to get into literal repeats of whole sections of words. By the same token, the latter halves of parts Y and Z both feature immediate, multiple repetition of the same line.",
+      "All three parts lyrically start off after the downbeat, providing a foil for the children's counting rhyme of the song's outro which very much starts right on it."
     ]
     },
     {"trackIndex": 148, "order": 10, "trackTitle": "Sun King",
@@ -3154,7 +3410,8 @@
 {"start":109.960,"end":146.310,"segType":"verse"},
 {"start":146.310,"end":146.307,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'Sun King' makes an uncanny companion piece for 'Because' in the way they share a similar sustained and paradoxically relaxed-while-ecstatic affect. I know very well that the medley begins not with 'Because' but rather with 'You Never Give Me Your Money'; you don't need to remind me :-) Still, I cannot help responding to the neat ABA symmetry created by the specific sequencing of the three aforementioned tracks.",
+      "'Sun King' also amply demonstrates John's often ingenious approach to form. The track is built up from a small number of short phrases or sections that are flexibly repeated and sequenced in the manner mosaic tiles. The larger form of the track is a kind of miniaturized 'bonsai medley,' with a discrete minature song in the middle section that is surrounded on both sides by unusually heavy wrapping of the verse-like outer sections, which by themselves don't quite make up a whole song, minature or otherwise. The mental picture is one of the small hamburger with a very large roll; sort of the opposite of a recent TIME magazine cover photo for an article about the current fad over high protein/fat, low carbo diets."
     ]
     },
     {"trackIndex": 149, "order": 11, "trackTitle": "Mean Mr. Mustard",
@@ -3164,7 +3421,9 @@
 {"start":1.737,"end":35.576,"segType":"verse"},
 {"start":35.576,"end":66.293,"segType":"verse"}],
     "notes": [
-      "Notes coming soon"
+       "'Mean Mr Mustard' is more a 'discontinued fragment,' than a 'bonsai miniature,' and I say that without intending any pejorative connotations. In context the song makes an excellent fit of form-to-function. Following on the heels of the more substantial and self-contained previous two songs this one critically needs to pick up the pace and get the show on the road, medley-wise. In this case, the short track length, incomplete form, and the tighter, smoother coupling of the track at both ends to the songs that surround it seem as a group of factors to work out just right.",
+  "Next note The tempo of 'Mean Mr Mustard' is essentially identical to that of 'Sun King', at least up until the final phrases, but the switch of backbeat from something that lazily flows to a painfully lumbering march that alternates with more syncopated material disguises that fact.",
+  "Next note Amazingly, no matter how awkwardly John is caught up with here, compositionally on the run, so to speak, we find him making the effort, expending the bandwidth to work in odd phrase lengths, more mosaic tiling, and a metric modulation. It's not fair to call this just a throwaway."
     ]
     },
     {"trackIndex": 150, "order": 12, "trackTitle": "Polythene Pam",
@@ -3177,7 +3436,9 @@
 {"start":40.868,"end":47.048,"segType":"intro"},
 {"start":47.048,"end":72.733,"segType":"outro"}],
     "notes": [
-      "Notes coming soon"
+      "'Polythene Pam' maintains a relationship with its preceding (literal) brother track uncannily balanced between the forces of unity and contrast.",
+  "Next note The two songs are musical portraits of individuals who are blood-related but otherwise very different personality types, not to mention separate genders.",
+  "Next note Both songs are relatively abbreviated in terms of both form and duration. By the same token, the two of them are sequenced to create a single, unbroken and quite powerful one-two wind up punch of a lead into '... Bathroom Window'."
     ]
     },
     {"trackIndex": 151, "order": 13, "trackTitle": "She Came In Through The Bathroom Window",
@@ -3191,7 +3452,9 @@
 {"start":93.320,"end":116.600,"segType":"bridge"},
 {"start":116.600,"end":117.733,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "'... Bathroom Window', despite its extremely long title, turns out to be quite shorter in duration than it seems when you listen to it. Check out the track length, only 1:57; and that includes those last four measures of the previous track with the falling scale in the bassline. I believe this musical illusion is created by the extent to which the two preceding fragmentary tracks provide a foil for this one's being relatively full grown in the form department.",
+      "This song also turns out to be pretty much the only song in the medley that comes close to approaching one of the traditional forms. And even so, it has the peculiar trait of putting a single verse up front, with two verses between the bridges. Darn clever, those Beatles, hmm?",
+      "The lyrics flip flop between the entertainingly clever and annoyingly inscrutable."
     ]
     },
     {"trackIndex": 152, "order": 14, "trackTitle": "Golden Slumbers",
@@ -3203,7 +3466,9 @@
 {"start":34.560,"end":62.211,"segType":"chorus"},
 {"start":62.211,"end":91.573,"segType":"verse"}],
     "notes": [
-      "Notes coming soon"
+      "'Golden Slumbers' combined with 'Carry That Weight' creates a foolish-consistency-avoiding, compatible-if-not-exactly matching bookend for '... Your Money'. Whereas the preceding '... Bathroom Window' provided some critically needed symmetry with '... Your Money' in terms of sheer weight of expository expression, the 'Golden Slumbers' / 'Carry That Weight' pair of tracks provide balance with '... Your Money' in terms of a similarity of mood and material; not to mention (in 'Carry That Weight') a literal recap of some of the latter.",
+  "Next note 'Golden Slumbers' and 'Carry That Weight' are as mutually integrated with each other as are 'Mean Mr Mustard' and 'Polythene Pam'; the two pairs of songs are even linked together by virtually identical drum fills. Both 'Golden Slumbers' and 'Carry That Weight' are built out of a relatively conventional A-B-A arch form which gives each track the impression of being more-complete/ less-fragementary than either 'Mean Mr Mustard' or 'Polythene Pam'. But that sense of individual completeness is strongly undermined in the final result by their degree of musical inter-relation.",
+  "Next note The ultra-sincere affect of 'Golden Slumbers' is born of Macca's unique blend of anthem with show tune, similar to what we find in 'Hey Jude' and 'Let It Be'."
     ]
     },
     {"trackIndex": 153, "order": 15, "trackTitle": "Carry That Weight",
@@ -3215,7 +3480,9 @@
 {"start":67.364,"end":89.874,"segType":"chorus"},
 {"start":89.874,"end":96.867,"segType":"outro"}],
     "notes": [
-      "Notes coming soon"
+      "'Carry That Weight' picks up on and extends the majestically fervent gesture of 'Golden Slumbers'' mid-section to provide one of the single most 'symphonic' moments in the Beatles cannon. Aesthetically, it is at least as far removed from the likes of their earliest hits as is something like 'I Am The Walrus'; maybe even more so. At the same time, you find a foreshadowing here of Macca's later oratorio style if you listen carefully.",
+      "In spite of its substantive A-B-A form 'Carry That Weight''s sense of musical independence and self-sufficience is successively quite undermined by the combination of: the building rhythmic momentum that sweeps through it at both ends; the built-in manner in which its refrain cycles back for 'more'; and the borrowing of its bridge and outro sections from '... Money'.",
+      "In contrast to the continual uneven phrasing and changeable harmonic rhythm of 'Golden Slumbers', we find 'Carry That Weight' closely following a more predictable, four-square course of action."
     ]
     },
     {"trackIndex": 154, "order": 16, "trackTitle": "The End",
@@ -3226,7 +3493,8 @@
 {"start":89.014,"end":123.498,"segType":"break--instrumental"},
 {"start":123.498,"end":139.827,"segType":"silence"}],
     "notes": [
-      "Notes coming soon"
+      "The already exceedingly fervent mood of the 'Golden Slumbers' / 'Carry That Weight' pairing is taken up yet one more euphoric notch in 'The End', providing 'Abbey Road' with what is likely the single grandest finale gesture on any album of The Beatles.",
+      "The form here is a mini-medley of three parts in which the loose relationship between the first two parts adds some sense of unity, and the proportional division of time by all three parts creates some feeling of A-B-A symmetry despite the fact that the two outer parts are based on separate materials."
     ]
     },
     {"trackIndex": 155, "order": 17, "trackTitle": "Her Majesty",
@@ -3236,7 +3504,9 @@
 {"start":0.320,"end":2.071,"segType":"intro"},
 {"start":2.071,"end":23.267,"segType":"verse"}],
     "notes": [
-      "note for her majesty"
+      "Just when you think the last recorded Beatles album is over, just as you're letting out a deep sigh in reaction to 'The End', you're startled by one crashing D-Major chord that's followed by this irreverent little fragment of a ditty. Its ending is as abrupt as its start is sudden. Before you've quite had a chance to react to it, it's already altogether come and gone.",
+      "By this point, the Beatles had pulled this kind of stunt just enough times for you to recognize it with an indulgent smile, but not too many times that you'd be annoyed that it's getting old. In contrast to 'The End', 'Her Majesty' it provides sufficient comic relief to those for whom the previous track is too sombre or stuffy, without ruining or even diluting that same track's lush sentiment for those who like it just the way it is.",
+      "In terms of style, 'Her Majesty' sounds like a strange cross between 'Maxwell's Silver Hammer' and the 'Goodbye' song Paul wrote for Mary Hopkin."
     ]
     }
   ]}
