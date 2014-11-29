@@ -221,6 +221,11 @@ a:hover,
   //   display: block;
   //   @include border(red);
   // }
+
+
+  .segment {
+    height: 60px !important;
+  }
 }
 
 .track-container__graphic-container__notes-container__note-list {

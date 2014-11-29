@@ -1264,8 +1264,12 @@ a:hover,
     line-height: 4.01563rem;
   }
 }
-
 /* line 226, ../sass/partials/_typography.scss */
+.track-container--expanded .segment {
+  height: 60px !important;
+}
+
+/* line 231, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1279,7 +1283,7 @@ a:hover,
   padding-left: 1.1rem;
 }
 
-/* line 232, ../sass/partials/_typography.scss */
+/* line 237, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1294,7 +1298,7 @@ a:hover,
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 240, ../sass/partials/_typography.scss */
+/* line 245, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1303,7 +1307,7 @@ a:hover,
   font-weight: 200;
 }
 
-/* line 246, ../sass/partials/_typography.scss */
+/* line 251, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1319,7 +1323,7 @@ a:hover,
   margin-bottom: 0.5rem;
 }
 
-/* line 253, ../sass/partials/_typography.scss */
+/* line 258, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
