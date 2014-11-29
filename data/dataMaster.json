@@ -1872,16 +1872,16 @@
     "authorship":[ 0, 0, 100, 0, 0],
     "segments":
        [
-      {"start":0.000,"end":0.450,"segType":"silence"},
-      {"start":0.450,"end":7.505,"segType":"intro"},
-      {"start":7.505,"end":35.585,"segType":"verse"},
-      {"start":35.585,"end":63.657,"segType":"verse"},
-      {"start":63.657,"end":74.118,"segType":"chorus"},
-      {"start":74.118,"end":102.237,"segType":"verse"},
-      {"start":102.237,"end":116.473,"segType":"chorus"},
-      {"start":116.473,"end":130.286,"segType":"chorus"},
-      {"start":130.286,"end":144.808,"segType":"outro"},
-      {"start":144.808,"end":150.627,"segType":"silence"}
+          {"start":0.000,"end":2.041,"segType":"silence"},
+    {"start":2.041,"end":15.510,"segType":"intro"},
+    {"start":15.510,"end":36.310,"segType":"verse"},
+    {"start":36.310,"end":56.931,"segType":"verse"},
+    {"start":56.931,"end":72.008,"segType":"bridge"},
+    {"start":72.008,"end":92.560,"segType":"verse"},
+    {"start":92.560,"end":107.641,"segType":"bridge"},
+    {"start":107.641,"end":128.408,"segType":"verse"},
+    {"start":128.408,"end":145.400,"segType":"outro"},
+    {"start":145.400,"end":149.867,"segType":"silence"}
       ],
     "notes": [
       "This is very much a typical Hari-song; replete with a hard and high anxiety in the lyrics that is further manifested in the musical fabric by dissonance, both harmonic and rhythmic. We're talking about serious illness of ease."

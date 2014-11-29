@@ -395,19 +395,16 @@ function setEventsTest() {
 
   $('.track-container').click(function(){
 
-    $('.track-container__graphic-container__notes-container').hide();
+    $('.track-container--expanded').find('.track-container__graphic-container__notes-container').hide();
+    $('.track-container--expanded').toggleClass('track-container--expanded');
+    $('.track-container--expanded').toggleClass('track-container--collapsed');
 
     var thisNotes = $(this).find('.track-container__graphic-container__notes-container')
-    thisNotes.toggle("fast");
+    thisNotes.slideToggle("fast");
 
-     // $(this).find('.track-container__graphic-container__notes-container').toggle();
-      // if  ($(this).hasClass('track-container--collapsed')) {
-      //   $(this).addClass('track-container--expanded');
-      //   $(this).removeClass('track-container--collapsed');
-      // } else {
-      //   $(this).addClass('track-container--collapsed');
-      //   $(this).removeClass('track-container--expanded');       
-      // }
+    $(this).toggleClass('track-container--expanded');
+    $(this).toggleClass('track-container--collapsed');
+
 
     })
 

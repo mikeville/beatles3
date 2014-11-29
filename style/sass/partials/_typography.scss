@@ -95,18 +95,23 @@ a:hover,
   @include rhythm(1,0,0,1);
 }
 
+.site-header__site-title-container__site-title,
+.site-header__site-title-container__site-title a {
+  text-decoration: none;
+}
+
 .page-header__title {
   @include adjust-font-size-to(3rem, 6);
   font-weight: 500;
   @include rhythm(0,0,0,1);
-  color: $green;
+  color: $pink;
 }
 
 .page-header__subheader {
   @include adjust-font-size-to(2rem, 4.5);
   font-weight: 200;
     @include rhythm(0,0,0,2);
-    color: $green;
+    color: $pink;
 
 }
 
@@ -186,10 +191,21 @@ a:hover,
   @include rhythm(0,1,2,1);
 
   .track-container__label-container__label {
-    @include adjust-font-size-to(4rem);
-    font-weight: 100;
-    @include rhythm(0,0,0,3);
     color: $pink;
+    @include adjust-font-size-to(3rem);
+    font-weight: 300;
+
+    text-overflow: initial;
+    overflow: visible;
+    white-space: normal;
+
+    @include breakpoint($med){
+     @include adjust-font-size-to(4rem);
+      font-weight: 100;
+      @include rhythm(0,0,0,3);
+
+
+    }
   }
 
   // .track-container__graphic-container__notes-container,
