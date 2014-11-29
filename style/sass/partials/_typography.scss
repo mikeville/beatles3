@@ -200,11 +200,13 @@ a:hover,
     white-space: normal;
 
     @include breakpoint($med){
-     @include adjust-font-size-to(4rem);
+     @include adjust-font-size-to(3rem);
       font-weight: 100;
       @include rhythm(0,0,0,3);
+    }
 
-
+    @include breakpoint($large){
+     @include adjust-font-size-to(4rem);
     }
   }
 
