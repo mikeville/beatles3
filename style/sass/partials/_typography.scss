@@ -151,6 +151,7 @@ a:hover,
 .track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
+
 }
 
 // .track-container__label-container__label {
@@ -170,10 +171,15 @@ a:hover,
   }
 }
 
+
+.track-container__label-container {
+  @include adjust-font-size-to(0.8rem, 3);
+}
+
 .track-container--collapsed {
   .track-container__label-container__label {
     overflow: hidden;
-    @include adjust-font-size-to(0.8rem, 3);
+    // @include adjust-font-size-to(0.8rem, 3);
     @include ellipsis;
     font-weight: 300;
   }
@@ -192,7 +198,7 @@ a:hover,
 
   .track-container__label-container__label {
     color: $pink;
-    @include adjust-font-size-to(3rem);
+    @include adjust-font-size-to(2rem);
     font-weight: 300;
 
     text-overflow: initial;

@@ -1183,23 +1183,27 @@ a:hover,
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 164, ../sass/partials/_typography.scss */
+/* line 165, ../sass/partials/_typography.scss */
 .track-container:hover {
   cursor: pointer;
   background-color: #292925;
 }
-/* line 168, ../sass/partials/_typography.scss */
+/* line 169, ../sass/partials/_typography.scss */
 .track-container:hover .track-container__label-container__label {
   color: #ee3766;
 }
 
-/* line 174, ../sass/partials/_typography.scss */
-.track-container--collapsed .track-container__label-container__label {
-  overflow: hidden;
+/* line 175, ../sass/partials/_typography.scss */
+.track-container__label-container {
   font-size: 13px;
   font-size: 0.8rem;
   line-height: 24px;
   line-height: 1.5rem;
+}
+
+/* line 180, ../sass/partials/_typography.scss */
+.track-container--collapsed .track-container__label-container__label {
+  overflow: hidden;
   white-space: nowrap;
   overflow: hidden;
   -ms-text-overflow: ellipsis;
@@ -1208,7 +1212,7 @@ a:hover,
   font-weight: 300;
 }
 
-/* line 188, ../sass/partials/_typography.scss */
+/* line 194, ../sass/partials/_typography.scss */
 .track-container--expanded {
   border-top: 1px dotted #fff8cd;
   border-bottom: 1px dotted #fff8cd;
@@ -1221,20 +1225,20 @@ a:hover,
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 193, ../sass/partials/_typography.scss */
+/* line 199, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   color: #ee3766;
-  font-size: 48px;
-  font-size: 3rem;
-  line-height: 48px;
-  line-height: 3.01563rem;
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 32px;
+  line-height: 2.01563rem;
   font-weight: 300;
   text-overflow: initial;
   overflow: visible;
   white-space: normal;
 }
 @media (min-width: 40rem) {
-  /* line 193, ../sass/partials/_typography.scss */
+  /* line 199, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 48px;
     font-size: 3rem;
@@ -1252,7 +1256,7 @@ a:hover,
   }
 }
 @media (min-width: 52rem) {
-  /* line 193, ../sass/partials/_typography.scss */
+  /* line 199, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 64px;
     font-size: 4rem;
@@ -1261,7 +1265,7 @@ a:hover,
   }
 }
 
-/* line 220, ../sass/partials/_typography.scss */
+/* line 226, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1275,7 +1279,7 @@ a:hover,
   padding-left: 1.1rem;
 }
 
-/* line 226, ../sass/partials/_typography.scss */
+/* line 232, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1290,7 +1294,7 @@ a:hover,
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 234, ../sass/partials/_typography.scss */
+/* line 240, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1299,7 +1303,7 @@ a:hover,
   font-weight: 200;
 }
 
-/* line 240, ../sass/partials/_typography.scss */
+/* line 246, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1315,7 +1319,7 @@ a:hover,
   margin-bottom: 0.5rem;
 }
 
-/* line 247, ../sass/partials/_typography.scss */
+/* line 253, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
