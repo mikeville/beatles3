@@ -189,11 +189,11 @@ svg {
   @include rhythm(0,0,0,3);
 
   @include breakpoint($med) {
-    @include span(10 of 12);
+    @include span(8 of 12);
   }
 
   @include breakpoint($large) {
-    @include span(8 of 12);
+    @include span(6 of 12);
   }
 }
 
@@ -327,9 +327,23 @@ svg {
   @include rhythm(0,1,0,4);
 }
 
-.overview-graphic--song-structure {
+.overview-graphic {
+  @include span(12 of 12);
   @include rhythm(0,0,0,10);
+
+  @include breakpoint($med) {
+    @include span(6 of 12);
+  }
 }
+
+.overview-graphic-text {
+  @include span(12 of 12);
+
+  @include breakpoint($med) {
+    @include span(4 of 12);
+  }
+}
+
 
 /*------------------------------------*\
     #TIMELINE
