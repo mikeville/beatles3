@@ -550,6 +550,24 @@ function drawAuthorshipD3() {
         }
       })
 
+
+
+  // ======================================================
+  // ADD NOTES =====================
+  // ======================================================
+
+
+  var noteContainers = graphicContainer.append('div')
+      .attr('class', 'track-container__graphic-container__notes-container')
+    
+  var noteLists = noteContainers.append('ul')
+      .attr('class', 'track-container__graphic-container__notes-container__note-list')
+    .selectAll('li')
+      .data(function(d, i) { return d['notesAuthorship'] })
+    .enter().append('li')
+      .attr('class', 'note-list__note')
+      .html(function(d) { return d; })
+
 }
 
 

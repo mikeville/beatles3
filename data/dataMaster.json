@@ -8,6 +8,7 @@
   "tracks": [
     {"trackIndex": 0, "order": 1, "trackTitle": "I Saw Her Standing There", 
     "authorship":[ 80, 20, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":[
       {"start":0.000,"end":2.612,"segType":"silence"},
       {"start":2.612,"end":8.424,"segType":"intro"},
@@ -39,6 +40,7 @@
     },
     {"trackIndex": 1, "order": 2, "trackTitle": "Misery", 
     "authorship":[ 40, 60, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
       {"start":0.414,"end":10.635,"segType":"intro"},
@@ -57,6 +59,7 @@
     },
     {"trackIndex": 2, "order": 3, "trackTitle": "Anna (Go to Him)", 
     "authorship":[ 0, 0, 0, 0, 100 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.708,"segType":"silence"},
       {"start":0.708,"end":9.670,"segType":"intro"},
@@ -75,6 +78,7 @@
     },
     {"trackIndex": 3, "order": 4, "trackTitle": "Chains",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.433,"segType":"silence"},
       {"start":0.433,"end":7.675,"segType":"intro"},
@@ -92,6 +96,7 @@
     },
     {"trackIndex": 4, "order": 5, "trackTitle": "Boys",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.383,"segType":"silence"},
       {"start":0.383,"end":7.332,"segType":"intro"},
@@ -109,6 +114,7 @@
     },
     {"trackIndex": 5, "order": 6, "trackTitle": "Ask Me Why",
     "authorship":[ 30, 70, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
       {"start":0.459,"end":3.878,"segType":"intro"},
@@ -128,6 +134,7 @@
     },
     {"trackIndex": 6, "order": 7, "trackTitle": "Please Please Me",
     "authorship":[ 0, 100, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.429,"segType":"silence"},
       {"start":0.429,"end":7.709,"segType":"intro"},
@@ -145,6 +152,7 @@
     },
     {"trackIndex": 7, "order": 8, "trackTitle": "Love Me Do",
     "authorship":[ 70, 30, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
       {"start":0.412,"end":13.424,"segType":"intro"},
@@ -163,6 +171,7 @@
     },
     {"trackIndex": 8, "order": 9, "trackTitle": "P.S. I Love You",
     "authorship":[ 80, 20, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.459,"segType":"silence"},
       {"start":0.459,"end":14.663,"segType":"intro"},
@@ -181,6 +190,7 @@
     },
     {"trackIndex": 9, "order": 10, "trackTitle": "Baby It's You",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.414,"segType":"silence"},
       {"start":0.414,"end":49.429,"segType":"verse"},
@@ -194,6 +204,7 @@
     },
     {"trackIndex": 10, "order": 11, "trackTitle": "Do You Want To Know A Secret",
     "authorship":[ 0, 100, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.465,"segType":"silence"},
 {"start":0.465,"end":14.931,"segType":"intro"},
@@ -209,6 +220,7 @@
     },
     {"trackIndex": 11, "order": 12, "trackTitle": "A Taste of Honey",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.412,"segType":"silence"},
 {"start":0.412,"end":8.127,"segType":"intro"},
@@ -223,6 +235,7 @@
     },
     {"trackIndex": 12, "order": 13, "trackTitle": "There's a Place",
     "authorship":[ 0, 100, 0, 0, 0 ],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
       [{"start":0.000,"end":0.435,"segType":"silencez"},
       {"start":0.435,"end":9.131,"segType":"intro"},
@@ -239,6 +252,7 @@
     },
     {"trackIndex": 13, "order": 14, "trackTitle": "Twist and Shout",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.416,"segType":"silence"},
 {"start":0.416,"end":8.576,"segType":"intro"},
@@ -262,6 +276,7 @@
   "tracks": [
     {"trackIndex": 14, "order": 1, "trackTitle": "It Won't Be Long",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.072,"segType":"silence"},
       {"start":1.072,"end":15.720,"segType":"chorus"},
@@ -283,6 +298,7 @@
     },
     {"trackIndex": 15, "order": 2, "trackTitle": "All I've Got to Do",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.498,"segType":"silence"},
       {"start":0.498,"end":25.972,"segType":"verse"},
@@ -299,6 +315,7 @@
     },
     {"trackIndex": 16, "order": 3, "trackTitle": "All My Loving",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.479,"segType":"silence"},
       {"start":0.479,"end":25.776,"segType":"verse"},
@@ -318,6 +335,7 @@
     },
     {"trackIndex": 17, "order": 4, "trackTitle": "Don't Bother Me",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.536,"segType":"silence"},
       {"start":0.536,"end":6.194,"segType":"intro"},
@@ -337,6 +355,7 @@
     },
     {"trackIndex": 18, "order": 5, "trackTitle": "Little Child",
     "authorship":[ 50, 50, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.498,"segType":"silence"},
       {"start":0.498,"end":6.607,"segType":"intro"},
@@ -356,6 +375,7 @@
     },
     {"trackIndex": 19, "order": 6, "trackTitle": "Till There Was You",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.478,"segType":"silence"},
       {"start":0.478,"end":8.368,"segType":"intro"},
@@ -374,6 +394,7 @@
     },
     {"trackIndex": 20, "order": 7, "trackTitle": "Please Mister Postman",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.412,"segType":"silence"},
       {"start":0.412,"end":8.368,"segType":"intro"},
@@ -394,6 +415,7 @@
     },
     {"trackIndex": 21, "order": 8, "trackTitle": "Roll Over Beethoven",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.440,"segType":"silence"},
       {"start":0.440,"end":17.965,"segType":"intro"},
@@ -413,6 +435,7 @@
     },
     {"trackIndex": 22, "order": 9, "trackTitle": "Hold Me Tight",
     "authorship":[ 80, 20, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.440,"segType":"silence"},
       {"start":0.440,"end":3.810,"segType":"intro"},
@@ -430,6 +453,7 @@
     },
     {"trackIndex": 23, "order": 10, "trackTitle": "You Really Got A Hold On Me",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.440,"segType":"silence"},
       {"start":0.440,"end":13.978,"segType":"intro"},
@@ -451,6 +475,7 @@
     },
     {"trackIndex": 24, "order": 11, "trackTitle": "I Wanna Be Your Man",
     "authorship":[ 70, 30, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.421,"segType":"silence"},
       {"start":0.421,"end":20.622,"segType":"verse"},
@@ -469,6 +494,7 @@
     },
     {"trackIndex": 25, "order": 12, "trackTitle": "Devil In Her Heart",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.460,"segType":"silence"},
       {"start":0.460,"end":9.133,"segType":"intro"},
@@ -487,6 +513,7 @@
     },
     {"trackIndex": 26, "order": 13, "trackTitle": "Not A Second Time",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.460,"segType":"silence"},
       {"start":0.460,"end":13.535,"segType":"verse"},
@@ -506,6 +533,7 @@
     },
     {"trackIndex": 27, "order": 14, "trackTitle": "Money",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.460,"segType":"silence"},
       {"start":0.460,"end":15.027,"segType":"intro"},
@@ -531,6 +559,7 @@
   "tracks": [
     {"trackIndex": 28, "order": 1, "trackTitle": "A Hard Day's Night",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.003,"segType":"silence"},
       {"start":1.003,"end":4.151,"segType":"intro"},
@@ -551,6 +580,7 @@
     },
     {"trackIndex": 29, "order": 2, "trackTitle": "I Should Have Known Better",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.397,"segType":"silence"},
       {"start":0.397,"end":7.700,"segType":"intro"},
@@ -572,6 +602,7 @@
     },
     {"trackIndex": 30, "order": 3, "trackTitle": "If I Fell",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.389,"segType":"silence"},
       {"start":0.389,"end":18.992,"segType":"intro"},
@@ -588,6 +619,7 @@
     },
     {"trackIndex": 31, "order": 4, "trackTitle": "I'm Happy Just To Dance With You",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.354,"segType":"silence"},
       {"start":0.354,"end":14.582,"segType":"chorus--instrumental"},
@@ -605,6 +637,7 @@
     },
     {"trackIndex": 32, "order": 5, "trackTitle": "And I Love Her",
     "authorship":[ 65, 35, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.384,"segType":"silence"},
       {"start":0.384,"end":9.244,"segType":"intro"},
@@ -625,6 +658,7 @@
     },
     {"trackIndex": 33, "order": 6, "trackTitle": "Tell Me Why",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.420,"segType":"silence"},
       {"start":0.420,"end":6.939,"segType":"intro"},
@@ -643,6 +677,7 @@
     },
     {"trackIndex": 34, "order": 7, "trackTitle": "Can't Buy Me Love",
     "authorship":[ 90, 10, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.427,"segType":"silence"},
       {"start":0.427,"end":9.491,"segType":"intro"},
@@ -661,6 +696,7 @@
     },
     {"trackIndex": 35, "order": 8, "trackTitle": "Any Time At All",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.415,"segType":"silence"},
       {"start":0.415,"end":15.070,"segType":"chorus"},
@@ -682,6 +718,7 @@
     },
     {"trackIndex": 36, "order": 9, "trackTitle": "I'll Cry Instead",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.445,"segType":"silence"},
       {"start":0.445,"end":3.039,"segType":"intro"},
@@ -699,6 +736,7 @@
     },
     {"trackIndex": 37, "order": 10, "trackTitle": "Things We Said Today",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.406,"segType":"silence"},
       {"start":0.406,"end":4.023,"segType":"intro"},
@@ -720,6 +758,7 @@
     },
     {"trackIndex": 38, "order": 11, "trackTitle": "When I Get Home",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.418,"segType":"silence"},
       {"start":0.418,"end":16.149,"segType":"chorus"},
@@ -741,6 +780,7 @@
     },
     {"trackIndex": 39, "order": 12, "trackTitle": "You Can't Do That",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.406,"segType":"silence"},
       {"start":0.406,"end":7.765,"segType":"intro"},
@@ -760,6 +800,7 @@
     },
     {"trackIndex": 40, "order": 13, "trackTitle": "I'll Be Back",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.429,"end":5.178,"segType":"intro"},
       {"start":5.178,"end":27.957,"segType":"verse"},
@@ -790,6 +831,7 @@
   "tracks": [
     {"trackIndex": 41, "order": 1, "trackTitle": "No Reply",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.033,"segType":"silence"},
       {"start":1.033,"end":32.949,"segType":"verse"},
@@ -806,6 +848,7 @@
     },
     {"trackIndex": 42, "order": 2, "trackTitle": "I'm a Loser",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.377,"segType":"silence"},
       {"start":0.377,"end":11.453,"segType":"intro"},
@@ -826,6 +869,7 @@
     },
     {"trackIndex": 43, "order": 3, "trackTitle": "Baby's in Black",
     "authorship":[ 50, 50, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.383,"segType":"silence"},
       {"start":0.383,"end":3.914,"segType":"intro"},
@@ -849,6 +893,7 @@
     },
     {"trackIndex": 44, "order": 4, "trackTitle": "Rock and Roll Music",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.401,"segType":"silence"},
       {"start":0.401,"end":2.363,"segType":"intro"},
@@ -868,6 +913,7 @@
     },
     {"trackIndex": 45, "order": 5, "trackTitle": "I'll Follow the Sun",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.408,"segType":"silence"},
       {"start":0.408,"end":3.984,"segType":"intro"},
@@ -887,6 +933,7 @@
     },
     {"trackIndex": 46, "order": 6, "trackTitle": "Mr. Moonlight",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.395,"segType":"silence"},
       {"start":0.395,"end":5.549,"segType":"intro"},
@@ -904,6 +951,7 @@
     },
     {"trackIndex": 47, "order": 7, "trackTitle": "Kansas City- Hey, Hey, Hey",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.389,"segType":"silence"},
       {"start":0.389,"end":8.072,"segType":"intro"},
@@ -921,6 +969,7 @@
     },
     {"trackIndex": 48, "order": 8, "trackTitle": "Eight Days a Week",
     "authorship":[ 70, 30, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.394,"segType":"silence"},
       {"start":0.394,"end":7.392,"segType":"intro"},
@@ -939,6 +988,7 @@
     },
     {"trackIndex": 49, "order": 9, "trackTitle": "Words of Love",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":15.927,"segType":"silence"},
       {"start":15.927,"end":31.469,"segType":"verse"},
@@ -956,6 +1006,7 @@
     },
     {"trackIndex": 50, "order": 10, "trackTitle": "Honey Don't",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.395,"segType":"silence"},
       {"start":0.395,"end":7.580,"segType":"intro"},
@@ -977,6 +1028,7 @@
     },
     {"trackIndex": 51, "order": 11, "trackTitle": "Every Little Thing",
     "authorship":[ 90, 10, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.384,"segType":"silence"},
       {"start":0.384,"end":3.686,"segType":"intro"},
@@ -998,6 +1050,7 @@
     },
     {"trackIndex": 52, "order": 12, "trackTitle": "I Don't Want to Spoil the Party",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.398,"segType":"silence"},
       {"start":0.398,"end":10.416,"segType":"intro"},
@@ -1017,6 +1070,7 @@
     },
     {"trackIndex": 521, "order": 13, "trackTitle": "What You're Doing",
     "authorship":[ 90, 10, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.376,"segType":"silence"},
       {"start":0.376,"end":14.669,"segType":"intro"},
@@ -1036,6 +1090,7 @@
     },
     {"trackIndex": 522, "order": 14, "trackTitle": "Every body's Trying to Be My Baby",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.850,"segType":"silence"},
       {"start":0.850,"end":18.935,"segType":"verse"},
@@ -1061,6 +1116,7 @@
   "tracks": [
     {"trackIndex": 53, "order": 1, "trackTitle": "Help!",
     "authorship":[ 10, 90, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.050,"segType":"silence"},
       {"start":1.050,"end":11.137,"segType":"intro"},
@@ -1080,6 +1136,7 @@
     },
     {"trackIndex": 54, "order": 2, "trackTitle": "The Night Before",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.425,"segType":"silence"},
 {"start":0.425,"end":11.884,"segType":"intro"},
@@ -1100,6 +1157,7 @@
     },
     {"trackIndex": 55, "order": 3, "trackTitle": "You've Got to Hide Your Love Away",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.490,"segType":"silence"},
 {"start":0.490,"end":2.473,"segType":"intro"},
@@ -1118,6 +1176,7 @@
     },
     {"trackIndex": 56, "order": 4, "trackTitle": "I Need You",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.486,"segType":"silence"},
       {"start":0.486,"end":3.984,"segType":"intro"},
@@ -1137,6 +1196,7 @@
     },
     {"trackIndex": 57, "order": 5, "trackTitle": "Another Girl",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.412,"segType":"silence"},
 {"start":0.412,"end":6.784,"segType":"intro"},
@@ -1156,6 +1216,7 @@
     },
     {"trackIndex": 58, "order": 6, "trackTitle": "You're Going to Lose That Girl",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.493,"segType":"silence"},
 {"start":0.493,"end":8.835,"segType":"intro"},
@@ -1173,6 +1234,7 @@
     },
     {"trackIndex": 59, "order": 7, "trackTitle": "Ticket to Ride",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.410,"segType":"silence"},
 {"start":0.410,"end":7.964,"segType":"intro"},
@@ -1191,6 +1253,7 @@
     },
     {"trackIndex": 60, "order": 8, "trackTitle": "Act Naturally",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.445,"segType":"silence"},
 {"start":0.445,"end":6.415,"segType":"intro"},
@@ -1211,6 +1274,7 @@
     },
     {"trackIndex": 61, "order": 9, "trackTitle": "It's Only Love",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.441,"segType":"silence"},
 {"start":0.441,"end":8.770,"segType":"intro"},
@@ -1227,6 +1291,7 @@
     },
     {"trackIndex": 62, "order": 10, "trackTitle": "You Like Me Too Much",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.464,"segType":"silence"},
 {"start":0.464,"end":9.288,"segType":"intro"},
@@ -1247,6 +1312,7 @@
     },
     {"trackIndex": 63, "order": 11, "trackTitle": "Tell Me What You See",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.478,"segType":"silence"},
 {"start":0.478,"end":4.174,"segType":"intro"},
@@ -1266,6 +1332,7 @@
     },
     {"trackIndex": 64, "order": 12, "trackTitle": "I've Just Seen A Face",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.445,"segType":"silence"},
 {"start":0.445,"end":11.668,"segType":"intro"},
@@ -1289,6 +1356,7 @@
     },
     {"trackIndex": 641, "order": 13, "trackTitle": "Yesterday",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.461,"segType":"silence"},
 {"start":0.461,"end":5.433,"segType":"intro"},
@@ -1309,6 +1377,7 @@
     },
     {"trackIndex": 642, "order": 14, "trackTitle": "Dizzy Miss Lizzy",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.415,"segType":"silence"},
 {"start":0.415,"end":22.384,"segType":"intro"},
@@ -1335,6 +1404,7 @@
   "tracks": [
     {"trackIndex": 65, "order": 1, "trackTitle": "Drive My Car",
     "authorship":[ 70, 30, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.120,"segType":"silence"},
 {"start":1.120,"end":5.227,"segType":"intro"},
@@ -1357,6 +1427,7 @@
     },
     {"trackIndex": 66, "order": 2, "trackTitle": "Norwegian Wood (This Bird Has Flown)",
     "authorship":[ 20, 80, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.441,"segType":"silence"},
 {"start":0.441,"end":16.196,"segType":"verse--instrumental"},
@@ -1376,6 +1447,7 @@
     },
     {"trackIndex": 67, "order": 3, "trackTitle": "You Won't See Me",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.473,"segType":"silence"},
 {"start":0.473,"end":4.482,"segType":"intro"},
@@ -1396,6 +1468,7 @@
     },
     {"trackIndex": 68, "order": 4, "trackTitle": "Nowhere Man",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.441,"segType":"silence"},
 {"start":0.441,"end":16.701,"segType":"verse"},
@@ -1418,6 +1491,7 @@
     },
     {"trackIndex": 69, "order": 5, "trackTitle": "Think for Yourself",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.435,"segType":"silence"},
 {"start":0.435,"end":4.116,"segType":"intro"},
@@ -1437,6 +1511,7 @@
     },
     {"trackIndex": 70, "order": 6, "trackTitle": "The Word",
     "authorship":[ 40, 60, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.424,"segType":"silence"},
 {"start":0.424,"end":5.355,"segType":"intro"},
@@ -1459,6 +1534,7 @@
     },
     {"trackIndex": 71, "order": 7, "trackTitle": "Michelle",
     "authorship":[ 70, 30, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.421,"segType":"silence"},
 {"start":0.421,"end":8.510,"segType":"intro"},
@@ -1481,6 +1557,7 @@
     },
     {"trackIndex": 72, "order": 8, "trackTitle": "What Goes On",
     "authorship":[ 20, 60, 0, 20, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.464,"segType":"silence"},
 {"start":0.464,"end":6.356,"segType":"intro"},
@@ -1500,6 +1577,7 @@
     },
     {"trackIndex": 73, "order": 9, "trackTitle": "Girl",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.053,"segType":"silence"},
 {"start":1.053,"end":21.107,"segType":"verse"},
@@ -1521,6 +1599,7 @@
     },
     {"trackIndex": 74, "order": 10, "trackTitle": "I'm Looking Through You",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.401,"segType":"silence"},
 {"start":0.401,"end":8.612,"segType":"intro"},
@@ -1540,6 +1619,7 @@
     },
     {"trackIndex": 75, "order": 11, "trackTitle": "In My Life",
     "authorship":[ 35, 65, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.416,"segType":"silence"},
 {"start":0.416,"end":9.616,"segType":"intro"},
@@ -1560,6 +1640,7 @@
     },
     {"trackIndex": 77, "order": 12, "trackTitle": "Wait",
     "authorship":[ 50, 50, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.094,"segType":"silence"},
 {"start":1.094,"end":12.486,"segType":"verse"},
@@ -1584,6 +1665,7 @@
     },
     {"trackIndex": 771, "order": 13, "trackTitle": "If I Needed Someone",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.429,"segType":"silence"},
 {"start":0.429,"end":7.789,"segType":"intro"},
@@ -1604,6 +1686,7 @@
     },
     {"trackIndex": 772, "order": 14, "trackTitle": "Run for Your Life",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.412,"segType":"silence"},
 {"start":0.412,"end":8.613,"segType":"intro"},
@@ -1633,6 +1716,7 @@
   "tracks": [
     {"trackIndex": 78, "order": 1, "trackTitle": "Taxman",
     "authorship":[ 0, 10, 90, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":1.069,"segType":"silence"},
@@ -1658,6 +1742,7 @@
     },
     {"trackIndex": 79, "order": 2, "trackTitle": "Eleanor Rigby",
     "authorship":[ 80, 20, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.404,"segType":"silence"},
@@ -1677,6 +1762,7 @@
     },
     {"trackIndex": 80, "order": 3, "trackTitle": "I'm Only Sleeping",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.423,"segType":"silence"},
@@ -1698,6 +1784,7 @@
     },
     {"trackIndex": 81, "order": 4, "trackTitle": "Love You To",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.445,"segType":"silence"},
@@ -1720,6 +1807,7 @@
     },
     {"trackIndex": 82, "order": 5, "trackTitle": "Here, There and Everywhere",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.416,"segType":"silence"},
@@ -1741,6 +1829,7 @@
     },
     {"trackIndex": 83, "order": 6, "trackTitle": "Yellow Submarine",
     "authorship":[ 80, 20, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.980,"segType":"silence"},
@@ -1761,6 +1850,7 @@
     },
     {"trackIndex": 84, "order": 7, "trackTitle": "She Said She Said",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.433,"segType":"silence"},
@@ -1786,6 +1876,7 @@
     },
     {"trackIndex": 85, "order": 8, "trackTitle": "Good Day Sunshine",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.424,"segType":"silence"},
@@ -1809,6 +1900,7 @@
     },
     {"trackIndex": 86, "order": 9, "trackTitle": "And Your Bird Can Sing",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.453,"segType":"silence"},
@@ -1830,6 +1922,7 @@
     },
     {"trackIndex": 87, "order": 10, "trackTitle": "For No One",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.418,"segType":"silence"},
@@ -1851,6 +1944,7 @@
     },
     {"trackIndex": 88, "order": 11, "trackTitle": "Doctor Robert",
     "authorship":[ 25, 75, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.377,"segType":"silence"},
@@ -1870,6 +1964,7 @@
     },
     {"trackIndex": 89, "order": 12, "trackTitle": "I Want to Tell You",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
           {"start":0.000,"end":2.041,"segType":"silence"},
@@ -1889,6 +1984,7 @@
     },
     {"trackIndex": 90, "order": 13, "trackTitle": "Got to Get You into My Life",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":0.450,"segType":"silence"},
@@ -1909,6 +2005,7 @@
     },
     {"trackIndex": 91, "order": 14, "trackTitle": "Tomorrow Never Knows",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [
       {"start":0.000,"end":1.013,"segType":"silence"},
@@ -1939,6 +2036,7 @@
   "tracks": [
     {"trackIndex": 92, "order": 1, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":22.599,"segType":"intro"},
 {"start":22.599,"end":42.952,"segType":"verse"},
@@ -1953,6 +2051,7 @@
     },
     {"trackIndex": 93, "order": 2, "trackTitle": "With a Little Help from My Friends",
     "authorship":[ 75, 25, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":8.818,"segType":"intro"},
 {"start":8.818,"end":26.431,"segType":"verse"},
@@ -1974,6 +2073,7 @@
     },
     {"trackIndex": 94, "order": 3, "trackTitle": "Lucy in the Sky with Diamonds",
     "authorship":[ 20, 80, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.212,"segType":"silence"},
 {"start":0.212,"end":6.145,"segType":"intro"},
@@ -1994,6 +2094,7 @@
     },
     {"trackIndex": 95, "order": 4, "trackTitle": "Getting Better",
     "authorship":[ 65, 35, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.391,"segType":"silence"},
 {"start":0.391,"end":8.772,"segType":"intro"},
@@ -2014,6 +2115,7 @@
     },
     {"trackIndex": 96, "order": 5, "trackTitle": "Fixing a Hole",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.353,"segType":"silence"},
 {"start":0.353,"end":6.705,"segType":"intro"},
@@ -2033,6 +2135,7 @@
     },
     {"trackIndex": 97, "order": 6, "trackTitle": "She's Leaving Home",
     "authorship":[ 65, 35, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.569,"segType":"silence"},
 {"start":0.569,"end":5.916,"segType":"intro"},
@@ -2052,6 +2155,7 @@
     },
     {"trackIndex": 98, "order": 7, "trackTitle": "Being for the Benefit of Mr. Kite!",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.547,"segType":"silence"},
 {"start":0.547,"end":6.938,"segType":"intro"},
@@ -2068,6 +2172,7 @@
     },
     {"trackIndex": 99, "order": 8, "trackTitle": "Within You Without You",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.824,"segType":"silence"},
 {"start":1.824,"end":23.328,"segType":"intro"},
@@ -2086,6 +2191,7 @@
     },
     {"trackIndex": 100, "order": 9, "trackTitle": "When I'm Sixty-Four",
     "authorship":[ 85, 15, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.343,"segType":"silence"},
       {"start":0.343,"end":10.734,"segType":"intro"},
@@ -2103,6 +2209,7 @@
     },
     {"trackIndex": 101, "order": 10, "trackTitle": "Lovely Rita",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.320,"segType":"silence"},
 {"start":0.320,"end":22.170,"segType":"intro"},
@@ -2121,6 +2228,7 @@
     },
     {"trackIndex": 102, "order": 11, "trackTitle": "Good Morning Good Morning",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":11.732,"segType":"intro"},
 {"start":11.732,"end":33.873,"segType":"verse"},
@@ -2138,6 +2246,7 @@
     },
     {"trackIndex": 103, "order": 12, "trackTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":20.533,"segType":"intro"},
 {"start":20.533,"end":44.821,"segType":"chorus"},
@@ -2149,6 +2258,7 @@
     },
     {"trackIndex": 1031, "order": 13, "trackTitle": "A Day in the Life",
     "authorship":[ 40, 60, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":12.848,"segType":"intro"},
 {"start":12.848,"end":43.950,"segType":"verse"},
@@ -2178,6 +2288,7 @@
   "tracks": [
     {"trackIndex": 104, "order": 1, "trackTitle": "Magical Mystery Tour",
     "authorship":[ 90, 10, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.029,"segType":"silence"},
       {"start":1.029,"end":9.739,"segType":"intro"},
@@ -2199,6 +2310,7 @@
     },
     {"trackIndex": 105, "order": 2, "trackTitle": "The Fool on the Hill",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.420,"segType":"silence"},
       {"start":0.420,"end":4.008,"segType":"intro"},
@@ -2220,6 +2332,7 @@
     },
     {"trackIndex": 106, "order": 3, "trackTitle": "Flying",
     "authorship":[ 25, 25, 25, 25, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.383,"segType":"silence"},
       {"start":0.383,"end":31.533,"segType":"intro"},
@@ -2237,6 +2350,7 @@
     },
     {"trackIndex": 107, "order": 4, "trackTitle": "Blue Jay Way",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.743,"segType":"silence"},
       {"start":0.743,"end":24.181,"segType":"intro"},
@@ -2259,6 +2373,7 @@
     },
     {"trackIndex": 108, "order": 5, "trackTitle": "Your Mother Should Know",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.416,"segType":"silence"},
       {"start":0.416,"end":4.748,"segType":"intro"},
@@ -2279,6 +2394,7 @@
     },
     {"trackIndex": 109, "order": 6, "trackTitle": "I Am the Walrus",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.394,"segType":"silence"},
       {"start":0.394,"end":21.780,"segType":"intro"},
@@ -2302,6 +2418,7 @@
     },
     {"trackIndex": 110, "order": 7, "trackTitle": "Hello Goodbye",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.502,"segType":"silence"},
       {"start":0.502,"end":17.796,"segType":"verse"},
@@ -2323,6 +2440,7 @@
     },
     {"trackIndex": 111, "order": 8, "trackTitle": "Strawberry Fields Forever",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.358,"segType":"silence"},
       {"start":0.358,"end":15.070,"segType":"intro"},
@@ -2342,6 +2460,7 @@
     },
     {"trackIndex": 112, "order": 9, "trackTitle": "Penny Lane",
     "authorship":[ 80, 20, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.978,"segType":"silence"},
       {"start":0.978,"end":18.239,"segType":"verse"},
@@ -2364,6 +2483,7 @@
     },
     {"trackIndex": 113, "order": 10, "trackTitle": "Baby You're a Rich Man",
     "authorship":[ 50, 50, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.370,"segType":"silence"},
       {"start":0.370,"end":20.695,"segType":"intro"},
@@ -2381,6 +2501,7 @@
     },
     {"trackIndex": 114, "order": 11, "trackTitle": "All You Need Is Love",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.400,"segType":"silence"},
       {"start":0.400,"end":26.773,"segType":"intro"},
@@ -2412,6 +2533,7 @@
   "tracks": [
     {"trackIndex": 115, "order": 1, "trackTitle": "Back in the USSR",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":3.044,"segType":"silence"},
       {"start":3.044,"end":16.708,"segType":"intro"},
@@ -2436,6 +2558,7 @@
     },
     {"trackIndex": 116, "order": 2, "trackTitle": "Dear Prudence",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":18.155,"segType":"intro"},
       {"start":18.155,"end":63.576,"segType":"verse"},
@@ -2453,6 +2576,7 @@
     },
     {"trackIndex": 117, "order": 3, "trackTitle": "Glass Onion",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.404,"segType":"silence"},
     {"start":1.404,"end":13.462,"segType":"verse"},
@@ -2471,6 +2595,7 @@
     },
     {"trackIndex": 118, "order": 4, "trackTitle": "Ob-La-Di, Ob-La-Da",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.098,"segType":"silence"},
       {"start":0.098,"end":10.707,"segType":"intro"},
@@ -2493,6 +2618,7 @@
     },
     {"trackIndex": 119, "order": 5, "trackTitle": "Wild Honey Pie",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.098,"segType":"silence"},
       {"start":0.098,"end":9.445,"segType":"break--instrumental"},
@@ -2511,6 +2637,7 @@
     },
     {"trackIndex": 120, "order": 6, "trackTitle": "The Continuing Story of Bungalow Bill",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":8.507,"segType":"intro"},
       {"start":8.507,"end":24.252,"segType":"chorus"},
@@ -2529,6 +2656,7 @@
     },
     {"trackIndex": 121, "order": 7, "trackTitle": "While My Guitar Gently Weeps",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":17.012,"segType":"intro"},
       {"start":17.012,"end":50.776,"segType":"verse"},
@@ -2549,6 +2677,7 @@
     },
     {"trackIndex": 122, "order": 8, "trackTitle": "Happiness Is a Warm Gun",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":44.620,"segType":"verse--variant"},
       {"start":44.620,"end":73.143,"segType":"chorus--variant"},
@@ -2564,6 +2693,7 @@
     },
     {"trackIndex": 123, "order": 9, "trackTitle": "Marthy My Dear",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":19.412,"segType":"intro"},
       {"start":19.412,"end":38.441,"segType":"verse"},
@@ -2582,6 +2712,7 @@
     },
     {"trackIndex": 124, "order": 10, "trackTitle": "I'm So Tired",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.474,"segType":"silence"},
       {"start":1.474,"end":24.603,"segType":"verse"},
@@ -2599,6 +2730,7 @@
     },
     {"trackIndex": 125, "order": 11, "trackTitle": "Blackbird",
     "authorship":[ 95, 5, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":4.573,"segType":"intro"},
       {"start":4.573,"end":22.107,"segType":"verse"},
@@ -2619,6 +2751,7 @@
     },
     {"trackIndex": 126, "order": 12, "trackTitle": "Piggies",
     "authorship":[ 0, 10, 85, 0, 5],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":5.502,"segType":"intro"},
       {"start":5.502,"end":21.633,"segType":"verse"},
@@ -2639,6 +2772,7 @@
     },
     {"trackIndex": 1261, "order": 13, "trackTitle": "Rocky Raccoon",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":6.455,"segType":"c"},
       {"start":6.455,"end":30.514,"segType":"intro"},
@@ -2660,6 +2794,7 @@
     },
     {"trackIndex": 1262, "order": 14, "trackTitle": "Don't Pass Me By",
     "authorship":[ 0, 0, 0, 100, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":17.006,"segType":"intro"},
       {"start":17.006,"end":43.584,"segType":"verse"},
@@ -2678,6 +2813,7 @@
     },
     {"trackIndex": 1263, "order": 15, "trackTitle": "Why Don't We Do It in the Road",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":10.414,"segType":"intro"},
       {"start":10.414,"end":41.037,"segType":"chorus"},
@@ -2690,6 +2826,7 @@
     },
     {"trackIndex": 1264, "order": 16, "trackTitle": "I Will",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.091,"segType":"silence"},
       {"start":1.091,"end":22.139,"segType":"verse"},
@@ -2705,6 +2842,7 @@
     },
     {"trackIndex": 1265, "order": 17, "trackTitle": "Julia",
     "authorship":[ 0, 75, 0, 0, 25],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":14.694,"segType":"verse"},
       {"start":14.694,"end":36.033,"segType":"chorus"},
@@ -2724,6 +2862,7 @@
     },
     {"trackIndex": 126501, "order": 1, "trackTitle": "Birthday",
     "authorship":[ 70, 30, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.980,"segType":"silence"},
       {"start":0.980,"end":22.291,"segType":"intro"},
@@ -2743,6 +2882,7 @@
     },
     {"trackIndex": 126502, "order": 2, "trackTitle": "Yer Blues",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":3.376,"segType":"intro"},
       {"start":3.376,"end":32.305,"segType":"verse"},
@@ -2763,6 +2903,7 @@
     },
     {"trackIndex": 126503, "order": 3, "trackTitle": "Mother Nature's Son",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":19.690,"segType":"intro"},
       {"start":19.690,"end":42.516,"segType":"verse"},
@@ -2782,6 +2923,7 @@
     },
     {"trackIndex": 126504, "order": 4, "trackTitle": "Everybody's Got Something to Hide Except Me and My Monkey",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":8.359,"segType":"intro"},
       {"start":8.359,"end":20.395,"segType":"verse"},
@@ -2801,6 +2943,7 @@
     },
     {"trackIndex": 126505, "order": 5, "trackTitle": "Sexie Sadie",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":9.984,"segType":"intro"},
       {"start":9.984,"end":32.000,"segType":"verse"},
@@ -2819,6 +2962,7 @@
     },
     {"trackIndex": 126506, "order": 6, "trackTitle": "Helter Skelter",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":17.992,"segType":"intro"},
       {"start":17.992,"end":40.890,"segType":"verse"},
@@ -2839,6 +2983,7 @@
     },
     {"trackIndex": 126507, "order": 7, "trackTitle": "Long, Long, Long",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.360,"segType":"silence"},
       {"start":0.360,"end":10.090,"segType":"intro"},
@@ -2860,6 +3005,7 @@
     },
     {"trackIndex": 126508, "order": 8, "trackTitle": "Revolution 1",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":16.161,"segType":"intro"},
       {"start":16.161,"end":62.498,"segType":"verse"},
@@ -2878,6 +3024,7 @@
     },
     {"trackIndex": 126509, "order": 9, "trackTitle": "Honey Pie",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.348,"segType":"silence"},
       {"start":0.348,"end":39.151,"segType":"intro"},
@@ -2899,6 +3046,7 @@
     },
     {"trackIndex": 126510, "order": 10, "trackTitle": "Savoy Truffle",
     "authorship":[ 0, 0, 90, 0, 10],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":6.678,"segType":"intro"},
       {"start":6.678,"end":28.630,"segType":"verse"},
@@ -2920,6 +3068,7 @@
     },
     {"trackIndex": 126511, "order": 11, "trackTitle": "Cry Baby Cry",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.345,"segType":"silence"},
       {"start":0.345,"end":11.194,"segType":"chorus"},
@@ -2942,6 +3091,7 @@
     },
     {"trackIndex": 126512, "order": 12, "trackTitle": "Revolution 9",
     "authorship":[ 0, 75, 0, 0, 25],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":89.702,"segType":"break"},
       {"start":89.702,"end":415.797,"segType":"break"},
@@ -2957,6 +3107,7 @@
     },
     {"trackIndex": 126513, "order": 13, "trackTitle": "Good Night",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.249,"segType":"silence"},
       {"start":0.249,"end":22.299,"segType":"intro"},
@@ -2984,6 +3135,7 @@
   "tracks": [
     {"trackIndex": 127, "order": 1, "trackTitle": "Two of Us",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.995,"segType":"silence"},
 {"start":0.995,"end":18.856,"segType":"intro"},
@@ -3005,6 +3157,7 @@
     },
     {"trackIndex": 128, "order": 2, "trackTitle": "Dig a Pony",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.749,"segType":"silence"},
 {"start":0.749,"end":20.480,"segType":"intro"},
@@ -3029,6 +3182,7 @@
     },
     {"trackIndex": 129, "order": 3, "trackTitle": "Across the Universe",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.350,"segType":"silence"},
 {"start":0.350,"end":10.078,"segType":"intro"},
@@ -3054,6 +3208,7 @@
     },
     {"trackIndex": 130, "order": 4, "trackTitle": "I Me Mine",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.375,"segType":"silence"},
 {"start":0.375,"end":6.743,"segType":"intro"},
@@ -3072,6 +3227,7 @@
     },
     {"trackIndex": 131, "order": 5, "trackTitle": "Dig It",
     "authorship":[ 25, 25, 25, 25, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.480,"segType":"silence"},
 {"start":1.480,"end":15.381,"segType":"chorus"},
@@ -3087,6 +3243,7 @@
     },
     {"trackIndex": 132, "order": 6, "trackTitle": "Let It Be",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":13.392,"segType":"intro"},
 {"start":13.392,"end":38.821,"segType":"verse"},
@@ -3109,6 +3266,7 @@
     },
     {"trackIndex": 133, "order": 7, "trackTitle": "Maggie Mae",
     "authorship":[ 0, 0, 0, 0, 100],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.345,"segType":"silence"},
 {"start":0.345,"end":3.020,"segType":"intro"},
@@ -3123,6 +3281,7 @@
     },
     {"trackIndex": 134, "order": 8, "trackTitle": "I've Got A Feeling",
     "authorship":[ 50, 50, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.395,"segType":"silence"},
 {"start":0.395,"end":6.317,"segType":"intro"},
@@ -3144,6 +3303,7 @@
     },
     {"trackIndex": 135, "order": 9, "trackTitle": "One After 909",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.350,"segType":"silence"},
 {"start":0.350,"end":9.169,"segType":"intro"},
@@ -3166,6 +3326,7 @@
     },
     {"trackIndex": 136, "order": 10, "trackTitle": "The Long and Winding Road",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.345,"segType":"silence"},
 {"start":0.345,"end":43.331,"segType":"verse"},
@@ -3185,6 +3346,7 @@
     },
     {"trackIndex": 137, "order": 11, "trackTitle": "For You Blue",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.450,"segType":"silence"},
 {"start":0.450,"end":13.507,"segType":"intro"},
@@ -3201,6 +3363,7 @@
     },
     {"trackIndex": 138, "order": 12, "trackTitle": "Get Back",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.365,"segType":"silence"},
 {"start":0.365,"end":28.528,"segType":"intro"},
@@ -3230,6 +3393,7 @@
   "tracks": [
     {"trackIndex": 139, "order": 1, "trackTitle": "Come Together",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.000,"segType":"silence"},
       {"start":1.000,"end":35.861,"segType":"verse"},
@@ -3249,6 +3413,7 @@
     },
     {"trackIndex": 140, "order": 2, "trackTitle": "Something",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.350,"segType":"silence"},
       {"start":0.350,"end":5.055,"segType":"intro"},
@@ -3266,6 +3431,7 @@
     },
     {"trackIndex": 141, "order": 3, "trackTitle": "Maxwell's Silver Hammer",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.380,"segType":"silence"},
       {"start":0.380,"end":37.104,"segType":"verse"},
@@ -3287,6 +3453,7 @@
     },
     {"trackIndex": 142, "order": 4, "trackTitle": "Oh! Darling",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.385,"segType":"silence"},
       {"start":0.385,"end":2.943,"segType":"intro"},
@@ -3306,6 +3473,7 @@
     },
     {"trackIndex": 143, "order": 5, "trackTitle": "Octopus's Garden",
     "authorship":[ 0, 0, 0, 100, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.375,"segType":"silence"},
 {"start":0.375,"end":10.525,"segType":"intro"},
@@ -3323,6 +3491,7 @@
     },
     {"trackIndex": 144, "order": 6, "trackTitle": "I Want You",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.370,"segType":"silence"},
 {"start":0.370,"end":14.279,"segType":"intro"},
@@ -3343,6 +3512,7 @@
     },
     {"trackIndex": 145, "order": 7, "trackTitle": "Here Comes The Sun",
     "authorship":[ 0, 0, 100, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.350,"segType":"silence"},
 {"start":0.350,"end":14.704,"segType":"intro"},
@@ -3363,6 +3533,7 @@
     },
     {"trackIndex": 146, "order": 8, "trackTitle": "Because",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.394,"segType":"silence"},
 {"start":0.394,"end":24.691,"segType":"intro"},
@@ -3385,6 +3556,7 @@
     },
     {"trackIndex": 147, "order": 9, "trackTitle": "You Never Give Me Your Money",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.180,"segType":"silence"},
 {"start":0.180,"end":69.848,"segType":"verse--variant"},
@@ -3401,6 +3573,7 @@
     },
     {"trackIndex": 148, "order": 10, "trackTitle": "Sun King",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":14.303,"segType":"intro"},
 {"start":14.303,"end":58.881,"segType":"verse--instrumental"},
@@ -3416,6 +3589,7 @@
     },
     {"trackIndex": 149, "order": 11, "trackTitle": "Mean Mr. Mustard",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.737,"segType":"intro"},
 {"start":1.737,"end":35.576,"segType":"verse"},
@@ -3428,6 +3602,7 @@
     },
     {"trackIndex": 150, "order": 12, "trackTitle": "Polythene Pam",
     "authorship":[ 0, 100, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":6.327,"segType":"intro"},
 {"start":6.327,"end":20.659,"segType":"verse"},
@@ -3443,6 +3618,7 @@
     },
     {"trackIndex": 151, "order": 13, "trackTitle": "She Came In Through The Bathroom Window",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":8.855,"segType":"intro"},
 {"start":8.855,"end":29.565,"segType":"verse"},
@@ -3459,6 +3635,7 @@
     },
     {"trackIndex": 152, "order": 14, "trackTitle": "Golden Slumbers",
     "authorship":[ 70, 0, 0, 0, 30],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.378,"segType":"silence"},
 {"start":0.378,"end":3.403,"segType":"intro"},
@@ -3473,6 +3650,7 @@
     },
     {"trackIndex": 153, "order": 15, "trackTitle": "Carry That Weight",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":1.554,"segType":"intro"},
 {"start":1.554,"end":24.504,"segType":"chorus"},
@@ -3487,6 +3665,7 @@
     },
     {"trackIndex": 154, "order": 16, "trackTitle": "The End",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":34.752,"segType":"break--instrumental"},
 {"start":34.752,"end":89.014,"segType":"break--instrumental"},
@@ -3499,6 +3678,7 @@
     },
     {"trackIndex": 155, "order": 17, "trackTitle": "Her Majesty",
     "authorship":[ 100, 0, 0, 0, 0],
+    "notesAuthorship": ["Test note 1", "Test note 2"],
     "segments":
        [{"start":0.000,"end":0.320,"segType":"silence"},
 {"start":0.320,"end":2.071,"segType":"intro"},

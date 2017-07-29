@@ -891,23 +891,6 @@ html, body {
   margin-right: 0;
 }
 
-/* line 333, ../sass/partials/_grid.scss */
-.timeline-container--authorship .album-container {
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-@media (min-width: 52rem) {
-  /* line 333, ../sass/partials/_grid.scss */
-  .timeline-container--authorship .album-container {
-    width: 40.67797%;
-    float: left;
-    margin-right: 1.69492%;
-    margin-right: 6.77966%;
-  }
-}
-
 /* line 344, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
