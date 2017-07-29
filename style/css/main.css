@@ -1093,10 +1093,10 @@ a:hover,
 \*------------------------------------*/
 /* line 92, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title {
-  font-size: 32px;
-  font-size: 2rem;
-  line-height: 32px;
-  line-height: 2.01563rem;
+  font-size: 24px;
+  font-size: 1.5rem;
+  line-height: 24px;
+  line-height: 1.51563rem;
   font-weight: 500;
   margin-top: 8px;
   margin-top: 0.5rem;

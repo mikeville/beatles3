@@ -90,7 +90,7 @@ a:hover,
 \*------------------------------------*/
 
 .site-header__site-title-container__site-title {
-  @include adjust-font-size-to(2rem);
+  @include adjust-font-size-to(1.5rem);
   font-weight: 500;
   @include rhythm(1,0,0,1);
 }
