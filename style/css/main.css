@@ -1387,7 +1387,7 @@ nav {
   height: 60px !important;
 }
 
-/* line 245, ../sass/partials/_typography.scss */
+/* line 246, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1401,7 +1401,7 @@ nav {
   padding-left: 1.1rem;
 }
 
-/* line 251, ../sass/partials/_typography.scss */
+/* line 252, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1416,7 +1416,7 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 259, ../sass/partials/_typography.scss */
+/* line 260, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1425,7 +1425,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 265, ../sass/partials/_typography.scss */
+/* line 266, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1441,7 +1441,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 272, ../sass/partials/_typography.scss */
+/* line 273, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;

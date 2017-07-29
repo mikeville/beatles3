@@ -351,6 +351,18 @@ function drawSongStructureD3(){
     .attr('class', 'track-container__graphic-container__notes-container__video-container')
 
 
+
+  // add little guy
+  var $noteLists = $('.track-container__graphic-container')
+
+  var lilGuyImage = "<img src='../images/beatles-guy-1.svg' class='lil-guy-image' style='display:none;'/>"
+
+  _.each( $noteLists, function(note) {
+    $(note).append(lilGuyImage)
+  })
+
+
+
   // ======================================================
   // DRAW AXIS =================================================
   // ======================================================
@@ -404,6 +416,9 @@ var setEventsTest = function() {
         $(this).addClass('track-container--expanded');
         $(this).removeClass('track-container--collapsed');
 
+        //hide lilguy
+        $('.lil-guy-image').css('display', 'none')
+
         //collapse all others:
         var activeTrack = $(this).attr('id')
         var otherTracks = $('.track-container').not( document.getElementById( activeTrack ) )
@@ -417,11 +432,16 @@ var setEventsTest = function() {
 
         _.each( otherTracks, collapseTracks)
 
+        //add lil guy
+        $(this).find('.lil-guy-image').css('display', 'block')
+
       } else {
         $(this).find('.track-container__graphic-container__notes-container').slideToggle();
 
         $(this).addClass('track-container--collapsed');
         $(this).removeClass('track-container--expanded'); 
+
+        $(this).find('.lil-guy-image').css('display', 'none')
       }
 
     }
@@ -567,6 +587,9 @@ function drawAuthorshipD3() {
     .enter().append('li')
       .attr('class', 'note-list__note')
       .html(function(d) { return d; })
+
+
+
 
 }
 
