@@ -82,7 +82,8 @@ var UI = Backbone.View.extend({
   initialize: function(attributes){
     this.renderHeader()
     this.renderBodyContent()
-    this.renderShopTest()
+    this.renderIndex()
+    this.renderShop()
     // this.renderFooter()
 
     initSticky();
@@ -139,7 +140,15 @@ var UI = Backbone.View.extend({
 
   },
 
-  renderShopTest: function() {
+  renderIndex: function() {
+    pageName = app.currentPage
+    console.log("rendering index on page: " + pageName)
+
+    var templateIndex = Handlebars.compile( $('#template__index-module').html() )
+    $('#index-module').html( templateIndex )   
+  },
+
+  renderShop: function() {
       var templateShop = Handlebars.compile( $('#template__shop-module').html() )
       $('#shop-module').html( templateShop )   
   }
