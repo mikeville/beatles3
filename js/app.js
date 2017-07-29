@@ -82,6 +82,7 @@ var UI = Backbone.View.extend({
   initialize: function(attributes){
     this.renderHeader()
     this.renderBodyContent()
+    this.renderShopTest()
     // this.renderFooter()
 
     initSticky();
@@ -99,7 +100,6 @@ var UI = Backbone.View.extend({
 
   renderBodyContent: function(){
     pageName = app.currentPage
-    console.log(pageName)
 
     switch (pageName) {
       case "home":
@@ -137,7 +137,15 @@ var UI = Backbone.View.extend({
     }
 
 
+  },
+
+  renderShopTest: function() {
+      var templateShop = Handlebars.compile( $('#template__shop-module').html() )
+      $('#shop-module').html( templateShop )   
   }
+
+
+
 
   // renderFooter: function(){
   //   var templateFooter = Handlebars.compile( $('#test-footer').html() )
