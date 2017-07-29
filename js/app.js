@@ -146,11 +146,17 @@ var UI = Backbone.View.extend({
 
     var templateIndex = Handlebars.compile( $('#template__index-module').html() )
     $('#index-module').html( templateIndex )   
+
+    this.scrollToTop();
   },
 
   renderShop: function() {
       var templateShop = Handlebars.compile( $('#template__shop-module').html() )
       $('#shop-module').html( templateShop )   
+  },
+
+  scrollToTop: function() {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
   }
 
 
