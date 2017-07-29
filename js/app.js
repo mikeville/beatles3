@@ -605,6 +605,7 @@ function loadAuthorshipGraphic() {
     // Draw D3
     setUpD3();
     drawAuthorshipD3();
+    setEventsTest();
 }
 
 
