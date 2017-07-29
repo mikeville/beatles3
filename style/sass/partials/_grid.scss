@@ -186,7 +186,7 @@ svg {
 
 .text-block {
   @include span(6 of 6);
-  @include rhythm(0,0,0,3);
+  // @include rhythm(0,0,0,3);
 
   @include breakpoint($med) {
     @include span(8 of 12);
@@ -300,7 +300,7 @@ svg {
 
 #context-container-wrapper {
   @include span(12 of 12);
-  @include rhythm(4,0,0,4);
+  @include rhythm(0,0,0,1);
 }
 
 #context-container,
@@ -327,9 +327,14 @@ svg {
   @include rhythm(0,1,0,4);
 }
 
+.overview-graphic-block {
+  @include span(12 of 12);
+  @include rhythm(0,0,0,6);
+}
+
 .overview-graphic {
   @include span(12 of 12);
-  @include rhythm(0,0,0,10);
+  @include rhythm(0,0,0,2);
 
   @include breakpoint($med) {
     @include span(6 of 12);
@@ -407,7 +412,11 @@ svg {
 .axis-container--authorship {
   margin-left: span(3 of 12);  
   @include span(last 9 of 12);
-  @include rhythm(5,0,0,3);  
+  @include rhythm(2,0,0,0);  
+}
+
+.axis-container--authorship .image {
+  margin-bottom: -7px;
 }
 
 

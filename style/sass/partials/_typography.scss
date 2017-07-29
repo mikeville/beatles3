@@ -97,11 +97,11 @@ nav {
 \*------------------------------------*/
 
 .site-header {
-    @include rhythm(4,0,0,8);
+    @include rhythm(4,0,0,1);
 }
 
 .site-header__site-title-container__site-title {
-  @include adjust-font-size-to(1.5rem);
+  // @include adjust-font-size-to(1.5rem);
   font-weight: 500;
 }
 
@@ -113,14 +113,20 @@ nav {
 .page-header__title {
   @include adjust-font-size-to(3rem, 6);
   font-weight: 500;
-  @include rhythm(0,0,0,1);
+  @include rhythm(0,0,0,5);
+  color: $pink;
+}
+
+.page-header__slug {
+  font-weight: 500;
+  @include rhythm(0,0,0,0.5);
   color: $pink;
 }
 
 .page-header__subheader {
   @include adjust-font-size-to(2rem, 4.5);
   font-weight: 500;
-  @include rhythm(0,0,0,2);
+  @include rhythm(0,0,0,1);
 }
 
 .page-header__subheader--home {
