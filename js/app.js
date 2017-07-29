@@ -441,6 +441,7 @@ var setEventsTest = function() {
         $(this).addClass('track-container--collapsed');
         $(this).removeClass('track-container--expanded'); 
 
+        //hide lil guy
         $(this).find('.lil-guy-image').css('display', 'none')
       }
 
@@ -588,6 +589,15 @@ function drawAuthorshipD3() {
       .attr('class', 'note-list__note')
       .html(function(d) { return d; })
 
+
+  // add little guy
+  var $noteLists = $('.track-container__graphic-container')
+
+  var lilGuyImage = "<img src='../images/beatles-guy-1.svg' class='lil-guy-image' style='display:none;'/>"
+
+  _.each( $noteLists, function(note) {
+    $(note).append(lilGuyImage)
+  })
 
 
 
