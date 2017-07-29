@@ -184,6 +184,18 @@ svg {
   }
 }
 
+.text-block {
+  @include span(6 of 6);
+  @include rhythm(0,0,0,3);
+
+  @include breakpoint($med) {
+    @include span(10 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(8 of 12);
+  }
+}
 
 /*------------------------------------*\
     #THUMBNAIL-INDEX

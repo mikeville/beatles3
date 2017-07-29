@@ -48,6 +48,13 @@ a:hover,
     #NAV
 \*------------------------------------*/
 
+nav {
+  display: none;
+  @include breakpoint($med) {
+    display: block;
+  }
+}
+
 .nav2__link {
   @include type-main;
   @include adjust-font-size-to(0.8rem);
@@ -89,10 +96,13 @@ a:hover,
     #HEADER
 \*------------------------------------*/
 
+.site-header {
+    @include rhythm(4,0,0,8);
+}
+
 .site-header__site-title-container__site-title {
   @include adjust-font-size-to(1.5rem);
   font-weight: 500;
-  @include rhythm(1,0,0,1);
 }
 
 .site-header__site-title-container__site-title,
@@ -109,10 +119,8 @@ a:hover,
 
 .page-header__subheader {
   @include adjust-font-size-to(2rem, 4.5);
-  font-weight: 200;
-    @include rhythm(0,0,0,2);
-    color: $pink;
-
+  font-weight: 500;
+  @include rhythm(0,0,0,2);
 }
 
 .page-header__subheader--home {
