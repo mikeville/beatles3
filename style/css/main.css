@@ -980,6 +980,22 @@ footer {
   margin-bottom: 1rem;
 }
 
+/* line 400, ../sass/partials/_grid.scss */
+.image-container {
+  width: 100%;
+}
+
+/*------------------------------------*\
+    #INDEX
+\*------------------------------------*/
+/* line 417, ../sass/partials/_grid.scss */
+.index-item__headline {
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 36px;
+  line-height: 2.25rem;
+}
+
 /*------------------------------------*\
     #TYPE-VARIABLES
 \*------------------------------------*/
