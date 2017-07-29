@@ -393,64 +393,64 @@ function drawSongStructureD3(){
   // ======================================================
 
 
-// var setEventsTest = function() {
-//   $('.track-container__graphic-container__notes-container').hide();
-
-//   $('.track-container').click(function(){
-//       $(this).find('.track-container__graphic-container__notes-container').toggle();
-//       if  ($(this).hasClass('track-container--collapsed')) {
-//         $(this).addClass('track-container--expanded');
-//         $(this).removeClass('track-container--collapsed');
-//       } else {
-//         $(this).addClass('track-container--collapsed');
-//         $(this).removeClass('track-container--expanded');       
-//       }
-//     }
-//   )
-// }
-
-
-function setEventsTest() {
-
-
+var setEventsTest = function() {
   $('.track-container__graphic-container__notes-container').hide();
-
 
   $('.track-container').click(function(){
 
-    $('.track-container--expanded').find('.track-container__graphic-container__notes-container').hide();
-    $('.track-container--expanded').toggleClass('track-container--expanded');
-    $('.track-container--expanded').toggleClass('track-container--collapsed');
+      if  ($(this).hasClass('track-container--collapsed')) {
+        $(this).find('.track-container__graphic-container__notes-container').slideToggle();
 
-    var thisNotes = $(this).find('.track-container__graphic-container__notes-container')
-    thisNotes.slideToggle("fast");
+        $(this).addClass('track-container--expanded');
+        $(this).removeClass('track-container--collapsed');
 
-    $(this).toggleClass('track-container--expanded');
-    $(this).toggleClass('track-container--collapsed');
+        //collapse all others:
+        var activeTrack = $(this).attr('id')
+        var otherTracks = $('.track-container').not( document.getElementById( activeTrack ) )
+
+        function collapseTracks(track) {
+          var track = track;
+          $(track).removeClass('track-container--expanded'); 
+          $(track).addClass('track-container--collapsed');
+          $(track).find('.track-container__graphic-container__notes-container').hide();
+        }
+
+        _.each( otherTracks, collapseTracks)
+
+      } else {
+        $(this).find('.track-container__graphic-container__notes-container').slideToggle();
+
+        $(this).addClass('track-container--collapsed');
+        $(this).removeClass('track-container--expanded'); 
+      }
+
+    }
+  )
 
 
-    })
+//     // to add annotated lyrics and video embed-----------------------------------
 
-  $('.track-container').click(function(){ 
-    var albumIndex = $('#track-container--0').parent().data('albumindex');
-    var trackIndex = $(this).data('trackindex');
-    var videoLink = data.master[albumIndex].tracks[trackIndex].links.video;
-    var lyrics = data.master[albumIndex].tracks[trackIndex].links.lyrics2;
-
-    // $(this).find('.track-container__graphic-container__notes-container__video-container').html(
-    //   "<iframe class='video-container__video' src='"+videoLink+"' frameborder='0' allowfullscreen></iframe>"
-    // )
-
-    // $(this).find('.track-container__graphic-container__notes-container__video-container').html(
-    //   // lyricsLink
-    //   "<div id='"+lyrics.id+"' class='rg_embed_link'><a href='"+lyrics.link+"'>Annotated Lyrics</div><script src='"+lyrics.source+"''></script>"
-    // )
-
-// <div id='rg_embed_link_112197' class='rg_embed_link'>Read <a href='http://rock.genius.com/The-beatles-i-saw-her-standing-there-lyrics'>“I Saw Her Standing There” by The Beatles</a> on Genius</div><script src='//rock.genius.com/songs/112197/embed.js?dark=1'></script>
+//   $('.track-container').click(function(){ 
+//     var albumIndex = $('#track-container--0').parent().data('albumindex');
+//     var trackIndex = $(this).data('trackindex');
+//     var videoLink = data.master[albumIndex].tracks[trackIndex].links.video;
+//     var lyrics = data.master[albumIndex].tracks[trackIndex].links.lyrics2;
 
 
-  })
 
+//     $(this).find('.track-container__graphic-container__notes-container__video-container').html(
+//       "<iframe class='video-container__video' src='"+videoLink+"' frameborder='0' allowfullscreen></iframe>"
+//     )
+
+//     $(this).find('.track-container__graphic-container__notes-container__video-container').html(
+//       // lyricsLink
+//       "<div id='"+lyrics.id+"' class='rg_embed_link'><a href='"+lyrics.link+"'>Annotated Lyrics</div><script src='"+lyrics.source+"''></script>"
+//     )
+
+// // <div id='rg_embed_link_112197' class='rg_embed_link'>Read <a href='http://rock.genius.com/The-beatles-i-saw-her-standing-there-lyrics'>“I Saw Her Standing There” by The Beatles</a> on Genius</div><script src='//rock.genius.com/songs/112197/embed.js?dark=1'></script>
+
+//   })
+//     // ------------------------------------------------------------------------
 
 }
 
