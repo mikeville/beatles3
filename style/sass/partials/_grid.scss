@@ -330,6 +330,17 @@ svg {
 }
 
 
+.timeline-container--authorship .album-container {
+  @include span(12 of 12);
+
+// To make album containers two-column on desktop
+  @include breakpoint($large) {
+    @include span(5 of 12);
+    margin-right: span(1 of 12);  
+  }
+}
+
+
 .album-container {
   @include rhythm(0,2,0,6);
 }

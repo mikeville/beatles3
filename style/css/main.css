@@ -892,6 +892,23 @@ html, body {
 }
 
 /* line 333, ../sass/partials/_grid.scss */
+.timeline-container--authorship .album-container {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+@media (min-width: 52rem) {
+  /* line 333, ../sass/partials/_grid.scss */
+  .timeline-container--authorship .album-container {
+    width: 40.67797%;
+    float: left;
+    margin-right: 1.69492%;
+    margin-right: 6.77966%;
+  }
+}
+
+/* line 344, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -903,21 +920,21 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 338, ../sass/partials/_grid.scss */
+/* line 349, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 23.72881%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 342, ../sass/partials/_grid.scss */
+/* line 353, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
   width: 74.57627%;
   float: right;
   margin-right: 0;
 }
 
-/* line 346, ../sass/partials/_grid.scss */
+/* line 357, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
@@ -926,7 +943,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 351, ../sass/partials/_grid.scss */
+/* line 362, ../sass/partials/_grid.scss */
 .track-container__graphic-container__notes-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -939,13 +956,13 @@ html, body {
   padding-right: 2rem;
 }
 
-/* line 355, ../sass/partials/_grid.scss */
+/* line 366, ../sass/partials/_grid.scss */
 .video-container__video {
   width: 200px;
   height: 200px;
 }
 
-/* line 370, ../sass/partials/_grid.scss */
+/* line 381, ../sass/partials/_grid.scss */
 .axis-container--authorship {
   margin-left: 23.72881%;
   width: 74.57627%;
@@ -964,7 +981,7 @@ html, body {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 383, ../sass/partials/_grid.scss */
+/* line 394, ../sass/partials/_grid.scss */
 footer {
   width: 100%;
   float: left;
@@ -980,7 +997,7 @@ footer {
   margin-bottom: 1rem;
 }
 
-/* line 400, ../sass/partials/_grid.scss */
+/* line 411, ../sass/partials/_grid.scss */
 .image-container {
   width: 100%;
 }
@@ -988,12 +1005,12 @@ footer {
 /*------------------------------------*\
     #INDEX
 \*------------------------------------*/
-/* line 409, ../sass/partials/_grid.scss */
+/* line 420, ../sass/partials/_grid.scss */
 .thumb-index {
   max-width: 600px;
 }
 
-/* line 421, ../sass/partials/_grid.scss */
+/* line 432, ../sass/partials/_grid.scss */
 .index-item__headline {
   font-size: 32px;
   font-size: 2rem;
