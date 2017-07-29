@@ -1312,6 +1312,11 @@ nav {
 }
 
 /* line 189, ../sass/partials/_typography.scss */
+.track-container--expanded:hover {
+  background-color: #1e1e1a;
+}
+
+/* line 193, ../sass/partials/_typography.scss */
 .track-container__label-container {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1319,7 +1324,7 @@ nav {
   line-height: 1.5rem;
 }
 
-/* line 194, ../sass/partials/_typography.scss */
+/* line 198, ../sass/partials/_typography.scss */
 .track-container--collapsed .track-container__label-container__label {
   overflow: hidden;
   white-space: nowrap;
@@ -1330,20 +1335,18 @@ nav {
   font-weight: 300;
 }
 
-/* line 208, ../sass/partials/_typography.scss */
+/* line 212, ../sass/partials/_typography.scss */
 .track-container--expanded {
-  border-top: 1px dotted #fff8cd;
-  border-bottom: 1px dotted #fff8cd;
-  margin-top: 0px;
-  margin-top: 0rem;
-  padding-top: 8px;
-  padding-top: 0.5rem;
+  margin-top: 16px;
+  margin-top: 1rem;
+  padding-top: 0px;
+  padding-top: 0rem;
   padding-bottom: 16px;
   padding-bottom: 1rem;
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 213, ../sass/partials/_typography.scss */
+/* line 215, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   color: #ee3766;
   font-size: 32px;
@@ -1356,7 +1359,7 @@ nav {
   white-space: normal;
 }
 @media (min-width: 40rem) {
-  /* line 213, ../sass/partials/_typography.scss */
+  /* line 215, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 48px;
     font-size: 3rem;
@@ -1374,7 +1377,7 @@ nav {
   }
 }
 @media (min-width: 52rem) {
-  /* line 213, ../sass/partials/_typography.scss */
+  /* line 215, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 64px;
     font-size: 4rem;
@@ -1382,12 +1385,25 @@ nav {
     line-height: 4.01563rem;
   }
 }
-/* line 240, ../sass/partials/_typography.scss */
+/* line 242, ../sass/partials/_typography.scss */
 .track-container--expanded .segment {
   height: 60px !important;
 }
 
-/* line 246, ../sass/partials/_typography.scss */
+/* line 247, ../sass/partials/_typography.scss */
+.track-container--expanded .track-container__graphic-container {
+  border-top: 1px solid #fff8cd;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 8px;
+  padding-top: 0.5rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+
+/* line 253, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1401,7 +1417,7 @@ nav {
   padding-left: 1.1rem;
 }
 
-/* line 252, ../sass/partials/_typography.scss */
+/* line 259, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1416,7 +1432,7 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 260, ../sass/partials/_typography.scss */
+/* line 267, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1425,7 +1441,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 266, ../sass/partials/_typography.scss */
+/* line 273, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1441,7 +1457,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 273, ../sass/partials/_typography.scss */
+/* line 280, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
