@@ -1056,6 +1056,9 @@ footer {
 /* line 446, ../sass/partials/_grid.scss */
 .image-container {
   width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /*------------------------------------*\
@@ -1066,12 +1069,41 @@ footer {
   max-width: 600px;
 }
 
+/* line 459, ../sass/partials/_grid.scss */
+.index-item {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* line 463, ../sass/partials/_grid.scss */
+.index-item__slug {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* line 467, ../sass/partials/_grid.scss */
 .index-item__headline {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
   font-size: 32px;
   font-size: 2rem;
   line-height: 36px;
   line-height: 2.25rem;
+}
+
+/* line 472, ../sass/partials/_grid.scss */
+.index-item__main-link {
+  display: block;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /*------------------------------------*\
@@ -1142,7 +1174,7 @@ nav {
   letter-spacing: 0.5px;
   color: #fff8cd;
   background-color: #1e1e1a;
-  text-transform: uppercase;
+  text-decoration: none;
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
   padding-left: 1rem;
@@ -1193,12 +1225,17 @@ nav {
 }
 
 /* line 108, ../sass/partials/_typography.scss */
+.site-header__site-title-container__site-title .page-header__title {
+  font-weight: 500;
+}
+
+/* line 115, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title,
 .site-header__site-title-container__site-title a {
   text-decoration: none;
 }
 
-/* line 113, ../sass/partials/_typography.scss */
+/* line 120, ../sass/partials/_typography.scss */
 .page-header__title {
   font-size: 48px;
   font-size: 3rem;
@@ -1216,7 +1253,7 @@ nav {
   color: #ee3766;
 }
 
-/* line 120, ../sass/partials/_typography.scss */
+/* line 127, ../sass/partials/_typography.scss */
 .page-header__slug {
   font-weight: 500;
   margin-top: 0px;
@@ -1230,7 +1267,7 @@ nav {
   color: #ee3766;
 }
 
-/* line 126, ../sass/partials/_typography.scss */
+/* line 133, ../sass/partials/_typography.scss */
 .page-header__subheader {
   font-size: 32px;
   font-size: 2rem;
@@ -1247,12 +1284,12 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 132, ../sass/partials/_typography.scss */
+/* line 139, ../sass/partials/_typography.scss */
 .page-header__subheader--home {
   color: #fff8cd;
 }
 
-/* line 136, ../sass/partials/_typography.scss */
+/* line 143, ../sass/partials/_typography.scss */
 .context-container__axis-container,
 #context-container__axis-container__axis {
   font-size: 13px;
@@ -1261,7 +1298,7 @@ nav {
   line-height: 1.5rem;
 }
 
-/* line 145, ../sass/partials/_typography.scss */
+/* line 152, ../sass/partials/_typography.scss */
 #context-container__axis-container__axis {
   font-weight: 100;
 }
@@ -1269,7 +1306,7 @@ nav {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 153, ../sass/partials/_typography.scss */
+/* line 160, ../sass/partials/_typography.scss */
 .album-container__label-container__label {
   font-size: 32px;
   font-size: 2rem;
@@ -1286,7 +1323,7 @@ nav {
   margin-bottom: 1.5rem;
 }
 
-/* line 160, ../sass/partials/_typography.scss */
+/* line 167, ../sass/partials/_typography.scss */
 .album-container__label-container__year {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1295,28 +1332,28 @@ nav {
   font-weight: 100;
 }
 
-/* line 165, ../sass/partials/_typography.scss */
+/* line 172, ../sass/partials/_typography.scss */
 .track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 179, ../sass/partials/_typography.scss */
+/* line 186, ../sass/partials/_typography.scss */
 .track-container:hover {
   cursor: pointer;
   background-color: #292925;
 }
-/* line 183, ../sass/partials/_typography.scss */
+/* line 190, ../sass/partials/_typography.scss */
 .track-container:hover .track-container__label-container__label {
   color: #ee3766;
 }
 
-/* line 189, ../sass/partials/_typography.scss */
+/* line 196, ../sass/partials/_typography.scss */
 .track-container--expanded:hover {
   background-color: #1e1e1a;
 }
 
-/* line 193, ../sass/partials/_typography.scss */
+/* line 200, ../sass/partials/_typography.scss */
 .track-container__label-container {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1324,7 +1361,7 @@ nav {
   line-height: 1.5rem;
 }
 
-/* line 198, ../sass/partials/_typography.scss */
+/* line 205, ../sass/partials/_typography.scss */
 .track-container--collapsed .track-container__label-container__label {
   overflow: hidden;
   white-space: nowrap;
@@ -1335,7 +1372,7 @@ nav {
   font-weight: 300;
 }
 
-/* line 212, ../sass/partials/_typography.scss */
+/* line 219, ../sass/partials/_typography.scss */
 .track-container--expanded {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1346,7 +1383,7 @@ nav {
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 215, ../sass/partials/_typography.scss */
+/* line 222, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   color: #ee3766;
   font-size: 32px;
@@ -1359,7 +1396,7 @@ nav {
   white-space: normal;
 }
 @media (min-width: 40rem) {
-  /* line 215, ../sass/partials/_typography.scss */
+  /* line 222, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 48px;
     font-size: 3rem;
@@ -1377,7 +1414,7 @@ nav {
   }
 }
 @media (min-width: 52rem) {
-  /* line 215, ../sass/partials/_typography.scss */
+  /* line 222, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 64px;
     font-size: 4rem;
@@ -1385,12 +1422,12 @@ nav {
     line-height: 4.01563rem;
   }
 }
-/* line 242, ../sass/partials/_typography.scss */
+/* line 249, ../sass/partials/_typography.scss */
 .track-container--expanded .segment {
   height: 60px !important;
 }
 
-/* line 247, ../sass/partials/_typography.scss */
+/* line 254, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__graphic-container {
   border-top: 1px solid #fff8cd;
   margin-top: 0px;
@@ -1403,7 +1440,7 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 253, ../sass/partials/_typography.scss */
+/* line 260, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1417,7 +1454,7 @@ nav {
   padding-left: 1.1rem;
 }
 
-/* line 259, ../sass/partials/_typography.scss */
+/* line 266, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1432,7 +1469,46 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 267, ../sass/partials/_typography.scss */
+/* line 276, ../sass/partials/_typography.scss */
+.index-item {
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 64px;
+  margin-bottom: 4rem;
+}
+
+/* line 280, ../sass/partials/_typography.scss */
+.index-item a {
+  text-decoration: none;
+}
+
+/* line 284, ../sass/partials/_typography.scss */
+.index-item a:hover {
+  color: #ee3766;
+}
+/* line 287, ../sass/partials/_typography.scss */
+.index-item a:hover .index-item a.page-header__title:hover {
+  color: #ee3766;
+}
+
+/* line 292, ../sass/partials/_typography.scss */
+.index-item .page-header__title {
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+  color: #fff8cd;
+}
+
+/* line 310, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1441,7 +1517,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 273, ../sass/partials/_typography.scss */
+/* line 316, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1457,7 +1533,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 280, ../sass/partials/_typography.scss */
+/* line 323, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;

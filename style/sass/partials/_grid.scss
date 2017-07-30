@@ -444,7 +444,7 @@ footer {
 // ===========================================================
 
 .image-container {
-  width: 100%;
+  @include span(6 of 6); 
 }
 
 
@@ -457,13 +457,19 @@ footer {
 }
 
 .index-item {
- 
+  @include span(6 of 6); 
 }
 
 .index-item__slug {
-
+  @include span(6 of 6); 
 }
 
 .index-item__headline {
+  @include span(6 of 6); 
   @include adjust-font-size-to(2rem, 4.5);
+}
+
+.index-item__main-link {
+  display: block;
+  @include span(6 of 6); 
 }

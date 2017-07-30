@@ -63,7 +63,7 @@ nav {
   letter-spacing: 0.5px;
   color: $text;
   background-color: $background;
-  text-transform: uppercase;
+  text-decoration: none;
   
   // @include border-radius(0.15rem, 0.15rem);
   padding-top: 0.2rem;
@@ -104,6 +104,13 @@ nav {
   // @include adjust-font-size-to(1.5rem);
   font-weight: 500;
 }
+
+.site-header__site-title-container__site-title .page-header__title {
+  // @include adjust-font-size-to(1.5rem);
+  font-weight: 500;
+}
+
+
 
 .site-header__site-title-container__site-title,
 .site-header__site-title-container__site-title a {
@@ -264,6 +271,42 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
+
+
+.index-item {
+  @include rhythm(0,0,0,8);
+}
+
+.index-item a {
+  text-decoration: none;
+}
+
+.index-item a:hover {
+  color: $pink;
+
+  .index-item a.page-header__title:hover {
+    color: $pink;
+  }
+}
+
+.index-item .page-header__title {
+  @include rhythm(0,0,0,1);
+  color: $text;
+}
+
+// .index-item:hover:after {
+//   content: "Open";
+//   position: absolute;
+//   left: 50%;
+//   top: 50%;
+//   text-align: center;
+//   @include adjust-font-size-to(6rem, 4);
+//   text-transform: uppercase;
+//   font-family: 'Roboto Condensed', sans-serif;
+// }
+
+
+
 .index__store-box__text-container {
   @include adjust-font-size-to(1.5rem, 4);
   font-weight: 200;
