@@ -85,9 +85,10 @@ $instrumental: $green;
 }
 
 .legend__segment {
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-  margin-right: 0.25rem;
+    display: inline-block;
+    padding: 0 5px;
+    margin-bottom: 3px;
+    margin-right: 3px;
 }
 
 .legend__chip {
