@@ -106,36 +106,44 @@ nav {
   color: $pink;
 }
 
-.site-header__site-title-container__site-title .page-header__title {
+.site-header__site-title-container__site-title .headline {
   // @include adjust-font-size-to(1.5rem);
   font-weight: 500;
 }
-
-
 
 .site-header__site-title-container__site-title,
 .site-header__site-title-container__site-title a {
   text-decoration: none;
 }
 
-.page-header__title {
+
+.site-header__site-title-container--home a.site-header__site-title-container__site-title:hover {
+  cursor: default !important;
+}
+
+.site-header__site-title-container--subpage .site-header__site-title-container__site-title:hover {
+  color: $text;
+}
+
+.headline {
   @include adjust-font-size-to(3rem, 6);
   font-weight: 500;
-  @include rhythm(0,0,0,5);
+  @include rhythm(0,0,0,0);
 }
 
-.page-header__slug {
+.subhead {
+  @include adjust-font-size-to(1.5rem, 3.5);
+  // font-weight: 500;
+  @include rhythm(0,0,0,3);
+}
+
+.text-block__header {
+  @include adjust-font-size-to(1.5rem, 3.5);
   font-weight: 500;
-  @include rhythm(0,0,0,0.5);
+  @include rhythm(0,0,0,0);
 }
 
-.page-header__subheader {
-  @include adjust-font-size-to(2rem, 4.5);
-  font-weight: 500;
-  @include rhythm(0,0,0,1);
-}
-
-.page-header__subheader--home {
+.text-block__header--home {
   color: $text;
 }
 
@@ -280,7 +288,7 @@ nav {
   text-decoration: none;
 }
 
-.index-item .page-header__title {
+.index-item .subhead {
   @include rhythm(0,0,0,1);
 }
 
@@ -289,7 +297,7 @@ nav {
     color: $pink;
   }
 
-  .index-item a.page-header__title:hover {
+  .index-item a.headline:hover {
     color: $pink;
   }
 }

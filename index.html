@@ -56,8 +56,8 @@
  -->
 
 <script id='template__site-header--home' type="text/x-handlebars-template">
-  <div class='site-header__site-title-container'>
-    <a class='site-header__site-title-container__site-title page-header__title' href='#'><h1>Charting the Beatles</h1></a>
+  <div class='site-header__site-title-container site-header__site-title-container--home'>
+    <a class='site-header__site-title-container__site-title headline' href='#'><h1>Charting the Beatles</h1></a>
   </div>
   <nav class='site-header__nav2'>
     <a class="nav2__link" href="http://mike-deals-shop.myshopify.com/collections/charting-the-beatles" target="_blank">Posters for charity</a>
@@ -66,7 +66,7 @@
 
 
 <script id='template__site-header' type="text/x-handlebars-template">
-  <div class='site-header__site-title-container'>
+  <div class='site-header__site-title-container site-header__site-title-container--subpage'>
     <a class='site-header__site-title-container__site-title' href='#'><h1>Charting the Beatles</h1></a>
   </div>
   <nav class='site-header__nav2'>
@@ -86,7 +86,7 @@
 
 <script id='template__page__home0' type="text/x-handlebars-template">
   <div class='page-header'>
-    <p class='page-header__subheader page-header__subheader--home'>
+    <p class='text-block__header text-block__header--home'>
     Explore graphic studies of the band&#39;s evolution.
     </p>
     <p class='page-header__description body-copy'>
@@ -122,7 +122,7 @@
 
 <script id='template__page__home' type="text/x-handlebars-template">
   <div class='page-header'>
-    <p class='page-header__subheader page-header__subheader--home'>
+    <p class='text-block__header text-block__header--home'>
     </p>
     <p class='page-header__description body-copy'>
     </p>
@@ -135,10 +135,10 @@
   <div class='thumb-index'>
     <section class="index-item">
       <a class="index-item__main-link" href="#authorship">
-        <div class="header__slug">
+        <div class="headline">
           Songwriting
         </div>
-        <div class="page-header__title">
+        <div class="subhead">
           Who wrote what
         </div>
         <div class="image-container">
@@ -148,10 +148,10 @@
     </section>
     <section class="index-item">
       <a class="index-item__main-link" href="#songstructure">
-        <div class="header__slug">
+        <div class="headline">
           Song structure
         </div>
-        <div class="page-header__title">
+        <div class="subhead">
           Every album deconstructed
         </div>
         <div class="image-container">
@@ -161,11 +161,11 @@
     </section>
     <section class="index-item index-item--half">
       <a class="index-item__main-link" href="#schedule">
-        <div class="header__slug">
-          Daily schedule
+        <div class="headline">
+          Schedule
         </div>
-        <div class="page-header__title">
-          On the job
+        <div class="subhead">
+          Grinding eight days a week
         </div>
         <div class="image-container">
           <img class="static-graphic" src="images/temp/Screen Shot 2017-07-28 at 10.59.01 PM.png">
@@ -174,10 +174,10 @@
     </section>
     <section class="index-item index-item--half">
       <a class="index-item__main-link" href="#tonality">
-        <div class="header__slug">
+        <div class="headline">
           Sounds
         </div>
-        <div class="page-header__title">
+        <div class="subhead">
           Change of tone
         </div>
         <div class="image-container">
@@ -187,11 +187,11 @@
     </section>
     <section class="index-item">
       <a class="index-item__main-link" href="#selfreference">
-        <div class="header__slug">
-          Meta
+        <div class="headline">
+          Meta lyrics
         </div>
-        <div class="page-header__title">
-          Beatles lyrics about Beatles lyrics
+        <div class="subhead">
+          Beatles on Beatles, referring back to their previous work
         </div>
         <div class="image-container">
           <img class="static-graphic" src="images/temp/Screen Shot 2017-07-28 at 10.59.09 PM.png">
@@ -205,13 +205,13 @@
 
 <script id='template__page__songstructure' type="text/x-handlebars-template">
 <div class='page-header'>
-  <p class='page-header__slug'>
+  <p class='headline'>
     Song Structure
   </p>
-  <h2 class="page-header__title">Every song deconstructed</h2>
+  <h2 class="subhead">Breaking down each song</h2>
 </div>
 <div class="text-block">
-  <p class='page-header__subheader'>
+  <p class='text-block__header'>
     Overview
   </p>
   <p class='body-copy'>
@@ -249,7 +249,7 @@
 
 
 <div class='text-block'>
-  <p class='page-header__subheader'>
+  <p class='text-block__header'>
     Tap songs below for details
   </p>
   <p class='page-header__description body-copy'>
@@ -279,13 +279,13 @@
 
 <script id='template__page__authorship' type="text/x-handlebars-template">
 <div class='page-header'>
-  <p class='page-header__slug'>
+  <p class='headline'>
     Authorship
   </p>
-  <h2 class="page-header__title">Who wrote what</h2>
+  <h2 class="subhead">Who wrote what</h2>
 </div>
 <div class="text-block">
-  <p class='page-header__subheader'>
+  <p class='text-block__header'>
     Overview
   </p>
   <p class='body-copy'>
@@ -327,7 +327,7 @@
   </div>
 </div>
 <div class="text-block">
-  <p class='page-header__subheader'>
+  <p class='text-block__header'>
     Tap songs below for details
   </p>
   <p class='page-header__description body-copy'>
@@ -347,8 +347,8 @@
 
 <script id='template__page__selfreference' type="text/x-handlebars-template">
 <div class='page-header'>
-  <h2 class="page-header__title">Self Reference</h2>
-  <p class='page-header__subheader'>
+  <h2 class="headline">Self Reference</h2>
+  <p class='text-block__header'>
     How self-referential were their songs?
   </p>
   <p class='page-header__description body-copy'>
@@ -379,8 +379,8 @@
 
 <script id='template__page__schedule' type="text/x-handlebars-template">
 <div class='page-header'>
-  <h2 class="page-header__title">Schedule</h2>
-  <p class='page-header__subheader'>
+  <h2 class="headline">Schedule</h2>
+  <p class='text-block__header'>
     What did the band&#39;s calendar look like during during Beatlemania?
   </p>
   <p class='page-header__description body-copy'>
@@ -416,8 +416,8 @@
 
 <script id='template__page__tonality' type="text/x-handlebars-template">
 <div class='page-header'>
-  <h2 class="page-header__title">Tonality</h2>
-  <p class='page-header__subheader'>
+  <h2 class="headline">Tonality</h2>
+  <p class='text-block__header'>
     How did their scope of tonal focus expand?
   </p>
   <p class='page-header__description body-copy'>
