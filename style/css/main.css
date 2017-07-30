@@ -1077,7 +1077,17 @@ footer {
   margin-right: 0;
 }
 
-/* line 463, ../sass/partials/_grid.scss */
+@media (min-width: 40rem) {
+  /* line 463, ../sass/partials/_grid.scss */
+  .index-item--half {
+    width: 40.67797%;
+    float: left;
+    margin-right: 1.69492%;
+    margin-right: 6.77966%;
+  }
+}
+
+/* line 470, ../sass/partials/_grid.scss */
 .index-item__slug {
   width: 100%;
   float: left;
@@ -1085,7 +1095,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 467, ../sass/partials/_grid.scss */
+/* line 474, ../sass/partials/_grid.scss */
 .index-item__headline {
   width: 100%;
   float: left;
@@ -1097,7 +1107,7 @@ footer {
   line-height: 2.25rem;
 }
 
-/* line 472, ../sass/partials/_grid.scss */
+/* line 479, ../sass/partials/_grid.scss */
 .index-item__main-link {
   display: block;
   width: 100%;
@@ -1222,20 +1232,21 @@ nav {
 /* line 103, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title {
   font-weight: 500;
+  color: #ee3766;
 }
 
-/* line 108, ../sass/partials/_typography.scss */
+/* line 109, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title .page-header__title {
   font-weight: 500;
 }
 
-/* line 115, ../sass/partials/_typography.scss */
+/* line 116, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title,
 .site-header__site-title-container__site-title a {
   text-decoration: none;
 }
 
-/* line 120, ../sass/partials/_typography.scss */
+/* line 121, ../sass/partials/_typography.scss */
 .page-header__title {
   font-size: 48px;
   font-size: 3rem;
@@ -1250,7 +1261,6 @@ nav {
   padding-bottom: 0rem;
   margin-bottom: 40px;
   margin-bottom: 2.5rem;
-  color: #ee3766;
 }
 
 /* line 127, ../sass/partials/_typography.scss */
@@ -1264,7 +1274,6 @@ nav {
   padding-bottom: 0rem;
   margin-bottom: 4px;
   margin-bottom: 0.25rem;
-  color: #ee3766;
 }
 
 /* line 133, ../sass/partials/_typography.scss */
@@ -1487,15 +1496,6 @@ nav {
 }
 
 /* line 284, ../sass/partials/_typography.scss */
-.index-item a:hover {
-  color: #ee3766;
-}
-/* line 287, ../sass/partials/_typography.scss */
-.index-item a:hover .index-item a.page-header__title:hover {
-  color: #ee3766;
-}
-
-/* line 292, ../sass/partials/_typography.scss */
 .index-item .page-header__title {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1505,10 +1505,18 @@ nav {
   padding-bottom: 0rem;
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
-  color: #fff8cd;
 }
 
-/* line 310, ../sass/partials/_typography.scss */
+/* line 289, ../sass/partials/_typography.scss */
+.index-item:hover a {
+  color: #ee3766;
+}
+/* line 293, ../sass/partials/_typography.scss */
+.index-item:hover .index-item a.page-header__title:hover {
+  color: #ee3766;
+}
+
+/* line 311, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1517,7 +1525,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 316, ../sass/partials/_typography.scss */
+/* line 317, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1533,7 +1541,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 323, ../sass/partials/_typography.scss */
+/* line 324, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;

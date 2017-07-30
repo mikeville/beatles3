@@ -103,6 +103,7 @@ nav {
 .site-header__site-title-container__site-title {
   // @include adjust-font-size-to(1.5rem);
   font-weight: 500;
+  color: $pink;
 }
 
 .site-header__site-title-container__site-title .page-header__title {
@@ -121,13 +122,11 @@ nav {
   @include adjust-font-size-to(3rem, 6);
   font-weight: 500;
   @include rhythm(0,0,0,5);
-  color: $pink;
 }
 
 .page-header__slug {
   font-weight: 500;
   @include rhythm(0,0,0,0.5);
-  color: $pink;
 }
 
 .page-header__subheader {
@@ -281,17 +280,18 @@ nav {
   text-decoration: none;
 }
 
-.index-item a:hover {
-  color: $pink;
+.index-item .page-header__title {
+  @include rhythm(0,0,0,1);
+}
+
+.index-item:hover {
+  a {
+    color: $pink;
+  }
 
   .index-item a.page-header__title:hover {
     color: $pink;
   }
-}
-
-.index-item .page-header__title {
-  @include rhythm(0,0,0,1);
-  color: $text;
 }
 
 // .index-item:hover:after {
