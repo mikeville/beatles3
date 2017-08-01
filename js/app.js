@@ -85,6 +85,7 @@ var UI = Backbone.View.extend({
     this.renderIndex()
     this.renderShop()
     // this.renderFooter()
+    this.hideCurrentPage()
 
     initSticky();
   },
@@ -157,7 +158,13 @@ var UI = Backbone.View.extend({
 
   scrollToTop: function() {
     document.body.scrollTop = document.documentElement.scrollTop = 0;
+  },
+
+  hideCurrentPage: function() {
+    $(".index-item").show();
+    $("#index-item--" + app.currentPage).hide();
   }
+
 
 
 
