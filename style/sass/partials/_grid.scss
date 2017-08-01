@@ -379,11 +379,17 @@ svg {
 
 
 .track-container__label-container {
-  @include span(3 of 12);  
+  @include breakpoint($large) {
+    @include span(3 of 12)
+  }
+  @include span(5 of 12);  
 }
 
 .track-container__graphic-container {
-  @include span(last 9 of 12);  
+  @include breakpoint($large) {
+    @include span(last 9 of 12)
+  }
+  @include span(last 7 of 12);  
 }
 
 .track-container__graphic-container__graphic-wrapper,

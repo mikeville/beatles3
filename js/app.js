@@ -210,7 +210,7 @@ function setUpD3() {
 // ======================================================
 
   // maxTime = 510
-  maxTime = 240
+  maxTime = 420
 
   svgWrapperWidth = ( $('#timeline-container').width() * 0.75 );
 

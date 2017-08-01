@@ -975,19 +975,35 @@ html, body {
 
 /* line 381, ../sass/partials/_grid.scss */
 .track-container__label-container {
-  width: 23.72881%;
+  width: 40.67797%;
   float: left;
   margin-right: 1.69492%;
 }
+@media (min-width: 52rem) {
+  /* line 381, ../sass/partials/_grid.scss */
+  .track-container__label-container {
+    width: 23.72881%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+}
 
-/* line 385, ../sass/partials/_grid.scss */
+/* line 388, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
-  width: 74.57627%;
+  width: 57.62712%;
   float: right;
   margin-right: 0;
 }
+@media (min-width: 52rem) {
+  /* line 388, ../sass/partials/_grid.scss */
+  .track-container__graphic-container {
+    width: 74.57627%;
+    float: right;
+    margin-right: 0;
+  }
+}
 
-/* line 389, ../sass/partials/_grid.scss */
+/* line 395, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
@@ -998,7 +1014,7 @@ html, body {
   margin-bottom: 3px;
 }
 
-/* line 396, ../sass/partials/_grid.scss */
+/* line 402, ../sass/partials/_grid.scss */
 .track-container__graphic-container__notes-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1011,13 +1027,13 @@ html, body {
   padding-right: 2rem;
 }
 
-/* line 400, ../sass/partials/_grid.scss */
+/* line 406, ../sass/partials/_grid.scss */
 .video-container__video {
   width: 200px;
   height: 200px;
 }
 
-/* line 415, ../sass/partials/_grid.scss */
+/* line 421, ../sass/partials/_grid.scss */
 .axis-container--authorship {
   margin-left: 23.72881%;
   width: 74.57627%;
@@ -1033,7 +1049,7 @@ html, body {
   margin-bottom: 0rem;
 }
 
-/* line 421, ../sass/partials/_grid.scss */
+/* line 427, ../sass/partials/_grid.scss */
 .axis-container--authorship .image {
   margin-bottom: -7px;
 }
@@ -1041,7 +1057,7 @@ html, body {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 432, ../sass/partials/_grid.scss */
+/* line 438, ../sass/partials/_grid.scss */
 footer {
   width: 100%;
   float: left;
@@ -1057,7 +1073,7 @@ footer {
   margin-bottom: 1rem;
 }
 
-/* line 449, ../sass/partials/_grid.scss */
+/* line 455, ../sass/partials/_grid.scss */
 .image-container {
   width: 100%;
   float: left;
@@ -1068,12 +1084,12 @@ footer {
 /*------------------------------------*\
     #INDEX
 \*------------------------------------*/
-/* line 458, ../sass/partials/_grid.scss */
+/* line 464, ../sass/partials/_grid.scss */
 .thumb-index {
   max-width: 600px;
 }
 
-/* line 462, ../sass/partials/_grid.scss */
+/* line 468, ../sass/partials/_grid.scss */
 .index-item {
   width: 100%;
   float: left;
@@ -1082,7 +1098,7 @@ footer {
 }
 
 @media (min-width: 40rem) {
-  /* line 466, ../sass/partials/_grid.scss */
+  /* line 472, ../sass/partials/_grid.scss */
   .index-item--half {
     width: 40.67797%;
     float: left;
@@ -1091,7 +1107,7 @@ footer {
   }
 }
 
-/* line 473, ../sass/partials/_grid.scss */
+/* line 479, ../sass/partials/_grid.scss */
 .index-item__slug {
   width: 100%;
   float: left;
@@ -1099,7 +1115,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 477, ../sass/partials/_grid.scss */
+/* line 483, ../sass/partials/_grid.scss */
 .index-item__headline {
   width: 100%;
   float: left;
@@ -1111,7 +1127,7 @@ footer {
   line-height: 2.25rem;
 }
 
-/* line 482, ../sass/partials/_grid.scss */
+/* line 488, ../sass/partials/_grid.scss */
 .index-item__main-link {
   display: block;
   width: 100%;
