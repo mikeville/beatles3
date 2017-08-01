@@ -317,6 +317,7 @@ svg {
 #context-container__axis-container__axis {
   @include push(3 of 12);
   // padding-left: span(3);
+  overflow-x: hidden;
 }
 
 .context-container__legend-container {
@@ -388,6 +389,8 @@ svg {
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   @include span(9 of 9); 
+  overflow-x: hidden;
+  margin-bottom: 3px;
 }
 
 .track-container__graphic-container__notes-container {
