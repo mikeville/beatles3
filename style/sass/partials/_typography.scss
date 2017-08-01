@@ -260,7 +260,11 @@ nav {
   }
 
   &.size-down .track-container__label-container__label {
-    @include adjust-font-size-to(2.5rem);
+    @include adjust-font-size-to(1.5rem);
+
+    @include breakpoint($large) {
+      @include adjust-font-size-to(2.5rem);
+    }
   }
 
   // .track-container__graphic-container__notes-container,

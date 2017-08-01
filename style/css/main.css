@@ -1498,17 +1498,26 @@ nav {
 }
 /* line 262, ../sass/partials/_typography.scss */
 .track-container--expanded.size-down .track-container__label-container__label {
-  font-size: 40px;
-  font-size: 2.5rem;
-  line-height: 40px;
-  line-height: 2.51563rem;
+  font-size: 24px;
+  font-size: 1.5rem;
+  line-height: 24px;
+  line-height: 1.51563rem;
 }
-/* line 273, ../sass/partials/_typography.scss */
+@media (min-width: 52rem) {
+  /* line 262, ../sass/partials/_typography.scss */
+  .track-container--expanded.size-down .track-container__label-container__label {
+    font-size: 40px;
+    font-size: 2.5rem;
+    line-height: 40px;
+    line-height: 2.51563rem;
+  }
+}
+/* line 277, ../sass/partials/_typography.scss */
 .track-container--expanded .segment {
   height: 61px !important;
 }
 
-/* line 280, ../sass/partials/_typography.scss */
+/* line 284, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__graphic-container {
   border-top: 1px solid #fff8cd;
   margin-top: 0px;
@@ -1521,7 +1530,7 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 286, ../sass/partials/_typography.scss */
+/* line 290, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1539,7 +1548,7 @@ nav {
   line-height: 1rem;
 }
 @media (min-width: 52rem) {
-  /* line 286, ../sass/partials/_typography.scss */
+  /* line 290, ../sass/partials/_typography.scss */
   .track-container__graphic-container__notes-container__note-list {
     font-size: 16px;
     font-size: 1rem;
@@ -1548,7 +1557,7 @@ nav {
   }
 }
 
-/* line 297, ../sass/partials/_typography.scss */
+/* line 301, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1563,7 +1572,7 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 307, ../sass/partials/_typography.scss */
+/* line 311, ../sass/partials/_typography.scss */
 .index-item {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1575,12 +1584,12 @@ nav {
   margin-bottom: 4rem;
 }
 
-/* line 311, ../sass/partials/_typography.scss */
+/* line 315, ../sass/partials/_typography.scss */
 .index-item a {
   text-decoration: none;
 }
 
-/* line 315, ../sass/partials/_typography.scss */
+/* line 319, ../sass/partials/_typography.scss */
 .index-item .subhead {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1592,16 +1601,16 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 320, ../sass/partials/_typography.scss */
+/* line 324, ../sass/partials/_typography.scss */
 .index-item:hover a {
   color: #ee3766;
 }
-/* line 324, ../sass/partials/_typography.scss */
+/* line 328, ../sass/partials/_typography.scss */
 .index-item:hover .index-item a.headline:hover {
   color: #ee3766;
 }
 
-/* line 342, ../sass/partials/_typography.scss */
+/* line 346, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1610,7 +1619,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 348, ../sass/partials/_typography.scss */
+/* line 352, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1626,7 +1635,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 355, ../sass/partials/_typography.scss */
+/* line 359, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;

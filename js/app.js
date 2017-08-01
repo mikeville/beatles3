@@ -491,7 +491,6 @@ function labelSizePatch() {
 
   _.each(longTitles, function(i) {
     $('*[data-trackindex="' + i + '"]').addClass("size-down")
-    console.log(i)
   })
 }
 
