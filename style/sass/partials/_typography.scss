@@ -251,6 +251,10 @@ nav {
     }
   }
 
+  &.size-down .track-container__label-container__label {
+    @include adjust-font-size-to(2.5rem);
+  }
+
   // .track-container__graphic-container__notes-container,
   // .notes-container__note {
   //   display: block;
@@ -262,6 +266,8 @@ nav {
     height: 61px !important;
   }
 }
+
+
 
 .track-container--expanded  .track-container__graphic-container {
   border-top: 1px solid $text;

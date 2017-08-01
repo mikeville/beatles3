@@ -486,6 +486,15 @@ var setEventsTest = function() {
 }
 
 
+function labelSizePatch() {
+  var longTitles = [0, 20, 21, 522, 60, 641, 66, 68, 69, 71, 74, 771, 79, 80, 82, 83, 85, 91, 92, 94, 102, 103, 104, 110, 111, 116, 120, 122, 125, 1261, 126504, 126512, 129, 136, 139, 140, 141, 143, 150, 151, 152];
+
+  _.each(longTitles, function(i) {
+    $('*[data-trackindex="' + i + '"]').addClass("size-down")
+    console.log(i)
+  })
+}
+
 
 
 // function lyricsDisplayer(){
@@ -650,15 +659,18 @@ function loadSongStructureGraphic() {
 
     // Highlight instances of segment names in notes
     addSegmentSpanClasses();
+
+    // Downsize big labels
+    labelSizePatch();
 }
 
 
 
 function loadAuthorshipGraphic() {
-    // Draw D3
     setUpD3();
     drawAuthorshipD3();
     setEventsTest();
+    labelSizePatch();
 }
 
 

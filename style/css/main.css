@@ -1478,12 +1478,19 @@ nav {
     line-height: 4.01563rem;
   }
 }
-/* line 261, ../sass/partials/_typography.scss */
+/* line 254, ../sass/partials/_typography.scss */
+.track-container--expanded.size-down .track-container__label-container__label {
+  font-size: 40px;
+  font-size: 2.5rem;
+  line-height: 40px;
+  line-height: 2.51563rem;
+}
+/* line 265, ../sass/partials/_typography.scss */
 .track-container--expanded .segment {
   height: 61px !important;
 }
 
-/* line 266, ../sass/partials/_typography.scss */
+/* line 272, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__graphic-container {
   border-top: 1px solid #fff8cd;
   margin-top: 0px;
@@ -1496,7 +1503,7 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 272, ../sass/partials/_typography.scss */
+/* line 278, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1514,7 +1521,7 @@ nav {
   line-height: 1rem;
 }
 @media (min-width: 52rem) {
-  /* line 272, ../sass/partials/_typography.scss */
+  /* line 278, ../sass/partials/_typography.scss */
   .track-container__graphic-container__notes-container__note-list {
     font-size: 16px;
     font-size: 1rem;
@@ -1523,7 +1530,7 @@ nav {
   }
 }
 
-/* line 283, ../sass/partials/_typography.scss */
+/* line 289, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1538,7 +1545,7 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 293, ../sass/partials/_typography.scss */
+/* line 299, ../sass/partials/_typography.scss */
 .index-item {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1550,12 +1557,12 @@ nav {
   margin-bottom: 4rem;
 }
 
-/* line 297, ../sass/partials/_typography.scss */
+/* line 303, ../sass/partials/_typography.scss */
 .index-item a {
   text-decoration: none;
 }
 
-/* line 301, ../sass/partials/_typography.scss */
+/* line 307, ../sass/partials/_typography.scss */
 .index-item .subhead {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1567,16 +1574,16 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 306, ../sass/partials/_typography.scss */
+/* line 312, ../sass/partials/_typography.scss */
 .index-item:hover a {
   color: #ee3766;
 }
-/* line 310, ../sass/partials/_typography.scss */
+/* line 316, ../sass/partials/_typography.scss */
 .index-item:hover .index-item a.headline:hover {
   color: #ee3766;
 }
 
-/* line 328, ../sass/partials/_typography.scss */
+/* line 334, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1585,7 +1592,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 334, ../sass/partials/_typography.scss */
+/* line 340, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1601,7 +1608,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 341, ../sass/partials/_typography.scss */
+/* line 347, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
