@@ -134,7 +134,7 @@ nav {
 }
 
 .headline {
-  @include adjust-font-size-to(3rem, 6);
+  @include adjust-font-size-to(3rem, 7);
   font-weight: 500;
   @include rhythm(0,0,0,0);
 }
