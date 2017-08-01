@@ -392,6 +392,15 @@ svg {
   @include span(last 7 of 12);  
 }
 
+
+
+.timeline-container--authorship .track-container__graphic-container {
+  @include breakpoint($large) {
+    @include span(6 of 12)
+  }
+}
+
+
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   @include span(9 of 9); 
