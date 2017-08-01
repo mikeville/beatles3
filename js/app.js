@@ -454,6 +454,8 @@ var setEventsTest = function() {
       }
 
     }
+
+
   )
 
 
@@ -565,6 +567,8 @@ function drawAuthorshipD3() {
   //       // .style('height', height)
   //       .attr('class', function(d) { return 'segment segment_'+d.segType })
 
+  var memberArray = ["Paul", "John", "George", "Ringo"]
+
 
   var trackSegments = trackGraphics.selectAll('div')
       .data(function(d, i) { return d['authorship'] })
@@ -578,6 +582,13 @@ function drawAuthorshipD3() {
           return 'segment segment--empty'
         }
       })
+
+// add contribution labels
+// trackSegments.html(function(d, i) {
+//     var contributionAmount = d;
+//     var member = memberArray[i];
+//     return contributionAmount + " " + member;
+//   })
 
 
 
@@ -596,6 +607,7 @@ function drawAuthorshipD3() {
     .enter().append('li')
       .attr('class', 'note-list__note')
       .html(function(d) { return d; })
+
 
 
   // add little guy
