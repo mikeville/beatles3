@@ -105,6 +105,9 @@ nav {
   font-weight: 500;
   color: $pink;
 }
+.site-header__site-title-container__site-title span {
+  display: inline-block;
+}
 
 .site-header__site-title-container__site-title .headline {
   // @include adjust-font-size-to(1.5rem);
@@ -117,8 +120,13 @@ nav {
 }
 
 
-.site-header__site-title-container--home a.site-header__site-title-container__site-title:hover {
+.site-header__site-title-container--home a.site-header__site-title-container__site-title {
   cursor: default !important;
+  @include adjust-font-size-to(1.5rem);
+
+  @include breakpoint($med) {
+    @include adjust-font-size-to(3rem);
+  }
 }
 
 .site-header__site-title-container--subpage .site-header__site-title-container__site-title:hover {
