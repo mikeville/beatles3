@@ -302,6 +302,12 @@ nav {
   @include rhythm(0,0,0,1);
 }
 
+.note-list__note span {
+  font-size: 9.5px;
+  line-height: 1;
+  color: #555244;
+}
+
 
 /*------------------------------------*\
     #HOME

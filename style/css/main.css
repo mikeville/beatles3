@@ -1569,10 +1569,17 @@ nav {
   margin-bottom: 0.5rem;
 }
 
+/* line 305, ../sass/partials/_typography.scss */
+.note-list__note span {
+  font-size: 9.5px;
+  line-height: 1;
+  color: #555244;
+}
+
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 311, ../sass/partials/_typography.scss */
+/* line 317, ../sass/partials/_typography.scss */
 .index-item {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1584,12 +1591,12 @@ nav {
   margin-bottom: 4rem;
 }
 
-/* line 315, ../sass/partials/_typography.scss */
+/* line 321, ../sass/partials/_typography.scss */
 .index-item a {
   text-decoration: none;
 }
 
-/* line 319, ../sass/partials/_typography.scss */
+/* line 325, ../sass/partials/_typography.scss */
 .index-item .subhead {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1601,16 +1608,16 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 324, ../sass/partials/_typography.scss */
+/* line 330, ../sass/partials/_typography.scss */
 .index-item:hover a {
   color: #ee3766;
 }
-/* line 328, ../sass/partials/_typography.scss */
+/* line 334, ../sass/partials/_typography.scss */
 .index-item:hover .index-item a.headline:hover {
   color: #ee3766;
 }
 
-/* line 346, ../sass/partials/_typography.scss */
+/* line 352, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1619,7 +1626,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 352, ../sass/partials/_typography.scss */
+/* line 358, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1635,7 +1642,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 359, ../sass/partials/_typography.scss */
+/* line 365, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
