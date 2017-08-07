@@ -1,7 +1,7 @@
 /*------------------------------------*\
     #THIRD-PARTY-IMPORTS
 \*------------------------------------*/
-/* line 5, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 5, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,45 +23,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
@@ -299,7 +299,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 209, ../sass/modules/_colors.scss */
 .span--i_ntro {
-  color: #88857c;
+  color: #88867c;
 }
 
 /* line 213, ../sass/modules/_colors.scss */
@@ -359,7 +359,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /*------------------------------------*\
     #CONFIGURE-COMPASS-VERTICAL-RHYTHM
 \*------------------------------------*/
-/* line 106, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/compass-core-1.0.1/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 1.5em;
@@ -470,7 +470,7 @@ html {
 /*------------------------------------*\
     #CONFIG-SUSY
 \*------------------------------------*/
-/* line 14, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/susy-2.1.3/sass/susy/language/susy/_box-sizing.scss */
+/* line 21, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/susy-2.2.12/sass/susy/language/susy/_box-sizing.scss */
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -488,7 +488,7 @@ html {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-/* line 12, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/susy-2.1.3/sass/susy/output/support/_clearfix.scss */
+/* line 12, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/susy-2.2.12/sass/susy/output/support/_clearfix.scss */
 .grid--main:after {
   content: " ";
   display: block;
@@ -505,7 +505,7 @@ html {
     padding-right: 2rem;
     max-width: 64rem;
   }
-  /* line 12, ../../../../../../../../.rvm/gems/ruby-2.0.0-p247@rails4/gems/susy-2.1.3/sass/susy/output/support/_clearfix.scss */
+  /* line 12, ../../../../../../../.rvm/gems/ruby-2.4.0/gems/susy-2.2.12/sass/susy/output/support/_clearfix.scss */
   .grid--main:after {
     content: " ";
     display: block;
