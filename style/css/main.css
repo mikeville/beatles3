@@ -661,10 +661,7 @@ html, body {
 \*------------------------------------*/
 /* line 204, ../sass/partials/_grid.scss */
 .thumb-index {
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  /*@include span(6 of 6);*/
   margin-top: 0px;
   margin-top: 0rem;
   padding-top: 0px;
@@ -1095,7 +1092,7 @@ footer {
 \*------------------------------------*/
 /* line 473, ../sass/partials/_grid.scss */
 .thumb-index {
-  max-width: 600px;
+  /*max-width: 600px;*/
 }
 
 /* line 477, ../sass/partials/_grid.scss */
