@@ -76,6 +76,8 @@
 .for-hire-link {
   padding-right: 2rem;
 }
+
+
 /*------------------------------------*\
     #CONFIG-SUSY
 \*------------------------------------*/
@@ -250,27 +252,28 @@ svg {
 
 .index__store-box {
   @include span(6 of 6);
+  @include rhythm(0,2,0,2);
   // border: 1px solid $text; //#temp
 
   @include breakpoint($med) {
-    @include span(4 of 6);
+    /*@include span(4 of 6);*/
   }
 }
 
 .index__store-box__image-container {
-  @include span(1 of 6);
+  @include span(6 of 6);
 
   @include breakpoint($med) {
-    @include span(1 of 4);
+    @include span(3 of 6);
   }
 }
 
 
 .index__store-box__text-container {
-  @include span(last 5 of 6);
+  @include span(6 of 6);
 
   @include breakpoint($med) {
-    @include span(last 3 of 4);
+    @include span(last 3 of 6);
   }
 }
 
@@ -547,4 +550,23 @@ footer {
 #timeline-container--tonality {
   @include span(6 of 6);
   @include rhythm(2,0,0,12);
+}
+
+
+
+/*------------------------------------*\
+    #FOOTER
+\*------------------------------------*/
+
+.index__store-box__text-container .donation-text {
+  @include adjust-font-size-to(1rem, 2.5);
+  @include rhythm(2,0,0,0);
+}
+
+.index__store-box {
+  border-top: 1px solid $text;
+}
+
+.mpzFrmIntro5214 {
+  @include adjust-font-size-to(1rem, 2.5);
 }
