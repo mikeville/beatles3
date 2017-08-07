@@ -352,6 +352,31 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #555244;
 }
 
+/* line 254, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--0, .overview-graphic-text .author--1, .overview-graphic-text .author--2, .overview-graphic-text .author--3, .overview-graphic-text .author--4 {
+  background-color: transparent;
+}
+/* line 258, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--0 {
+  color: #ffce06;
+}
+/* line 259, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--1 {
+  color: #57caef;
+}
+/* line 260, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--2 {
+  color: #ee3766;
+}
+/* line 261, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--3 {
+  color: #74c044;
+}
+/* line 262, ../sass/modules/_colors.scss */
+.overview-graphic-text .author--4 {
+  color: #555244;
+}
+
 @-ms-viewport {
   width: extend-to-zoom;
   zoom: 1.0;

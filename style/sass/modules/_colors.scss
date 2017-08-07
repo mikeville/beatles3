@@ -246,3 +246,20 @@ $instrumental: $green;
 .author--3 { background-color: $green }
 .author--4 { background-color: $intro-outro }
 
+
+
+
+
+.overview-graphic-text {
+  .author--0, .author--1, .author--2, .author--3, .author--4 {
+    background-color: transparent;
+  }
+
+  .author--0 { color: $yellow }
+  .author--1 { color: $blue }
+  .author--2 { color: $pink }
+  .author--3 { color: $green }
+  .author--4 { color: $intro-outro }
+}
+
+
