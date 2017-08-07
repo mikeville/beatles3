@@ -502,3 +502,48 @@ footer {
   display: block;
   @include span(6 of 6); 
 }
+
+
+/*------------------------------------*\
+    #SCHEDULE
+\*------------------------------------*/
+
+
+#timeline-container--schedule {
+  @include span(6 of 6);
+  @include rhythm(2,0,0,12);
+}
+
+.schedule-container--mobile {
+  @include span(6 of 6); 
+
+  @include breakpoint($med) {
+    display: none;
+  }
+}
+.schedule-container--desktop {
+  @include span(6 of 6); 
+  display: none;
+
+  @include breakpoint($med) {
+    display: block;
+  }
+}
+
+.schedule-graphic-container {
+  @include span(10 of 12); 
+}
+
+.schedule-legend-container {
+  @include span(last 2 of 12); 
+}
+
+
+/*------------------------------------*\
+    #SELFREFERENCE
+\*------------------------------------*/
+
+#timeline-container--selfreference {
+  @include span(6 of 6);
+  @include rhythm(2,0,0,12);
+}
