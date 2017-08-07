@@ -71,6 +71,7 @@
 .for-hire-message {
   @include span(6 of 6);
   @include rhythm(2,0,0,0);
+  @include adjust-font-size-to(1rem, 2.5);
 }
 
 .for-hire-link {
@@ -504,6 +505,12 @@ footer {
 .index-item__main-link {
   display: block;
   @include span(6 of 6); 
+}
+
+
+.image-container--authorship-index,
+.image-container--structure-index {
+  @include rhythm(2,0,0,0);
 }
 
 
