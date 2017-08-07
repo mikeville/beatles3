@@ -1248,7 +1248,8 @@ footer {
     #SELFREFERENCE
 \*------------------------------------*/
 /* line 546, ../sass/partials/_grid.scss */
-#timeline-container--selfreference {
+#timeline-container--selfreference,
+#timeline-container--tonality {
   width: 100%;
   float: left;
   margin-left: 0;

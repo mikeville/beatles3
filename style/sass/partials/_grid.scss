@@ -543,7 +543,8 @@ footer {
     #SELFREFERENCE
 \*------------------------------------*/
 
-#timeline-container--selfreference {
+#timeline-container--selfreference,
+#timeline-container--tonality {
   @include span(6 of 6);
   @include rhythm(2,0,0,12);
 }
