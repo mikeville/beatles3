@@ -550,15 +550,33 @@ footer {
 
 
 /*------------------------------------*\
-    #SELFREFERENCE
+    #TONALITY
 \*------------------------------------*/
 
-#timeline-container--selfreference,
 #timeline-container--tonality {
   @include span(6 of 6);
   @include rhythm(2,0,0,12);
 }
 
+/*------------------------------------*\
+    #SELFREFERENCE
+\*------------------------------------*/
+
+#timeline-container--selfreference {
+  @include span(6 of 6);
+  @include rhythm(0,0,0,12);
+}
+
+#timeline-container--selfreference .graphic-block {
+  @include span(6 of 6);
+  @include rhythm(0,0,0,0);
+}
+
+#timeline-container--selfreference .graphic-block .description {
+  @include adjust-font-size-to(1.5rem, 3.5);
+  // font-weight: 500;
+  @include rhythm(0,0,0,3);
+}
 
 
 /*------------------------------------*\

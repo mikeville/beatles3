@@ -1270,10 +1270,9 @@ footer {
 }
 
 /*------------------------------------*\
-    #SELFREFERENCE
+    #TONALITY
 \*------------------------------------*/
 /* line 556, ../sass/partials/_grid.scss */
-#timeline-container--selfreference,
 #timeline-container--tonality {
   width: 100%;
   float: left;
@@ -1290,9 +1289,60 @@ footer {
 }
 
 /*------------------------------------*\
+    #SELFREFERENCE
+\*------------------------------------*/
+/* line 565, ../sass/partials/_grid.scss */
+#timeline-container--selfreference {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 96px;
+  margin-bottom: 6rem;
+}
+
+/* line 570, ../sass/partials/_grid.scss */
+#timeline-container--selfreference .graphic-block {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+
+/* line 575, ../sass/partials/_grid.scss */
+#timeline-container--selfreference .graphic-block .description {
+  font-size: 24px;
+  font-size: 1.5rem;
+  line-height: 28px;
+  line-height: 1.75rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+}
+
+/*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 568, ../sass/partials/_grid.scss */
+/* line 586, ../sass/partials/_grid.scss */
 .index__store-box__text-container .donation-text {
   font-size: 16px;
   font-size: 1rem;
@@ -1308,12 +1358,12 @@ footer {
   margin-bottom: 0rem;
 }
 
-/* line 573, ../sass/partials/_grid.scss */
+/* line 591, ../sass/partials/_grid.scss */
 .index__store-box {
   border-top: 1px solid #fff8cd;
 }
 
-/* line 577, ../sass/partials/_grid.scss */
+/* line 595, ../sass/partials/_grid.scss */
 .mpzFrmIntro5214 {
   font-size: 16px;
   font-size: 1rem;
