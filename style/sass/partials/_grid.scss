@@ -486,12 +486,6 @@ footer {
   @include span(6 of 6); 
 }
 
-.index-item--half {
-  @include breakpoint($med) {
-    @include span(5 of 12); 
-    margin-right: span(1 of 12);
-  }
-}
 
 .index-item__slug {
   @include span(6 of 6); 

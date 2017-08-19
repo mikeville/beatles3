@@ -1155,17 +1155,7 @@ footer {
   margin-right: 0;
 }
 
-@media (min-width: 40rem) {
-  /* line 489, ../sass/partials/_grid.scss */
-  .index-item--half {
-    width: 40.67797%;
-    float: left;
-    margin-right: 1.69492%;
-    margin-right: 6.77966%;
-  }
-}
-
-/* line 496, ../sass/partials/_grid.scss */
+/* line 490, ../sass/partials/_grid.scss */
 .index-item__slug {
   width: 100%;
   float: left;
@@ -1173,7 +1163,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 500, ../sass/partials/_grid.scss */
+/* line 494, ../sass/partials/_grid.scss */
 .index-item__headline {
   width: 100%;
   float: left;
@@ -1185,7 +1175,7 @@ footer {
   line-height: 2.25rem;
 }
 
-/* line 505, ../sass/partials/_grid.scss */
+/* line 499, ../sass/partials/_grid.scss */
 .index-item__main-link {
   display: block;
   width: 100%;
@@ -1194,7 +1184,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 511, ../sass/partials/_grid.scss */
+/* line 505, ../sass/partials/_grid.scss */
 .image-container--authorship-index,
 .image-container--structure-index {
   margin-top: 16px;
@@ -1210,7 +1200,7 @@ footer {
 /*------------------------------------*\
     #SCHEDULE
 \*------------------------------------*/
-/* line 522, ../sass/partials/_grid.scss */
+/* line 516, ../sass/partials/_grid.scss */
 #timeline-container--schedule {
   width: 100%;
   float: left;
@@ -1226,7 +1216,7 @@ footer {
   margin-bottom: 6rem;
 }
 
-/* line 527, ../sass/partials/_grid.scss */
+/* line 521, ../sass/partials/_grid.scss */
 .schedule-container--mobile {
   width: 100%;
   float: left;
@@ -1234,13 +1224,13 @@ footer {
   margin-right: 0;
 }
 @media (min-width: 40rem) {
-  /* line 527, ../sass/partials/_grid.scss */
+  /* line 521, ../sass/partials/_grid.scss */
   .schedule-container--mobile {
     display: none;
   }
 }
 
-/* line 534, ../sass/partials/_grid.scss */
+/* line 528, ../sass/partials/_grid.scss */
 .schedule-container--desktop {
   width: 100%;
   float: left;
@@ -1249,20 +1239,20 @@ footer {
   display: none;
 }
 @media (min-width: 40rem) {
-  /* line 534, ../sass/partials/_grid.scss */
+  /* line 528, ../sass/partials/_grid.scss */
   .schedule-container--desktop {
     display: block;
   }
 }
 
-/* line 543, ../sass/partials/_grid.scss */
+/* line 537, ../sass/partials/_grid.scss */
 .schedule-graphic-container {
   width: 83.05085%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 547, ../sass/partials/_grid.scss */
+/* line 541, ../sass/partials/_grid.scss */
 .schedule-legend-container {
   width: 15.25424%;
   float: right;
@@ -1272,7 +1262,7 @@ footer {
 /*------------------------------------*\
     #TONALITY
 \*------------------------------------*/
-/* line 556, ../sass/partials/_grid.scss */
+/* line 550, ../sass/partials/_grid.scss */
 #timeline-container--tonality {
   width: 100%;
   float: left;
@@ -1291,7 +1281,7 @@ footer {
 /*------------------------------------*\
     #SELFREFERENCE
 \*------------------------------------*/
-/* line 565, ../sass/partials/_grid.scss */
+/* line 559, ../sass/partials/_grid.scss */
 #timeline-container--selfreference {
   width: 100%;
   float: left;
@@ -1307,7 +1297,7 @@ footer {
   margin-bottom: 6rem;
 }
 
-/* line 570, ../sass/partials/_grid.scss */
+/* line 564, ../sass/partials/_grid.scss */
 #timeline-container--selfreference .graphic-block {
   width: 100%;
   float: left;
@@ -1323,7 +1313,7 @@ footer {
   margin-bottom: 0rem;
 }
 
-/* line 575, ../sass/partials/_grid.scss */
+/* line 569, ../sass/partials/_grid.scss */
 #timeline-container--selfreference .graphic-block .description {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1342,7 +1332,7 @@ footer {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 586, ../sass/partials/_grid.scss */
+/* line 580, ../sass/partials/_grid.scss */
 .index__store-box__text-container .donation-text {
   font-size: 16px;
   font-size: 1rem;
@@ -1358,12 +1348,12 @@ footer {
   margin-bottom: 0rem;
 }
 
-/* line 591, ../sass/partials/_grid.scss */
+/* line 585, ../sass/partials/_grid.scss */
 .index__store-box {
   border-top: 1px solid #fff8cd;
 }
 
-/* line 595, ../sass/partials/_grid.scss */
+/* line 589, ../sass/partials/_grid.scss */
 .mpzFrmIntro5214 {
   font-size: 16px;
   font-size: 1rem;
