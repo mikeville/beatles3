@@ -1543,6 +1543,10 @@ nav {
 
 /* line 118, ../sass/partials/_typography.scss */
 .site-header__site-title-container__site-title .headline {
+  font-size: 96px;
+  font-size: 6rem;
+  line-height: 96px;
+  line-height: 6rem;
   font-weight: 500;
 }
 
@@ -1563,10 +1567,10 @@ nav {
 @media (min-width: 40rem) {
   /* line 129, ../sass/partials/_typography.scss */
   .site-header__site-title-container--home a.site-header__site-title-container__site-title {
-    font-size: 48px;
-    font-size: 3rem;
-    line-height: 48px;
-    line-height: 3.01563rem;
+    font-size: 96px;
+    font-size: 6rem;
+    line-height: 96px;
+    line-height: 6rem;
   }
 }
 

@@ -116,7 +116,7 @@ nav {
 }
 
 .site-header__site-title-container__site-title .headline {
-  // @include adjust-font-size-to(1.5rem);
+  @include adjust-font-size-to(6rem, 12);
   font-weight: 500;
 }
 
@@ -131,7 +131,7 @@ nav {
   @include adjust-font-size-to(1.5rem);
 
   @include breakpoint($med) {
-    @include adjust-font-size-to(3rem);
+    @include adjust-font-size-to(6rem, 12);
   }
 }
 
