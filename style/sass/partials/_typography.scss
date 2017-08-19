@@ -151,6 +151,14 @@ nav {
   }
 }
 
+.page-header .headline a {
+  text-decoration: none;
+}
+
+.page-header .headline a:hover {
+  color: $text;
+}
+
 .subhead {
   @include adjust-font-size-to(1.5rem, 3.5);
   // font-weight: 500;

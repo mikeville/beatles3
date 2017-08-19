@@ -96,11 +96,11 @@
     <div class="thumb-index__thumb thumb--primary">
       <a href="#songstructure"><img class="thumb-index__thumb__img" src="images/thumb-songstructure.jpg"></a>
     </div>
-    <div class="thumb-index__thumb thumb--secondary">
-      <a href="#authorship"><img class="thumb-index__thumb__img" src="images/thumb-authorship.jpg"></a>
-    </div>
     <div class="thumb-index__thumb thumb--tertiary">
       <a href="#selfreference"><img class="thumb-index__thumb__img" src="images/thumb-selfreference.jpg"></a>
+    </div>
+    <div class="thumb-index__thumb thumb--secondary">
+      <a href="#authorship"><img class="thumb-index__thumb__img" src="images/thumb-authorship.jpg"></a>
     </div>
     <div class="thumb-index__thumb thumb--tertiary">
       <a href="#schedule"><img class="thumb-index__thumb__img" src="images/thumb-schedule.jpg"></a>
@@ -133,13 +133,6 @@
 
 <script id='template__index-module' type="text/x-handlebars-template">
   <div class='thumb-index'>
-    <section id="index-item--authorship" class="index-item">
-      <a class="index-item__main-link" href="#authorship">
-        <div class="image-container image-container--authorship-index">
-          <img class="static-graphic" src="images/temp/covers3/yg-beatles-170816-0918-wireframes-index-04.svg">
-        </div> 
-      </a>
-    </section>
     <section id="index-item--songstructure" class="index-item">
       <a class="index-item__main-link" href="#songstructure">
         <div class="image-container image-container--structure-index">
@@ -151,6 +144,13 @@
       <a class="index-item__main-link" href="#selfreference">
         <div class="image-container">
           <img class="static-graphic" src="images/temp/covers3/yg-beatles-170816-0918-wireframes-index-02.svg">
+        </div> 
+      </a>
+    </section>
+    <section id="index-item--authorship" class="index-item">
+      <a class="index-item__main-link" href="#authorship">
+        <div class="image-container image-container--authorship-index">
+          <img class="static-graphic" src="images/temp/covers3/yg-beatles-170816-0918-wireframes-index-04.svg">
         </div> 
       </a>
     </section>
@@ -217,7 +217,7 @@
 <script id='template__page__songstructure' type="text/x-handlebars-template">
 <div class='page-header'>
   <p class='headline'>
-    Song Structure
+    <a href="/">Song structure</a>
   </p>
 </div>
 <div class="text-block">
@@ -225,7 +225,7 @@
     Breaking down each song
   </p>
   <p class='body-copy'>
-    Most popular songs have a sequence of repeating sections that make up its structure. By color-coding the sections of each Beatles song (using data from <a href="http://isophonics.net/content/reference-annotations-beatles" target="_blank">Chris Harte</a>), we get a sense of the structural footprint of each album:
+    Most pop songs are made from sequences of repeating sections. By color-coding the sections of each Beatles song, we get a structural footprint for each album (data from <a href="http://isophonics.net/content/reference-annotations-beatles" target="_blank">Chris Harte</a>).
   </p>
 </div>
 
@@ -252,7 +252,7 @@
 <div class="overview-graphic-block">
   <div class='text-block'>
     <p class='body-copy'>
-      Earlier albums more closely follow pop-rock conventions. The songs from 'Please Please Me' are pretty consistent, with repeating <span class="span--v_erse">verses</span> and <span class="span--b_ridge">two bridges</span>. By 'The White Album', the compositions are more of a collage-like mix.
+      Earlier albums more closely follow pop-rock conventions. <em>Please Please Me</em> has a lot of <span class="span--v_erse">verses</span> + <span class="span--b_ridge">two-bridge</span> tracks. By <em>The White Album</em>, the compositions are more mixed.
     </p>
 
     <p class='page-header__description body-copy'>
@@ -284,7 +284,7 @@
 <script id='template__page__authorship' type="text/x-handlebars-template">
 <div class='page-header'>
   <p class='headline'>
-    Authorship
+    <a href="/">Authorship</a>
   </p>
 </div>
 <div class="text-block">
@@ -349,7 +349,7 @@
 
 <div class='page-header'>
   <p class='headline'>
-    Schedule
+    <a href="/">Yearly rhythm</a>
   </p>
 </div>
 <div class="text-block">
@@ -409,7 +409,7 @@
 
 <div class='page-header'>
   <p class='headline'>
-    Song keys
+    <a href="/">Keys</a>
   </p>
 </div>
 <div class="text-block">
@@ -448,7 +448,7 @@
 
 <div class='page-header'>
   <p class='headline'>
-    Meta lyrics
+    <a href="/">Meta lyrics</a>
   </p>
 </div>
 
@@ -500,7 +500,7 @@
 <!-- ******* SHOP ****************** -->
 
 <script id='template__page__shop' type="text/x-handlebars-template">
-  <h1>SHOPE</h1>
+  <h1>SHOP</h1>
 </script>
 
 

@@ -304,13 +304,13 @@ svg {
 
 .section-header {
   @include span(6 of 6);
-  border-top: 3px solid $text;
+  border-top: 3px solid $pink;
   font-weight: 500;
   @include adjust-font-size-to(6rem, 12);
   @include rhythm(0,3,0,6);
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
-  /*color: $pink;*/
+  color: $pink;
 }
 
 /*------------------------------------*\
