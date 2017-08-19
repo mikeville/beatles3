@@ -128,7 +128,7 @@ nav {
 
 .site-header__site-title-container--home a.site-header__site-title-container__site-title {
   cursor: default !important;
-  @include adjust-font-size-to(1.5rem);
+  @include adjust-font-size-to(3rem);
 
   @include breakpoint($med) {
     @include adjust-font-size-to(6rem, 12);
@@ -140,11 +140,15 @@ nav {
 }
 
 .headline {
-  @include adjust-font-size-to(6rem, 12);
+  @include adjust-font-size-to(3rem);
   font-weight: 500;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   @include rhythm(0,0,0,0);
+
+  @include breakpoint($med) {
+    @include adjust-font-size-to(6rem, 12);
+  }
 }
 
 .subhead {
@@ -186,7 +190,6 @@ nav {
   @include rhythm(0,0,0,3);
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
-
 }
 
 
