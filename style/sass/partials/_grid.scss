@@ -257,7 +257,6 @@ svg {
   // border: 1px solid $text; //#temp
 
   @include breakpoint($med) {
-    /*@include span(4 of 6);*/
   }
 }
 
@@ -265,7 +264,6 @@ svg {
   @include span(6 of 6);
 
   @include breakpoint($med) {
-    @include span(3 of 6);
   }
 }
 
@@ -274,7 +272,7 @@ svg {
   @include span(6 of 6);
 
   @include breakpoint($med) {
-    @include span(last 3 of 6);
+    @include span(4 of 6);
   }
 }
 
@@ -307,7 +305,7 @@ svg {
   border-top: 3px solid $pink;
   font-weight: 500;
   @include adjust-font-size-to(6rem, 12);
-  @include rhythm(0,3,0,6);
+  @include rhythm(0,3,0,3);
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   color: $pink;
@@ -604,7 +602,7 @@ footer {
 \*------------------------------------*/
 
 .index__store-box__text-container .donation-text {
-  @include adjust-font-size-to(1rem, 2.5);
+  @include adjust-font-size-to(1rem, 3);
   /*@include rhythm(2,0,0,0);*/
 }
 
