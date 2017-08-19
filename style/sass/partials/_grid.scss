@@ -288,6 +288,31 @@ svg {
 }
 
 /*------------------------------------*\
+    #THUMBNAIL-INDEX--SMALL
+\*------------------------------------*/
+
+.thumb-index--small {
+  @include span(6 of 6);
+  @include rhythm(0,0,0,3);
+}
+
+.thumb-index--small {
+  .index-item {
+    @include span(last 6 of 12);
+  }
+}
+
+.section-header {
+  @include span(6 of 6);
+  border-top: 3px solid $text;
+  @include adjust-font-size-to(6rem, 12);
+  @include rhythm(0,3,0,6);
+  text-transform: uppercase;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: $pink;
+}
+
+/*------------------------------------*\
     #STATIC-GRAPHICS
 \*------------------------------------*/
 
