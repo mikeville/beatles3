@@ -157,7 +157,7 @@ svg {
 
 .page-header {
   @include span(6 of 6);
-  @include rhythm(0,0,0,3);
+  @include rhythm(0,0,0,9);
 
   @include breakpoint($med) {
     @include span(10 of 12);
@@ -189,7 +189,7 @@ svg {
 
 .text-block {
   @include span(6 of 6);
-  // @include rhythm(0,0,0,3);
+  /*@include rhythm(0,0,0,3);*/
 
   @include breakpoint($med) {
     @include span(8 of 12);
@@ -591,10 +591,10 @@ footer {
   @include rhythm(0,0,0,0);
 }
 
-#timeline-container--selfreference .graphic-block .description {
+.description {
   @include adjust-font-size-to(1.5rem, 3.5);
-  // font-weight: 500;
-  @include rhythm(0,0,0,3);
+  font-weight: 500;
+  @include rhythm(0,0,0,2);
 }
 
 

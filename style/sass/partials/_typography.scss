@@ -23,6 +23,10 @@ html {
   font-weight: 100;
 }
 
+.body-copy strong {
+  font-weight: 500;
+}
+
 a {
   color: $text;
   // text-decoration: none;
@@ -101,9 +105,11 @@ nav {
 }
 
 .site-header__site-title-container__site-title {
-  // @include adjust-font-size-to(1.5rem);
+  @include adjust-font-size-to(3rem);
+  text-transform: uppercase;
   font-weight: 500;
   color: $pink;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .site-header__site-title-container__site-title span {
   display: inline-block;
@@ -134,8 +140,10 @@ nav {
 }
 
 .headline {
-  @include adjust-font-size-to(3rem, 7);
+  @include adjust-font-size-to(6rem, 12);
   font-weight: 500;
+  text-transform: uppercase;
+  font-family: 'Roboto Condensed', sans-serif;
   @include rhythm(0,0,0,0);
 }
 
