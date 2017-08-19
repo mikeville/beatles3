@@ -143,10 +143,16 @@ var UI = Backbone.View.extend({
 
   renderIndex: function() {
     pageName = app.currentPage
-    console.log("rendering index on page: " + pageName)
 
-    var templateIndex = Handlebars.compile( $('#template__index-module').html() )
-    $('#index-module').html( templateIndex )   
+    if (pageName == "home") {
+      var templateIndex = Handlebars.compile( $('#template__index-module').html() )
+      $('#index-module').html( templateIndex )   
+    } else {
+      var templateIndex = Handlebars.compile( $('#template__index-small-module').html() )
+      $('#index-module').html( templateIndex ) 
+    }
+
+
 
     this.scrollToTop();
   },
