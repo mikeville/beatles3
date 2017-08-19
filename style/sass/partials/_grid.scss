@@ -604,11 +604,11 @@ footer {
 
 .index__store-box__text-container .donation-text {
   @include adjust-font-size-to(1rem, 2.5);
-  @include rhythm(2,0,0,0);
+  /*@include rhythm(2,0,0,0);*/
 }
 
 .index__store-box {
-  border-top: 1px solid $text;
+  /*border-top: 1px solid $text;*/
 }
 
 .mpzFrmIntro5214 {
