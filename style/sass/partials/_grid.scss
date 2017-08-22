@@ -297,6 +297,8 @@ svg {
 .thumb-index--small {
   .index-item {
     @include span(last 6 of 12);
+    /*width: 47%;*/
+    /*padding: 0 2%;*/
   }
 }
 
@@ -521,16 +523,44 @@ footer {
 }
 
 .index-item__main-link {
-  display: block;
+  /*display: block;*/
   @include span(6 of 6); 
 }
 
 
 .image-container--authorship-index,
 .image-container--structure-index {
-  @include rhythm(2,0,0,0);
+  /*@include rhythm(2,0,0,0);*/
 }
 
+.image-container--structure-index {
+  background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-07.svg");
+}
+.image-container--selfreference-index {
+  background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-08.svg");
+}
+.image-container--authorship-index {
+  background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-09.svg");
+}
+.image-container--schedule-index {
+  background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index_ .svg");
+}
+.image-container--tonality-index {
+  background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index_v.svg");
+}
+
+.sprite {
+  height: 0;
+  padding-bottom: 100%;
+  background-position: 100% 0;
+  background-size: 200%;
+  display:block;
+  background-repeat: no-repeat;
+}
+
+.sprite:hover {
+  background-position: 0 0;
+}
 
 /*------------------------------------*\
     #SCHEDULE
