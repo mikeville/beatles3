@@ -47,6 +47,10 @@ a:hover,
   text-decoration: underline;
 }
 
+em {
+  font-style: italic;
+}
+
 
 /*------------------------------------*\
     #NAV
@@ -162,7 +166,7 @@ nav {
 .subhead {
   @include adjust-font-size-to(1.5rem, 3.5);
   // font-weight: 500;
-  @include rhythm(0,0,0,3);
+  @include rhythm(1,0,0,0);
 }
 
 .text-block__header {
@@ -337,9 +341,6 @@ nav {
 \*------------------------------------*/
 
 
-.index-item {
-  @include rhythm(0,0,0,8);
-}
 
 .index-item a {
   text-decoration: none;

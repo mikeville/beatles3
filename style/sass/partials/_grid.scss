@@ -68,10 +68,13 @@
 }
 
 
+.text--small {
+  @include adjust-font-size-to(1rem, 2.5);
+}
+
 .for-hire-message {
   @include span(6 of 6);
   @include rhythm(2,0,0,0);
-  @include adjust-font-size-to(1rem, 2.5);
 }
 
 .for-hire-link {
@@ -304,7 +307,7 @@ svg {
 
 .section-header {
   @include span(6 of 6);
-  border-top: 3px solid $pink;
+  border-top: 1px solid $text;
   font-weight: 500;
   @include adjust-font-size-to(6rem, 12);
   @include rhythm(0,3,0,3);
@@ -499,6 +502,10 @@ footer {
   @include span(6 of 6); 
 }
 
+.text--small {
+  @include adjust-font-size-to(0.8rem);
+}
+
 
 /*------------------------------------*\
     #INDEX
@@ -510,6 +517,15 @@ footer {
 
 .index-item {
   @include span(6 of 6); 
+
+  @include breakpoint($med) {
+    @include span(4 of 6);
+  }
+}
+
+
+.index-item {
+  @include rhythm(0,0,0,4);
 }
 
 
@@ -528,11 +544,6 @@ footer {
 }
 
 
-.image-container--authorship-index,
-.image-container--structure-index {
-  /*@include rhythm(2,0,0,0);*/
-}
-
 .image-container--structure-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-07.svg");
 }
@@ -549,6 +560,13 @@ footer {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index_v.svg");
 }
 
+.image-container--structure-index,
+.image-container--selfreference-index {
+  @include breakpoint($med) {
+     margin-top: -40px;
+  }
+}
+
 .sprite {
   height: 0;
   padding-bottom: 100%;
@@ -561,6 +579,8 @@ footer {
 .sprite:hover {
   background-position: 0 0;
 }
+
+.sprite:hover 
 
 /*------------------------------------*\
     #SCHEDULE
@@ -630,6 +650,10 @@ footer {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
+
+.index__store-box .text-block {
+  @include span(6 of 6)
+}
 
 .index__store-box__text-container .donation-text {
   @include adjust-font-size-to(1rem, 3);
