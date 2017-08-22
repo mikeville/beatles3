@@ -890,10 +890,22 @@ html, body {
   color: #ee3766;
 }
 
+/* line 321, ../sass/partials/_grid.scss */
+.section-header--shop {
+  margin-top: 48px;
+  margin-top: 3rem;
+  padding-top: 24px;
+  padding-top: 1.5rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+}
+
 /*------------------------------------*\
     #STATIC-GRAPHICS
 \*------------------------------------*/
-/* line 323, ../sass/partials/_grid.scss */
+/* line 329, ../sass/partials/_grid.scss */
 .static-graphic {
   width: 100%;
   float: left;
@@ -901,7 +913,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 328, ../sass/partials/_grid.scss */
+/* line 334, ../sass/partials/_grid.scss */
 .static-graphic--structure_overview {
   margin-top: 0px;
   margin-top: 0rem;
@@ -916,7 +928,7 @@ html, body {
 /*------------------------------------*\
     #CONTEXT-CONTAINER
 \*------------------------------------*/
-/* line 338, ../sass/partials/_grid.scss */
+/* line 344, ../sass/partials/_grid.scss */
 #context-container-wrapper {
   width: 100%;
   float: left;
@@ -932,7 +944,7 @@ html, body {
   margin-bottom: 0.5rem;
 }
 
-/* line 343, ../sass/partials/_grid.scss */
+/* line 349, ../sass/partials/_grid.scss */
 #context-container,
 .context-container__legend-container,
 .context-container__axis-container {
@@ -943,7 +955,7 @@ html, body {
   background-color: #1e1e1a;
 }
 
-/* line 350, ../sass/partials/_grid.scss */
+/* line 356, ../sass/partials/_grid.scss */
 .context-container__axis-container {
   margin-top: 8px;
   margin-top: 0.5rem;
@@ -955,13 +967,13 @@ html, body {
   margin-bottom: 0rem;
 }
 
-/* line 354, ../sass/partials/_grid.scss */
+/* line 360, ../sass/partials/_grid.scss */
 #context-container__axis-container__axis {
   margin-left: 25.42373%;
   overflow-x: hidden;
 }
 
-/* line 360, ../sass/partials/_grid.scss */
+/* line 366, ../sass/partials/_grid.scss */
 .context-container__legend-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -973,7 +985,7 @@ html, body {
   margin-bottom: 0.5rem;
 }
 
-/* line 364, ../sass/partials/_grid.scss */
+/* line 370, ../sass/partials/_grid.scss */
 .context-container__legend-container--songstructure {
   margin-top: 0px;
   margin-top: 0rem;
@@ -985,7 +997,7 @@ html, body {
   margin-bottom: 2rem;
 }
 
-/* line 368, ../sass/partials/_grid.scss */
+/* line 374, ../sass/partials/_grid.scss */
 .overview-graphic-block {
   width: 100%;
   float: left;
@@ -1001,7 +1013,7 @@ html, body {
   margin-bottom: 3rem;
 }
 
-/* line 373, ../sass/partials/_grid.scss */
+/* line 379, ../sass/partials/_grid.scss */
 .overview-graphic {
   width: 100%;
   float: left;
@@ -1017,7 +1029,7 @@ html, body {
   margin-bottom: 1rem;
 }
 @media (min-width: 40rem) {
-  /* line 373, ../sass/partials/_grid.scss */
+  /* line 379, ../sass/partials/_grid.scss */
   .overview-graphic {
     width: 49.15254%;
     float: left;
@@ -1025,7 +1037,7 @@ html, body {
   }
 }
 
-/* line 382, ../sass/partials/_grid.scss */
+/* line 388, ../sass/partials/_grid.scss */
 .overview-graphic-text {
   width: 100%;
   float: left;
@@ -1033,7 +1045,7 @@ html, body {
   margin-right: 0;
 }
 @media (min-width: 40rem) {
-  /* line 382, ../sass/partials/_grid.scss */
+  /* line 388, ../sass/partials/_grid.scss */
   .overview-graphic-text {
     width: 32.20339%;
     float: left;
@@ -1044,7 +1056,7 @@ html, body {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 395, ../sass/partials/_grid.scss */
+/* line 401, ../sass/partials/_grid.scss */
 .album-container,
 .album-container__label-container,
 .track-container {
@@ -1054,7 +1066,7 @@ html, body {
   margin-right: 0;
 }
 
-/* line 413, ../sass/partials/_grid.scss */
+/* line 419, ../sass/partials/_grid.scss */
 .album-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1066,14 +1078,14 @@ html, body {
   margin-bottom: 6rem;
 }
 
-/* line 418, ../sass/partials/_grid.scss */
+/* line 424, ../sass/partials/_grid.scss */
 .track-container__label-container {
   width: 40.67797%;
   float: left;
   margin-right: 1.69492%;
 }
 @media (min-width: 52rem) {
-  /* line 418, ../sass/partials/_grid.scss */
+  /* line 424, ../sass/partials/_grid.scss */
   .track-container__label-container {
     width: 23.72881%;
     float: left;
@@ -1081,14 +1093,14 @@ html, body {
   }
 }
 
-/* line 425, ../sass/partials/_grid.scss */
+/* line 431, ../sass/partials/_grid.scss */
 .track-container__graphic-container {
   width: 57.62712%;
   float: right;
   margin-right: 0;
 }
 @media (min-width: 52rem) {
-  /* line 425, ../sass/partials/_grid.scss */
+  /* line 431, ../sass/partials/_grid.scss */
   .track-container__graphic-container {
     width: 74.57627%;
     float: right;
@@ -1097,7 +1109,7 @@ html, body {
 }
 
 @media (min-width: 52rem) {
-  /* line 434, ../sass/partials/_grid.scss */
+  /* line 440, ../sass/partials/_grid.scss */
   .timeline-container--authorship .track-container__graphic-container {
     width: 49.15254%;
     float: left;
@@ -1105,7 +1117,7 @@ html, body {
   }
 }
 
-/* line 441, ../sass/partials/_grid.scss */
+/* line 447, ../sass/partials/_grid.scss */
 .track-container__graphic-container__graphic-wrapper,
 .track-container__graphic-container__notes-container {
   width: 100%;
@@ -1116,7 +1128,7 @@ html, body {
   margin-bottom: 3px;
 }
 
-/* line 448, ../sass/partials/_grid.scss */
+/* line 454, ../sass/partials/_grid.scss */
 .track-container__graphic-container__notes-container {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1129,13 +1141,13 @@ html, body {
   padding-right: 2rem;
 }
 
-/* line 452, ../sass/partials/_grid.scss */
+/* line 458, ../sass/partials/_grid.scss */
 .video-container__video {
   width: 200px;
   height: 200px;
 }
 
-/* line 467, ../sass/partials/_grid.scss */
+/* line 473, ../sass/partials/_grid.scss */
 .axis-container--authorship {
   margin-left: 23.72881%;
   width: 74.57627%;
@@ -1151,7 +1163,7 @@ html, body {
   margin-bottom: 0rem;
 }
 
-/* line 473, ../sass/partials/_grid.scss */
+/* line 479, ../sass/partials/_grid.scss */
 .axis-container--authorship .image {
   margin-bottom: -7px;
 }
@@ -1159,7 +1171,7 @@ html, body {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 484, ../sass/partials/_grid.scss */
+/* line 490, ../sass/partials/_grid.scss */
 footer {
   width: 100%;
   float: left;
@@ -1175,7 +1187,7 @@ footer {
   margin-bottom: 1rem;
 }
 
-/* line 501, ../sass/partials/_grid.scss */
+/* line 507, ../sass/partials/_grid.scss */
 .image-container {
   width: 100%;
   float: left;
@@ -1183,7 +1195,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 505, ../sass/partials/_grid.scss */
+/* line 511, ../sass/partials/_grid.scss */
 .text--small {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1194,12 +1206,12 @@ footer {
 /*------------------------------------*\
     #INDEX
 \*------------------------------------*/
-/* line 514, ../sass/partials/_grid.scss */
+/* line 520, ../sass/partials/_grid.scss */
 .thumb-index {
   /*max-width: 600px;*/
 }
 
-/* line 518, ../sass/partials/_grid.scss */
+/* line 524, ../sass/partials/_grid.scss */
 .index-item {
   width: 100%;
   float: left;
@@ -1207,7 +1219,7 @@ footer {
   margin-right: 0;
 }
 @media (min-width: 40rem) {
-  /* line 518, ../sass/partials/_grid.scss */
+  /* line 524, ../sass/partials/_grid.scss */
   .index-item {
     width: 65.51724%;
     float: left;
@@ -1215,7 +1227,7 @@ footer {
   }
 }
 
-/* line 527, ../sass/partials/_grid.scss */
+/* line 533, ../sass/partials/_grid.scss */
 .index-item {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1227,7 +1239,7 @@ footer {
   margin-bottom: 2rem;
 }
 
-/* line 532, ../sass/partials/_grid.scss */
+/* line 538, ../sass/partials/_grid.scss */
 .index-item__slug {
   width: 100%;
   float: left;
@@ -1235,7 +1247,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 536, ../sass/partials/_grid.scss */
+/* line 542, ../sass/partials/_grid.scss */
 .index-item__headline {
   width: 100%;
   float: left;
@@ -1247,7 +1259,7 @@ footer {
   line-height: 2.25rem;
 }
 
-/* line 541, ../sass/partials/_grid.scss */
+/* line 547, ../sass/partials/_grid.scss */
 .index-item__main-link {
   /*display: block;*/
   width: 100%;
@@ -1256,40 +1268,40 @@ footer {
   margin-right: 0;
 }
 
-/* line 547, ../sass/partials/_grid.scss */
+/* line 553, ../sass/partials/_grid.scss */
 .image-container--structure-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-07.svg");
 }
 
-/* line 550, ../sass/partials/_grid.scss */
+/* line 556, ../sass/partials/_grid.scss */
 .image-container--selfreference-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-08.svg");
 }
 
-/* line 553, ../sass/partials/_grid.scss */
+/* line 559, ../sass/partials/_grid.scss */
 .image-container--authorship-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index-09.svg");
 }
 
-/* line 556, ../sass/partials/_grid.scss */
+/* line 562, ../sass/partials/_grid.scss */
 .image-container--schedule-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index_ .svg");
 }
 
-/* line 559, ../sass/partials/_grid.scss */
+/* line 565, ../sass/partials/_grid.scss */
 .image-container--tonality-index {
   background-image: url("../../images/sprites/yg-beatles-170816-0918-wireframes-index_v.svg");
 }
 
 @media (min-width: 40rem) {
-  /* line 563, ../sass/partials/_grid.scss */
+  /* line 569, ../sass/partials/_grid.scss */
   .image-container--structure-index,
   .image-container--selfreference-index {
     margin-top: -40px;
   }
 }
 
-/* line 570, ../sass/partials/_grid.scss */
+/* line 576, ../sass/partials/_grid.scss */
 .sprite {
   height: 0;
   padding-bottom: 100%;
@@ -1299,12 +1311,12 @@ footer {
   background-repeat: no-repeat;
 }
 
-/* line 579, ../sass/partials/_grid.scss */
+/* line 585, ../sass/partials/_grid.scss */
 .sprite:hover {
   background-position: 0 0;
 }
 
-/* line 583, ../sass/partials/_grid.scss */
+/* line 589, ../sass/partials/_grid.scss */
 .sprite:hover
 #timeline-container--schedule {
   width: 100%;
@@ -1321,7 +1333,7 @@ footer {
   margin-bottom: 6rem;
 }
 
-/* line 595, ../sass/partials/_grid.scss */
+/* line 601, ../sass/partials/_grid.scss */
 .schedule-container--mobile {
   width: 100%;
   float: left;
@@ -1329,13 +1341,13 @@ footer {
   margin-right: 0;
 }
 @media (min-width: 40rem) {
-  /* line 595, ../sass/partials/_grid.scss */
+  /* line 601, ../sass/partials/_grid.scss */
   .schedule-container--mobile {
     display: none;
   }
 }
 
-/* line 602, ../sass/partials/_grid.scss */
+/* line 608, ../sass/partials/_grid.scss */
 .schedule-container--desktop {
   width: 100%;
   float: left;
@@ -1344,20 +1356,20 @@ footer {
   display: none;
 }
 @media (min-width: 40rem) {
-  /* line 602, ../sass/partials/_grid.scss */
+  /* line 608, ../sass/partials/_grid.scss */
   .schedule-container--desktop {
     display: block;
   }
 }
 
-/* line 611, ../sass/partials/_grid.scss */
+/* line 617, ../sass/partials/_grid.scss */
 .schedule-graphic-container {
   width: 83.05085%;
   float: left;
   margin-right: 1.69492%;
 }
 
-/* line 615, ../sass/partials/_grid.scss */
+/* line 621, ../sass/partials/_grid.scss */
 .schedule-legend-container {
   width: 15.25424%;
   float: right;
@@ -1367,7 +1379,7 @@ footer {
 /*------------------------------------*\
     #TONALITY
 \*------------------------------------*/
-/* line 624, ../sass/partials/_grid.scss */
+/* line 630, ../sass/partials/_grid.scss */
 #timeline-container--tonality {
   width: 100%;
   float: left;
@@ -1386,7 +1398,7 @@ footer {
 /*------------------------------------*\
     #SELFREFERENCE
 \*------------------------------------*/
-/* line 633, ../sass/partials/_grid.scss */
+/* line 639, ../sass/partials/_grid.scss */
 #timeline-container--selfreference {
   width: 100%;
   float: left;
@@ -1402,7 +1414,7 @@ footer {
   margin-bottom: 6rem;
 }
 
-/* line 638, ../sass/partials/_grid.scss */
+/* line 644, ../sass/partials/_grid.scss */
 #timeline-container--selfreference .graphic-block {
   width: 100%;
   float: left;
@@ -1418,7 +1430,7 @@ footer {
   margin-bottom: 0rem;
 }
 
-/* line 643, ../sass/partials/_grid.scss */
+/* line 649, ../sass/partials/_grid.scss */
 .description {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1438,7 +1450,7 @@ footer {
 /*------------------------------------*\
     #FOOTER
 \*------------------------------------*/
-/* line 654, ../sass/partials/_grid.scss */
+/* line 660, ../sass/partials/_grid.scss */
 .index__store-box .text-block {
   width: 100%;
   float: left;
@@ -1446,7 +1458,7 @@ footer {
   margin-right: 0;
 }
 
-/* line 658, ../sass/partials/_grid.scss */
+/* line 664, ../sass/partials/_grid.scss */
 .index__store-box__text-container .donation-text {
   font-size: 16px;
   font-size: 1rem;
@@ -1455,12 +1467,12 @@ footer {
   /*@include rhythm(2,0,0,0);*/
 }
 
-/* line 663, ../sass/partials/_grid.scss */
+/* line 669, ../sass/partials/_grid.scss */
 .index__store-box {
   /*border-top: 1px solid $text;*/
 }
 
-/* line 667, ../sass/partials/_grid.scss */
+/* line 673, ../sass/partials/_grid.scss */
 .mpzFrmIntro5214 {
   font-size: 16px;
   font-size: 1rem;

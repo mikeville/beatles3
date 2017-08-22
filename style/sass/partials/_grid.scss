@@ -316,6 +316,12 @@ svg {
   color: $pink;
 }
 
+
+
+.section-header--shop {
+  @include rhythm(6,3,0,3);
+}
+
 /*------------------------------------*\
     #STATIC-GRAPHICS
 \*------------------------------------*/
