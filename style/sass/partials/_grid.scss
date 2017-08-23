@@ -308,7 +308,7 @@ svg {
 .section-header {
   @include span(6 of 6);
   border-top: 1px solid $text;
-  font-weight: 500;
+  font-weight: 700;
   @include adjust-font-size-to(6rem, 12);
   @include rhythm(0,3,0,3);
   text-transform: uppercase;

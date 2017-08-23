@@ -872,7 +872,7 @@ html, body {
   margin-left: 0;
   margin-right: 0;
   border-top: 1px solid #fff8cd;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 96px;
   font-size: 6rem;
   line-height: 96px;
@@ -1610,7 +1610,7 @@ nav {
   line-height: 48px;
   line-height: 3.01563rem;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 700;
   color: #ee3766;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -1626,7 +1626,7 @@ nav {
   font-size: 6rem;
   line-height: 96px;
   line-height: 6rem;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 /* line 127, ../sass/partials/_typography.scss */
@@ -1642,6 +1642,7 @@ nav {
   font-size: 3rem;
   line-height: 48px;
   line-height: 3.01563rem;
+  font-weight: 700;
 }
 @media (min-width: 40rem) {
   /* line 133, ../sass/partials/_typography.scss */
@@ -1653,18 +1654,18 @@ nav {
   }
 }
 
-/* line 142, ../sass/partials/_typography.scss */
+/* line 143, ../sass/partials/_typography.scss */
 .site-header__site-title-container--subpage .site-header__site-title-container__site-title:hover {
   color: #fff8cd;
 }
 
-/* line 146, ../sass/partials/_typography.scss */
+/* line 147, ../sass/partials/_typography.scss */
 .headline {
   font-size: 48px;
   font-size: 3rem;
   line-height: 48px;
   line-height: 3.01563rem;
-  font-weight: 500;
+  font-weight: 300;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   margin-top: 0px;
@@ -1677,7 +1678,7 @@ nav {
   margin-bottom: 0rem;
 }
 @media (min-width: 40rem) {
-  /* line 146, ../sass/partials/_typography.scss */
+  /* line 147, ../sass/partials/_typography.scss */
   .headline {
     font-size: 96px;
     font-size: 6rem;
@@ -1686,17 +1687,17 @@ nav {
   }
 }
 
-/* line 158, ../sass/partials/_typography.scss */
+/* line 159, ../sass/partials/_typography.scss */
 .page-header .headline a {
   text-decoration: none;
 }
 
-/* line 162, ../sass/partials/_typography.scss */
+/* line 163, ../sass/partials/_typography.scss */
 .page-header .headline a:hover {
   color: #fff8cd;
 }
 
-/* line 166, ../sass/partials/_typography.scss */
+/* line 167, ../sass/partials/_typography.scss */
 .subhead {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1712,7 +1713,7 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 172, ../sass/partials/_typography.scss */
+/* line 173, ../sass/partials/_typography.scss */
 .text-block__header {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1729,12 +1730,12 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 178, ../sass/partials/_typography.scss */
+/* line 179, ../sass/partials/_typography.scss */
 .text-block__header--home {
   color: #fff8cd;
 }
 
-/* line 182, ../sass/partials/_typography.scss */
+/* line 183, ../sass/partials/_typography.scss */
 .context-container__axis-container,
 #context-container__axis-container__axis {
   font-size: 13px;
@@ -1743,7 +1744,7 @@ nav {
   line-height: 1.5rem;
 }
 
-/* line 191, ../sass/partials/_typography.scss */
+/* line 192, ../sass/partials/_typography.scss */
 #context-container__axis-container__axis {
   font-weight: 100;
 }
@@ -1751,7 +1752,7 @@ nav {
 /*------------------------------------*\
     #TIMELINE
 \*------------------------------------*/
-/* line 199, ../sass/partials/_typography.scss */
+/* line 200, ../sass/partials/_typography.scss */
 .album-container__label-container__label {
   font-size: 48px;
   font-size: 3rem;
@@ -1770,7 +1771,7 @@ nav {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 208, ../sass/partials/_typography.scss */
+/* line 209, ../sass/partials/_typography.scss */
 .album-container__label-container__year {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1779,28 +1780,28 @@ nav {
   font-weight: 100;
 }
 
-/* line 213, ../sass/partials/_typography.scss */
+/* line 214, ../sass/partials/_typography.scss */
 .track-container__label-container {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* line 227, ../sass/partials/_typography.scss */
+/* line 228, ../sass/partials/_typography.scss */
 .track-container:hover {
   cursor: pointer;
 }
-/* line 231, ../sass/partials/_typography.scss */
+/* line 232, ../sass/partials/_typography.scss */
 .track-container:hover .track-container__label-container__label {
   color: #ee3766;
   transition: font-size 0.15s;
 }
 
-/* line 238, ../sass/partials/_typography.scss */
+/* line 239, ../sass/partials/_typography.scss */
 .track-container--expanded:hover {
   background-color: #1e1e1a;
 }
 
-/* line 242, ../sass/partials/_typography.scss */
+/* line 243, ../sass/partials/_typography.scss */
 .track-container__label-container {
   font-size: 13px;
   font-size: 0.8rem;
@@ -1808,7 +1809,7 @@ nav {
   line-height: 1.5rem;
 }
 
-/* line 247, ../sass/partials/_typography.scss */
+/* line 248, ../sass/partials/_typography.scss */
 .track-container--collapsed .track-container__label-container__label {
   overflow: hidden;
   white-space: nowrap;
@@ -1819,12 +1820,12 @@ nav {
   font-weight: 300;
 }
 
-/* line 261, ../sass/partials/_typography.scss */
+/* line 262, ../sass/partials/_typography.scss */
 .segment {
   border-bottom: 1px solid #1e1e1a;
 }
 
-/* line 265, ../sass/partials/_typography.scss */
+/* line 266, ../sass/partials/_typography.scss */
 .track-container--expanded {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1835,7 +1836,7 @@ nav {
   margin-bottom: 8px;
   margin-bottom: 0.5rem;
 }
-/* line 268, ../sass/partials/_typography.scss */
+/* line 269, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__label-container__label {
   color: #ee3766;
   font-size: 32px;
@@ -1848,7 +1849,7 @@ nav {
   white-space: normal;
 }
 @media (min-width: 40rem) {
-  /* line 268, ../sass/partials/_typography.scss */
+  /* line 269, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 48px;
     font-size: 3rem;
@@ -1866,7 +1867,7 @@ nav {
   }
 }
 @media (min-width: 52rem) {
-  /* line 268, ../sass/partials/_typography.scss */
+  /* line 269, ../sass/partials/_typography.scss */
   .track-container--expanded .track-container__label-container__label {
     font-size: 64px;
     font-size: 4rem;
@@ -1874,7 +1875,7 @@ nav {
     line-height: 4.01563rem;
   }
 }
-/* line 288, ../sass/partials/_typography.scss */
+/* line 289, ../sass/partials/_typography.scss */
 .track-container--expanded.size-down .track-container__label-container__label {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1882,7 +1883,7 @@ nav {
   line-height: 1.51563rem;
 }
 @media (min-width: 52rem) {
-  /* line 288, ../sass/partials/_typography.scss */
+  /* line 289, ../sass/partials/_typography.scss */
   .track-container--expanded.size-down .track-container__label-container__label {
     font-size: 40px;
     font-size: 2.5rem;
@@ -1890,12 +1891,12 @@ nav {
     line-height: 2.51563rem;
   }
 }
-/* line 303, ../sass/partials/_typography.scss */
+/* line 304, ../sass/partials/_typography.scss */
 .track-container--expanded .segment {
   height: 61px !important;
 }
 
-/* line 310, ../sass/partials/_typography.scss */
+/* line 311, ../sass/partials/_typography.scss */
 .track-container--expanded .track-container__graphic-container {
   border-top: 1px solid #fff8cd;
   margin-top: 0px;
@@ -1908,7 +1909,7 @@ nav {
   margin-bottom: 0rem;
 }
 
-/* line 316, ../sass/partials/_typography.scss */
+/* line 317, ../sass/partials/_typography.scss */
 .track-container__graphic-container__notes-container__note-list {
   margin-top: 16px;
   margin-top: 1rem;
@@ -1926,7 +1927,7 @@ nav {
   line-height: 1rem;
 }
 @media (min-width: 52rem) {
-  /* line 316, ../sass/partials/_typography.scss */
+  /* line 317, ../sass/partials/_typography.scss */
   .track-container__graphic-container__notes-container__note-list {
     font-size: 16px;
     font-size: 1rem;
@@ -1935,7 +1936,7 @@ nav {
   }
 }
 
-/* line 327, ../sass/partials/_typography.scss */
+/* line 328, ../sass/partials/_typography.scss */
 .note-list__note {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1947,7 +1948,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 331, ../sass/partials/_typography.scss */
+/* line 332, ../sass/partials/_typography.scss */
 .note-list__note span {
   display: inline-block;
   /*font-size: 9.5px;*/
@@ -1958,12 +1959,12 @@ nav {
 /*------------------------------------*\
     #HOME
 \*------------------------------------*/
-/* line 345, ../sass/partials/_typography.scss */
+/* line 346, ../sass/partials/_typography.scss */
 .index-item a {
   text-decoration: none;
 }
 
-/* line 349, ../sass/partials/_typography.scss */
+/* line 350, ../sass/partials/_typography.scss */
 .index-item .subhead {
   margin-top: 0px;
   margin-top: 0rem;
@@ -1975,16 +1976,16 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 354, ../sass/partials/_typography.scss */
+/* line 355, ../sass/partials/_typography.scss */
 .index-item:hover a {
   color: #ee3766;
 }
-/* line 358, ../sass/partials/_typography.scss */
+/* line 359, ../sass/partials/_typography.scss */
 .index-item:hover .index-item a.headline:hover {
   color: #ee3766;
 }
 
-/* line 376, ../sass/partials/_typography.scss */
+/* line 377, ../sass/partials/_typography.scss */
 .index__store-box__text-container {
   font-size: 24px;
   font-size: 1.5rem;
@@ -1993,7 +1994,7 @@ nav {
   font-weight: 200;
 }
 
-/* line 382, ../sass/partials/_typography.scss */
+/* line 383, ../sass/partials/_typography.scss */
 .index__signup-box__copy {
   font-size: 13px;
   font-size: 0.8rem;
@@ -2009,7 +2010,7 @@ nav {
   margin-bottom: 0.5rem;
 }
 
-/* line 389, ../sass/partials/_typography.scss */
+/* line 390, ../sass/partials/_typography.scss */
 .for-hire-message {
   font-size: 13px;
   font-size: 0.8rem;
