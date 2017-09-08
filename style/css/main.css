@@ -1480,6 +1480,30 @@ footer {
   line-height: 1.25rem;
 }
 
+/* line 677, ../sass/partials/_grid.scss */
+.index__store-box__image-container {
+  margin-top: 24px;
+  margin-top: 1.5rem;
+  padding-top: 0px;
+  padding-top: 0rem;
+  padding-bottom: 0px;
+  padding-bottom: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+@media (min-width: 40rem) {
+  /* line 677, ../sass/partials/_grid.scss */
+  .index__store-box__image-container {
+    width: 75%;
+  }
+}
+
+/*.index__store-box__image-container img {
+  @include breakpoint($med) {
+    border: 1px solid red;
+    width: 75%;
+  }
+}*/
 /*------------------------------------*\
     #TYPE-VARIABLES
 \*------------------------------------*/

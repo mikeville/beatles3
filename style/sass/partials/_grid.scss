@@ -673,3 +673,17 @@ footer {
 .mpzFrmIntro5214 {
   @include adjust-font-size-to(1rem, 2.5);
 }
+
+.index__store-box__image-container {
+  @include rhythm(3,0,0,0);
+  @include breakpoint($med) {
+    width: 75%;
+  }
+}
+
+/*.index__store-box__image-container img {
+  @include breakpoint($med) {
+    border: 1px solid red;
+    width: 75%;
+  }
+}*/
